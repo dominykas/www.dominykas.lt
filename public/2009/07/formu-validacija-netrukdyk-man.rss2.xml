@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Formų validacija: netrukdyk man!</title>
+	<atom:link href="http://www.d-b.lt/2009/07/formu-validacija-netrukdyk-man.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt/2009/07/formu-validacija-netrukdyk-man.html</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Sun, 18 Nov 2012 23:44:11 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>By: Dominykas</title>
+		<link>http://www.d-b.lt/2009/07/formu-validacija-netrukdyk-man.html/comment-page-1#comment-5188</link>
+		<dc:creator>Dominykas</dc:creator>
+		<pubDate>Sat, 25 Jul 2009 19:46:22 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/?p=139#comment-5188</guid>
+		<description>Chionsai, netiesa. Taisyti vartotojų duomenų pačiam, automatiniu būdu &lt;strong&gt;negalima&lt;/strong&gt;. Visų pirma todėl, kad vartotojas lieka nežinioje, kodėl ir kas nutiko. Be to gali gautis visai netikėtas rezultatas. Kad ir pvz. klasikinė &quot;decimal separator&quot; problema.
+
+Daryti tai onblur yra dar blogiau, nes nu klasikinis pavyzdys - pildau formą, atėjau į lauką A, kažką padariau, perėjau į lauką B, laukas A pasikeitė ar gavo klaidos pranešimą, grįžau į jį nebaigęs pildyti lauko B - laukas B irgi gavo klaidos pranešimą. Negalima gąsdinti ir bauginti vartotojo. Ypač kai jis nebūtinai kaltas dėl to kas įvyko.
+
+Gera validacija perspėja apie tai ko ji tikisi iš anksto (neįkyriu būdu), tada negavusi tai ko nori - perspėja ramiu (ambient) būdu, kad ne viskas ok (onblur), o veiksmų stabdymas turi vykti tik onsubmit.</description>
+		<content:encoded><![CDATA[<p>Chionsai, netiesa. Taisyti vartotojų duomenų pačiam, automatiniu būdu <strong>negalima</strong>. Visų pirma todėl, kad vartotojas lieka nežinioje, kodėl ir kas nutiko. Be to gali gautis visai netikėtas rezultatas. Kad ir pvz. klasikinė &#8220;decimal separator&#8221; problema.</p>
+<p>Daryti tai onblur yra dar blogiau, nes nu klasikinis pavyzdys &#8211; pildau formą, atėjau į lauką A, kažką padariau, perėjau į lauką B, laukas A pasikeitė ar gavo klaidos pranešimą, grįžau į jį nebaigęs pildyti lauko B &#8211; laukas B irgi gavo klaidos pranešimą. Negalima gąsdinti ir bauginti vartotojo. Ypač kai jis nebūtinai kaltas dėl to kas įvyko.</p>
+<p>Gera validacija perspėja apie tai ko ji tikisi iš anksto (neįkyriu būdu), tada negavusi tai ko nori &#8211; perspėja ramiu (ambient) būdu, kad ne viskas ok (onblur), o veiksmų stabdymas turi vykti tik onsubmit.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Chionsas</title>
+		<link>http://www.d-b.lt/2009/07/formu-validacija-netrukdyk-man.html/comment-page-1#comment-5187</link>
+		<dc:creator>Chionsas</dc:creator>
+		<pubDate>Sat, 25 Jul 2009 14:47:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/?p=139#comment-5187</guid>
+		<description>Server-side validacija lėtoka (reikia išsiųsti duomenis).
+Geriau prodingai validuoti javascriptu pirma leidžiant vartotojui įvesti ką jis nori, o tada pataisant klaidingai įvestus duomenis.
+Digits-only laukeliams aš naudoju daugmaž tokią funkciją:
+
+function validate_number(input) {
+	return input.replace(new RegExp(&quot;[^0-9]&quot;, &quot;g&quot;), &#039;&#039;);
+}
+
+užmeti šitą onblur ir būna visai ok =]</description>
+		<content:encoded><![CDATA[<p>Server-side validacija lėtoka (reikia išsiųsti duomenis).<br />
+Geriau prodingai validuoti javascriptu pirma leidžiant vartotojui įvesti ką jis nori, o tada pataisant klaidingai įvestus duomenis.<br />
+Digits-only laukeliams aš naudoju daugmaž tokią funkciją:</p>
+<p>function validate_number(input) {<br />
+	return input.replace(new RegExp(&#8220;[^0-9]&#8220;, &#8220;g&#8221;), &#8221;);<br />
+}</p>
+<p>užmeti šitą onblur ir būna visai ok =]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Pawka</title>
+		<link>http://www.d-b.lt/2009/07/formu-validacija-netrukdyk-man.html/comment-page-1#comment-5179</link>
+		<dc:creator>Pawka</dc:creator>
+		<pubDate>Wed, 15 Jul 2009 10:21:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/?p=139#comment-5179</guid>
+		<description>Teisingas straipsnis. Būtent Opera kūrėjų viena iš pagrindinių idėjų ir yra ši mintis - neriboti vartotojo veiksmų.</description>
+		<content:encoded><![CDATA[<p>Teisingas straipsnis. Būtent Opera kūrėjų viena iš pagrindinių idėjų ir yra ši mintis &#8211; neriboti vartotojo veiksmų.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

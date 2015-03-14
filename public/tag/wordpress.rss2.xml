@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaip tapti ekspertu? &#187; wordpress</title>
+	<atom:link href="http://www.d-b.lt/tag/wordpress.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Deginti ar nedeginti?</title>
+		<link>http://www.d-b.lt/2008/01/deginti-ar-nedeginti.html</link>
+		<comments>http://www.d-b.lt/2008/01/deginti-ar-nedeginti.html#comments</comments>
+		<pubDate>Sun, 20 Jan 2008 21:34:24 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[feedburner]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2008/01/deginti-ar-nedeginti.html</guid>
+		<description><![CDATA[FeedBurner man visada atrodė lyg standartas, kurį privaloma naudoti kiekvienam blogeriui. Tačiau pagalvojau šiek tiek plačiau ir supratau, kad jis man visiškai nereikalingas. Tau greičiausiai taipogi!
+Už deginimą
+Kada FeedBurner naudingas?
+
+Jeigu esi labai pasišventęs ir nori matuoti savo lankytojų reakcijas. (NB: lankytojų reakcijas, o ne matuotis organais). Jeigu daug rašai, jeigu turi daug ištikimų subskraiberių, jeigu nori [...]]]></description>
+			<content:encoded><![CDATA[<p>FeedBurner man visada atrodė lyg standartas, kurį privaloma naudoti kiekvienam blogeriui. Tačiau pagalvojau šiek tiek plačiau ir supratau, kad jis man visiškai nereikalingas. Tau greičiausiai taipogi!</p>
+<h2>Už deginimą</h2>
+<p>Kada FeedBurner naudingas?</p>
+<ul>
+<li>Jeigu esi labai pasišventęs ir <b>nori matuoti</b> savo lankytojų reakcijas. (NB: lankytojų reakcijas, o ne matuotis organais). Jeigu daug rašai, jeigu turi daug ištikimų subskraiberių, jeigu nori sekti kaip jie reaguoja į pasikeitimus stiliuje, išvaizdoje, rašymo dažnume, kokybėje &#8211; statistiniai duomenys yra labai pravartūs, bei padeda siekti tobulybės. Tačiau kai didžiausi Lietuvos blog&#8217;ai (iš tų kurie matuojasi) teturi kelis šimtus subskraiberių &#8211; ar tikrai svarbu žinoti, kad per mėnesį srautas išaugo 5 proc? T.y. 5 žmonėmis? Yra geresnių vertinimo būdų.</li>
+<li>Jeigu pardavinėji reklamą savo blog&#8217;e ir <b>privalai matuoti</b> &#8211; bet kuris reklamos davėjas norės sužinoti apie galimą auditoriją. Jeigu paprastų lankytojų kiekius išmatuoti gana lengva, kad ir naudojant Google Analytics, tai su subskraiberiais yra šiek tiek sudėtingiau &#8211; FeedBurner savo skaičiavimo metodologiją yra ištobulinę ir yra patikimas nepriklausomas vertintojas. Ar aš pardavinėsiu reklamą savo blog&#8217;e? Ar mano tikslas yra tiesiogiai iš blog&#8217;o uždirbti pinigus? Ne! Be to, natūralus klausimas &#8211; kiek tiksli yra ta statistika? Patys FeedBurner šiek tiek <a href="http://blogs.feedburner.com/feedburner/archives/2007/02/feedburners_view_of_the_feed_m.php">atkreipė dėmesį į šį klausimą</a> dar prieš metus.</li>
+<li>Jeigu subskraiberių srautas yra Labai Didelis ir tenka <b>spręsti apkrovimo problemas</b>. 5000 subskraiberių, tikrinančių feed&#8217;ą kelis kartus per dieną, gali sukurti gana nemažą apkrovą. Manau. Ar man tai gręsia artimu metu? Ne! Ar problema įmanoma spręsti alternatyviais būdais? Taip!</li>
+<li>Kartais kaip argumentas pateikiama tai, kad atsitiktinis lankytojas, pastebėjęs, kad kažkieno blog&#8217;as yra gana populiarus, nusprendžia pats jį sekti. Čia jau asmeninių nuostatų klausimas, tačiau <strong>man tokie lankytojai nereikalingi</strong> &#8211; jie yra beverčiai. Be to tokius lankytojus galima labai nesunkiai pritraukti <a href="http://internetmarketingsucks.com/blog/2007/09/12/faking-feed-count-the-real-reason/">alternatyviais apgaulingais būdais</a>.</li>
+</ul>
+<p>Ar galite pavardinti daugiau priežasčių, apie kurias nepagalvojau? Statistiką juk iš tikro galima susekti ir kitais būdais (žr. žemiau). O apkrovos problemas taipogi galima spręsti alternatyviais būdais &#8211; jeigu turėsiu bent 1000 pastovių skaitytojų &#8211; manau nebus bėda, nei finansiškai, nei kaip kitaip, įsidiegti elementaraus feed failų cache&#8217;inimo ir/arba proxy sprendimus.</p>
+<h2>Prieš deginimą</h2>
+<p>Nors FeedBurner naudojimas pats savaime lyg ir nepagadina reikalo, bet jis nieko ir nesukuria. Tai ir bus pagrindinis argumentas &#8211; <strong>jeigu jis nieko nesukuria &#8211; tai kokio velnio jis man reikalingas</strong>? Kodėl aš turėčiau prarasti Pilną Kontrolę ir atiduoti ją Google? Nepaisant to, kad žaviuosi jais kaip kompanija, ir kad jie trimituoja &#8220;nebūk blogis&#8221; &#8211; mano feedas liks mano valdžioje. Galbūt to pasigailėsiu, kai jie užkariaus pasaulį ir mane nuteis kaip disidentą, tačiau šiuo metu FB lyg ir neturi tikrai rimto konkurento &#8211; reiškias yra niša, kurią galima užpildyti taip, kad manęs neerzintų.</p>
+<p>Kitas, šiek tiek paprastesnis argumentas yra vistik FB ribotumas ir nepatogumas. WP suteikia galimybę turėti feed&#8217;us vos ne kiekvienam turinio elementui &#8211; puslapiams, prisegtiems failams, įrašams &#8211; taigi realiai, be abejo, 99% žmonių naudos pagrindinį, ir galbūt komentarų feed&#8217;ą, tačiau likęs 1% retkarčiais panaudos ir kitus. Kurie liks neužfiksuoti statistikose! Aš pats gana dažnai bent kelias dienas seku įdomesnių įrašų komentarus, kol diskusija išsenka. FB skaičiuoti tokios statistikos nesuteikia paprastų galimybių &#8211; reiškias turime dar vieną nišą.</p>
+<h2>Plug-in&#8217;as</h2>
+<p>Ir vistik, kiek žmonių skaito mano blogą žinoti ir stebėti norisi &#8211; net jeigu neketinu šių duomenų skelbti viešai. Sprendimas yra &#8211; Chris Finke sukurtas <a href="http://www.chrisfinke.com/wordpress/plugins/feed-statistics/">Feed Statistics</a> pluginas Wordpressui. Tiesa, jis nėra tobulas &#8211; greičiausiai dėl ne visai teisingo algoritmo, tačiau man ne tiek svarbus klausimas &#8220;kiek žmonių mato mano straipsnių pavadinimus savo readeriuose&#8221;, kiek kitas klausimas &#8211; <strong>kiek žmonių skaito tai ką aš parašau?</strong> Šį klausimą pluginas atsako gana nesunkiai, ir beje pačiu elementariausiu būdu &#8211; paslėptas tracking paveiksliukas. Jis, be abejo, neatsako į klausimus &#8220;ar jie tikrai perskaito&#8221; ir &#8220;ar jie pamatytų (paslėptą) reklamą&#8221;, tačiau jis yra vienintelis man aktualus ir naudingas skaičius.</p>
+<p>Kiekvieno teisė rinktis. Šiuo metu blogeriams, rašantiems &#8220;Lietuvos rinkai&#8221;, FeedBurner tikrai nereikalingas. Aš renkuosi nepirkti (ar neparsiduoti?) FeedBurner teikiamos iliuzijos (produktas, kuris nieko nedaro, bet reikalingas visiems).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2008/01/deginti-ar-nedeginti.rss2.xml</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Noriu savo struktūros WordPress’e</title>
+		<link>http://www.d-b.lt/2007/12/noriu-savo-strukturos-wordpresse.html</link>
+		<comments>http://www.d-b.lt/2007/12/noriu-savo-strukturos-wordpresse.html#comments</comments>
+		<pubDate>Mon, 17 Dec 2007 17:10:46 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[blogo pradžia]]></category>
+		<category><![CDATA[url]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-savo-strukturos-wordpress%e2%80%99e.html</guid>
+		<description><![CDATA[Nustok burną aušint, Dominykai, ir duok source&#8217;ą.
+Sugalvojus pricipą, išplėtojus idėją ir apibrėžus taisykles galima žiūrėti dar konkrečiau. Turint omeny mano visus princesiškus įgeidžius, WordPress šiaip jau nėra bloga sistema, nors kodo kiekis skirtas adresų generavimui ir jų apdorojimui yra stulbinantis (ir netgi isteriškai juokingas). Tačiau čia jau jų pačių problema, kylanti iš to, kad siekiama [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://code.dominykas.com/php/wordpress/canonizer/">Nustok burną aušint, Dominykai, ir duok <i>source&#8217;ą</i></a>.</p>
+<p>Sugalvojus <a href="http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html">pricipą</a>, išplėtojus <a href="http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html">idėją</a> ir apibrėžus <a href="http://www.d-b.lt/2007/12/noriu-blogo-adresu-strukturos.html">taisykles</a> galima žiūrėti dar konkrečiau. Turint omeny mano visus princesiškus įgeidžius, WordPress šiaip jau nėra bloga sistema, nors kodo kiekis skirtas adresų generavimui ir jų apdorojimui yra stulbinantis (ir netgi isteriškai juokingas). Tačiau čia jau jų pačių problema, kylanti iš to, kad siekiama patenkinti kuo didesnį vartotojų ratą. Tačiau liaudies išmintis teigia ką kitą &#8211; <em>kartais kas tinka viskam &#8211; netinka niekam</em>. Na bent jau man tikrai <strong>netinka masinio vartojimo produktas</strong>, kuris netenkina mano poreikių. Tačiau WP yra atviro kodo ir šiaip jau tiesiog <strong>prašosi laužomas</strong> ir &#8220;pritaikomas&#8221; &#8211; kaina viso to be abejo yra tai, kad ateityje mano &#8220;perrašymai&#8221; gali nebeveikti ir teks prie jų padirbėti sulig kiekvienu WP relyzu, tačiau vieną kartą pasidarius taip kaip aš noriu &#8211; turėčiau būti patenkintas gana ilgai, net su sena WP versija &#8211; don&#8217;t fix it, if it ain&#8217;t broken.</p>
+<h2>Užduotis</h2>
+<p>Mano tikslas yra priversti WP atpažinti adresus, pagal mano struktūrą, priversti jį generuoti adresus pagal mano struktūrą ir priversti jį padaryti 301 redirektą, kai adresas netenkina struktūros. Kadangi nežinau iki galo visų galimybių, kurias naudosiu, be to ir laikas ribotas &#8211; kol kas užteks sutvarkyti šitaip:</p>
+<ul>
+<li><b>Turinys (content):</b>
+<ul>
+<li><b>/2007/</b> &#8211; mėnesių sąrašas [Archyvas, 2007]
+<ul>
+<li><b>01-12/</b> &#8211; post&#8217;ų sąrašas [Archyvas, 2007, mėnuo]
+<ul>
+<li>postas-numeris-vienas.html</li>
+<li>postas-numeris-vienas.(rss|atom|rdf|rss2).xml</li>
+<li>postas-numeris-vienas.trackback</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><b>/pavadinimas.html</b> &#8211; paprastas puslapis (analogiškai postams &#8211; rss ir tb)</li>
+<li><b>/attachments/2007/11/pavadinimas.html</b> &#8211; prisegto failo aprašymas (analogiškai postams &#8211; rss ir tb)</li>
+</ul>
+</li>
+<li><b>Archyvai:</b>
+<ul>
+<li><b>kategorijos/</b> &#8211; kategorijų sąrašas
+<ul>
+<li>pavadinimas[/subpavadinimas].html &#8211; paskutiniai X įrašų kategorijoje</li>
+<li>pavadinimas[/subpavadinimas].(rss|atom|rdf|rss2).xml &#8211; kategorijos feed&#8217;as</li>
+</ul>
+</li>
+<li><b>tagai/</b> &#8211; tagų debesėlis
+<ul>
+<li>pavadinimas.html</li>
+<li>pavadinimas.(rss|atom|rdf|rss2).xml</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><b>Visa kita</b> &#8211; filtruojasi per standartinius WP GET parametrus, kreipiantis į /search. Visą /search tuo pačiu įdedame į noindex, nes ten bus dinamiškas, pasikartojantis ir visaip kitaip paieškos robotams nenaudingas turinys &#8211; pažangūs vartotojai patys susigaudys kaip išgauti tai ko nori.</li>
+</ul>
+<h2>Kur ieškoti?</h2>
+<p>WordPress filosofija <a href="http://codex.wordpress.org/Plugin_API/Filter_Reference">leidžia filtruoti</a> beveik visą įmanomą išvedimą &#8211; tai bene labiausiai palengvina mano darbą. Problema aišku ta, kad visi tie filtrai gana prastai dokumentuoti ir nėra patogios <i>naming convention</i>, todėl teks verstis su elementaria paieška kode.</p>
+<p>Perrašymas susideda iš trijų dalių &#8211; turinio atpažinimo iš URL, nuorodų generavimo ir nuorodų kanonizavimo. Atpažinimą susitvarkyti gana paprasta &#8211; reikia detaliai išsianalizuoti <code>wp-includes/rewrite.php</code> failą ir ką jis veikia, po to sukurti savo <i>regular expressions</i>. Nuorodų generavime beveik visur (išskyrus puslapiavimą paieškoje ir pan.) yra naudojami <code>apply_filter</code> &#8211; per visą WP <i>source&#8217;ą</i> paleidus paieškas <code>_link(</code> ir <code>_url(</code>, po to truputį padirbėjus galima susirinkti visus reikalingus filtrus (nes dokumentacija pasitikėti kažko sunku).</p>
+<p>Kanonizavimas yra iš esmės paprastas &#8211; jeigu rodomas objektas (puslapis, archyvas, pan.) yra kviečiamas ne su kanonine nuorodą &#8211; darom 301 redirektą. Panašiai elgiasi standartinė WP kanonizacija (<code>wp-includes/canonical.php</code>), tačiau ji neveikia su <i>feed&#8217;ais</i> ir (pagal mano reikalavimus) neperkelia lankytojų į &#8220;/search&#8221; neindeksuojamą sritį &#8211; teks jį išjungti ir daryti savo.</p>
+<h2>Rezultatas</h2>
+<p>12 valandų galvos trankymo į sieną, eureka šūksnių, keiksmų, verkimo, testas su <a href="http://www.arnebrachhold.de/projects/wordpress-plugins/google-xml-sitemaps-generator/">Google Sitemaps pluginu</a>, pergalės šokis ir <a href="http://code.dominykas.com/php/wordpress/canonizer/">canonizer plugin&#8217;as paruoštas</a>. Iš esmės niekam nerekomenduoju jo naudoti &#8211; tačiau peržvelgti kodą, pažiūrėti kaip veikia mano blog&#8217;as ir galbūt dalį to pritaikyti sau &#8211; visada prašom. Į egzistuojantį blog&#8217;ą jo kelti nederėtų dėl jau minėtos adresų pasikeitimo priežasties &#8211; nesivarginau daryti <i>backwards compatibility</i> su visomis įmanomomis WP instaliacijomis, todėl jūsų senos nuorodos gali paprasčiausiai nustoti veikti. Be to plugin&#8217;as tikisi keletos nustatymų &#8211; visų pirma permalink struktūra turėtų būti <code>/%year%/%monthnum%/%postname%.html</code>; taipogi pirmasis puslapis turėtų būti įrašų sąrašas (netikrinau ar veikia kitu atveju). Na ir šiaip jis nėra pakankamai ištestuotas &#8211; laikas parodys.</p>
+<p>Nepaisant to, kas yra skonio reikalas, svarbiausios veikimo detalės:</p>
+<ul>
+<li><code>add_action('init',array('Dominykas_Canonizer','init'));</code>
+<p>Užsikraunam, pasileidžiam, važiuojam, žiūrim į klasės <code>init()</code> metodą</p>
+</li>
+<li><code>init()</code> viduje nematome nieko ypatingo &#8211; inicializuojami keli kintamieji ir nustatomi filtrai:
+<ul>
+<li><code>f_rr_*()</code> &#8211; filtruojam perrašymo taisykles. Grąžinam asiociatyvų masyvą, kurį naudoja <code>$wp_rewrite</code>. <code>f_rr()</code> tuo pačiu dar šiek tiek pravalo tai kas man neįdomu.</li>
+<li><code>f_url_*()</code> &#8211; filtruojam sugeneruotus adresus. Kiekviena funkcija labai skirtinga ir su skirtingais parametrais &#8211; bet galbūt vieną dieną WP viduje įsivyraus tvarka ir gyventi bus paprasčiau&#8230; <code>f_url()</code> ištaiso puslapiavimą (kabinamės ant <code>clean_url</code>, nes kito būdo nėra) &#8211; šitą funkciją reikės perrašyti, kai apsispręsiu dėl gražios puslapių struktūros (tinkamos SEO).</li>
+<li><code>redirect_canonical</code> &#8211; perkeliam lankytoją į Teisingą Adresą</li>
+</ul>
+</li>
+<li>Dar viduje randame keletą pagalbiniu funkcijų:
+<ul>
+<li><code>query_allowed_only()</code> &#8211; sutikrinam ar turime tiksliai tokius ir tik tokius parametrus kaip reikalinga kanoniniam adresui</li>
+<li><code>rebuild_url()</code> &#8211; quick-n-dirty hackas atstatyti adresą, kurį sugriovėme su <code>parse_url()</code></li>
+</ul>
+</ul>
+<p>Dalis funkcijų dokumentuota, dalis gimė copy-paste būdu, o Windows kažkodėl ištrina visus komentarus iš clipboard&#8217;o (tikrai tikrai!)</p>
+<h2>Kas toliau?</h2>
+<p>Galbūt vieną dieną WP išaugs į padorų OO dizainą. Galbūt vieną dieną visas nuorodų generavimas bus viename faile. Tada bus galima tiesiog pakeisti $wp_rewrite ir pvz. $wp_links objektus į savo parašytus/išplėstus ir nukris dalis vargo (performance&#8217;o atžvilgiu turėtų tikrai būti efektyviau, nei du kartus atlikinėti tą patį darbą). Artimiausias dalykas though &#8211; sutvarkyti į padorią PHP5 objektinę sintaksę (static funkcijos), bei sutvarkyti, kad nuorodų atpažinimo regexpų kešas nebūtų generuojamas kas kartą (<code>$wp_rewrite-&gt;flush_rules();</code>. Vėliau jau bus galima žiūrėti šiek tiek plačiau, kad padengti daugiau WP funkcijų ir pritaikyti didesniam ratui lankytojų. Pirmas žingsnis į išleidimą viešumon, būtų permalink nustatymų pakeitimas, t.y. WP options turėtų būti galima pasirinkti ar naudoti WP permalinkus, ar naudoti šio plugino sistemą &#8211; tada jau tektų kurti ir konfigūracijos opcijas. Jeigu kas nors norite tuo užsiimti &#8211; prašau! Kodo turbūt nerašysiu, bet į klausimus kiek sugebėsiu &#8211; atsakysiu.</p>
+<p>O tęsiant WP hackinimo temą, natūralus posūkis yra link skinų laužymo ir templeitų pritaikymo.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2007/12/noriu-savo-strukturos-wordpresse.rss2.xml</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Noriu blog&#8217;o adresų struktūros</title>
+		<link>http://www.d-b.lt/2007/12/noriu-blogo-adresu-strukturos.html</link>
+		<comments>http://www.d-b.lt/2007/12/noriu-blogo-adresu-strukturos.html#comments</comments>
+		<pubDate>Thu, 13 Dec 2007 15:57:44 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[blogo pradžia]]></category>
+		<category><![CDATA[url]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-blogo-adresu-strukturos.html</guid>
+		<description><![CDATA[Apsisprendus, kas yra geras adresas ir kokias papildomas savybes jis privalo turėti, galima kalbėti konkrečiau apie blog&#8217;o struktūrą. Kadangi WordPress šiuo metu yra bene populiauriasia bloginimo platforma &#8211; modeliuosiu daugiau mažiau pagal jos galimybes. Na galų gale juk ir pats ja naudojuosi. Galbūt laikinai &#8211; kol turėsiu laiko paieškoti ar sukurti geresnį sprendimą.
+Turinio nuorodos
+Atsižvelgiant į [...]]]></description>
+			<content:encoded><![CDATA[<p>Apsisprendus, kas yra <a href="http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html">geras adresas</a> ir kokias <a href="http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html">papildomas savybes</a> jis privalo turėti, galima kalbėti konkrečiau apie blog&#8217;o struktūrą. Kadangi WordPress šiuo metu yra bene populiauriasia bloginimo platforma &#8211; modeliuosiu daugiau mažiau pagal jos galimybes. Na galų gale juk ir pats ja naudojuosi. Galbūt laikinai &#8211; kol turėsiu laiko paieškoti ar sukurti geresnį sprendimą.</p>
+<h2>Turinio nuorodos</h2>
+<p>Atsižvelgiant į tai, kas yra &#8220;blog&#8217;as&#8221;, manau galima drąsiai pasakyti, kad vienintelis <strong>tikras turinys</strong> jame yra patys <strong>įrašai</strong>. Atsižvelgiant į tai, kad blog&#8217;as yra chronologinis daiktas &#8211; įrašus ir derėtų tvarkyti pagal datą. Šiuo požiūriu sutinku su didžiąja dalimi blog&#8217;erių, kurie taip ir daro. Jeigu įrašus dėlioti į folderius pagal kategoriją &#8211; gausime per ilgus ir nepatogius adresus, bei prarasime blog&#8217;o prasmę laike. Mano įrašai gulės adresu <code>/YYYY/MM/iraso-pavadinimas.html</code></p>
+<p>WordPress turi dar kelis turinio objektų tipus &#8211; tai <i>pages</i> ir <i>attachments</i>. Dėl paprastų puslapių galvos daug sukti turbūt nereikia &#8211; <code>/puslapis.html</code> ir <code>/puslapis/subpuslapis.html</code> bus pakankama ir struktūriška. Dėl prisegtų failų (ir paveiksliukų) šiek tiek teko padvejoti. Prisegtų failų (paveiksliukų) adresas mano nuomone turi parodyti kuriam įrašui priklauso pats failas, tačiau žvelgiant tolyn &#8211; turi būti ir saugiai panaudojamas ateityje. Kadangi neketinu daug tuo naudotis &#8211; manau pasirinksiu paprastą įšeiti, kad virtualiai jie gulėtų <code>/attachments/</code> direktorijoje, su subfolderiais pagal datą. ImageShack ir panašiomis tarnybomis neketinu naudotis &#8211; mano turinys, mano kontrolė, o srauto ir apkrovimo problemas galima išspręsti kitais būdais. Ir šiaip &#8211; artimu metu neplanuoju patirti Slashdot efekto ;)</p>
+<h2>Archyvų, sąvadų ir rodyklių nuorodos</h2>
+<p>WordPress suteikia gana daug įvairių turinio pjūvių. Ar jų visų tikrai reikia? Kiek iš jų galima atsisakyti ir palikti &#8220;dinamiškai paieškai&#8221;? Kiekvieno blog&#8217;o specifika matyt pateiktų savo atsakymus. Mano asmeniniam blog&#8217;ui toli gražu nereikalingas filtravimas pagal autorių &#8211; taigi ir pastovios nuorodos į jį nebus. Pastovias rodykles norėčiau turėti tik metams, mėnesiams, kategorijoms ir tagams.</p>
+<p>Metų rodyklė kuo puikiausiai telpa <code>/YYYY/</code>, analogiškai ir mėnesinė. Kategorijos ir tag&#8217;ai turėtų atsirasti <code>/categories/pavadinimas.html</code> puslapyje, kuriame būtų rodomi keli paskutiniai įrašai, o toliau <code>/categories/pavadinimas.YYYYMM.html</code> leistų naršymą/puslapiavimą laike. Visos <strong>kitos pjūvių kombinacijos</strong> turėtų keliauti į paiešką ir <strong>nepakliūti paieškoms robotams</strong>.</p>
+<h2>Failų išplėtimai, feed&#8217;ai ir viskas</h2>
+<p style="text-align:center;"><a href='http://www.d-b.lt/attachments/2007/12/url-struktura-blogo-irasams.html' rel='attachment wp-att-9' title='URL struktūra blog’o įrašams'><img src='http://www.d-b.lt/uploads/2007/12/structure.png' alt='URL struktūra blog’o įrašams' border=0/></a></p>
+<p>WordPress idėja naudoti <code>/feed/</code> ir <code>/feed/atom/</code> priedėlius prie bet kokio adreso mane tiesą pasakius vimdo. Negražu man taip. Juk feed&#8217;as &#8211; tai tas pats <strong>turinys, tik kita forma</strong>. Todėl visur kur aukščiau paminėjau <code>.html</code> reikėtų galimybės tiesiog pakeisti į <code>.rss.xml</code> &#8211; ir problema išspręsta. Analogiškai ir su trackback adresu (kuris beje turėtų vėlgi nerūpėti paieškos robotams) &#8211; tiesiog pakeičiam <code>.html</code> į <code>.trackback</code> prie įrašų (ir kitų <i>komentuoj-abilių</i> objektų).</p>
+<p>Tiek to džiaugsmo, tiek tų problemų. Beje, jau susidėliojęs visą logiką sau, pastebėjau, kad labai panašų principą naudoja <a href="http://www.blogger.com/">Blogger</a> &#8211; o Google žino ką daro. Toliau: suformuluojam galutinę užduotį ir rašom WordPress pluginą, kad pasiekti šiuos tikslus.</p>
+<h2>Papildomam skaitymui</h2>
+<p>Nors didžiąją dalį to ką parašiau apie URL parėmiau savo patirtimi, yra keletas resursų, kurie praplečia akiratį ir kuriuos dera suvokti, net jeigu ir atrodo, kad viskas aišku.</p>
+<ul>
+<li><a href="http://www.mattcutts.com/blog/seo-glossary-url-definitions/">Talk like a Googler: parts of a url</a>, Matt Cutts. Bet kuris web kūrėjas privalo tiksliai suvokti tai kas ten rašoma ir naudoti tuos terminus &#8211; net jeigu atrodo, kad viską žinai, atsišviežinti žinias derėtų.</li>
+<li><a href="http://en.wikipedia.org/wiki/Uniform_Resource_Identifier">Uniform Resource Identifier</a>, Wikipedia. Svarbiausia dalis &#8211; suvokti kuo skiriasi URI ir URL: URL yra URI, kuris papildomai parodo ir būdą kaip pasiekti identifikuotą resursą.</li>
+<li><a href="http://en.wikipedia.org/wiki/URL_normalization">URL normalization</a>, Wikipedia. Truputis beletristikos apie adresų kanonizavimą.</li>
+<li><a href="http://en.wikipedia.org/wiki/URL_redirection">URL redirection</a>, Wikipedia. Dar truputis beletristikos apie adresus.</li>
+<li><a href="http://en.wikipedia.org/wiki/Extensible_Resource_Identifier">Extensible Resource Identifier</a>, Wikipedia. Nauja URI karta. Tiuzyro, tskant.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2007/12/noriu-blogo-adresu-strukturos.rss2.xml</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Rodom pilną tekstą feeduose!</title>
+		<link>http://www.d-b.lt/2007/12/rodom-pilna-teksta-feeduose.html</link>
+		<comments>http://www.d-b.lt/2007/12/rodom-pilna-teksta-feeduose.html#comments</comments>
+		<pubDate>Wed, 12 Dec 2007 16:27:10 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Blogosfera]]></category>
+		<category><![CDATA[rss]]></category>
+		<category><![CDATA[trumpai]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2007/12/rodom-pilna-teksta-feeduose.html</guid>
+		<description><![CDATA[qemm prieš porą dienų pasiskundė, kad pyksta ant Dėdės Protingo Blogerio, už tai, kad RSS nerodo pilnų straipsnių. qemm&#8217;as yra visiškai teisus dėl to, kad ansubskraibino jo feedą. O WordPress yra visiškai niekam tikęs, kad nebeturi opcijos pagal defaultą rodyti pilną straipsnį feed&#8217;e tada, kai naudojama žyma &#60;--more--&#62;. Naudojam more, naudojam Full Text Feed pluginą, [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.blogas.lt/qemm/">qemm</a> prieš porą dienų pasiskundė, kad pyksta ant Dėdės Protingo Blogerio, už tai, kad <a href="http://blogas.lt/qemm/320342/vakaras-degurizacija.html">RSS nerodo pilnų straipsnių</a>. qemm&#8217;as yra visiškai teisus dėl to, kad ansubskraibino jo feedą. O WordPress yra visiškai niekam tikęs, kad nebeturi opcijos pagal defaultą rodyti pilną straipsnį feed&#8217;e tada, kai naudojama žyma <code>&lt;--more--&gt;</code>. <strong>Naudojam <i>more</i></strong>, naudojam <a href="http://cavemonkey50.com/code/full-feed/">Full Text Feed</a> pluginą, paieškose ir kategorijose rodoma įžanga, skaitytojai džiaugiasi, <a href="http://techdirt.com/articles/20070813/014338.shtml">gerai 1</a>, <a href="http://scobleizer.com/2006/02/22/blog-herald-doesnt-understand-why-full-text-feeds-work/">gerai 2</a>, <a href="http://www.tmarkiewicz.com/?p=402">gerai 3</a>, <a href="http://muhammadsaleem.com/2007/09/18/do-you-offer-a-full-text-feed-then-advertise-it/">gerai 4</a>&#8230; Lietuvai neaktualių diskusijų apie pelną be abejo galima pasiskaityti, bet auksinė taisyklė yra &#8220;daryk, kad būtų gerai vartotojui, o pelnas ateis savaime&#8221; &#8211; ar yra vartotojų, kuriems būtų patogiau gauti tik dalį teksto feed&#8217;e?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2007/12/rodom-pilna-teksta-feeduose.rss2.xml</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

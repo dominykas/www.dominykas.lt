@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaip tapti ekspertu? &#187; lietuvių kalba</title>
+	<atom:link href="http://www.d-b.lt/tag/lietuviu-kalba.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Usability lietuviškai &#8211; vartojiškumas?</title>
+		<link>http://www.d-b.lt/2008/01/usability-lietuviskai-vartojiskumas.html</link>
+		<comments>http://www.d-b.lt/2008/01/usability-lietuviskai-vartojiskumas.html#comments</comments>
+		<pubDate>Tue, 29 Jan 2008 22:59:29 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Usability]]></category>
+		<category><![CDATA[lietuvių kalba]]></category>
+		<category><![CDATA[terminai]]></category>
+		<category><![CDATA[usability]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2008/01/usability-lietuviskai-vartojiskumas.html</guid>
+		<description><![CDATA[Norėjau šiandien parašyti visai kitą įrašą, gimusį po diskusijos su kolega, kuris didelę gyvenimo dalį dirbo marketingo srityje, tačiau parašęs pirmus du pavadinimo žodžius &#8220;Marketingas prieš&#8221; sustojau &#8211; kaip usability būtų lietuviškai?
+Kiek daugiau nei prieš metus Laumaras, jau yra pradėjęs šią diskusiją. Viena lietuvių kompanija jau iš to bando daryti verslą ir parduota tai kaip [...]]]></description>
+			<content:encoded><![CDATA[<p>Norėjau šiandien parašyti visai kitą įrašą, gimusį po diskusijos su kolega, kuris didelę gyvenimo dalį dirbo marketingo srityje, tačiau parašęs pirmus du pavadinimo žodžius &#8220;Marketingas prieš&#8221; sustojau &#8211; kaip <i>usability</i> būtų lietuviškai?</p>
+<p>Kiek daugiau nei prieš metus Laumaras, jau yra pradėjęs <a href="http://laumaras.livejournal.com/242386.html">šią diskusiją</a>. Viena <a href="http://www.ideacode.lt/">lietuvių kompanija</a> jau iš to bando daryti verslą ir parduota tai kaip &#8220;<strong>patogumą naudotis</strong>&#8220;. Nors šio varianto didžioji bėda yra tai, kad jis yra sudarytas iš dviejų žodžių, jis praranda ir tam tikrą prasmę bei galimybę panaudoti skirtinguose kontekstuose. Lygiai taip pat ją praranda ir <a href="http://www.eurotermbank.com/Search.aspx?text=usability&#038;langfrom=en&#038;langto=lt&#038;subject=">Europos terminų banke</a> esantys &#8220;<strong>praktiškumas</strong>&#8221; ir &#8220;<strong>pritaikomumas</strong>&#8220;. Atrodo kol kas ryškus lyderis yra &#8220;<strong>naudojamumas</strong>&#8220;. Bet negražus man šitas žodis&#8230;</p>
+<p>Pastarasis žodis geriausiai atspindi prasmę (<em>ne</em> tikslus apibrėžimas): viena iš objekto (programos, svetainės, įrankio, šiaip daikto pan.) kokybinio vertinimo skalių &#8211; <strong>daikto požymis ar savybė</strong>. Pvz. <i>How is the usability?</i> &#8211; ar patogu naudoti? Kaip su patogumu? Kaip naudojamumas? <i>The usability is good</i> &#8211; naudotis patogu;  naudojamumas geras.</p>
+<p>Paskutinis pateiktas vertimas su &#8220;naudojamumu&#8221; skamba kaip <strong>šlykštus vertalas</strong> &#8211; be abejo, kasdienėje kalboje lengva naudoti alternatyvias, gražias lietuviškas frazes, tačiau problemos su jomis prasideda kai <i>usability</i> iškeliauja į platesnius vandenis &#8211; <i>usability studies</i>, <i>(expert) usability review</i>, <i>accessibility is a part of usability</i>, <i>good usability can be achieved by user-centered design process</i>, <i>object&#8217;s usability is a key element to user-experience</i>, <i>a website on usability and the usability of that website</i>.</p>
+<p>Visos šios frazės gana gražiai išsiverčia į lietuvių kalbą naudojant iš esmės skirtingas sakinio konstrukcijas, tačiau tiems kas apie tai rašo (ar blog&#8217;e, ar verslo svetainėje) tenka daryti išlygas. Tačiau tiek &#8220;naudojimo patogumas&#8221; (manau, kad kalbininkai nelabai pritartų &#8220;patogumui naudoti&#8221; &#8211; <em>arklys tu</em>?), tiek &#8220;naudojamumas&#8221; neatspindi svarbiausio <i>usability</i> elemento &#8211; <strong>naudotojo/vartotojo, t.y. žmogaus</strong>. Jie atspindi tik <strong>naudos</strong> pasiekimo efektyvumą, kas iš esmės man asocijuojasi tik su <strong>išnaudojimu</strong>.</p>
+<p>Viena iš mano minčių naujam terminui būtų <strong>vartojiškumas</strong> (arba <strong>vartotiškumas</strong>). Sutinku, kad žodis yra absoliutus naujadaras ir skamba gana keistai, bet galbūt būtų įmanoma prie jo priprasti? Jis skamba panašiai kaip dalis <i>usability</i> kriterijų &#8211; &#8220;aiškumas&#8221;, taipogi siejasi su &#8220;žmogiškumu&#8221;: <strong>&#8220;vartojiškas&#8221; &#8211; &#8220;geras vartotojui, vartojimui&#8221;</strong>.</p>
+<p>Na ir paskutinis lašiukas: <a href="http://de.wikipedia.org/wiki/Benutzerfreundlichkeit">Benutzerfreundlichkeit</a> (vokiškai), <a href="http://es.wikipedia.org/wiki/Usabilidad">Usabilidad</a> (ispaniškai, nors panašiai ir prancūziškai, itališkai), <a href="http://da.wikipedia.org/wiki/Brugervenlighed">Brugervenlighed</a> (daniškai), <a href="http://mk.wikipedia.org/wiki/Употребливост">Употребливост</a> (makedonietiškai, kodėl rusiškai <a href="http://ru.wikipedia.org/wiki/Юзабилити">Юзабилити</a> &#8211; nesuprantu, nors <a href="http://blog.juokaz.com/">juozabilitis</a> visai nieko skamba), <a href="http://sv.wikipedia.org/wiki/Användbarhet">Användbarhet</a> (švediškai).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2008/01/usability-lietuviskai-vartojiskumas.rss2.xml</wfw:commentRss>
+		<slash:comments>26</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaip tapti ekspertu? &#187; dizainas</title>
+	<atom:link href="http://www.d-b.lt/tag/dizainas.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Kuo, jei ne skaičiais, paremti sprendimus?</title>
+		<link>http://www.d-b.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html</link>
+		<comments>http://www.d-b.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html#comments</comments>
+		<pubDate>Mon, 23 Mar 2009 01:37:47 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Filosofija]]></category>
+		<category><![CDATA[analytics]]></category>
+		<category><![CDATA[dizainas]]></category>
+		<category><![CDATA[sprendimai]]></category>
+		<category><![CDATA[usability]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html</guid>
+		<description><![CDATA[Penktadienį, prieš pat prasidedant beer o&#8217;clock, bendradarbis parodė vieno iš (dabar jau buvusių) Google dizainerių atsisveikinimo laišką. Jame Douglas Bowman nurodo ir darbo keitimo priežastį &#8211; Google priimdama dizaino sprendimus remiasi skaičiais. Pirma visų reakcija į tą įrašą buvo užuojauta &#8211; &#8220;vargšas menininkas užspaustas gigantiškoje tikslumo mašinoje&#8221;. Tačiau šalin jausmus &#8211; kuo gi daugiau besiremsi?
+Grožis [...]]]></description>
+			<content:encoded><![CDATA[<p>Penktadienį, prieš pat prasidedant beer o&#8217;clock, bendradarbis parodė vieno iš (dabar jau buvusių) Google dizainerių <a href="http://stopdesign.com/archive/2009/03/20/goodbye-google.html">atsisveikinimo laišką</a>. Jame Douglas Bowman nurodo ir darbo keitimo priežastį &#8211; Google priimdama dizaino sprendimus remiasi skaičiais. Pirma visų reakcija į tą įrašą buvo užuojauta &#8211; &#8220;vargšas menininkas užspaustas gigantiškoje tikslumo mašinoje&#8221;. Tačiau šalin jausmus &#8211; kuo gi daugiau besiremsi?</p>
+<h2>Grožis yra subjektyvus dalykas</h2>
+<p>Didžiausia palaima yra tada, kai <em>tavo</em> produktas išvysta dienos šviesą ir tampa sėkmingu. Deja, kūrėjo ego visada yra aklas ir kartais tampa per daug atkakliu.</p>
+<p>Prieš kelis mėnesius man teko darbe sukurti du prototipus. Abu jie yra geresni negu dabartinė sistema, tačiau vienas iš jų yra radikalus pasikeitimas. Mano tobulas kūdikis. Nepaisant to, kad tai yra neišbaigtas darbas, aš jį beprotiškai mėgstu ir be abejo sieksiu, kad jis būtų tobulinamas toliau. Bet tik iki to momento, kol atliksime normalius vartotojų testus &#8211; jeigu paaiškės, kad žmonės nesugebėtų jo perprasti &#8211; aš būsiu labiau nei laimingas remtis objektyviais tyrimais ir išmesti jį lauk, nes na&#8230; juk būtų absoliučiai <strong>neetiška kovoti, kad firma, kuri man moka algą, pasirinktų niekam tikusį daiktą</strong>, kai yra geresnių alternatyvų!</p>
+<h2>Bet skaičiai taipogi nėra objektyvūs&#8230;</h2>
+<p><a href="http://www.youtube.com/watch?v=21CBUX-wQGE">Juoda turi daug atspalvių</a>, o 95% turi daug sudedamųjų dalių. Prieš pradedant rinkti skaičius, privalu tiksliai suformuluoti užduotį. O gavus tyrimų rezultatus &#8211; privalu juos protingai interpretuoti &#8211; būtinai <strong>atsižvelgiant į pašalinius poveikius</strong>.</p>
+<p>Tegul, sakykime, žmonės, kurie matė #00F spalvos mygtuką, jį spaudė dažniau, negu tie, kurie matė #00E. Ar tai reiškia, kad #00F reikia naudoti? Ne. Galbūt dėl to, kad vartotojai ten spaudė, jie negavo to ko iš tikro norėjo? Šiuo atveju <strong><em>galutinio</em> tikslo pasiekimas yra geresnis vertinimo kriterijus</strong>, negu paspaudimų kiekis.</p>
+<p>Jeigu vartotojai paspaudė tą svarbųjį, reklamuojamąjį mygtuką, bet po to paspaudė &#8220;Atgal&#8221; &#8211; galbūt mažiau patrauklus mygtukas nenukonkuruotų kitų taip stipriai? Juk jie galėjo duoti tai, ko iš tikro norėjosi. Šiuo atveju klausimas &#8220;Kurios spalvos mygtuką vartotojai spaudžia dažniau&#8221; tampa mažų mažiausiai dviem klausimais &#8211; &#8220;Kuris mygtukas geriau patenkina vartotojo lūkesčius?&#8221; ir &#8220;Ar paspaudę mygtuką vartotojai pirko daugiau?&#8221; Tie, kas nori daryti drąsius ir naujoviškus sprendimus <strong>privalo užduoti ir daugiau klausimų</strong>, kad ir pvz. &#8220;Kurį mygtuką žmonės pamėgo labiau, naudodamiesi juo tris mėnesius?&#8221; bei &#8220;Kokia būtų jų reakcija į senąją sistemą, jeigu reiktų prie jos grįžti?&#8221;</p>
+<h2>Alternatyva skaičiams</h2>
+<p>Aš turbūt sutinku, kad testuoti 41 mėlynos spalvos atspalvį yra gal kiek per daug ekstremalu, tačiau turint lėšų ir laiko pasitikrinti, kuris rėmelis &#8211; 3 ar 5 pikselių pločio &#8211; veikia geriau, yra tiesiog prideramas rūpestis. Man labai keista, kad pasaulyje išvis dar yra žmonių, kurie net po A/B testo nori ginčytis.</p>
+<p>Tačiau jeigu vistik kažkas mano, kad nereikia vadovautis tyrimu, kuris sako, kad pasirinkus variantą A, pardavimai išaugs 10%, tai jie visada turi alternatyvą &#8211; gali nenustojant bumbėti apie žmones, kurie &#8220;tiesiog nesupranta&#8221;. Arba bandyti perauklėti tuos 95% visuomenės, kurie kažkodėl elgiasi ne taip kaip tu.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.rss2.xml</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

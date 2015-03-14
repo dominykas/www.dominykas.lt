@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Noriu savo struktūros WordPress’e</title>
+	<atom:link href="http://www.d-b.lt/2007/12/noriu-savo-strukturos-wordpresse.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt/2007/12/noriu-savo-strukturos-wordpresse.html</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Sun, 18 Nov 2012 23:44:11 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>By: Dominykas</title>
+		<link>http://www.d-b.lt/2007/12/noriu-savo-strukturos-wordpresse.html/comment-page-1#comment-51</link>
+		<dc:creator>Dominykas</dc:creator>
+		<pubDate>Thu, 10 Jan 2008 09:29:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-savo-strukturos-wordpress%e2%80%99e.html#comment-51</guid>
+		<description>yup. pluginas yra, stuffas naudojamas. o todėl, kad paaiškinta ankstesniuose keliuose įrašuose.</description>
+		<content:encoded><![CDATA[<p>yup. pluginas yra, stuffas naudojamas. o todėl, kad paaiškinta ankstesniuose keliuose įrašuose.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: QQ</title>
+		<link>http://www.d-b.lt/2007/12/noriu-savo-strukturos-wordpresse.html/comment-page-1#comment-49</link>
+		<dc:creator>QQ</dc:creator>
+		<pubDate>Wed, 09 Jan 2008 13:22:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-savo-strukturos-wordpress%e2%80%99e.html#comment-49</guid>
+		<description>o kodėl? čia pas tave jau naudojama ar dar ne?</description>
+		<content:encoded><![CDATA[<p>o kodėl? čia pas tave jau naudojama ar dar ne?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

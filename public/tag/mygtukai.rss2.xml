@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaip tapti ekspertu? &#187; mygtukai</title>
+	<atom:link href="http://www.d-b.lt/tag/mygtukai.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Kaip įjungti plaukų džiovintuvą?</title>
+		<link>http://www.d-b.lt/2008/04/kaip-ijungti-plauku-dziovintuva.html</link>
+		<comments>http://www.d-b.lt/2008/04/kaip-ijungti-plauku-dziovintuva.html#comments</comments>
+		<pubDate>Thu, 10 Apr 2008 13:43:52 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Usability]]></category>
+		<category><![CDATA[mygtukai]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2008/04/kaip-ijungti-plauku-dziovintuva.html</guid>
+		<description><![CDATA[Praėjusią savaitę teko praleisti lėktuvuose ir viešbučiuose &#8211; turėjau progos pastebėti daug naujų dalykų, bei turėjau nelaimės išmokti jais visais naudotis. Vienas iš jų &#8211; šis plaukų džiovintuvas:
+
+Dar net nepaėmus jo į rankas matome du jungiklius (plius rozetė), kas suteikiama aštuonias galimas pozicijas. Ir tik vienoje jų džiovintuvas veiks. Beje, kaip manote ką reiškia raudonas [...]]]></description>
+			<content:encoded><![CDATA[<p>Praėjusią savaitę teko praleisti lėktuvuose ir viešbučiuose &#8211; turėjau progos pastebėti daug naujų dalykų, bei turėjau nelaimės išmokti jais visais naudotis. Vienas iš jų &#8211; šis plaukų džiovintuvas:</p>
+<div style="text-align:center;"><a href='http://www.d-b.lt/attachments/2008/04/plauku-dziovintuvas.html' rel='attachment wp-att-54' title='Plaukų džiovintuvas su 2 jungikliais'><img src='http://www.d-b.lt/uploads/2008/04/fenas-1.jpg' alt='Plaukų džiovintuvas su 2 jungikliais' /></a></div>
+<p>Dar net nepaėmus jo į rankas matome du jungiklius (plius rozetė), kas suteikiama aštuonias galimas pozicijas. Ir tik vienoje jų džiovintuvas veiks. Beje, kaip manote ką reiškia raudonas mygtukas &#8211; ar &#8220;STOP&#8221; ar &#8220;ON&#8221;? Džiaugsmai čia nesibaigia:</p>
+<div style="text-align:center;"><a href='http://www.d-b.lt/attachments/2008/04/plauku-dziovintuvas-stiprumo-pasirinkimas.html' rel='attachment wp-att-56' title='Plaukų džiovintuvas - stiprumo pasirinkimas'><img src='http://www.d-b.lt/uploads/2008/04/fenas-2.jpg' alt='Plaukų džiovintuvas - stiprumo pasirinkimas' /></a></div>
+<p>Ten kur būčiau įpratęs rasti &#8220;On/Off&#8221; jungiklį yra tik stiprumo reguliatorius, kurio stumdymas tikrai neįjungia džiovintuvo. Aukščiau parodyti jungikliai taipogi neįjungia. Kame bėda?</p>
+<div style="text-align:center;"><a href='http://www.d-b.lt/attachments/2008/04/plauku-dziovintuvas-sienoje-pasislepe-mygtukai.html' rel='attachment wp-att-57' title='Plaukų džiovintuvas - sienoje pasislėpę mygtukai'><img src='http://www.d-b.lt/uploads/2008/04/fenas-3.jpg' alt='Plaukų džiovintuvas - sienoje pasislėpę mygtukai' /></a></div>
+<p>Pasirodo pagrindinis, tikrasis įjungimas yra paslėptas sienoje! Tiesa, po žaidimo ankstesniais dviejais jungikliais dar teko surasti kaip turi būti suspausti ir jie &#8211; bendras pozicijų skaičius yra jau 16 (veikia vis dar tik viena).</p>
+<h2>Pamoka</h2>
+<p>Geri viešbučiai giriasi, kad sukuria savijautą kaip namie &#8211; šis fenas yra toli gražu nepanašus į tą kurį turiu. Vietoj atsipalaidavimo teko patirti stresą ir jausmą, kad esu visiškas kvailys. Nemanau, kad taip nutiko man vieninteliam iš visų viešbučio klientų.</p>
+<p>Elementari <a href="http://images.google.com/images?q=blow+dryer">Google paieška</a> atskleidžia, kad didžioji dalis fenų turi daugiausiai du jungiklius &#8211; nors netgi tam aš nepritarčiau. Nežinau kaip moterims, bet man užtenka trijų pozicijų (vietoje 16 įjungimui * 3 stiprumui = 48 viso) &#8211; išjungta, silpnai, stipriai. Tam įgyvendinti užtenka vieno jungiklio, o intuityvumas ir aiškumas visiškai nenukenčia.</p>
+<p>Beje, jei kalbėti apie šį konkretų džiovintuvą, tai jam esant &#8220;Hi&#8221; pozicijoje, iškilimas rodo ne į poziciją, bet į patį jungiklį, kas dar kartą iškrenta iš bendro dizaino. Esu įsitikinęs, kad skirtingi gamintojai skirtingai suvokia stipriausią ir vidutinę pozicijas &#8211; ar ne paprasčiau būtų tiesiog ant feno įdėti vieną sukiojamą ratuką, panašų į automobilinės magnetolos garso reguliatorių, kuris tuo pačiu ją ir įjungia? Negana to, stacionarus fenas turėtų būti prijungtas prie elektros tiesiai iš sienos &#8211; be papildomo laido (ir netvarkos!) į rozetę.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2008/04/kaip-ijungti-plauku-dziovintuva.rss2.xml</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

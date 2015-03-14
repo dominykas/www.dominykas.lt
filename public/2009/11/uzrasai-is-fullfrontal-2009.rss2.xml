@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Užrašai iš FullFrontal 2009</title>
+	<atom:link href="http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.html</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Sun, 18 Nov 2012 23:44:11 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>By: Dominykas</title>
+		<link>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.html/comment-page-1#comment-5538</link>
+		<dc:creator>Dominykas</dc:creator>
+		<pubDate>Mon, 07 Dec 2009 10:14:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/?p=193#comment-5538</guid>
+		<description>Emili, geri pointai :) Man vistiek kyla noras server side turėti ką nors griežtesnio... Nors matyt reik paklausyt to ką visi kalbėtojai sakė per konferenciją - embrace JS :)
+
+Dariau, ačiū. Kitaip turbūt ir negali būti. Užsiteršus galva gyvenant užsienyje...</description>
+		<content:encoded><![CDATA[<p>Emili, geri pointai :) Man vistiek kyla noras server side turėti ką nors griežtesnio&#8230; Nors matyt reik paklausyt to ką visi kalbėtojai sakė per konferenciją &#8211; embrace JS :)</p>
+<p>Dariau, ačiū. Kitaip turbūt ir negali būti. Užsiteršus galva gyvenant užsienyje&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Darius</title>
+		<link>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.html/comment-page-1#comment-5534</link>
+		<dc:creator>Darius</dc:creator>
+		<pubDate>Sun, 06 Dec 2009 21:45:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/?p=193#comment-5534</guid>
+		<description>&quot;Mental model&quot; matyt reikėtų versti kaip &quot;Suvokimo modelis&quot;</description>
+		<content:encoded><![CDATA[<p>&#8220;Mental model&#8221; matyt reikėtų versti kaip &#8220;Suvokimo modelis&#8221;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Emilis</title>
+		<link>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.html/comment-page-1#comment-5522</link>
+		<dc:creator>Emilis</dc:creator>
+		<pubDate>Tue, 01 Dec 2009 18:10:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/?p=193#comment-5522</guid>
+		<description>Dominykai, ačiū už info apie NodeJS. Reikės dar ir tą pasibandyt.
+
+SSJS naudoti man yra pointas, nes tam ką dabar programuoju reikia gražiai išgliaudyti ir išvalyti svetimus tinklalapius -- tam aš pasiėmiau jQuery.
+
+Dar SSJS naudoti  matau pointą tame, kad web aplikacijoje dingsta viena papildoma programavimo kalba.</description>
+		<content:encoded><![CDATA[<p>Dominykai, ačiū už info apie NodeJS. Reikės dar ir tą pasibandyt.</p>
+<p>SSJS naudoti man yra pointas, nes tam ką dabar programuoju reikia gražiai išgliaudyti ir išvalyti svetimus tinklalapius &#8212; tam aš pasiėmiau jQuery.</p>
+<p>Dar SSJS naudoti  matau pointą tame, kad web aplikacijoje dingsta viena papildoma programavimo kalba.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Dominykas</title>
+		<link>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.html/comment-page-1#comment-5520</link>
+		<dc:creator>Dominykas</dc:creator>
+		<pubDate>Mon, 30 Nov 2009 18:22:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/?p=193#comment-5520</guid>
+		<description>QQ, dėkui, bet deja netinka. JavaScript &quot;scope&quot; ir &quot;context&quot; yra du skirtingi dalykai - &quot;context&quot; tai iš esmės kurio objekto kontekste viskas vyksta, t.y. ką gausi su &quot;this&quot;, o &quot;scope&quot; tuo tarpu reiškia kiek &quot;globalus&quot; yra kintamasis - su PHP viskas paprasta - būna globalūs ir būna lokalūs, o su JS truputį nelabai - būna globalūs, būna lokalūs, ir būna iš &quot;closure&quot;, kurios gylys realiai gali būti neribotas.</description>
+		<content:encoded><![CDATA[<p>QQ, dėkui, bet deja netinka. JavaScript &#8220;scope&#8221; ir &#8220;context&#8221; yra du skirtingi dalykai &#8211; &#8220;context&#8221; tai iš esmės kurio objekto kontekste viskas vyksta, t.y. ką gausi su &#8220;this&#8221;, o &#8220;scope&#8221; tuo tarpu reiškia kiek &#8220;globalus&#8221; yra kintamasis &#8211; su PHP viskas paprasta &#8211; būna globalūs ir būna lokalūs, o su JS truputį nelabai &#8211; būna globalūs, būna lokalūs, ir būna iš &#8220;closure&#8221;, kurios gylys realiai gali būti neribotas.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: QQ</title>
+		<link>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.html/comment-page-1#comment-5519</link>
+		<dc:creator>QQ</dc:creator>
+		<pubDate>Mon, 30 Nov 2009 17:43:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/?p=193#comment-5519</guid>
+		<description>Scope: vertimas ne visiškai tikslus, bet man kalboje labai gerai vartojasi ir visi supranta - kontekstas :)</description>
+		<content:encoded><![CDATA[<p>Scope: vertimas ne visiškai tikslus, bet man kalboje labai gerai vartojasi ir visi supranta &#8211; kontekstas :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Dominykas</title>
+		<link>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.html/comment-page-1#comment-5515</link>
+		<dc:creator>Dominykas</dc:creator>
+		<pubDate>Sun, 29 Nov 2009 14:30:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/?p=193#comment-5515</guid>
+		<description>Emili, dėl SSJS viskas aišku, bet dabar tiesiog imti ir naudoti kitą kalbą SS... nu nežinau - ar tikrai yra pointas?
+
+Skirtumas su NodeJS yra performancas ir vartojimo principas - viskas paremta eventais ir nėra blokuojančių operacijų. Savo akimis mačiau demo, kaip NodeJS hello world&#039;as veikė greičiau negu Apache statinius failus servindama.
+
+Čia tik laiko klausimas, aišku, kada kiti freimworkai prisitaikys prie tokio principo - bet toks programavimo stilius JavaScript kalboje yra natūralus, todėl kažkaip ir pats kodas gaunasi smagesnis.</description>
+		<content:encoded><![CDATA[<p>Emili, dėl SSJS viskas aišku, bet dabar tiesiog imti ir naudoti kitą kalbą SS&#8230; nu nežinau &#8211; ar tikrai yra pointas?</p>
+<p>Skirtumas su NodeJS yra performancas ir vartojimo principas &#8211; viskas paremta eventais ir nėra blokuojančių operacijų. Savo akimis mačiau demo, kaip NodeJS hello world&#8217;as veikė greičiau negu Apache statinius failus servindama.</p>
+<p>Čia tik laiko klausimas, aišku, kada kiti freimworkai prisitaikys prie tokio principo &#8211; bet toks programavimo stilius JavaScript kalboje yra natūralus, todėl kažkaip ir pats kodas gaunasi smagesnis.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Emilis</title>
+		<link>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.html/comment-page-1#comment-5513</link>
+		<dc:creator>Emilis</dc:creator>
+		<pubDate>Sun, 29 Nov 2009 08:45:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/?p=193#comment-5513</guid>
+		<description>Ačiū už nuorodas ir santraukas :-)
+
+NodeJS tai dabar madinga, bet Server-Side JavaScript (SSJS) yra ir daugiau žaidėjų. Man v8 &amp; co nesikompiliavo ant mano Ubuntu 64bit, tai spjoviau ir pradėjau naudoti Helma NG: http://helma.org/wiki/Helma+NG/
+
+Turint omeny, kad ten Rhino naudojamas, tai dar ir visą krūvą Java bibliotekų galiu pasijungti. Dabar jau turiu kodą, kuris man su jQueriu puslapius gliaudo server-side :-)</description>
+		<content:encoded><![CDATA[<p>Ačiū už nuorodas ir santraukas :-)</p>
+<p>NodeJS tai dabar madinga, bet Server-Side JavaScript (SSJS) yra ir daugiau žaidėjų. Man v8 &amp; co nesikompiliavo ant mano Ubuntu 64bit, tai spjoviau ir pradėjau naudoti Helma NG: <a href="http://helma.org/wiki/Helma+NG/" rel="nofollow">http://helma.org/wiki/Helma+NG/</a></p>
+<p>Turint omeny, kad ten Rhino naudojamas, tai dar ir visą krūvą Java bibliotekų galiu pasijungti. Dabar jau turiu kodą, kuris man su jQueriu puslapius gliaudo server-side :-)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Chionsas</title>
+		<link>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.html/comment-page-1#comment-5512</link>
+		<dc:creator>Chionsas</dc:creator>
+		<pubDate>Sun, 29 Nov 2009 01:41:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/?p=193#comment-5512</guid>
+		<description>oj kiek daug visko =))
+geras post&#039;as!
+
+dabar uždėjau žvaigždutę ir analizuosiu..
+dėl innerHTML concatenate jau kabo vienas chrome tab&#039;as :D</description>
+		<content:encoded><![CDATA[<p>oj kiek daug visko =))<br />
+geras post&#8217;as!</p>
+<p>dabar uždėjau žvaigždutę ir analizuosiu..<br />
+dėl innerHTML concatenate jau kabo vienas chrome tab&#8217;as :D</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

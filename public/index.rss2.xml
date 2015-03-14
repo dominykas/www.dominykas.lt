@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaip tapti ekspertu?</title>
+	<atom:link href="http://www.d-b.lt/index.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>robots.txt mitai ir neteisingas naudojimas</title>
+		<link>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html</link>
+		<comments>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html#comments</comments>
+		<pubDate>Mon, 04 Feb 2013 20:05:08 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[e-valdžia]]></category>
+		<category><![CDATA[geekiška filosofija]]></category>
+		<category><![CDATA[paieška]]></category>
+		<category><![CDATA[seo]]></category>
+		<category><![CDATA[užknisantys dalykai internete]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=426</guid>
+		<description><![CDATA[Anądien pliuse išsiliejau apie tai, kad dėl neaiškių priežasčių paieškos [ir kitokiems] robotams pusė Seimo svetainės yra &#8220;uždraustas turinys&#8221;. To rezultatas labai paprastas &#8211; ieškant, pvz., &#8220;PVM įstatymas&#8221; rezultatuose pirmu numeriu yra nuoroda į būtent tą įstatymą, tačiau nepateikiamas puslapio pavadinimas irba santrauka:
+ 
+Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &#8211; pastebėjau [...]]]></description>
+			<content:encoded><![CDATA[<p>Anądien <a href="https://plus.google.com/100293756761145273349/posts/BAaQjp2bjns">pliuse išsiliejau</a> apie tai, kad dėl neaiškių priežasčių paieškos [ir kitokiems] robotams pusė Seimo svetainės yra &#8220;uždraustas turinys&#8221;. To rezultatas labai paprastas &#8211; ieškant, pvz., &#8220;PVM įstatymas&#8221; rezultatuose pirmu numeriu yra nuoroda į būtent tą įstatymą, tačiau nepateikiamas puslapio pavadinimas irba santrauka:</p>
+<p style="text-align:center;"><a href="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-google.png"><img src="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-google-300x217.png" alt="" title="Google paieškos rezultatas" width="250" class="aligncenter size-medium wp-image-428" /></a> <a href="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-bing.png"><img src="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-bing-300x173.png" alt="" title="Bing paieškos rezultatas" width="250" /></a></p>
+<p>Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &#8211; pastebėjau keistų dėsningumų. Kaip ir kas kartą, kai <del>rašau</del> mąstau apie SEO, viskas susiveda į keletą paprastų taisyklių, kurių pati svarbiausia yra &#8220;Daryk taip, kad būtų gerai vartotojams, o robotai atsirinks viską taip, kaip reikia&#8221;.</p>
+<h3>Mitas: robots.txt padės paslėpti nepageidaujamus puslapius</h3>
+<p>Realybė: jeigu kažkokia informacija neturi būti vieša, nedėk jos į internetą. Paprasta kaip du kart du. Jeigu kažkoks puslapis egzistuoja kažkokioje iš išorės prieinamoje svetainėje &#8211; informacija yra prieinama visiems. Jeigu yra bent viena nuoroda į tą turinį &#8211; paieškos robotai suindeksuos vien patį nuorodos egzistavimo faktą ir iš to padarys išvadas. Jeigu nuorodų į tą turinį yra daug, tai tas puslapis netgi bus rodomas pirmu rezultatu paieškoje, lygiai taip, kaip matosi iš aukščiau pateikto pavyzdžio apie PVM įstatymą.</p>
+<p>Ką daryti? Jeigu reikia paslėpti turinį, tai reikia jį visų pirma ištrinti iš serverio ir įsitikinti, kad bandant užkrauti nuorodą serveris grąžina <code>404 Not found</code> arba dar geriau &#8211; <code>410 Gone</code>. Tik tada nuorodą į tą puslapį įtraukti į robotus. Jeigu įvyko kažkoks informacijos nutekėjimas ir reikalas skubus &#8211; vertėtų ir pasinaudoti, pvz., <a href="https://www.google.com/webmasters/tools">Google Webmaster Tools</a>, kad tą puslapį greičiau pašalintų iš įvairių indeksų.</p>
+<h3>Mitas: robots.txt padeda apsisaugoti nuo įsilaužėlių</h3>
+<p>Dalis valdžios (ir ne tik) įstaigų labai dažnai robots.txt užblokuoja administracijos interfeisus ir tikisi, kad taip kažkokiu būdu apsisaugos [nuo neaišku ko]. </p>
+<p>Realybė: nereikia net būti programišium, kad pabandytum nueiti į <code>/admin</code>. Vėl galioja ankstesnė mintis dėl informacijos viešumo, tačiau verta pridurti, kad robots.txt netgi sumažina saugumą: &#8220;slaptų&#8221; dalykų sąrašas yra laisvai prieinamas tiems, kam įdomu, ką jūs turite slapto. Man asmeniškai knieti sužinoti, kas gi yra/buvo &#8220;akreditacijos failuose&#8221; <a href="http://www.president.lt/robots.txt">prezidentūros svetainėje</a> bei kokiu pagrindu <a href="http://www.vrk.lt/robots.txt">VRK blokuoja</a> vieną iš <a href="http://www.vrk.lt/rinkimai/409_lt/Apygardos/Apygarda7137/StebetojaiApygardos7137.html">stebėtojų sąrašų</a>.</p>
+<p>Ką daryti? Vėlgi &#8211; jeigu turinys nėra viešas &#8211; nedarykite jo prieinamu iš to paties serverio. Didelės svarbos svetainėms išvis reikėtų savo administracijos konsoles padaryti pasiekiamas tik iš vidinių organizacijos tinklų ar per VPN. Taip pat pastebėjau, kad kartais yra blokuojamos direktorijos su sistemos programiniais viduriais (pvz., <code>modules</code> ar <code>includes</code>) &#8211; šitos direktorijos apskritai neturėtų gulėti po &#8220;web root&#8221;.</p>
+<h3>Mitas: robots.txt apsaugo nuo kenkėjiškų siurbėlių</h3>
+<p>Realybė: robots.txt gerbia tik geranoriški robotai. Piktavaliams į jūsų robots.txt nusispjauti lygiai taip pat, kaip į kelio ženklus gaideliams, kurie automobilius statosi neįgaliesiems skirtose vietose. Tiems, kas nori nusikopijuoti visą jūsų svetainę, jūsų prašymas nesiurbti yra ne trukdis.</p>
+<h3>Mitas: blokavimas robots.txt padeda suvaldyti serverio apkrovas</h3>
+<p>Realybė: kai kurie visai legitimių paieškos variklių <i>crawleriai</i> yra pakankamai agresyvūs, todėl iš dalies suprantu LRS nustatymuose pamatęs draudimus Baidu botui, tačiau šiuo atveju tikslas nepateisina priemonių &#8211; &#8220;paslėpus&#8221; dalį svetainės tikriems žmonėms bus sunkiau surasti tą informaciją.</p>
+<p>Ką daryti? Jeigu svetainė nesusitvarko su apkrovomis, reikia optimizuoti svetainę arba pirkti galingesnius serverius. Jeigu vienas konkretus robotas ar žmogus elgiasi per daug agresyviai, galbūt ir verta <em>trumpam</em> užblokuoti tik tą asmenį ar botą, bet tai derėtų daryti firewall/load balancer ar tiesiog HTTP serverio lygmeny (su <a href="http://googlewebmastercentral.blogspot.com/2011/01/how-to-deal-with-planned-site-downtime.html">503 Service Temporarily Unavailable ir Retry-After</a>), o ne per robots.txt. Taip pat galima eksperimentuoti blokuojant tik keletą &#8220;brangių&#8221; (CPU naudojimo požiūriu) puslapių, bet turbūt daug geriau būtų tiesiog juos kešuoti.</p>
+<h3>Pavojus: apkrovų valdymas su crawl-delay</h3>
+<p>Mintis, atrodytų, puiki &#8211; gražiai besielgiantiems robotams galima nurodyti kas kiek sekundžių jie gali kreiptis į svetainę. Realybė? Ta pati LRS svetainė rekomenduoja nesikreipti dažniau nei kas 20 sekundžių. Ką tai reiškia? Kad paieškos variklis per dieną tegali suindeksuoti vos kiek daugiau nei 4000 dokumentų. Įvertinus, kad didelės svarbos puslapius reikia indeksuoti dažniau &#8211; kelis kartus per dieną ar net per valandą (pvz., titulinį puslapį ar naujienas) &#8211; patiems įstatymams, nutarimams, posėdžių ir balsavimų išrašams indeksuoti praktiškai nelieka laiko.</p>
+<p>Ką daryti? Kaip ir aukščiau &#8211; tvarkyti problemos priežastį (sistemos lėtumą), o ne glaistyti simptomus. Taip pat galima naudoti <a href="http://www.sitemaps.org/protocol.html">sitemaps.xml</a>, kad konkretiems puslapiams nurodyti, kad jie daugiau nebebus atnaujinami &#8211; taip sumažinant konkrečių dalių atnaujinimų kiekį, bet nepakenkiant visai likusiai svetainei.</p>
+<h3>Klaida: pilno adreso rašymas į robots.txt</h3>
+<p>Realybė: robots.txt galioja vienam ir tik vienam domeinui &#8211; tam, kuriame jis gyvena. Rašant pilną adresą (taip kaip tai daro pvz., <a href="http://www.kaunas.lt/robots.txt">Kauno savivaldybė</a>) puslapis lieka išvis neužblokuotas.</p>
+<p>Čia, beje, dar privalau paminėti, kad mane siutina, kai administratoriai nesutvarko konfigūracijų taip, kad svetainės veiktų įrašius adresą ir su, ir be www, bet čia kitos dienos tema.</p>
+<h3>Klaida: neradus dokumento perkelti vartotoją į namų puslapį</h3>
+<p>Bežiūrinėdamas įvairių svetainių robotus atradau įsikerojusią negerą praktiką &#8211; suvedus neegzistuojantį adresą naršyklė nukeliauja į namų puslapį arba &#8211; netgi dar blogiau &#8211; tiesiog parodomas namų puslapis. Čia yra negera praktika, nes ji atveria kelia <a href="http://en.wikipedia.org/wiki/Google_bomb">Google bomboms</a>, lankytojų gluminimui, taip pat darko paties svetainės administratoriaus statistikas (jeigu tie administratoriai apskritai stebi savo logus&#8230;) bei šiaip yra nesilaikoma standartų.</p>
+<p>Ką daryti? Jeigu puslapis neegzistuoja &#8211; grąžinti klaidos puslapį. Ir nieko čia blogo! Klaidos puslapyje galima pateikti nuorodas į tolimesnę informaciją ar paiešką, bet visų svarbiausia &#8211; grąžinti teisingą HTTP status kodą (404 arba 410).  Perkelti į kitą puslapį apskritai dera tik tuo atveju, kai esame garantuoti, kad perkeliame į tą turinį, kurio ieško vartotojas. Kalbant apie robots.txt geriausiai būtų tiesiog sukurti tuščią failą, o ne tiesiog patiekti kažkokį kitą puslapį.</p>
+<h3>Rekomendacija: valstybinės įstaigos neturėtų blokuoti puslapių su robots.txt</h3>
+<p>Peržvelgus mitus akivaizdu, kad naudos to failiuko ne kažkas. Nepaisant to, kad rekomendacija neblokuoti galioja ir verslui, mano nuomone, valstybei ji yra privaloma. Valstybės informacija yra vieša (o VSD turbūt neturėtų slaptų dokumentų kelti į internetą ir tiek). Ir ta informacija yra vieša tiek žmonėms, tiek robotams. Jeigu užblokuojami visi robotai, apsunkinamas informacijos pasiekiamumas žmonėms, o tai jau savaime yra blogis. LRS atveju matome ir specifinių robotų blokavimą (Bing, Yandex, bet ne Google) &#8211; tai, mano nuomone, taip pat yra didelis blogis, nes suteikiama privilegija vienam verslui, bet ne kitiems &#8211; valstybė neturėtų diskriminuoti, ypač atviros informacijos pasiekiamumu. Blokuojant informaciją su robots.txt taip pat gaunamas ir dar vienas neigiamas rezultatas vartotojui &#8211; vietoje oficialaus šaltinio (valstybės) paieškoje grąžinami verslo puslapiai (pvz., Infolex).</p>
+<h3>Tai kada robots.txt naudingas?</h3>
+<p>Iš esmės matau tik kelis atvejus, kai robots.txt naudoti yra labiau teigiama negu neigiama:</p>
+<ul>
+<li>jeigu įvyko netyčinis informacijos nutekėjimas (visiems pasitaiko) &#8211; pirmiausia nutekėjusią informaciją reikia visiškai pašalinti, po to <del>galima</del> <a href="http://support.google.com/webmasters/bin/answer.py?hl=en&#038;answer=1663419">derėtų</a> papildomai užblokuoti buvusį adresą robotams, kad jis būtų <del>[greičiau]</del> pašalintas iš indeksų;</li>
+<li>vidinės svetainės paieškos rezultatų blokavimui (bet ne aklai!) &#8211; pasinaudojus Google paieška, patekti į kitos svetainės paieškos rezultatus yra neoptimalu, todėl praradimas yra nedidelis ir šiuo atveju pasigamina šiokia tokia optimizacija;</li>
+<li>menkavertės informacijos prioriteto sumažinimui &#8211; vėlgi reikia gerai pasvarstyti, bet, pvz., kokio nors wiki puslapio redagavimo istorija yra mažiau aktuali nei pats puslapis, todėl kartais gali apsimokėti ją &#8220;prislopinti&#8221;.</li>
+</ul>
+<p>Pabaigai &#8211; jeigu LRS atveju, įtariu, blokavimas atsirado netyčia, greičiausiai dėl sistemų perkonfigūravimo ar atnaujinimo, tai, pvz., <a href="http://www.vlkk.lt/robots.txt">VLKK</a> ar <a href="http://www.lkpt.lt/robots.txt">kelių policijos</a> atvejai mane verčia rautis plaukus &#8211; kodėl svetainės užblokuotos <em>visiškai</em>?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.rss2.xml</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ateikit į Vilnius JS susitikimą</title>
+		<link>http://www.d-b.lt/2012/11/ateikit-i-vilnius-js-susitikima.html</link>
+		<comments>http://www.d-b.lt/2012/11/ateikit-i-vilnius-js-susitikima.html#comments</comments>
+		<pubDate>Sun, 18 Nov 2012 15:36:02 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[javascript]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=419</guid>
+		<description><![CDATA[
+Lapkričio 20, Vilnius HUB vyks pirmasis Vilniaus JavaScript programuotojų susitikimas, pasidiskutavimas ir [nemokamos] picos/alaus paragavimas.
+Jo metu aš papasakosiu apie pažadus (Promises/A ir Promises/A+ ribose), su kuo jie valgomi ir kaip jie padeda valdyti visokius asinchroniškai vykstančius dalykus beigi parodysiu keletą pavyzdžių su Q biblioteka.
+Taip pat Vytautas Butkus papasakos apie modulinę, eventais paremtą vartotojo sąsajos architektūrą.
+Užsiregistruokit [...]]]></description>
+			<content:encoded><![CDATA[<p><img src="http://www.d-b.lt/uploads/2012/11/77efc55f3a45a22ba891ba532ec16c77.png" style="margin-left: 1em; margin-bottom: 1em; float: right; border: 0;" alt="Vilnius JS logotipas" /><br />
+Lapkričio 20, Vilnius HUB vyks <a href="http://vilniusjs.lt/">pirmasis Vilniaus JavaScript programuotojų susitikimas</a>, pasidiskutavimas ir [nemokamos] picos/alaus paragavimas.</p>
+<p>Jo metu aš papasakosiu apie pažadus (<a href="http://wiki.commonjs.org/wiki/Promises/A">Promises/A</a> ir <a href="https://github.com/promises-aplus/promises-spec">Promises/A+</a> ribose), su kuo jie valgomi ir kaip jie padeda valdyti visokius asinchroniškai vykstančius dalykus beigi parodysiu keletą pavyzdžių su <a href="https://github.com/kriskowal/q">Q biblioteka</a>.</p>
+<p>Taip pat <a href="https://github.com/bytasv">Vytautas Butkus</a> papasakos apie modulinę, <i>eventais</i> paremtą vartotojo sąsajos architektūrą.</p>
+<p><a href="https://tito.io/vilniusjs/vilniusjs-1">Užsiregistruokit</a> ir ateikit.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2012/11/ateikit-i-vilnius-js-susitikima.rss2.xml</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Ateikit į InfoShow WEB konferenciją 2012</title>
+		<link>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html</link>
+		<comments>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html#comments</comments>
+		<pubDate>Tue, 17 Apr 2012 14:54:18 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[geekiška filosofija]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[url]]></category>
+		<category><![CDATA[usability]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=403</guid>
+		<description><![CDATA[
+Būti front-end programuotoju yra OSAM. Osam, nes sudėtinga &#8211; štai pvz. naujausia Sunday Business Post versija turi keturis kartus daugiau front-end kodo, negu back-end. Balandžio 21 d. apie tai kalbėsiu InfoShow festivalio WEB konferencijoje.
+Dar kalbėsiu apie tai, kaip paskutiniu metu internetai yra gadinami, kaip jūs visi esate neteisūs ir kaip tik aš vienas išmanau, kaip [...]]]></description>
+			<content:encoded><![CDATA[<p><img src="http://www.d-b.lt/uploads/2012/04/41607_292463217490036_926997090_n.jpg" style="margin-left: 1em; margin-bottom: 1em; float: right; border: 0;" alt="InfoShow WEB konferencijos logotipas" /><br />
+Būti <i>front-end</i> programuotoju yra <strong><i>OSAM</i></strong>. <i>Osam</i>, nes sudėtinga &#8211; štai pvz. naujausia <a href="http://www.businesspost.ie/">Sunday Business Post</a> versija turi keturis kartus daugiau <i>front-end</i> kodo, negu <i>back-end</i>. Balandžio 21 d. apie tai kalbėsiu <a href="http://infoshow.info/">InfoShow</a> festivalio WEB konferencijoje.</p>
+<p>Dar kalbėsiu apie tai, kaip paskutiniu metu internetai yra gadinami, kaip jūs visi esate neteisūs ir kaip tik aš vienas išmanau, kaip Teisingai gaminti svetaines. Apžvelgsiu dalykus nuo &lt;a&gt; iki SEO*, nuo CSS iki <i>usability</i>, nuo W3C standartų iki programuotojų etikos. Prisiliesiu prie nesenų &#8220;skandalų&#8221; apie <i>vendor prefixes</i>, mobilias prieš &#8220;normalias&#8221; svetaines, kabliataškius Javascript ir pareikšiu savo Ypatingai Svarbią ir Autoritetingą Nuomonę tais klausimais.</p>
+<p>Veiksmas KTU Elektronikos fak.** 101 auditorijoje, <a href="http://www.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fviewform%3Fformkey%3DdFE2dXRUZWNmVTVCU2xYelZ2RmFIN3c6MQ%23gid%3D0&#038;h=eAQHd9D85">registracija gūgluose</a>, <a href="http://www.facebook.com/events/292463217490036/">aprašymas Veidaknygėje</a>, programa:</p>
+<ul>
+<li>11:00 <a href="https://twitter.com/zaza_lt">Sergej Kurakin</a> &#8211; Projekto su 1M lankytojų per dieną apkrovimo paskirstymo istorija;</li>
+<li>12:00 <a href="http://sergejus.blogas.lt/">Sergejus Barinovas</a> &#8211; Introduction to Big Data and Hadoop;</li>
+<li>13:00 Edvinas Aleksejonokas &#8211; Python/Django;</li>
+<li>14:00 Pietūs</li>
+<li>15:00 Rokas Paškevičius &#8211; SEO friendly žiniatinklio aplikacijų kūrimas;</li>
+<li>15:45 Dominykas Blyžė (taigi čia aš!) &#8211; <del>Priekinio galo</del> Kliento pusės kūrimo ypatumai;</li>
+<li>16:45 Mažvydas Skuodas &#8211; Kodo derinimo metodai: Zend, Xdebug, Firebug;</li>
+<li>17:45 Paulius Paškevičius &#8211; KTU LSS projektas</li>
+<li>19:00 After Party @ <a href="http://www.facebook.com/kavine.kultura">Kavinė Kultūra</a></li>
+</ul>
+<p>Renginys nemokamas.</p>
+<p style="font-size: 85.7%">* iš tikro tai apie SEO nieko nesakysiu, nes apie tai kalbės Rokas.</p>
+<p style="font-size: 85.7%">** ne keiksmažodis.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.rss2.xml</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Įspūdžiai iš diskusijos apie internetinį balsavimą</title>
+		<link>http://www.d-b.lt/2011/12/ispudziai-is-diskusijos-apie-internetini-balsavima.html</link>
+		<comments>http://www.d-b.lt/2011/12/ispudziai-is-diskusijos-apie-internetini-balsavima.html#comments</comments>
+		<pubDate>Fri, 30 Dec 2011 15:00:59 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[balsavimas internetu]]></category>
+		<category><![CDATA[ebalsavimas]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=372</guid>
+		<description><![CDATA[Prieš kiek daugiau nei savaitę teko pasiklausyti keleto prezentacijų ir diskusijos apie internetinio balsavimo technines galimybes &#8211; kol dar visiškai neataušo, bandau nurašyti savo reakciją į kai kuriuos teiginius bei pateikti keletą pasiūlymų ir pamąstymų.
+Diskleimeris
+Aš esu nusistatęs prieš elektroninį balsavimą (internetu ar ne internetu). Šios diskusijos tikslas buvo įvertinti iššūkius &#8211; nepaisant to, kad priėmiau [...]]]></description>
+			<content:encoded><![CDATA[<p>Prieš kiek daugiau nei savaitę teko pasiklausyti keleto prezentacijų ir <a href="http://ebalsavimas.liks.lt/">diskusijos apie internetinio balsavimo technines galimybes</a> &#8211; kol dar visiškai neataušo, bandau nurašyti savo reakciją į kai kuriuos teiginius bei pateikti keletą pasiūlymų ir pamąstymų.</p>
+<h2>Diskleimeris</h2>
+<p>Aš esu nusistatęs prieš elektroninį balsavimą (internetu ar ne internetu). Šios diskusijos tikslas buvo įvertinti iššūkius &#8211; nepaisant to, kad priėmiau tai kaip &#8220;projektą&#8221;, kurį reikia įgyvendinti (&#8220;niekada negali žinoti, kada seimūnams užplauks ir pasakys &#8211; darykit&#8221;), nepaisant to, kad po diskusijos šiek tiek galbūt mano pozicija ir sušvelnėjo, aš esu įsitikinęs, kad elektroninis balsavimas yra laiko ir pinigų švaistymas, kuris nesprendžia jokios problemos.</p>
+<p>Tokios sistemos šalininkai teigia, kad atidžiau pažiūrėjus į tradicinį balsavimą, turbūt surastume analogišką kiekį rizikų ir peno nepasitikėjimui. Vadovaujantis tokiais argumentais, kodėl mums neperkėlus balsavimo į prekybos centrus? Ten daug kamerų &#8211; visi galėtų stebėti internetu, o žmonėms nereiktų eiti toli nuo namų &#8211; balsuotojų aktyvumas padidėtų. Arba va, dar geriau &#8211; turim kalną nenaudojamų snoriukų &#8211; įrenkime balsavimo punktus juose!</p>
+<h2>Valdžios pasisakymai</h2>
+<p>Iš apie 30 žmonių, dalyvavusių diskusijoje, keletas buvo iš valstybinių įstaigų, norėčiau išskirti tris iš jų:</p>
+<ul>
+<li><strong>Z. Vaigauskas</strong> (<a href="http://www.vrk.lt/">VRK</a> pirmininkas) &#8211; man trūksta žodžių apsakyti kiek papildomų pagarbos taškų jis gavo tąvakar iš manęs. Man niekad nebuvo nuobodu stebėti jį skaitantį rezultatus per televizorių, tačiau tai kaip jis išaiškino balsavimo organizavimo teoriją ir apibrėžė internetinio balsavimo problemą mane sužavėjo. Profesionalas! Ačiū.</li>
+<li><strong>K. Andrijauskas</strong> (<a href="http://www.ivpk.lt/">IVPK</a> direktoriaus pavaduotojas) &#8211; susidariau šiek tiek negatyvią nuomonę. Tikiuosi ateityje ryšys tarp valdžios ir visuomenės bus paprastesnis, o bendravimas atviresnis su požiūriu, kad visi esame viename katile ir vieni kitus palaikome, suprantame ir padedame. Jeigu konkrečiai &#8211; man labai nepatiko jo mintis (perfrazuota), kad valdžiai reikia, kad IT specialistai paaiškintų tautai, kad internetinis balsavimas yra saugus. Aš nežinau, ar jis atkreipė dėmesį, kad beveik visi susirinkę IT specialistai buvo skeptikai, t.y. jie patys nėra užtikrinti tuo saugumu. Aš niekada negalėčiau pasisakyti &#8220;už&#8221;, kai akivaizdžiai matau skyles. IT specialistų darbas yra ne meluoti (ar pagražinti situaciją) visuomenei, o spręsti problemas. Smegenų plovimas yra marketingistų ir piarščikų darbas. Tačiau internetinio balsavimo atveju pagrindinis reikalavimas yra ne &#8220;tautos pasitikėjimas&#8221;, o &#8220;<em>pagrįstas</em> tautos pasitikėjimas&#8221;. Bet galbūt aš neteisingai jį supratau?</li>
+<li><strong>R. Rainys</strong> (<a href="http://www.rrt.lt/">RRT</a> tinklų ir informacijos saugumo skyriaus vedėjas) &#8211; per daug nesiplėsiu &#8211; šis pasisakymas buvo daugiau reakcija į netiesiogiai susiijusius dalykus diskusijoje, tačiau privalau pastebėti, kad buvo užimta labai gynybinė pozicija. Kita vertus, įgavau šiek tiek pasitikėjimo, kad RRT užsiima naudingais dalykais, ypač saugumo srityje. Galėtų jie tuos darbus geriau komunikuoti &#8211; dažnesni pranešimai spaudai tikrai nepakenktų. Jeigu esminiai įvykiai tokie kaip &#8220;3 valandas visas Lietuvos srautas keliavo per Rusiją&#8221; būtų pateikiami kaip suvaldyti, nereiktų užimti tos gynybinės pozicijos.</li>
+</ul>
+<p>Neminint kitų pavardžių (nes nepažįstu), teko nugirsti ir pašalinių pokalbių tarp žmonių, kurie sėdėjo netoliese. Vienas iš tų pokalbių skambėjo labai grėsmingai (gal išgirdau neteisingai?) &#8211; &#8220;čia viską galima išspręsti techniškai&#8230; galimybės yra&#8230; viskas bus gerai&#8221;. Laikytis tokios nuomonės yra pavojinga. Balsavimas yra nacionalinio saugumo klausimas. Už aplaidų žiūrėjimą į internetinį balsavimą reikėtų bausti kalėjimu ar bent jau draudimu dirbti valstybės tarnyboje.</p>
+<h2>Problema nr. 0: terminologija ir problemos apibrėžimas</h2>
+<p>Šiemet teko matyti projektą, kurio dalyviai dar po šiai dienai nesusitarė kaip vadinti tam tikrus veikėjus sistemoje. Spėkit, ar projektas buvo įgyvendintas laiku? Kai nėra suderinti kertiniai terminai, komunikacijos problemos tampa pagrindiniu projekto stabdžiu. Todėl diskusijos įžangoje man pasirodė keista, kad nepaisant <a href="http://ebalsavimas.liks.lt/files/medziaga/Dalinti%20per%20seminara%202011%2012%2022.pdf">išdalintų schemų</a> (žr. pirmą diagramą), nuskambėjo pasiūlymas vadinti tai ką aptarinėjome &#8220;e-balsavimu&#8221;. Mano nuomone, daiktus reikia vadinti tikraisiais vardais, t.y. mano supratimu visus techninius klausimus aptarinėjome tik &#8220;nuotolinio balsavimo, duomenis perduodant Interneto tinklais&#8221; aspektu. Todėl ir derėtų tai vadinti tiesiog &#8220;balsavimu internetu&#8221; &#8211; ir nevartoti <em>jokio</em> kito termino.</p>
+<h2>Problema: autentifikacija</h2>
+<p>Prieš diskusiją teko perversti <a href="http://www.e-demokratija.lt/lt/tekstai/naujienos?id=5">Elektroninio balsavimo galimybių studiją</a>, bei šiek tiek nugirsti kitų užuominų apie tai, kad autentifikacija turėtų būtų vykdoma el. bankininkystės sistemose. Pačiame susitikime kalba praktiškai vien apie ID kortelės naudojimą. Manau, kad neverta net analizuoti pirmojo varianto &#8211; jis nėra saugus vien todėl, kad kalbame apie finansus, o į pinigus yra nusitaikę begalės sukčių. Internetinė mafija prekiauja kreditinių kortelių numeriais urmu, telefoniniai sukčiai vis bando išvilioti bankų prisijungimo duomenis &#8211; tam tikros struktūroms būtų naudinga pasinaudoti jau egzistuojančia vogimo infrastruktūra tam, kad daryti įtaką rinkimų rezultatams.</p>
+<p>Jeigu kalbėti apie ID kortelės kodavimo lusto naudojimą, tai didžiausias stabdis turbūt būtų reikalavimas pirkti specialų įrenginį bei jį palaikyti ir įdiegti įvairiose OS. Manau, kad tai yra dar viena saugumo spraga, nes paslaugus &#8220;kaimynas&#8221; mielai gali &#8220;pakonfigūruoti&#8221; jūsų tėvų kompiuterius taip, kad jie balsuotų tinkamai. Todėl norėčiau matyti įrenginį, panašų į tuos, kurie naudojami prisijungimui prie bankų, t.y. pats įrenginys yra atskiras nuo kompiuterio, į jį dedama kortelė, įvedamas PIN (2 faktorių autentifikacija yra privaloma) ir iš balsavimo sistemos į įrenginį vedami kodai, o iš įrenginio &#8211; atgal į sistemą. Idealiu atveju, įrenginys sugebėtų generuoti (skirtingus) kodus bet kuriai kortelei. Neturiu pakankamai kriptografijos ir matematikos žinių, kad teigti, jog toks įrenginys yra pakankamai saugus, tačiau tikiu, kad teoriškai tai įmanoma ir kas nors turėtų tuo pasidomėti &#8211; <i>hell</i> &#8211; čia juk iš to verslą galima padaryti.</p>
+<p>Dar viena trumpa mintis dėl ID kortelių &#8211; jos galioja 10 metų. Ar per 10 metų jose įrašyti pasirašinėjimo raktai netaps nebesaugūs? Kai aš pradėjau krapštyti interneto svetaines prieš daugiau nei 10 metų, MD5 buvo rekomendacija. Bent prieš 5 metus prasidėjo bruzdesiai, kad reikėtų naudoti SHA1 &#8211; o dabar jau ir SHA1 yra nebe pakankamas. Lygiai tokiu pačiu greičiu keičiasi rekomendacijos ir raktų ilgiui bei kodavimo algoritmams.</p>
+<h2>Problema: kriptografija</h2>
+<p>Nepaisant to, kad toli gražu neesu kodavimo ekspertas, matau keletą klausimų ir spąstų:</p>
+<ul>
+<li>&#8220;Balsas&#8221; yra labai mažas kiekis duomenų &#8211; kodavimo algoritmai yra efektyvūs, kai duomenų kiekis yra didesnis už rakto ilgį. Priešingu atveju tenka generuoti papildomų duomenų, o jie turi būti unikalūs &#8211; tačiau tokiu atveju balsas gali nebebūti anonimišku. Būčiau dėkingas jeigu kas nors pataisytų mane komentaruose, jeigu klystu.</li>
+<li>Tam, kad balso anonimiškumas būtų išsaugotas, kiekvienas rinkėjas turi gauti unikalų viešąjį raktą, nes kitu atveju visi balsuojantys už kandidatą A išsiųs tą patį užkoduotą f(A), net jei tai ir su skirtingu parašu g(f(A)). Galima būtų prieš siuntimą užkoduoti dar kartą &#8211; h( f(A) + g(f(A)) ), tačiau neesu įsitikinęs, kad tai yra pakankamai saugu, o be to toks variantas apsunkintų realų rinkimų stebėjimą (žr. toliau).</li>
+</ul>
+<h2>Problema: autorizacija ir &#8220;du vokai&#8221;</h2>
+<p>Balsuojant paštu, naudojama dviejų vokų sistema &#8211; išoriniame voke yra rinkėjo pažymėjimas, vidiniame &#8211; biuletenis. Skaičiuojant balsus biuletenis nuo pažymėjimo atskiriamas, taip užtikrinant balso slaptumą. Tradiciškai, perkeliant įvairias sistemas iš popieriaus į kompiuterį yra gaminamas realybės atspindys. Tačiau taikant tokį principą kartais nukenčia patogumas, o tuo pačiu neišnaudojamos visos elektroninės galimybės. Kompiuteriai ir internetas yra sistemos, kurios turi savo principus, kurie dažnai yra iš esmės kitokie negu realybė. Todėl ir kuriant balsavimo internetu sistemą reikia tai įvertinti ir netgi, sakyčiau, atsikratyti &#8220;realybės&#8221;, o kurti <em>naują</em> sistemą.</p>
+<p>Galbūt ir galima būtų kompiuterinį variantą vadinti &#8220;dviem vokais&#8221; &#8211; autorizacija ir balsas privalo būti dvi visiškai autononimės sistemos. Tačiau esminis skirtumas virtualioje sistemoje yra tas, kad neįmanoma garantuoti voko neatplėšimo &#8211; žvilgtelti į voko vidų galima visiškai jo nepažeidžiant. Kalbantis su įvairiais žmonėms, man susidarė įspūdis, kad esminis mąstymo principas yra toks, kad &#8220;du vokai&#8221; yra kartu iki tol kol &#8220;atidaromos balsadėžės&#8221;. Aš manau, kad turint omenyje dvilypišką kompiuterių prigimtį &#8211; t.y. informacijos gyvenimo laikas yra atomiškai trumpas, bet tuo pačiu ir amžinas, vokai negali gyventi kartu ilgiau negu tai yra absoliučiai reikalinga (t.y. tik &#8220;transportavimo&#8221; metu) &#8211; jie turi būti atskirti iš karto.</p>
+<p>Tam, kad užtikrinti sąžiningą balsavimą, yra rekomenduojama, kad rinkėjai galėtų pakeisti savo balsą iki paskutinės minutės. Kad tai įgyvendinti, sudėdamas idėjas, kurias jau minėjau, siūlyčiau patyrinėti tokios sistemos įgyvendinimo galimybę:</p>
+<ol>
+<li>Rinkėjas VRK programoje ar svetainėje &#8211; autentifikatoriuje &#8211; įveda savo asmens kodą</li>
+<li>Autentifikatorius pateikia vieną ar kelis kodus-užklausimus</li>
+<li>Rinkėjas įdeda savo ID kortelę į kodų generatorių, autorizuojasi PIN kodu ir suveda kodus-užklausimus</li>
+<li>Gautus kodus-atsakymus iš generatoriaus rinkėjas suveda atgal į autentifikatorių</li>
+<li>Autentifikatorius sugeneruoja unikalų balso ID ir jam priskiria viešąjį raktą &#8211; prireikus, su šiuo ID autentifikatorius gali anuliuoti balsą skaičiavimo sistemoje, jeigu rinkėjas pageidauja balsuoti iš naujo</li>
+<li>Autentifikatorius išsiunčia privatų raktą, susietą su balso ID, į atskirą raktų saugojimo sistemą</li>
+<li>Rinkėjas pasirenka kandidatą ir užkoduoja viešuoju raktu</li>
+<li>Rinkėjas išsiunčia savo užkoduotą balsą su ID į balsų skaičiavimo sistemą</li>
+<li>Rinkėjas gauna pasirašytą balso patvirtinimą &#8211; su šiuo patvirtinimu jis bet kada gali pasitikrinti balsų rinkimų sistemoje, kad jo balsas yra įskaičiuotas</li>
+<li>Pasibaigus balsavimo laikotarpiui, sunaikinami autentifikatoriuje esantys balsų ID &#8211; sunaikinamas bet koks ryšys tarp balso ir rinkėjo. Norėčiau atkreipti dėmesį, kad plačiau žvelgiant, balsas ir &#8220;rinkėjo pažymėjimas&#8221; niekada nebuvo viename išoriniame voke kartu.</li>
+<li>Apjungiamos raktų saugojimo ir balsų skaičiavimo sistemos &#8211; balsai atkoduojami</li>
+<li>Rinkėjas, pasinaudodamas savo balso ID, vis dar gali pasitikrinti, kad jo balsas įskaičiuotas, bet tuo pačiu &#8211; ir kad jo balsas įskaičiuotas už tą kandidatą, kurį jis pasirinko. Rinkėjas negali meluoti, kad balsas įskaičiuotas neteisingai, nes įmanoma patikrinti ar jo balsas, užkoduotas su tuo pačiu raktu yra identiškas tam, kuris išsaugotas.</li>
+</ol>
+<p>Be abejo, teorinės galimybės tiek klastoti balsus, tiek atsekti už ką balsavo konkretus rinkėjas išlieka, tačiau jeigu trys pagrindinės sistemos (autentifikatorius, raktų kaupimas ir balsų saugojimas) yra visiškai nepriklausomos, tos galimybės gerokai pasunkėja. Tuo pačiu, šis variantas išspręstų (bent dalinai &#8211; kompiuteriai visada gali meluoti ir rodyti vieną dalyką rinkėjui, o kitą &#8211; komisijos nariams&#8230;) pasitikėjimo klausimą &#8211; kiekvienas rinkėjas galėtų bet kada pasitikrinti savo paties balsą.</p>
+<h2>Problema: stebėtojai</h2>
+<p>Aukščiau pasiūlyta sistema taipogi suteikia puikias galimybes stebėti rinkimus partijų atstovams ir nepriklausomoms organizacijoms. Kadangi balso įslaptinimas yra įvykdomas gana anksti viso proceso metu (paliekant tik galimybę jį atšaukti), tai užkoduotus balsus galima skelbti viešai &#8211; t.y. duomenys, kurie įeina į balsų kaupimo sistemą nėra identifikuojantys, todėl gali būti išslaptinti ir paskleisti į P2P ar kt. tinklus. Tokiu būdu, pagal tik rinkėjui žinomą ID, pats rinkėjas gali pasitikrinti savo balsą ne tik pagrindinėje sistemoje, tačiau ir pas nepriklausomus tiekėjus. Lygiai taip pat galima būtų viešai skelbti ir atkoduotus balsus.</p>
+<p>Toks visiškas atvirumas yra tai, dėl ko internetas apskritai gali egzistuoti ir dabar jau yra įsišaknyjęs. Mano nuomone, užtikrinti sąžiningą balsavimą gali tik <a href="http://en.wikipedia.org/wiki/Panopticon">panoptikonas</a>. Didysis tokio atvirumo trūkumas &#8211; kenksmingų interesų turintys asmenys galėtų &#8220;išmušti&#8221; balso ID iš (papirkto?) rinkėjo ir patys pasižiūrėti, kad balsas nebuvo pvz. pakeistas ir tokiu būdu keršyti ar šiaip &#8220;atsiskaityti&#8221; su rinkėju jau pasibaigus visam procesui. Kas yra didesnė blogybė &#8211; gili filosofinė diskusija&#8230;</p>
+<h2>Problema: infrastruktūra</h2>
+<p>Praėjusios savaitės &#8220;pasitarime&#8221; diskusijos buvo tik įžanginės &#8211; paminėti buvo tik principai ir iššūkiai. Pagrindinė tema vis dar išliko kodavimo, tinklų ir žmonių saugumas, bet man šiek tiek apmaudu, kad visiškai nebuvo paliestas serverių klausimas. Iš vienos pusės, atrodo, kas čia tokio &#8211; prijungei galingą kompiuterį prie interneto ir turi balsavimo serverį. Tačiau iš kitos pusės, reikia įvertinti stebėjimo galimybes, taipogi ir patikimumo bei gedimų scenarijus.</p>
+<p>Jeigu kalbame apie stebėjimą &#8211; įgyvendinus viešą balsų duomenų skelbimą, belieka užtikrinti, kad serveriuose sukasi &#8220;teisingas&#8221; kodas. Manau, kad geriausias būdas tai pasiekti &#8211; visas su rinkimais susiijusias sistemas įrašyti į ROM&#8217;us, kuriuos galima pakeisti tik fiziniu priėjimu. Sistemų kompiliavimas ir įrašymas į lustus turėtų būti griežtai stebima ir tikrinama procedūra. Iš to turbūt netgi gautųsi visai graži parodomoji ceremonija &#8211; skirtingų spalvų čipukai įrašomi, transportuojami į keliose skirtingose vietose esančias serverių fermas, įdedami į tam paruoštas plokštes ir užplombuojami.</p>
+<p>Įdomu pastebėti, kad <a href="http://www.osce.org/odihr/77557">ESBO atsiliepimuose</a> apie internetinį balsavimą Estijoje, yra rekomendacija, kad kol vyksta balsavimas, prie serverių niekas neturi kišti nagų. Aš turbūt rekomenduočiau žengti dar toliau &#8211; ne tik kad fizinio įsikišimo neturi būti, bet netgi turėtų būti nedaromos atsarginės duomenų kopijos. Jeigu visa sistema yra pakankamai išskaidyta ir kiekvienas modulis veikia dvejomis pastoviai tas pačias operacijas atliekančiomis kopijomis (kiekviename duomenų centre) &#8211; turime pakankamą gedimo valdymo scenarijų (t.y. sulūžo vienas serveris &#8211; persijungiam į visais požiūriais identišką kitą serverį, įskaitant pilną RAM kopiją, tame pačiame ar kitame duomenų centre).</p>
+<p>Beje, kalbant apie RAM kopijas &#8211; įdomus faktas &#8211; net jeigu vienas rinkėjas sugeneruoja, sakykime, 20kb duomenų, tai visi rinkimai sutelpa į apie 40Gb, t.y. pastovaus saugojimo įrenginiai yra nereikalingi. &#8220;Kietos kopijos&#8221; nebuvimas netgi galėtų būti savotiškas pliusas, nes visą sistemą sudarytų tik neliečiamas ROM vykdomasis kodas ir duomenys RAM, t.y. kenkėjiškas kodas patekti į sistemą galėtų tik labai įmantriais būdais.</p>
+<h2>Problema: silpniausia grandis</h2>
+<p>Banalu, tačiau bet kuri sistema yra tik tiek saugi, kiek saugi yra silpniausia jos grandis. Internetinio balsavimo atveju silpniausia grandis yra būtent rinkėjų kompiuteriai. Tai yra pagrindinė priežastis kodėl aš kovosiu prieš internetinio balsavimo įgyvendinimą tol kol galėsiu. Jeigu mes sąlyginai galime užtikrinti serverių ir VRK priklausančios programinės įrangos saugumą, jeigu mes galime įgyvendinti papildomas tinklo (transporto) saugumo priemones todėl, kad Lietuvos IPT yra labai neblogai susijungę tarpusavyje (t.y. rinkimų duomenys per užsienį keliautų tik iš emigrantų &#8211; pasak ESBO ataskaitos, estai apribojo priėjimą iš užsienio tik ambasadų kompiuteriams), tačiau mes vistiek nežinome pagrindinio sistemos komponento &#8211; rinkimų serviso kliento (<i>service client/consumer</i>) būklės.</p>
+<p>Aš, kaip atviro tinklo entuziastas, turbūt norėčiau matyti visą sistemą naršyklėje. Tačiau ką daryti su naršyklių įskiepiais? Pasak RRT, Lietuvoje pastoviai stebima apie 17 tūkst. kompiuterių-zombių &#8211; visi jie jau yra pažeisti. Jeigu balsavimas vyksta naršyklėje &#8211; nėra jokios problemos &#8220;pakoreguoti&#8221;, kad naršyklė rodytų atitinkamą SSL sertifikatą net jeigu jis nenaudojamas. Sukurti Google Chrome ar Firefox įskiepį, kuris &#8220;panaikintų&#8221; &#8220;nereikalingus&#8221; kandidatus balsavimo biuleteniuose aš pats užtrukčiau turbūt mažiau nei valandą.</p>
+<p>Atrodytų, kad sprendimas būtų padaryti tai ką padarė estai paskutiniuose rinkimuose &#8211; reikalauti, kad vartotojas parsisiųstų konkrečią programą. Tačiau šiuo atveju labai kenčia <i>usability</i>, o taipogi programa turi veikti visose OS ir būti įdiegiama be administratoriaus teisių. Kas blogiausia &#8211; nėra <em>jokio</em> būdo patikrinti ką ta programa išvis daro. Jeigu naršyklėje rodomus sertifikatus pasitikrinti žmones galima išmokinti (pvz. atspausdinti lankstinukus su sertifikatų &#8220;pirštų atspaudais&#8221;), tai pasitikrinti ar apskritai parsiųsta programa yra ta, kurios reikia yra per daug sudėtinga.</p>
+<p>Kaip spręsti šią problemą aš nežinau ir, deja, neturiu jokių rekomendacijų ar netgi idėjų. Gal reikia dalinti USB ROM&#8217;us su Rinkimų OS?</p>
+<h2>Ir dar keletas minčių&#8230;</h2>
+<p>Šiame įraše net neprisiliečiau prie rizikos valdymo &#8211; apie tai diskusijoje <a href="http://ebalsavimas.liks.lt/files/medziaga/ebalsavimas%20-%20planas%20B%20Tomas%20Beinaravicius.pdf">labai neblogą apžvalgą pateikė T. Beinaravičius</a>. Šioje vietoje tik norėčiau pabrėžti, kad nepaisant to, kad esame išdidi ir moderni tauta, Rusijoje ir Kinijoje kompiuterių ir hakerių kiekis, net jeigu mes būtume šimtą kartų už juos gudresni, visada bus daug didesnis negu trys milijonai.</p>
+<p>Taipogi nepaminėjau nieko apie įstatyminę bazę &#8211; o būtent apie ją estams labai daug rekomendacijų pateikė <a href="http://www.osce.org/odihr/77557">ESBO savo apžvalgoje</a>. Vienintelis komentaras, kurį turiu šioje srityje, tai pageidaučiau, kad įstatymų leidėjai įtvirtintų Konstitucijos nuostatą, kad referendumai dėl Konstitucijos ar Konstitucinių Įstatymų galėtų būti vykdomi <em>tik</em> tradiciniu, fiziniu, popieriniu būdu.</p>
+<p>Tikiuosi, kad bent dalis mano idėjų nėra akiplėšiškai naivios ir kvailos ir tikiuosi, kad atsakingi asmenys, įskaitant LIKS, jas apsvarstys. Norėtųsi, kad tiek mano, tiek kitų žmonių mintys būtų katalogizuotos ir sudėtos mažų mažiausiai į kokį nors diskusijų forumą. Laukiu kitų diskusijų, ir tikiuosi, būsiu Lietuvoje kai jos vyks, arba, kad bus galimybė dalyvauti nuotoliniu būdu!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2011/12/ispudziai-is-diskusijos-apie-internetini-balsavima.rss2.xml</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Savaitgalio eksperimentas: Login 2011 programa, pritaikyta mobiliems telefonams</title>
+		<link>http://www.d-b.lt/2011/03/savaitgalio-eksperimentas-login-2011-programa-pritaikyta-mobiliems-telefonams.html</link>
+		<comments>http://www.d-b.lt/2011/03/savaitgalio-eksperimentas-login-2011-programa-pritaikyta-mobiliems-telefonams.html#comments</comments>
+		<pubDate>Mon, 07 Mar 2011 00:45:26 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[css3]]></category>
+		<category><![CDATA[html5]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[mobilus tinklas]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=355</guid>
+		<description><![CDATA[Per paskutinius kelis metus perskaičiau šimtus blogų, apie tai, kaip internetus reikia kurti galvojant apie nešiojamus įrenginius mažais ekranais, ir kaip gražiai viskas galėtų veikti, jeigu laikytis standartų. Deja &#8211; šio savaitgalio eksperimentas parodė, kad tokiai filosofijai dar kiek per anksti.
+Bendrai paėmus, kadangi investavau tik pusantros dienos darbo, rezultatas visai patenkinamas &#8211; &#8220;mobili&#8221; Login 2011 [...]]]></description>
+			<content:encoded><![CDATA[<p>Per paskutinius kelis metus perskaičiau šimtus blogų, apie tai, kaip internetus reikia kurti galvojant apie nešiojamus įrenginius mažais ekranais, ir kaip gražiai viskas galėtų veikti, jeigu laikytis standartų. Deja &#8211; šio savaitgalio eksperimentas parodė, kad tokiai filosofijai dar kiek per anksti.</p>
+<p>Bendrai paėmus, kadangi investavau tik pusantros dienos darbo, rezultatas visai patenkinamas &#8211; <a href="http://dominykas.net/login/">&#8220;mobili&#8221; Login 2011 programa</a>. Informaciją nukopijavau iš <a href="http://www.login.lt/">oficialios svetainės</a> &#8211; tikiuosi savininkai nesupyks.</p>
+<p>Žvaigždutės veikia ir turėtų atsiminti nustatymus iš <code>localStorage</code>, taipogi turėtų veikti ir offline, jeigu išsisaugoti &#8220;darbastalyje&#8221; (bent jau su Android 2.2). <i>Back</i> mygtukui sutvarkyti laiko pritrūkau, taipogi vietomis matosi animacijos šokčiojimai ir trūkčiojimai.</p>
+<p>Pirmojoje versijoje, kurią išmečiau, bandžiau viską pasiekti apskritai be Javascript, <a href="http://webdesignernotebook.com/css/the-css3-target-pseudo-class-and-css-animations/"><code>:target</code> pseudo-selektoriaus</a> pagalba, tačiau rezultatas gavosi gerokai prastesnis negu galutinis variantas.</p>
+<p>Taipogi peržvelgiau akimis <a href="http://www.phonegap.com/tools">Phonegap rekomenduojamus įrankius</a>, tačiau panašu, kad visi jie kenčia nuo tų pačių problemų &#8211; mobilios naršyklės labai jautriai reaguoja į ekrano pločio/aukščio pasikeitimus kai tenka animuoti perėjimus iš vieno ekrano į kitą, o išsprendus šią problemą kiek griežtesniais išdėstymo apribojimais, vistiek lieka <i>scrollinimo</i> problema &#8211; sugrąžinti vartotoją į tą pačią ekrano vietą be ekrano mirksėjimo ir šokinėjimo yra neįmanoma.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2011/03/savaitgalio-eksperimentas-login-2011-programa-pritaikyta-mobiliems-telefonams.rss2.xml</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Tiketa Eurobasket 2011 #fail</title>
+		<link>http://www.d-b.lt/2011/02/tiketa-eurobasket-2011-fail.html</link>
+		<comments>http://www.d-b.lt/2011/02/tiketa-eurobasket-2011-fail.html#comments</comments>
+		<pubDate>Mon, 07 Feb 2011 21:25:24 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Usability]]></category>
+		<category><![CDATA[fail]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=347</guid>
+		<description><![CDATA[Kadangi žinojau, kad Tiketos registracijos patvirtinimui reikia siųsti žinutę lietuvišku trumpuoju numeriu, tai nusprendžiau patikrinti kas bus jeigu a) naudosiuos angliška interneto svetaine, b) registruosiuos su airišku telefono numeriu. Tai dabar, mieli draugai, jūs man paaiškinkit, kokiu formatu man įvesti savo gimimo datą? Ir kaip man užsiregistruoti, jeigu gyvenu Dubline?
+
+]]></description>
+			<content:encoded><![CDATA[<p>Kadangi žinojau, kad Tiketos registracijos patvirtinimui reikia siųsti žinutę lietuvišku trumpuoju numeriu, tai nusprendžiau patikrinti kas bus jeigu a) naudosiuos angliška interneto svetaine, b) registruosiuos su airišku telefono numeriu. Tai dabar, mieli draugai, jūs man paaiškinkit, kokiu formatu man įvesti savo gimimo datą? Ir kaip man užsiregistruoti, jeigu gyvenu Dubline?</p>
+<p style="text-align:center;"><a href="http://www.d-b.lt/uploads/2011/02/tiketa-fail.png"><img src="http://www.d-b.lt/uploads/2011/02/tiketa-fail-300x235.png" alt="" title="Tiketa Fail" width="300" height="235" class="aligncenter size-medium wp-image-348" style="border: 1px solid #000;" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2011/02/tiketa-eurobasket-2011-fail.rss2.xml</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Apie prioritetus ir kodo grožį</title>
+		<link>http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html</link>
+		<comments>http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html#comments</comments>
+		<pubDate>Tue, 07 Sep 2010 23:20:07 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[geekiška filosofija]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=280</guid>
+		<description><![CDATA[Sėdėdamas ir žiūrėdamas eilinę prezentaciją apie Javascript ir accessibility YDN teatre prisiminiau mintį: programuotojai nemėgsta usability, nes reikia rašyti daug if&#8216;ų. Užsimąsčiau apie tai, kad programuotojo darbas susideda iš labai daug balansavimo.
+Taigi, tam, kad sukurti pakankamai patogų interfeisą, reikia rašyti daug kodo eilučių. Tai natūraliai turi įtakos veikimo greičiui. Tam, kad sistema veiktų greitai, kartais [...]]]></description>
+			<content:encoded><![CDATA[<p>Sėdėdamas ir žiūrėdamas eilinę prezentaciją apie Javascript ir <i>accessibility</i> <a href="http://developer.yahoo.net/blogs/theater/">YDN teatre</a> prisiminiau mintį: <em><a href="http://www.sadauskas.lt/index.php/2007/04/09/usability-ir-programuotojai/">programuotojai nemėgsta <i>usability</i>, nes reikia rašyti daug <i>if</i>&#8216;ų</a></em>. Užsimąsčiau apie tai, kad programuotojo darbas susideda iš labai daug balansavimo.</p>
+<p>Taigi, tam, kad sukurti pakankamai patogų interfeisą, reikia rašyti daug kodo eilučių. Tai natūraliai turi įtakos veikimo greičiui. Tam, kad sistema veiktų greitai, kartais tenka aukoti funkcionalumą, o kartais tenka rašyti visiškai nesuprantamą galvosūkį keistų simbolių, kurių net patyrę programuotojai nesupranta. Tam, kad kodas būtų lengvai skaitomas ir nekeltų daug problemų, kai reikia jį tvarkyti, tenka aukoti kitus dalykus, pvz. tą patį <i>accessibility</i>. Kad padaryti kažką arčiau tobulumo, tenka sugaišti begalybę laiko ir pinigų, ir tada atsiranda problema su tais, kas užsakinėja muziką.</p>
+<p>Žiūrint prezentacijas, įvairūs specialistai vis kartoja savo srities mantras &#8211; &#8220;daryk taip ar anaip, ir sutaupyk trečdalį sekundės siuntimo laiko&#8221;, &#8220;<i>agile</i> procesas sako, kad nereikia per daug laiko skirti planavimui&#8221;, &#8220;<i>user centered</i> procesas sako, kad reikia skirti pakankamai laiko vartotojų tyrimams ir pasiruošimui&#8221;. Dar anądien ir pats norėjau parašyti blog&#8217;ą apie tai, kaip paprasta naudojant naujus HTML5 atributus ir elementarias &#8220;geriausias praktikas&#8221; suprogramuoti patvirtinimo dialogą, kuris veikia visose situacijose, įdedant &#8220;vos keletą eilučių daugiau&#8221; kodo (gal ir parašysiu kada kai bus gera nuotaika).</p>
+<p>Atmetus seną gerą taisyklę, kad iš &#8220;gerai&#8221;, &#8220;pigiai&#8221; ir &#8220;greitai&#8221; galima pasirinkti tik du, aš savo kasdieniame darbe, kodą rašau remdamasis maždaug tokiais principais:</p>
+<ol start="0">
+<li><strong>Kodo grožis</strong> &#8211; žr. paskutinį punktą šiame sąraše.</li>
+<li><strong>Produkto patogumas</strong> &#8211; aš linkęs paaukoti labai daug kitų dalykų tam, kad galutinis rezultatas patenkintų galutinį vartotoją &#8211; ar tai būtų klientas, ar kitas programuotojas naudojantis mano <abbr title="Application Programming Interface">API</abbr>.</li>
+<li><strong>Minimalizmas</strong> &#8211; jeigu kažko galima nedaryti &#8211; aš padarysiu viską, kad to nedaryti. Šitas principas iš esmės paaiškina du žemiau esančius punktus. Papildoma taisyklė &#8211; <strong>blogas programuotojas tas, kuris nėra tinginys</strong>.</li>
+<li><strong>Palaikymo kaina</strong> &#8211; iš esmės susiveda į tai, kad reikia rašyti mažiau kodo ir reikia jį organizuoti kuo mažesniais, suprantamais gabaliukais. Visa tai galutiniam rezultate reiškia a) mažiau šansų vabaliukams b) lengviau suvokti. Be abejo, sutrauktas ir minimalizuotas kodas nereiškia, kad jis yra lengviau suprantamas ar palaikomas (čia ypač tinka kalbant apie tokius dalykus kaip visa Perl kalba, regex arba LINQ) &#8211; šis principas yra iš esmės narciziškas ir remiasi į tai, kad atėjęs kitas žmogus nesugadins veikiančio dalyko.</li>
+<li><strong>Sukūrimo kaina / produktyvumas</strong> &#8211; šis punktas yra skiriamoji linija &#8211; dėl visko, kas yra aukščiau jo, aš linkęs aukotis ir sėdėti viršvalandžius. O kalbant apie tai, kas yra žemiau jo, tai tikėtinas variantas yra, kad aš paliksiu <code>@todo</code> žymeles.</li>
+<li><strong>Standartai, <i>best practices</i> ir &#8220;teisingumas&#8221;</strong> &#8211; šis principas anksčiau būdavo gerokai aukščiau šiame sąraše &#8211; turbūt dėl to dabar dėl tokių dalykų nebereikia jaudintis, nes jie ateina natūraliai. Tiesiog, įvertindamas kitus faktorius mieliau pasirinksiu paprastumą vietoj devynaukščio objektinio dizaino <i>pattern</i>&#8216;o. &#8220;Teisingumas&#8221; šiuo požiūriu reiškia puritoniškumą ir naivų idealo siekimą, o ne tiesiog &#8220;veikiantį kodą&#8221;.</li>
+<li><strong><i>Accessibility</i></strong> &#8211; iš dalies čia truputį gėda. Iš kitos pusės, lygiai kaip ir su standartais ir &#8220;teisingumu&#8221; &#8211; tiesiog esu įpratęs padaryti tam tikrą kiekį šito darbo automatiškai ir nesistengdamas, o daugiau papildomų pastangų tam nededu, nes jos daugiau kainuoja, negu duoda naudos.</li>
+<li><strong>Plečiamumas</strong> &#8211; praktiškai niekada nededu papildomų pastangų vien tam, kad patenkinti vidinį spirgėjimą &#8220;o jeigu netyčia prireiktų padaryti XYZ&#8221; &#8211; net jeigu ateityje nepavyksta padaryti chirurgiškai tikslaus, vienos kodo eilutės dydžio, įpjovimo tam, kad sukurti papildomų funkcijų, susumavus vistiek išeina tiesiog pigiau <i>refactorinti</i> ar net perrašyti.</li>
+<li><strong>Veikimo greitis</strong> &#8211; čia nekalbu apie varotojo suvokimą/įsivaizdavimą apie interfeisą &#8211; daugiau apie realius CPU/atminties resursus. Manau, kad geriausia yra žinoti tobulintinus dalykus, tačiau pasitenkinti tiesiog &#8220;gerais programavimo įpročiais&#8221; tol, kol nereikia to tvarkyti. O kai prisireikia tvarkyti &#8211; visų pirma gerai pamatuoti!</li>
+<li><strong>Kodo grožis</strong> &#8211; paminėjau šitą dalyką pirmu numeriu, tačiau labai retai darau taip, kad kodas atrodytų &#8220;gražus&#8221;. Grožis yra subjektyvus, o <strong>patenkinus visus aukščiau esančius reikalavimus, kodas pats savaime atrodo gražus</strong>.</li>
+</ol>
+<p>Dabar kai jau surašiau <del>juodu ant balto</del> klaviatūra į ekraną, viskas atrodo taip akivaizdu&#8230; Ką praleidau? Kokia jūsų prioritetų tvarka?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.rss2.xml</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Naudoti svetimus JS failus yra nemandagu ir nesaugu</title>
+		<link>http://www.d-b.lt/2010/03/naudoti-svetimus-js-failus-yra-nemandagu-ir-nesaugu.html</link>
+		<comments>http://www.d-b.lt/2010/03/naudoti-svetimus-js-failus-yra-nemandagu-ir-nesaugu.html#comments</comments>
+		<pubDate>Fri, 26 Mar 2010 01:19:59 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[html5]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[saugumas]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=276</guid>
+		<description><![CDATA[Vos prieš porą mėnesių garsiai nuskambėjo Ajaxian, kai paėmė ir įdėjo besisukančios Coca Cola skardinės pavyzdį į iframe tiesiogiai iš autoriaus svetainės. Gana panašus atvejis buvo ir su Douglas Crockford JSON2 biblioteka bent keletoje didokų svetainių (žr. pirmą šaltinio eilutę).
+Moralas toks &#8211; jeigu įtrauki į savo kodą failus tiesiogiai iš kitų žmonių serverių, ypač jeigu [...]]]></description>
+			<content:encoded><![CDATA[<p>Vos prieš porą mėnesių garsiai nuskambėjo <a href="http://ajaxian.com/">Ajaxian</a>, kai paėmė ir įdėjo <a href="http://www.techkumar.com/showcase/rolling-coke-pure-css-code/">besisukančios Coca Cola skardinės</a> pavyzdį į <code>iframe</code> tiesiogiai iš <a href="http://www.romancortes.com/blog/pure-css-coke-can/">autoriaus svetainės</a>. Gana panašus atvejis buvo ir su Douglas Crockford <a href="http://www.json.org/js.html">JSON2 biblioteka</a> bent keletoje didokų svetainių (žr. pirmą <a href="http://www.json.org/json2.js">šaltinio</a> eilutę).</p>
+<p>Moralas toks &#8211; jeigu įtrauki į savo kodą failus tiesiogiai iš kitų žmonių serverių, ypač jeigu jų nepažįsti ir nepaklausi jų sutikimo, viskas gali baigtis blogai. Štai pvz. mano blog&#8217;as naudoja html5.js &#8211; aš galėčiai ramiai pakeisti jį taip, kad jis vogtų jūsų svetainės lankytojų slaptažodžius ir siųstų man. Bet aš neesu blogietis ir to nedarysiu.</p>
+<p>Jeigu kam nors reikia įsijungti HTML5 Internet Exploreryje &#8211; galima gi paimti ir parsisiųsti tą JS ir pasidėti savo svetainėje. Bet jeigu jau taip gaila srauto &#8211; <a href="http://remysharp.com/2009/01/07/html5-enabling-script/">Remy Sharp leidžia</a> tiesiogiai naudoti jo sukurtą <a href="http://html5shiv.googlecode.com/svn/trunk/html5.js">versiją iš Google Code SVN</a>.</p>
+<p>Man iš tikro negaila, bet pagunda bent pajuokauti yra&#8230; Tu žinai kas tu esi. Ar ne?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2010/03/naudoti-svetimus-js-failus-yra-nemandagu-ir-nesaugu.rss2.xml</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kam reikalingos &#8220;rašytinės&#8221; raidės?</title>
+		<link>http://www.d-b.lt/2010/01/kam-reikalingos-rasytines-raides.html</link>
+		<comments>http://www.d-b.lt/2010/01/kam-reikalingos-rasytines-raides.html#comments</comments>
+		<pubDate>Sun, 31 Jan 2010 19:00:55 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Filosofija]]></category>
+		<category><![CDATA[futurizmas]]></category>
+		<category><![CDATA[raštas]]></category>
+		<category><![CDATA[švietimas]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=264</guid>
+		<description><![CDATA[Dienos klausimas &#8211; vis tik, kodėl pirmoje klasėje vaikai mokomi tokio beverčio įgūdžio kaip dailyraštis? Šią tingią sekmadienio popietę praleidau klaidžiodamas internetų gūdybėse, kol užkliuvau už šio &#8220;Ar žinote, kad&#8230;&#8221; video klipuko. Vienas iš faktų jame &#8211; geidžiamiausios darbo vietos prieš dešimtmetį tiesiog dar nebuvo išrastos. Tokiu greičiu judančiame pasaulyje, kai tai, ką išmoksti universitete [...]]]></description>
+			<content:encoded><![CDATA[<p>Dienos klausimas &#8211; vis tik, kodėl pirmoje klasėje vaikai mokomi tokio beverčio įgūdžio kaip dailyraštis? Šią tingią sekmadienio popietę praleidau klaidžiodamas internetų gūdybėse, kol užkliuvau už šio <a href="http://www.youtube.com/watch?v=jpEnFwiqdx8">&#8220;Ar žinote, kad&#8230;&#8221;</a> video klipuko. Vienas iš faktų jame &#8211; geidžiamiausios darbo vietos prieš dešimtmetį tiesiog dar nebuvo išrastos. Tokiu greičiu judančiame pasaulyje, kai tai, ką išmoksti universitete pirmais metais, jau būna pasenę kai baigi, <em>privalomai</em> mokyti dalykų, kurie yra atgyvenę, reiškia elementarų resursų švaistymą ir praktiškai sukelia ekonominį atsilikimą ateityje.</p>
+<p>Pirmas argumentas, kurį gavau uždavęs šį klausimą, buvo tai, kad <strong>ranka rašyti, atseit, yra greičiau</strong>. Kodėl tuomet teismo stenografuotojai &#8211; žmonės, kurių darbas yra rašyti pačiu greičiausiu įmanomu būdu, naudoja (tegul ir specializuotą) aparatūrą? Turint omeny, kaip veikia žmogaus smegenys, kai jis atlieka darbą, kuris jam įaugęs į kraują, aparatūra teikia garantuotą privalumą.</p>
+<p>Patogumo požiūriu, tam tikrose situacijose aš pats vis dar teikiu pirmenybę popieriui. Jeigu mokykloje būčiau mokytas kitaip &#8211; tokio įpročio neturėčiau. Ir nuo to visai nenukentėčiau &#8211; esu įsitikinęs, kad būčiau tik dar efektyvesnis. Turint omeny Twitter paplitimą ir kiek žmonių savo užrašus konferencijose atlieka tiesiai į kompiuterį ir į internetą, akivaizdu, kad <strong>patogumas tėra tik įprotis</strong>.</p>
+<p>Nepaisant to, kad galbūt nukenčia rašymo greitis, aš <strong>naudoju spausdintines raides</strong> savo užrašuose. Ir nuo to taipogi <strong>nieko neprarandu</strong> &#8211; netgi laimiu, nes mano užrašus kiti žmonės gali įskaityti lengviau. Tiesą pasakius, turbūt rašytinėmis raidėm ir nebemokėčiau rašyt &#8211; reiškias lieka galvoj daugiau vietos dalykams, kurie yra naudingesni.</p>
+<p>Be abejo, šiame reikale yra ir emocinis aspektas &#8211; ranka rašyti laiškai, atseit, yra kažkokiu būdu &#8220;žmogiškesni&#8221;. Aš nestudijavau psichologijos &#8211; nežinau ar tikrai pagrįstas yra šis argumentas, tačiau aš manau, kad mano būsimi vaikai pradės su manim bendrauti &#8220;mašininiu būdu&#8221; anksčiau, negu pradės eiti į mokyklą &#8211; SMS, Skype ir pan. Lygiai taip pat bus ir su jų bendraamžiais. Emocinis aspektas išliks tik siekiant parodyti, kad tai yra mano &#8220;rankų darbas&#8221; &#8211; lygiai kaip ir ranka pieštas, o ne pirktas, gimtadienio atvirukas. Tačiau juk <strong>piešti atvirukų žmonės privalomai mokykloje nemokomi</strong>. Na, bent jau ne visus metus ir ne kiekvieną dieną. Lygiai taip pat ir su bet kuriais kitais rankdarbiais. </p>
+<p>Nesupraskit manęs neteisingai. Aš neteigiu, kad rašyti ranka yra apskritai nereikalingas įgūdis &#8211; <strong>sugebėti perduoti informaciją primityviais įrankiais yra labai svarbu</strong>. Maždaug taip, kaip svarbu mokėti sukurti laužą ir sužvejoti žuvį &#8211; elementarus išlikimas. Ir turint omeny, kad visiškai popieriaus atsikratyti artimu metu tikrai nepavyks, treniruotis greitai užpildyti formas derėtų, tačiau mes juk kalbame apie ateinančią kartą &#8211; tą, kuri turės gyventi gerokai po to, kai baigsis mūsų pačių galiojimo laikas.</p>
+<p>Šiuo metu, nėra nei vieno žmogaus, kuris turi nusipirkęs iPad. Tačiau prieš šimtą metų nebuvo nei vieno žmogaus, kuris turėjo nusipirkęs radiją. Po šimto metų, būsim visi prijungti prie matricos, ir nei rašymas, nei spausdinimas, nei išvis diktavimas nebebus aktualūs. Tačiau šiuo pereinamuoju laikotarpiu, septynmetis, kuris sugeba kompiuteriu atlikti namų darbus yra ateities žmogus, kuris savo laiku galės konkuruoti su milijonais kitų dėl darbo ir mokės jūsų pensijas.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2010/01/kam-reikalingos-rasytines-raides.rss2.xml</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>Kaip &#8220;Lietuvos žinios&#8221; dezinformaciją skleidė</title>
+		<link>http://www.d-b.lt/2009/12/kaip-lietuvos-zinios-dezinformacija-skleide.html</link>
+		<comments>http://www.d-b.lt/2009/12/kaip-lietuvos-zinios-dezinformacija-skleide.html#comments</comments>
+		<pubDate>Wed, 09 Dec 2009 06:15:46 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Likęs gyvenimas]]></category>
+		<category><![CDATA[purvasklaida]]></category>
+		<category><![CDATA[žaluma]]></category>
+		<category><![CDATA[žiniasklaida]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=219</guid>
+		<description><![CDATA[Vakar Delfi pamačiau straipsnį pavadinimu &#8220;Pasaulinis atšilimas: mitas sklaidosi&#8220;. Tikėjausi, kad bus pateikta rimtesnė analizė, apie tai, ką reiškia pastarųjų savaičių nutekėjusių laiškų skandalas. Ką pamačiau iš tikrųjų? Keletą žodžių apie tai ir krūvą atsitiktinių, melagingų, nepatikrintų ir juokingų &#8220;faktų&#8221;.
+Diskleimeris
+Man rūpi klimato kaita. Aš tikiu, kad žmonija yra kalta dėl to. Aš mėgstu gamtą ir [...]]]></description>
+			<content:encoded><![CDATA[<p>Vakar Delfi pamačiau straipsnį pavadinimu &#8220;<a href="http://www.delfi.lt/news/daily/ecology/pasaulinis-atsilimas-mitas-sklaidosi.d?id=26565133">Pasaulinis atšilimas: mitas sklaidosi</a>&#8220;. Tikėjausi, kad bus pateikta rimtesnė analizė, apie tai, ką reiškia pastarųjų savaičių nutekėjusių laiškų skandalas. Ką pamačiau iš tikrųjų? Keletą žodžių apie tai ir krūvą atsitiktinių, melagingų, nepatikrintų ir juokingų &#8220;faktų&#8221;.</p>
+<h2><i>Diskleimeris</i></h2>
+<p>Man rūpi klimato kaita. Aš tikiu, kad žmonija yra kalta dėl to. Aš mėgstu gamtą ir noriu, kad mano vaikai ir vaikaičiai gyventų švariame pasaulyje. Todėl nuo rugpjūčio mėnesio šiek tiek savanoriauju <a href="http://www.oxfamireland.ie">Oxfam Ireland</a> ir (tikiuosi) šiek tiek padėjau jiems internetinėje kampanijoje dėl klimato kaitos.</p>
+<p>Mano požiūris šiuo klausimu nėra visiškai neutralus, tačiau faktus aš stengiuosi vertinti objektyviai. Mažų mažiausiai, aš stengiuosi patikrinti juos skirtinguose šaltiniuose ir išklausyti abi puses &#8211; kartais &#8220;vienos tiesos&#8221; paprasčiausiai nėra.</p>
+<p>Būtent dėl to, per paskutinius kelis mėnesius perskaičiau begalę informacijos apie tai kokiais argumentais apie klimatą &#8220;kovoja&#8221; skirtingos šio reikalo pusės. Tiesą pasakius, man nelabai patinka kai kurių žaliųjų metodika, nes jie iš tikrųjų atrodo kaip viską pervertinantys verksniai. Kita vertus, jei nuoširdžiai, tai vadinamieji &#8220;klimato skeptikai&#8221; yra ne skeptikai, o nusišnekantys idiotai.</p>
+<h2>Mokslas ir faktai</h2>
+<ul>
+<li>Kad CO<sub>2</sub> yra &#8220;šiltnamio efektą&#8221; sukeliančios dujos žinome jau <a href="http://en.wikipedia.org/wiki/Svante_Arrhenius#Greenhouse_effect">daugiau nei šimtą metų</a></li>
+<li>Per tą šimtmetį žmonių išmetamų CO<sub>2</sub> ir kitų šiltnamio dujų kiekis išaugo daugybę kartų</li>
+<li>Per tą šimtmetį pačių žmonių kiekis išaugo beveik penkis kartus</li>
+</ul>
+<p>Kiek suvokiu aš, paprasčiausiai nelogiška, kad žmonijos veikla pasauliui neturi įtakos. Nes, na, būkim atviri &#8211; tai, kas matosi <a href="http://www.chrisjordan.com/current_set2.php?id=11">šituose paveiksliukuose</a> yra <strong>mūsų kaltė</strong>. Lygiai taip, kaip ir daugybė kitų dalykų. Ir skaičiavimai kiek CO<sub>2</sub> dalelių yra ore, bei kokį tai turi efektą klimatui, taipogi atrodo realesni, negu aklas pasakymas &#8220;viskas bus gerai&#8221;. Nebus gerai &#8211; ir geriausiai tai iliustruoja <a href="http://www.seed.slb.com/flash/science/features/earth/climate/en/challenge/index.htm">šis simuliatorius</a>.</p>
+<h2>O dabar grįžtam prie žurnalistų pezalų&#8230;</h2>
+<p>Aš neįsivaizduoju, kaip žmogus parašęs tokį straipsnį gali save vadinti žurnalistu&#8230; Elementari paieška suranda kiekvieno pateikto pseudo-fakto paneigimą&#8230; Iš eilės:</p>
+<blockquote><p>&#8230; aštuntojo dešimtmečio pradžioje buvo skleidžiamas visiškai priešingas aiškinimas: JAV spauda mirgėjo straipsniais apie ledynmetį, kuris tuoj tuoj sustingdys visą pasaulį.</p>
+</blockquote>
+<p>Melas. <strong>Faktas:</strong> <a href="http://www.grist.org/article/they-predicted-global-cooling-in-the-1970s/">buvo keletas mokslinių straipsnių</a>, buvo spekuliacijų, bet nebuvo pasaulinio sutarimo, kad tai vyksta ir spauda tikrai nemirgėjo antraštėmis. Jeigu iš tiesų tai buvo kelis kartus <a href="http://www.newscientist.com/blogs/shortsharpscience/2008/10/global-cooling-was-a-myth.html">daugiau straipsnių, kalbančių apie artėjantį atšilimą</a>, negu apie atšalimą.</p>
+<blockquote><p>Kodėl tada taip išplito žmogaus sukelto pasaulinio atšilimo teorija? Yra nemažai manančiųjų &#8211; ir ne be pagrindo, &#8211; kad ši teorija kur kas labiau tinka spaudai, televizijai ir Holivudui.</p>
+</blockquote>
+<p>Juokingesnio argumento nesu girdėjęs. Nors, turiu pripažinti, Kopenhagoje dabar vykstančio susitikimo <a href="http://www.youtube.com/watch?v=NVGGgncVq-4">įžanginis video</a> tikrai atrodo baugiau negu <a href="http://www.imdb.com/title/tt0268380/">Ice Age</a>.</p>
+<blockquote><p>Kada gi žiniasklaidai nepatiko skleisti panikos?</p></blockquote>
+<p>Iš žurnalisto lūpų&#8230; Ypač, kai už poros pastraipų yra parašoma &#8220;O tai įdomu, nes kitas jų politinės evoliucijos etapas turėtų būti terorizmas.&#8221; <a href="http://en.wikipedia.org/wiki/Reductio_ad_Hitlerum">Reductio ad Hitlerum</a> yra geriausias argumentas bet kuriame ginče.</p>
+<blockquote><p>Daugiau kaip 30 tūkst. mokslininkų viešai pareiškė, kad A.Gore&#8217;o paskaita &#8211; nesąmonė, ir pagrasino jam teismu.</p></blockquote>
+<p>Melas. <strong>Faktas:</strong> Al&#8217;as Gore&#8217;as renginyje dalino autografus. Į renginį prisirinko protestuotojų. Vienas iš protestuotojų suriko: &#8220;<a href="http://news.medill.northwestern.edu/chicago/news.aspx?id=149255">30000 žmonių ketina</a> paduoti jį į teismą&#8221;. Jokios naujienos apie tai <a href="http://www.reuters.com/search?blob=al+gore">Reuters</a>. Jokios naujienos apie tai <a href="http://hosted.ap.org/dynamic/external/search.hosted.ap.org/wireCoreTool/Search?SITE=NYPLA&#038;query=al%20gore">Associated Press</a>.</p>
+<p>Iš kur šitas mitas? Prieš dešimt metų kažkas, kas buvo suinteresuotas, sugalvojo peticiją, kad paneigtų, kad klimato kaita egzistuoja. Ją pasirašė 30 tūkst. žmonių. Dalis iš jų (mažiau nei penkiasdešimt&#8230;) buvo meteorologai ir klimatologai. Tačiau didžioji dalis &#8211; mokslininkai, kurie neužsiima tyrimais toje srityje. Dalis tų mokslininkų išvis neegzistuoja, dalis vardų ant peticijos buvo be pavardžių. Sluoksniai, kuriems tokia peticija buvo naudinga, išpūtė iš to burbulą, ir nepaisant to, kad ši informacija buvo paneigta šimtus kartų, jis vis grįžta ir grįžta&#8230;</p>
+<p><strong>Įdomus faktas</strong>: tabako industrija naudojo <a href="http://www.guardian.co.uk/environment/2006/sep/19/ethicalliving.g2">lygiai tokią pačią metodiką</a>, bandydami paneigti, kad rūkymas nesukelia vėžio.</p>
+<blockquote><p>Kova su pasauliniu atšilimu, galima sakyti, virto pramone, kurioje pluša ne viena dešimtis tūkstančių žmonių. Juk nė vienas jų nenori prarasti darbo.</p>
+</blockquote>
+<p>Geras argumentas, mat mosklininkai praras pinigų truputį. O kiek pinigų sukasi naftos pramonėje ir kiek yra suinteresuotų pusių, kad problema būtų ignoruojama trumpalaikiam pelnui užtikrinti?</p>
+<p>Jeigu dėl klimato kaitos pakils vandens lygis, savo būstą praras apie <a href="http://news.bbc.co.uk/2/hi/south_asia/8401516.stm">20 <strong>milijonų</strong> Bangladešo gyventojų</a>, o <a href="http://news.bbc.co.uk/2/hi/8311838.stm">Maldyvų salų</a> išvis neliks.</p>
+<blockquote><p>Tačiau šie mokslininkai taip pat primena, jog mūsų planetos klimatas keitėsi per visą jos egzistavimo laiką, ir ne vieną kartą taip radikaliai, kad beveik lėmė gyvybės išnykimą.</p>
+</blockquote>
+<p>Po šios pastraipos &#8220;žurnalistas&#8221; kalba apie tai, kad ginčas yra labiau apie tai, &#8220;kodėl&#8221; keičiasi klimatas. Per paskutinius kelis mėnesius perskaičiau kalną argumentų, kurie skamba maždaug taip:</p>
+<ul>
+<li><em>Viduramžiais buvo šilčiau</em> &#8211; taip, bet tik Europoje ir kai kur Azijoje.</li>
+<li><em>Marse temperatūra irgi kyla</em> &#8211; taip, bet tik Marse. Kituose Saulės sistemos kūnuose &#8211; ne.</li>
+<li><em>Grenlandija prieš 1000 metų buvo iš tikro žalia</em> &#8211; absurdas &#8211; negana to, kad Grenlandija toli gražu nėra &#8220;pasaulis&#8221;, bet tokio ledo kiekio susiformavimui reikia tūkstantmečių.</li>
+<li><em>Tai natūralus ciklinis fenomenas</em> &#8211; ir tie ciklai atsispindi temperatūros <strong>augime</strong>.</li>
+<li><em>CO<sub>2</sub> kiekis kyla dėl ugnikalnių</em> &#8211; taip, bet ugnikalniai taip pat išmeta pelenus, kurie užstoja Saulę ir dėl to pasaulis šąla, o ne šyla. Tikėkimės, kad Vezuvijus vėl užsidegs, ir būsim išgelbėti nuo atšilimo!</li>
+</ul>
+<p>Galų gale, o koks skirtumas kodėl? Prisitaikyti prie naujų sąlygų reikia šiandien. Taip &#8211; prieš tūkstančius metų buvo ledynmečiai. Prieš milijonus metų išnyko dinozaurai. Ar dėl to verta ignoruoti tai, ką <strong>patys prišikome</strong> (atleiskit už mano netobulą prancūzų kalbą)? Ar dėl to turime išnykti kaip eilinė gyvūnijos rūšis?</p>
+<h2>Ir dar truputis&#8230;</h2>
+<p>Mes išrausėme žemę. Išdeginome miškus. Priteršėme vandenynus. Gal jau laikas bent truputį susiimti ir apsikuopti? Aš neabejoju, kad mūsų išmetamosios dujos skatina šiltnamio efektą. Kas bus, jeigu iš tiesų prie to dar prisidės saulės aktyvumas? Natūralūs pokyčiai? Kiek žmonių turi <a href="http://www.oxfamireland.org/faceit/blog/?p=224">pradėti auginti bananus maistui</a> arba mirti iš bado, kad pagaliau atsibustume ir pažvelgtume į savo godumą? Ir kada žurnalistai pradės tikrinti faktus?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2009/12/kaip-lietuvos-zinios-dezinformacija-skleide.rss2.xml</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

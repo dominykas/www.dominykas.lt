@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaip tapti ekspertu? &#187; valdžia</title>
+	<atom:link href="http://www.d-b.lt/tag/valdzia.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Nepilnamečių apsauga ir cenzūra internete</title>
+		<link>http://www.d-b.lt/2009/06/nepilnameciu-apsauga-ir-cenzura-internete.html</link>
+		<comments>http://www.d-b.lt/2009/06/nepilnameciu-apsauga-ir-cenzura-internete.html#comments</comments>
+		<pubDate>Sun, 07 Jun 2009 16:41:45 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[cenzūra]]></category>
+		<category><![CDATA[įstatymai]]></category>
+		<category><![CDATA[valdžia]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2009/06/nepilnameciu-apsauga-ir-cenzura-internete.html</guid>
+		<description><![CDATA[Prieš porą dienų perskaičiau gana gąsdinantį įrašą, apie tai, kad Lietuvoje jau (beveik) turime cenzūros internete įstatymą. Pirma reakcija buvo, kad nejaugi man dabar reikės šį savaitgalį pradėti organizuoti kažką panašaus į Blackout Ireland ar New Zealand Internet Blackout. Tiesa, pastarųjų problemos kyla daugiau iš P2P ir autorinių teisių pažeidimų, tačiau viskas bet kuriuo atveju [...]]]></description>
+			<content:encoded><![CDATA[<p>Prieš porą dienų perskaičiau gana gąsdinantį įrašą, apie tai, kad <a href="http://atvirasgalas.blog.hardcore.lt/2009/06/turim_istatyma_vaikuciams.html">Lietuvoje jau (beveik) turime cenzūros internete įstatymą</a>. Pirma reakcija buvo, kad nejaugi man dabar reikės šį savaitgalį pradėti organizuoti kažką panašaus į <a href="http://en.wikipedia.org/wiki/Internet_censorship_in_Ireland">Blackout Ireland</a> ar <a href="http://en.wikipedia.org/wiki/New_Zealand_Internet_Blackout">New Zealand Internet Blackout</a>. Tiesa, pastarųjų problemos kyla daugiau iš P2P ir autorinių teisių pažeidimų, tačiau viskas bet kuriuo atveju atsiremia į viena &#8211; interneto cenzūrą. Tačiau ar iš tikro viskas yra taip blogai?</p>
+<h2>Ką iš tikro sako įstatymas?</h2>
+<p>Kad per daug nepasikarščiuoti, pasiskaičiau <a href="http://www3.lrs.lt/pls/inter3/dokpaieska.showdoc_l?p_id=343114">įstatymo projektą</a> ir Seimo <a href="http://www3.lrs.lt/pls/inter3/dokpaieska.showdoc_l?p_id=345111">posėdžio stenogramą</a>. Dar yra ir susiijęs <a href="http://www3.lrs.lt/pls/inter3/dokpaieska.showdoc_l?p_id=332241">ATPK pakeitimas</a>, numatantis baudas, už įstatymo nesilaikymą. Per daug nesigilinant, man aktualus yra tik straipsnis kalbantis apie interneto priegą:</p>
+<blockquote>
+<p><strong>7 straipsnis. Ribojimas skleisti neigiamą poveikį nepilnamečių vystymuisi darančią informaciją</strong></p>
+<p>3. Prieigos prie <dfn title="korektūros klaida projekte?">vieš</dfn> kompiuterių tinklų (interneto) paslaugas teikiantys asmenys privalo užtikrinti <a href="http://www.ivpk.lt/">Informacinės visuomenės plėtros komiteto prie Lietuvos Respublikos Vyriausybės</a> (toliau – Informacinės visuomenės plėtros komitetas) aprobuotų žalingo interneto turinio, darančio neigiamą poveikį nepilnamečiams, filtravimo priemonių įdiegimą ir veikimą. Informacinės visuomenės plėtros komiteto teikimu Vyriausybė nustato prieigos prie viešo naudojimo kompiuterių tinklų (interneto) vietose privalomų filtravimo priemonių naudojimo tvarką.</p>
+</blockquote>
+<p>Skaičiau šį straipsnį dešimtis kartų, ir vis dar iki galo nesuvokiu (labai daug žodžių &#8211; man patinka kai viskas būna trumpai ir aiškiai). Pirmasis sakinys lyg ir kalba apie <strong>visus interneto paslaugas teikiančius asmenis</strong>, ir kad jie lyg ir privalėtų užtikrinti filtrų įdiegimą, tačiau antrasis sakinys kalba apie <strong>interneto prieigos <em>vietas</em></strong>, kurios privalės naudoti tuos filtrus.</p>
+<h2>Dienos klausimas</h2>
+<p>Ar reikia susirūpinti, kad Zebra dabar privalės filtruoti jūsų internetus, ar tik pagailėti interneto kavinių savininkų, kad jiems dabar reikės instaliuotis ir prižiūrėti visokius proxius?</p>
+<p>Pašalinė tema: <a href="http://www.ivpk.lt/filtrai/lt/index.php?id=28">žalingus tinklapius</a> ir <a href="http://www.ivpk.lt/filtrai/lt/index.php?id=29">raktažodžius</a> registruoti gali bet kas, tačiau kaip peržiūrėti jų sąrašą?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2009/06/nepilnameciu-apsauga-ir-cenzura-internete.rss2.xml</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

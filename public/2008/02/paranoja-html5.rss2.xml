@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Paranoja: HTML5</title>
+	<atom:link href="http://www.d-b.lt/2008/02/paranoja-html5.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt/2008/02/paranoja-html5.html</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Sun, 18 Nov 2012 23:44:11 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>By: Dominykas</title>
+		<link>http://www.d-b.lt/2008/02/paranoja-html5.html/comment-page-1#comment-2923</link>
+		<dc:creator>Dominykas</dc:creator>
+		<pubDate>Tue, 24 Mar 2009 11:13:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/2008/02/paranoja-html5.html#comment-2923</guid>
+		<description>Tavo tiesa :) Blogas pavyzdys :) Iš esmės tas kas validuoja turėtų iš savęs žinoti tuos meta duomenis... Nors bet kokiu atveju aklai pasitikėti freimworkais nevalia.</description>
+		<content:encoded><![CDATA[<p>Tavo tiesa :) Blogas pavyzdys :) Iš esmės tas kas validuoja turėtų iš savęs žinoti tuos meta duomenis&#8230; Nors bet kokiu atveju aklai pasitikėti freimworkais nevalia.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: RQ</title>
+		<link>http://www.d-b.lt/2008/02/paranoja-html5.html/comment-page-1#comment-2914</link>
+		<dc:creator>RQ</dc:creator>
+		<pubDate>Mon, 23 Mar 2009 20:34:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/2008/02/paranoja-html5.html#comment-2914</guid>
+		<description>Senas straipsnis, bet vis tiek pakomentuosiu apie „mokymosi kreivės“ dalį. Metaduomenų apie laukų tipus siuntimas būtų tikrai nepraktiškas dėl paprasčiausios priežasties – jis neprideda visiškai jokio saugumo. Juk jei tas potencialus įsilaužėlis sugebės nusiųsti tekstą kaip lauko, kuris turėtų būti skaitinis, reikšmę, tai jam tikrai ne ką sunkiau bus ir nusiųsti atitinkamą metainformaciją.
+
+Prieš naudojant iš kliento atsiųstą informaciją, praktiškai visada reikia tikrinti jos atitikimą konkrečios programos logikai, o ne kažkokiems metaduomenims.
+
+O šiaip manau, kad tie laukų tipai bei galimybė juos pažymėti kaip būtinus yra bene viena naudingiausių HTML5 naujovių, nes jie tiesiog palengvina (jei ne išvis nukrauna nuo programuotojo pečių) formoje įvestų duomenų validavimą &lt;em&gt;kliento pusėje&lt;/em&gt;.</description>
+		<content:encoded><![CDATA[<p>Senas straipsnis, bet vis tiek pakomentuosiu apie „mokymosi kreivės“ dalį. Metaduomenų apie laukų tipus siuntimas būtų tikrai nepraktiškas dėl paprasčiausios priežasties – jis neprideda visiškai jokio saugumo. Juk jei tas potencialus įsilaužėlis sugebės nusiųsti tekstą kaip lauko, kuris turėtų būti skaitinis, reikšmę, tai jam tikrai ne ką sunkiau bus ir nusiųsti atitinkamą metainformaciją.</p>
+<p>Prieš naudojant iš kliento atsiųstą informaciją, praktiškai visada reikia tikrinti jos atitikimą konkrečios programos logikai, o ne kažkokiems metaduomenims.</p>
+<p>O šiaip manau, kad tie laukų tipai bei galimybė juos pažymėti kaip būtinus yra bene viena naudingiausių HTML5 naujovių, nes jie tiesiog palengvina (jei ne išvis nukrauna nuo programuotojo pečių) formoje įvestų duomenų validavimą <em>kliento pusėje</em>.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Savaitgalio skaitiniai #50 &#187; Pixel.lt</title>
+		<link>http://www.d-b.lt/2008/02/paranoja-html5.html/comment-page-1#comment-114</link>
+		<dc:creator>Savaitgalio skaitiniai #50 &#187; Pixel.lt</dc:creator>
+		<pubDate>Sun, 10 Feb 2008 09:13:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/2008/02/paranoja-html5.html#comment-114</guid>
+		<description>[...] Paranoja: HTML5 40 signs you really are a lousy PHP programmer - bent keletą punktų, kol neatsibos must read. [...]</description>
+		<content:encoded><![CDATA[<p>[...] Paranoja: HTML5 40 signs you really are a lousy PHP programmer &#8211; bent keletą punktų, kol neatsibos must read. [...]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Blogorama #330 : nežinau.lt</title>
+		<link>http://www.d-b.lt/2008/02/paranoja-html5.html/comment-page-1#comment-103</link>
+		<dc:creator>Blogorama #330 : nežinau.lt</dc:creator>
+		<pubDate>Wed, 06 Feb 2008 19:28:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/2008/02/paranoja-html5.html#comment-103</guid>
+		<description>[...] patogiausia diske - ne taip jau brangu įsigyti 500 GB talpos HD, internetui sumokėsi daugiau. • Dominykas kritiškai vertino HTML 5 standarto kūrėjų darbą. Tai ne pirma kritika, kurią skaitau. Kaip suprantu, pernelyg įvairios interesų grupės ten [...]</description>
+		<content:encoded><![CDATA[<p>[...] patogiausia diske &#8211; ne taip jau brangu įsigyti 500 GB talpos HD, internetui sumokėsi daugiau. • Dominykas kritiškai vertino HTML 5 standarto kūrėjų darbą. Tai ne pirma kritika, kurią skaitau. Kaip suprantu, pernelyg įvairios interesų grupės ten [...]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

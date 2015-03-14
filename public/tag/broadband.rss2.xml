@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaip tapti ekspertu? &#187; broadband</title>
+	<atom:link href="http://www.d-b.lt/tag/broadband.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Three mobilus internetas</title>
+		<link>http://www.d-b.lt/2008/03/three-mobilus-internetas.html</link>
+		<comments>http://www.d-b.lt/2008/03/three-mobilus-internetas.html#comments</comments>
+		<pubDate>Sun, 02 Mar 2008 16:22:47 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Airija]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[broadband]]></category>
+		<category><![CDATA[mobilus internetas]]></category>
+		<category><![CDATA[three]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2008/03/three-mobilus-internetas.html</guid>
+		<description><![CDATA[Taigi, prieš kelias neišlaikė nervai ir sugalvojau, kad vėl noriu namie interneto. Negana to &#8211; airių operatorius Three pradėjo teikti mobilų internetą su išankstiniu apmokėjimu &#8211; kadangi vis negaliu apsispręsti kiek ilgai dar čia gyvensiu, sutarties su niekuo nenorėjau pasirašyti. Reklama: iki 3.6Mbps, €25 per mėnesį ir jokių įsipareigojimų.
+Realybė
+Neskanų kvapą burnoje pradėjau jausti vos tik [...]]]></description>
+			<content:encoded><![CDATA[<p>Taigi, prieš kelias neišlaikė nervai ir sugalvojau, kad vėl noriu namie interneto. Negana to &#8211; airių operatorius <a href="http://www.three.ie/">Three</a> pradėjo teikti mobilų internetą su išankstiniu apmokėjimu &#8211; kadangi vis negaliu apsispręsti kiek ilgai dar čia gyvensiu, sutarties su niekuo nenorėjau pasirašyti. Reklama: iki 3.6Mbps, €25 per mėnesį ir jokių įsipareigojimų.</p>
+<h2>Realybė</h2>
+<p>Neskanų kvapą burnoje pradėjau jausti vos tik apsisprendžiau pirkti&#8230; Paslauga buvo gerai išreklamuota, todėl nuėjau į netoli namų esančią &#8220;3G&#8221; parduotuvę ir jie man ten pasakė, kad teikimo pradžia atidėta ir kad kreipčiausi tiesiogiai į Three. Dar pasakė, kad tėra viena oficiali Three parduotuvė centre &#8211; kita uždaryta. Smagu!</p>
+<p>Už valandos paskambino Three (nes buvau registruotas pranešimui apie teikimo pradžią) ir pasakė, kad visos parduotuvės veikia ir paslauga irgi veikia. Įdomu.</p>
+<p>Šeštadienį apsilankiau Carphone Warehouse, ten pasakė, kad centre veikia tik viena parduotuvė. Įdomu. Bet kadangi jie turėjo modemą ir paketą &#8211; nusipirkau. €179. Pirkimo procedūra užtruko 20 minučių ir jie nusirašė mano duomenis &#8211; atsiprašau, bet koks tikslas turėti &#8220;prepay&#8221; jeigu jis nesuteikia anonimiškumo? Ir koks tikslas daryti paprastą pakuotę, jeigu parduotuvėje vistiek sugaišti pusę dienos? Jeigu jie nori klientų &#8211; viskas turi būti paprasta kaip du kart du &#8211; atėjau į BET KURĮ prekybos centrą ar spaudos kioską, susimokėjau už modemą ir SIM kortelę ir prijungiau prie kompiuterio &#8211; lygiai kaip ir su paprastais telefonais. Na bet interneto namie labiau norėjosi, negu bumbėti.</p>
+<h2>Melai</h2>
+<p>Sunku net prisiminti kiek problemų teko apeiti, kol pagaliau viskas pradėjo veikti. Tačiau štai keletas klausimų:</p>
+<ul>
+<li>Kodėl dėžutėje su modemu yra neaiškios paskirties papildomas USB laidas ir jokios instrukcijos kaip juo naudotis, tačiau nėra papildomos antenos?</li>
+<li>Kodėl kiekvienas HTTP request&#8217;as į naujai lankomą puslapį yra redirektinamas į notify.three.co.uk, ten pasetinamas kukis ir tada redirektinama atgal? Kodėl Three išvis žiūri į mano kukius, kurie priklauso man ir trečioms šalims?</li>
+<li>Kodėl MyThree veikia tik su Internet Explorer?</li>
+<li>Kodėl greitis niekada nepakyla daugiau negu 50kb/s (400kbit &#8211; apie aštuntadalis pažadėto)?</li>
+<li>Kodėl negaliu aplankyti kai kurių svetainių ir apie tai pateikiamos tik &#8220;neaiškios kilmės&#8221; klaidos? (Atsakymas: nes tose svetainėse yra Daug Didelių Failų)</li>
+<li>Kodėl spausdintame reklaminiame palyginamąjame buklete parašyta, kad parsiunčiamų duomenų kiekis neribojamas (fair-use), bet realiai visur skelbiama ir iš tikro yra 10Gb, o po to neaišku kas &#8211; vienur 5ct kitur 50ct už MEGABAITĄ?</li>
+<li>Kodėl aš toks žioplas ir nepasižiūrėjau <a href="http://www.boards.ie/vbulletin/showthread.php?p=53759129">atsiliepimų</a> prieš pirkdamas? Ar gal kodėl aš taip labai norėjau interneto namie&#8230; Prisiminiau. Kad bloginčiau dažniau.</li>
+</ul>
+<h2>Verdiktas</h2>
+<p>Jeigu visiškai visiškai nėra kitos galimybės &#8211; Three internetas yra visai pakenčiamas. Ir šiaip jau ne per daug brangus. Tačiau jeigu nerasiu ZTE MF622 atrišimo sprendimo (kad vėliau pabėgti į O2 arba Vodafone jeigu bus galimybė) &#8211; manau, kad pasinaudosiu 14 day money back guarantee&#8230;</p>
+<p>O ką &#8211; jūs galvojote vien Lietuvoje žmonės apgaudinėjami?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2008/03/three-mobilus-internetas.rss2.xml</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

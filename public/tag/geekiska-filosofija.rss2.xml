@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaip tapti ekspertu? &#187; geekiška filosofija</title>
+	<atom:link href="http://www.d-b.lt/tag/geekiska-filosofija.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>robots.txt mitai ir neteisingas naudojimas</title>
+		<link>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html</link>
+		<comments>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html#comments</comments>
+		<pubDate>Mon, 04 Feb 2013 20:05:08 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[e-valdžia]]></category>
+		<category><![CDATA[geekiška filosofija]]></category>
+		<category><![CDATA[paieška]]></category>
+		<category><![CDATA[seo]]></category>
+		<category><![CDATA[užknisantys dalykai internete]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=426</guid>
+		<description><![CDATA[Anądien pliuse išsiliejau apie tai, kad dėl neaiškių priežasčių paieškos [ir kitokiems] robotams pusė Seimo svetainės yra &#8220;uždraustas turinys&#8221;. To rezultatas labai paprastas &#8211; ieškant, pvz., &#8220;PVM įstatymas&#8221; rezultatuose pirmu numeriu yra nuoroda į būtent tą įstatymą, tačiau nepateikiamas puslapio pavadinimas irba santrauka:
+ 
+Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &#8211; pastebėjau [...]]]></description>
+			<content:encoded><![CDATA[<p>Anądien <a href="https://plus.google.com/100293756761145273349/posts/BAaQjp2bjns">pliuse išsiliejau</a> apie tai, kad dėl neaiškių priežasčių paieškos [ir kitokiems] robotams pusė Seimo svetainės yra &#8220;uždraustas turinys&#8221;. To rezultatas labai paprastas &#8211; ieškant, pvz., &#8220;PVM įstatymas&#8221; rezultatuose pirmu numeriu yra nuoroda į būtent tą įstatymą, tačiau nepateikiamas puslapio pavadinimas irba santrauka:</p>
+<p style="text-align:center;"><a href="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-google.png"><img src="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-google-300x217.png" alt="" title="Google paieškos rezultatas" width="250" class="aligncenter size-medium wp-image-428" /></a> <a href="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-bing.png"><img src="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-bing-300x173.png" alt="" title="Bing paieškos rezultatas" width="250" /></a></p>
+<p>Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &#8211; pastebėjau keistų dėsningumų. Kaip ir kas kartą, kai <del>rašau</del> mąstau apie SEO, viskas susiveda į keletą paprastų taisyklių, kurių pati svarbiausia yra &#8220;Daryk taip, kad būtų gerai vartotojams, o robotai atsirinks viską taip, kaip reikia&#8221;.</p>
+<h3>Mitas: robots.txt padės paslėpti nepageidaujamus puslapius</h3>
+<p>Realybė: jeigu kažkokia informacija neturi būti vieša, nedėk jos į internetą. Paprasta kaip du kart du. Jeigu kažkoks puslapis egzistuoja kažkokioje iš išorės prieinamoje svetainėje &#8211; informacija yra prieinama visiems. Jeigu yra bent viena nuoroda į tą turinį &#8211; paieškos robotai suindeksuos vien patį nuorodos egzistavimo faktą ir iš to padarys išvadas. Jeigu nuorodų į tą turinį yra daug, tai tas puslapis netgi bus rodomas pirmu rezultatu paieškoje, lygiai taip, kaip matosi iš aukščiau pateikto pavyzdžio apie PVM įstatymą.</p>
+<p>Ką daryti? Jeigu reikia paslėpti turinį, tai reikia jį visų pirma ištrinti iš serverio ir įsitikinti, kad bandant užkrauti nuorodą serveris grąžina <code>404 Not found</code> arba dar geriau &#8211; <code>410 Gone</code>. Tik tada nuorodą į tą puslapį įtraukti į robotus. Jeigu įvyko kažkoks informacijos nutekėjimas ir reikalas skubus &#8211; vertėtų ir pasinaudoti, pvz., <a href="https://www.google.com/webmasters/tools">Google Webmaster Tools</a>, kad tą puslapį greičiau pašalintų iš įvairių indeksų.</p>
+<h3>Mitas: robots.txt padeda apsisaugoti nuo įsilaužėlių</h3>
+<p>Dalis valdžios (ir ne tik) įstaigų labai dažnai robots.txt užblokuoja administracijos interfeisus ir tikisi, kad taip kažkokiu būdu apsisaugos [nuo neaišku ko]. </p>
+<p>Realybė: nereikia net būti programišium, kad pabandytum nueiti į <code>/admin</code>. Vėl galioja ankstesnė mintis dėl informacijos viešumo, tačiau verta pridurti, kad robots.txt netgi sumažina saugumą: &#8220;slaptų&#8221; dalykų sąrašas yra laisvai prieinamas tiems, kam įdomu, ką jūs turite slapto. Man asmeniškai knieti sužinoti, kas gi yra/buvo &#8220;akreditacijos failuose&#8221; <a href="http://www.president.lt/robots.txt">prezidentūros svetainėje</a> bei kokiu pagrindu <a href="http://www.vrk.lt/robots.txt">VRK blokuoja</a> vieną iš <a href="http://www.vrk.lt/rinkimai/409_lt/Apygardos/Apygarda7137/StebetojaiApygardos7137.html">stebėtojų sąrašų</a>.</p>
+<p>Ką daryti? Vėlgi &#8211; jeigu turinys nėra viešas &#8211; nedarykite jo prieinamu iš to paties serverio. Didelės svarbos svetainėms išvis reikėtų savo administracijos konsoles padaryti pasiekiamas tik iš vidinių organizacijos tinklų ar per VPN. Taip pat pastebėjau, kad kartais yra blokuojamos direktorijos su sistemos programiniais viduriais (pvz., <code>modules</code> ar <code>includes</code>) &#8211; šitos direktorijos apskritai neturėtų gulėti po &#8220;web root&#8221;.</p>
+<h3>Mitas: robots.txt apsaugo nuo kenkėjiškų siurbėlių</h3>
+<p>Realybė: robots.txt gerbia tik geranoriški robotai. Piktavaliams į jūsų robots.txt nusispjauti lygiai taip pat, kaip į kelio ženklus gaideliams, kurie automobilius statosi neįgaliesiems skirtose vietose. Tiems, kas nori nusikopijuoti visą jūsų svetainę, jūsų prašymas nesiurbti yra ne trukdis.</p>
+<h3>Mitas: blokavimas robots.txt padeda suvaldyti serverio apkrovas</h3>
+<p>Realybė: kai kurie visai legitimių paieškos variklių <i>crawleriai</i> yra pakankamai agresyvūs, todėl iš dalies suprantu LRS nustatymuose pamatęs draudimus Baidu botui, tačiau šiuo atveju tikslas nepateisina priemonių &#8211; &#8220;paslėpus&#8221; dalį svetainės tikriems žmonėms bus sunkiau surasti tą informaciją.</p>
+<p>Ką daryti? Jeigu svetainė nesusitvarko su apkrovomis, reikia optimizuoti svetainę arba pirkti galingesnius serverius. Jeigu vienas konkretus robotas ar žmogus elgiasi per daug agresyviai, galbūt ir verta <em>trumpam</em> užblokuoti tik tą asmenį ar botą, bet tai derėtų daryti firewall/load balancer ar tiesiog HTTP serverio lygmeny (su <a href="http://googlewebmastercentral.blogspot.com/2011/01/how-to-deal-with-planned-site-downtime.html">503 Service Temporarily Unavailable ir Retry-After</a>), o ne per robots.txt. Taip pat galima eksperimentuoti blokuojant tik keletą &#8220;brangių&#8221; (CPU naudojimo požiūriu) puslapių, bet turbūt daug geriau būtų tiesiog juos kešuoti.</p>
+<h3>Pavojus: apkrovų valdymas su crawl-delay</h3>
+<p>Mintis, atrodytų, puiki &#8211; gražiai besielgiantiems robotams galima nurodyti kas kiek sekundžių jie gali kreiptis į svetainę. Realybė? Ta pati LRS svetainė rekomenduoja nesikreipti dažniau nei kas 20 sekundžių. Ką tai reiškia? Kad paieškos variklis per dieną tegali suindeksuoti vos kiek daugiau nei 4000 dokumentų. Įvertinus, kad didelės svarbos puslapius reikia indeksuoti dažniau &#8211; kelis kartus per dieną ar net per valandą (pvz., titulinį puslapį ar naujienas) &#8211; patiems įstatymams, nutarimams, posėdžių ir balsavimų išrašams indeksuoti praktiškai nelieka laiko.</p>
+<p>Ką daryti? Kaip ir aukščiau &#8211; tvarkyti problemos priežastį (sistemos lėtumą), o ne glaistyti simptomus. Taip pat galima naudoti <a href="http://www.sitemaps.org/protocol.html">sitemaps.xml</a>, kad konkretiems puslapiams nurodyti, kad jie daugiau nebebus atnaujinami &#8211; taip sumažinant konkrečių dalių atnaujinimų kiekį, bet nepakenkiant visai likusiai svetainei.</p>
+<h3>Klaida: pilno adreso rašymas į robots.txt</h3>
+<p>Realybė: robots.txt galioja vienam ir tik vienam domeinui &#8211; tam, kuriame jis gyvena. Rašant pilną adresą (taip kaip tai daro pvz., <a href="http://www.kaunas.lt/robots.txt">Kauno savivaldybė</a>) puslapis lieka išvis neužblokuotas.</p>
+<p>Čia, beje, dar privalau paminėti, kad mane siutina, kai administratoriai nesutvarko konfigūracijų taip, kad svetainės veiktų įrašius adresą ir su, ir be www, bet čia kitos dienos tema.</p>
+<h3>Klaida: neradus dokumento perkelti vartotoją į namų puslapį</h3>
+<p>Bežiūrinėdamas įvairių svetainių robotus atradau įsikerojusią negerą praktiką &#8211; suvedus neegzistuojantį adresą naršyklė nukeliauja į namų puslapį arba &#8211; netgi dar blogiau &#8211; tiesiog parodomas namų puslapis. Čia yra negera praktika, nes ji atveria kelia <a href="http://en.wikipedia.org/wiki/Google_bomb">Google bomboms</a>, lankytojų gluminimui, taip pat darko paties svetainės administratoriaus statistikas (jeigu tie administratoriai apskritai stebi savo logus&#8230;) bei šiaip yra nesilaikoma standartų.</p>
+<p>Ką daryti? Jeigu puslapis neegzistuoja &#8211; grąžinti klaidos puslapį. Ir nieko čia blogo! Klaidos puslapyje galima pateikti nuorodas į tolimesnę informaciją ar paiešką, bet visų svarbiausia &#8211; grąžinti teisingą HTTP status kodą (404 arba 410).  Perkelti į kitą puslapį apskritai dera tik tuo atveju, kai esame garantuoti, kad perkeliame į tą turinį, kurio ieško vartotojas. Kalbant apie robots.txt geriausiai būtų tiesiog sukurti tuščią failą, o ne tiesiog patiekti kažkokį kitą puslapį.</p>
+<h3>Rekomendacija: valstybinės įstaigos neturėtų blokuoti puslapių su robots.txt</h3>
+<p>Peržvelgus mitus akivaizdu, kad naudos to failiuko ne kažkas. Nepaisant to, kad rekomendacija neblokuoti galioja ir verslui, mano nuomone, valstybei ji yra privaloma. Valstybės informacija yra vieša (o VSD turbūt neturėtų slaptų dokumentų kelti į internetą ir tiek). Ir ta informacija yra vieša tiek žmonėms, tiek robotams. Jeigu užblokuojami visi robotai, apsunkinamas informacijos pasiekiamumas žmonėms, o tai jau savaime yra blogis. LRS atveju matome ir specifinių robotų blokavimą (Bing, Yandex, bet ne Google) &#8211; tai, mano nuomone, taip pat yra didelis blogis, nes suteikiama privilegija vienam verslui, bet ne kitiems &#8211; valstybė neturėtų diskriminuoti, ypač atviros informacijos pasiekiamumu. Blokuojant informaciją su robots.txt taip pat gaunamas ir dar vienas neigiamas rezultatas vartotojui &#8211; vietoje oficialaus šaltinio (valstybės) paieškoje grąžinami verslo puslapiai (pvz., Infolex).</p>
+<h3>Tai kada robots.txt naudingas?</h3>
+<p>Iš esmės matau tik kelis atvejus, kai robots.txt naudoti yra labiau teigiama negu neigiama:</p>
+<ul>
+<li>jeigu įvyko netyčinis informacijos nutekėjimas (visiems pasitaiko) &#8211; pirmiausia nutekėjusią informaciją reikia visiškai pašalinti, po to <del>galima</del> <a href="http://support.google.com/webmasters/bin/answer.py?hl=en&#038;answer=1663419">derėtų</a> papildomai užblokuoti buvusį adresą robotams, kad jis būtų <del>[greičiau]</del> pašalintas iš indeksų;</li>
+<li>vidinės svetainės paieškos rezultatų blokavimui (bet ne aklai!) &#8211; pasinaudojus Google paieška, patekti į kitos svetainės paieškos rezultatus yra neoptimalu, todėl praradimas yra nedidelis ir šiuo atveju pasigamina šiokia tokia optimizacija;</li>
+<li>menkavertės informacijos prioriteto sumažinimui &#8211; vėlgi reikia gerai pasvarstyti, bet, pvz., kokio nors wiki puslapio redagavimo istorija yra mažiau aktuali nei pats puslapis, todėl kartais gali apsimokėti ją &#8220;prislopinti&#8221;.</li>
+</ul>
+<p>Pabaigai &#8211; jeigu LRS atveju, įtariu, blokavimas atsirado netyčia, greičiausiai dėl sistemų perkonfigūravimo ar atnaujinimo, tai, pvz., <a href="http://www.vlkk.lt/robots.txt">VLKK</a> ar <a href="http://www.lkpt.lt/robots.txt">kelių policijos</a> atvejai mane verčia rautis plaukus &#8211; kodėl svetainės užblokuotos <em>visiškai</em>?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.rss2.xml</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ateikit į InfoShow WEB konferenciją 2012</title>
+		<link>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html</link>
+		<comments>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html#comments</comments>
+		<pubDate>Tue, 17 Apr 2012 14:54:18 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[geekiška filosofija]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[url]]></category>
+		<category><![CDATA[usability]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=403</guid>
+		<description><![CDATA[
+Būti front-end programuotoju yra OSAM. Osam, nes sudėtinga &#8211; štai pvz. naujausia Sunday Business Post versija turi keturis kartus daugiau front-end kodo, negu back-end. Balandžio 21 d. apie tai kalbėsiu InfoShow festivalio WEB konferencijoje.
+Dar kalbėsiu apie tai, kaip paskutiniu metu internetai yra gadinami, kaip jūs visi esate neteisūs ir kaip tik aš vienas išmanau, kaip [...]]]></description>
+			<content:encoded><![CDATA[<p><img src="http://www.d-b.lt/uploads/2012/04/41607_292463217490036_926997090_n.jpg" style="margin-left: 1em; margin-bottom: 1em; float: right; border: 0;" alt="InfoShow WEB konferencijos logotipas" /><br />
+Būti <i>front-end</i> programuotoju yra <strong><i>OSAM</i></strong>. <i>Osam</i>, nes sudėtinga &#8211; štai pvz. naujausia <a href="http://www.businesspost.ie/">Sunday Business Post</a> versija turi keturis kartus daugiau <i>front-end</i> kodo, negu <i>back-end</i>. Balandžio 21 d. apie tai kalbėsiu <a href="http://infoshow.info/">InfoShow</a> festivalio WEB konferencijoje.</p>
+<p>Dar kalbėsiu apie tai, kaip paskutiniu metu internetai yra gadinami, kaip jūs visi esate neteisūs ir kaip tik aš vienas išmanau, kaip Teisingai gaminti svetaines. Apžvelgsiu dalykus nuo &lt;a&gt; iki SEO*, nuo CSS iki <i>usability</i>, nuo W3C standartų iki programuotojų etikos. Prisiliesiu prie nesenų &#8220;skandalų&#8221; apie <i>vendor prefixes</i>, mobilias prieš &#8220;normalias&#8221; svetaines, kabliataškius Javascript ir pareikšiu savo Ypatingai Svarbią ir Autoritetingą Nuomonę tais klausimais.</p>
+<p>Veiksmas KTU Elektronikos fak.** 101 auditorijoje, <a href="http://www.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fviewform%3Fformkey%3DdFE2dXRUZWNmVTVCU2xYelZ2RmFIN3c6MQ%23gid%3D0&#038;h=eAQHd9D85">registracija gūgluose</a>, <a href="http://www.facebook.com/events/292463217490036/">aprašymas Veidaknygėje</a>, programa:</p>
+<ul>
+<li>11:00 <a href="https://twitter.com/zaza_lt">Sergej Kurakin</a> &#8211; Projekto su 1M lankytojų per dieną apkrovimo paskirstymo istorija;</li>
+<li>12:00 <a href="http://sergejus.blogas.lt/">Sergejus Barinovas</a> &#8211; Introduction to Big Data and Hadoop;</li>
+<li>13:00 Edvinas Aleksejonokas &#8211; Python/Django;</li>
+<li>14:00 Pietūs</li>
+<li>15:00 Rokas Paškevičius &#8211; SEO friendly žiniatinklio aplikacijų kūrimas;</li>
+<li>15:45 Dominykas Blyžė (taigi čia aš!) &#8211; <del>Priekinio galo</del> Kliento pusės kūrimo ypatumai;</li>
+<li>16:45 Mažvydas Skuodas &#8211; Kodo derinimo metodai: Zend, Xdebug, Firebug;</li>
+<li>17:45 Paulius Paškevičius &#8211; KTU LSS projektas</li>
+<li>19:00 After Party @ <a href="http://www.facebook.com/kavine.kultura">Kavinė Kultūra</a></li>
+</ul>
+<p>Renginys nemokamas.</p>
+<p style="font-size: 85.7%">* iš tikro tai apie SEO nieko nesakysiu, nes apie tai kalbės Rokas.</p>
+<p style="font-size: 85.7%">** ne keiksmažodis.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.rss2.xml</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Apie prioritetus ir kodo grožį</title>
+		<link>http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html</link>
+		<comments>http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html#comments</comments>
+		<pubDate>Tue, 07 Sep 2010 23:20:07 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[geekiška filosofija]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=280</guid>
+		<description><![CDATA[Sėdėdamas ir žiūrėdamas eilinę prezentaciją apie Javascript ir accessibility YDN teatre prisiminiau mintį: programuotojai nemėgsta usability, nes reikia rašyti daug if&#8216;ų. Užsimąsčiau apie tai, kad programuotojo darbas susideda iš labai daug balansavimo.
+Taigi, tam, kad sukurti pakankamai patogų interfeisą, reikia rašyti daug kodo eilučių. Tai natūraliai turi įtakos veikimo greičiui. Tam, kad sistema veiktų greitai, kartais [...]]]></description>
+			<content:encoded><![CDATA[<p>Sėdėdamas ir žiūrėdamas eilinę prezentaciją apie Javascript ir <i>accessibility</i> <a href="http://developer.yahoo.net/blogs/theater/">YDN teatre</a> prisiminiau mintį: <em><a href="http://www.sadauskas.lt/index.php/2007/04/09/usability-ir-programuotojai/">programuotojai nemėgsta <i>usability</i>, nes reikia rašyti daug <i>if</i>&#8216;ų</a></em>. Užsimąsčiau apie tai, kad programuotojo darbas susideda iš labai daug balansavimo.</p>
+<p>Taigi, tam, kad sukurti pakankamai patogų interfeisą, reikia rašyti daug kodo eilučių. Tai natūraliai turi įtakos veikimo greičiui. Tam, kad sistema veiktų greitai, kartais tenka aukoti funkcionalumą, o kartais tenka rašyti visiškai nesuprantamą galvosūkį keistų simbolių, kurių net patyrę programuotojai nesupranta. Tam, kad kodas būtų lengvai skaitomas ir nekeltų daug problemų, kai reikia jį tvarkyti, tenka aukoti kitus dalykus, pvz. tą patį <i>accessibility</i>. Kad padaryti kažką arčiau tobulumo, tenka sugaišti begalybę laiko ir pinigų, ir tada atsiranda problema su tais, kas užsakinėja muziką.</p>
+<p>Žiūrint prezentacijas, įvairūs specialistai vis kartoja savo srities mantras &#8211; &#8220;daryk taip ar anaip, ir sutaupyk trečdalį sekundės siuntimo laiko&#8221;, &#8220;<i>agile</i> procesas sako, kad nereikia per daug laiko skirti planavimui&#8221;, &#8220;<i>user centered</i> procesas sako, kad reikia skirti pakankamai laiko vartotojų tyrimams ir pasiruošimui&#8221;. Dar anądien ir pats norėjau parašyti blog&#8217;ą apie tai, kaip paprasta naudojant naujus HTML5 atributus ir elementarias &#8220;geriausias praktikas&#8221; suprogramuoti patvirtinimo dialogą, kuris veikia visose situacijose, įdedant &#8220;vos keletą eilučių daugiau&#8221; kodo (gal ir parašysiu kada kai bus gera nuotaika).</p>
+<p>Atmetus seną gerą taisyklę, kad iš &#8220;gerai&#8221;, &#8220;pigiai&#8221; ir &#8220;greitai&#8221; galima pasirinkti tik du, aš savo kasdieniame darbe, kodą rašau remdamasis maždaug tokiais principais:</p>
+<ol start="0">
+<li><strong>Kodo grožis</strong> &#8211; žr. paskutinį punktą šiame sąraše.</li>
+<li><strong>Produkto patogumas</strong> &#8211; aš linkęs paaukoti labai daug kitų dalykų tam, kad galutinis rezultatas patenkintų galutinį vartotoją &#8211; ar tai būtų klientas, ar kitas programuotojas naudojantis mano <abbr title="Application Programming Interface">API</abbr>.</li>
+<li><strong>Minimalizmas</strong> &#8211; jeigu kažko galima nedaryti &#8211; aš padarysiu viską, kad to nedaryti. Šitas principas iš esmės paaiškina du žemiau esančius punktus. Papildoma taisyklė &#8211; <strong>blogas programuotojas tas, kuris nėra tinginys</strong>.</li>
+<li><strong>Palaikymo kaina</strong> &#8211; iš esmės susiveda į tai, kad reikia rašyti mažiau kodo ir reikia jį organizuoti kuo mažesniais, suprantamais gabaliukais. Visa tai galutiniam rezultate reiškia a) mažiau šansų vabaliukams b) lengviau suvokti. Be abejo, sutrauktas ir minimalizuotas kodas nereiškia, kad jis yra lengviau suprantamas ar palaikomas (čia ypač tinka kalbant apie tokius dalykus kaip visa Perl kalba, regex arba LINQ) &#8211; šis principas yra iš esmės narciziškas ir remiasi į tai, kad atėjęs kitas žmogus nesugadins veikiančio dalyko.</li>
+<li><strong>Sukūrimo kaina / produktyvumas</strong> &#8211; šis punktas yra skiriamoji linija &#8211; dėl visko, kas yra aukščiau jo, aš linkęs aukotis ir sėdėti viršvalandžius. O kalbant apie tai, kas yra žemiau jo, tai tikėtinas variantas yra, kad aš paliksiu <code>@todo</code> žymeles.</li>
+<li><strong>Standartai, <i>best practices</i> ir &#8220;teisingumas&#8221;</strong> &#8211; šis principas anksčiau būdavo gerokai aukščiau šiame sąraše &#8211; turbūt dėl to dabar dėl tokių dalykų nebereikia jaudintis, nes jie ateina natūraliai. Tiesiog, įvertindamas kitus faktorius mieliau pasirinksiu paprastumą vietoj devynaukščio objektinio dizaino <i>pattern</i>&#8216;o. &#8220;Teisingumas&#8221; šiuo požiūriu reiškia puritoniškumą ir naivų idealo siekimą, o ne tiesiog &#8220;veikiantį kodą&#8221;.</li>
+<li><strong><i>Accessibility</i></strong> &#8211; iš dalies čia truputį gėda. Iš kitos pusės, lygiai kaip ir su standartais ir &#8220;teisingumu&#8221; &#8211; tiesiog esu įpratęs padaryti tam tikrą kiekį šito darbo automatiškai ir nesistengdamas, o daugiau papildomų pastangų tam nededu, nes jos daugiau kainuoja, negu duoda naudos.</li>
+<li><strong>Plečiamumas</strong> &#8211; praktiškai niekada nededu papildomų pastangų vien tam, kad patenkinti vidinį spirgėjimą &#8220;o jeigu netyčia prireiktų padaryti XYZ&#8221; &#8211; net jeigu ateityje nepavyksta padaryti chirurgiškai tikslaus, vienos kodo eilutės dydžio, įpjovimo tam, kad sukurti papildomų funkcijų, susumavus vistiek išeina tiesiog pigiau <i>refactorinti</i> ar net perrašyti.</li>
+<li><strong>Veikimo greitis</strong> &#8211; čia nekalbu apie varotojo suvokimą/įsivaizdavimą apie interfeisą &#8211; daugiau apie realius CPU/atminties resursus. Manau, kad geriausia yra žinoti tobulintinus dalykus, tačiau pasitenkinti tiesiog &#8220;gerais programavimo įpročiais&#8221; tol, kol nereikia to tvarkyti. O kai prisireikia tvarkyti &#8211; visų pirma gerai pamatuoti!</li>
+<li><strong>Kodo grožis</strong> &#8211; paminėjau šitą dalyką pirmu numeriu, tačiau labai retai darau taip, kad kodas atrodytų &#8220;gražus&#8221;. Grožis yra subjektyvus, o <strong>patenkinus visus aukščiau esančius reikalavimus, kodas pats savaime atrodo gražus</strong>.</li>
+</ol>
+<p>Dabar kai jau surašiau <del>juodu ant balto</del> klaviatūra į ekraną, viskas atrodo taip akivaizdu&#8230; Ką praleidau? Kokia jūsų prioritetų tvarka?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.rss2.xml</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Noriu pastovios adresų ir turinio struktūros</title>
+		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</link>
+		<comments>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comments</comments>
+		<pubDate>Mon, 10 Dec 2007 21:34:36 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[blogo pradžia]]></category>
+		<category><![CDATA[duplicate content]]></category>
+		<category><![CDATA[geekiška filosofija]]></category>
+		<category><![CDATA[seo]]></category>
+		<category><![CDATA[url]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</guid>
+		<description><![CDATA[Praėjusiame įraše privėliau filosofijos apie URL prasmę iš web skaitytojo pozicijos. Senamadiško, techniško ir well&#8230; geekiško web skaitytojo pozicijos &#8211; iš esmės tai, ko aš tikiuosi iš adresų, kuriuos &#8220;sukuria&#8221; kiti. Šiame įraše dar keletas pastabų, kurių nedera pamiršti tinklapio administratoriui.
+Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją reikės keisti. Štai WP nėra [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html">Praėjusiame įraše</a> privėliau filosofijos apie URL prasmę iš web skaitytojo pozicijos. Senamadiško, techniško ir <i>well</i>&#8230; geekiško web skaitytojo pozicijos &#8211; iš esmės tai, ko aš tikiuosi iš adresų, kuriuos &#8220;sukuria&#8221; kiti. Šiame įraše dar keletas pastabų, kurių nedera pamiršti tinklapio administratoriui.</p>
+<p>Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją <strong>reikės keisti</strong>. Štai WP nėra pritaikytas PHP5 &#8211; ką jau bekalbėti apie PHP6, be to laikas nuo laiko išeina naujos jo versijos. Ir apskritai soft&#8217;as nėra amžinas &#8211; jo keitimas yra tiesiog garantuotas ilgalaikiu laikotarpiu. Tuo tarpu renkantis svetainės struktūrą reikėtų atsiminti, kad jos keitimas gali brangiai kainuoti. Renkantis adresų struktūrą visų svarbiausia įsidėmėti, kad jos keitimas užtruks ilgą laiką &#8211; tokio pragaro nelinkiu niekam.</p>
+<h2>Robotams ir vartotojams</h2>
+<p>Pirma adreso taisyklė SEO (einanti po nulinės &#8220;prikišk daug keywordų&#8221;) &#8211; jis neturėtų keistis ir idealiame pasaulyje turėtų būti amžinas. Jeigu jis pasikeitė &#8211; be abejo galima sudėlioti teisingus HTTP redirektus (301 Moved Permanently į naują adresą, vėliau laikui bėgant pakeisti į 410 Gone). Tačiau net su redirektais, adreso keitimas užsitraukia paieškos robotų nemalonę. Pavyzdys iš realybės: dar dabar kai kurie paieškos varikliai yra sucache&#8217;inę seno mano darbovietės puslapio variantą su ASP adresais ir nenori jo užmiršti. Keitimas įvyko prieš 2 metus. </p>
+<p>Adreso pasikeitimas taipogi turi reikšmės tarp lankytojų &#8211; jų išsaugotos nuorodos pradingsta &#8211; nesvarbu ar tai buvo tiesiog browseryje, digg&#8217;e, del.ici.ous ar kaip.tikten.lt. Jeigu siekiate gero ir ilgalaikio rezultato &#8211; svetainės (ar blog&#8217;o) struktūra turėtų išlikti pastovi, net išėjus naujai PHP ar WordPress versijai, o tuo labiau pasikeitus pačiam administravimo įrankiui.</p>
+<p>Dar viena SEO taisyklė yra &#8220;Vienas turinys &#8211; vienas adresas&#8221;. Google gana aiškiai yra išreiškusi savo poziciją apie <dfn title="Pasikartojantis turinys">duplicate content</dfn> &#8211; ir nors dažnai jis gali atsirasti &#8220;netyčia&#8221;, į tai reikia atsižvelgti ir bent pasistengti to vengti. WordPress iki 2.3 versijos leisdavo pasiekti tą patį įrašą bent 3-4 būdais. Nors dažniausiai tos nuorodos būdavo standartinės, tai mažų mažiausiai kėlė betvarkę &#8211; fui. Net nepaisant papildomos paieškos variklių <strike>nuobaudos</strike> &#8220;<a href="http://searchengineland.com/070315-100022.php">neįvertinimo</a>&#8221; pasikartojančiam turiniui, nesilaikant vieningos nuorodų struktūros prarandama dalis <i>link juice</i> &#8211; t.y. turinio (įrašo) reitingas padalinamas keliems adresams, o ne vienam.</p>
+<h2>Tai ko aš nepatenkintas?</h2>
+<p>WP 2.3 versija standartiškai stengiasi perkelti į <i>canonical</i> adresą &#8211; t.y. adresų taisyklė yra <i>enforce&#8217;inama</i>. Tačiau ar to pakanka? Naršant po kategorijas, archyvus, žymes ir kt. WP standartiškai rodo visą įrašo tekstą (nebent naudojama <i>more</i> žymė ir/arba papildomi nustatymai. Tai reiškia, kad <i>duplicate content</i> problema nėra išspręsta. Taipogi problematiška dalis yra puslapiavimas &#8211; įdėjus naują įrašą, viskas persislenka žemyn &#8211; tuo pačiu, tas pats turinys kuriam laikui atsiranda keliuose puslapiuose (bent laikinai &#8211; page/2, page/3). Viena bjauriausių situacijų su radinukais paieškoje būna kai ieškomas tekstas yra pvz. adrese forum.php?page=10 &#8211; tačiau kadangi virš ieškomo teksto jau žmonės yra papildomai ką nors parašę &#8211; tikrasis tekstas yra atsidūręs jau forum.php?page=12.</p>
+<p>Paprasto sprendimo šiai problemai nėra, tačiau tiek kategorijos, tiek archyvai blog&#8217;e tėra rodyklės (<i>turinys, index, sugalvok savo žodį</i>) &#8211; todėl jie ir turėtų elgtis kaip tokie. Kadangi blog&#8217;as pagal savo <i>definitioną</i> yra chronologinis dalykas, manau, kad vienas iš mažiausiai kenksmingų variantų būtų rodyti kategorijos (tago) puslapyje kelis paskutinius įrašus, o toliau leisti browsinti pagal datą &#8211; jeigu kategorija (ar visas blogas) ganėtinai aktyvus &#8211; rodyti sakykim mėnesio įrašus, jeigu mažiau aktyvus &#8211; rodyti visus metų įrašus, taip atsikratant puslapiavimo poreikio, o tuo pačiu &#8211; niekam tikusių puslapiuotų adresų.</p>
+<p>Adreso bei turinio pastovumas ir &#8220;patikimas&#8221; buvo dvi esminės problemos, kurios mane ilgiausiai stabdė paleidžiant savo blog&#8217;ą &#8211; norėjosi skirti pakankamai laiko apmąstymams ir šiaip dėsningumų įvertinimui tam, kad nesigailėčiau tada kai pradėsiu pasitikėti <a href="http://habariproject.org/">Habari</a>. Artimiausiame įraše &#8211; mano apsisprendimas dėl struktūros.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.rss2.xml</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Noriu padorios adresų struktūros</title>
+		<link>http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html</link>
+		<comments>http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html#comments</comments>
+		<pubDate>Fri, 07 Dec 2007 07:40:03 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[blogo pradžia]]></category>
+		<category><![CDATA[geekiška filosofija]]></category>
+		<category><![CDATA[semantinis tinklas]]></category>
+		<category><![CDATA[semantiškas tinklas]]></category>
+		<category><![CDATA[url]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html</guid>
+		<description><![CDATA[Renkantis bet kokią web turinio valdymo sistemą vienas iš pagrindinių klausimų yra jos pritaikomumas SEO. Kaip žinia, gana svarbus to faktorius yra URL optimizacija. Kas yra optimalus URL galima diskutuoti daug, tačiau mano asmeniniai kriterijai yra šie:
+
+URL, kaip failų sistemos atspindys, reiškia failą
+URL identifikuoja failo vietą &#8211; direktoriją, kurioje jis guli
+URL identifikuoja failo turinį (failo [...]]]></description>
+			<content:encoded><![CDATA[<p>Renkantis bet kokią web turinio valdymo sistemą vienas iš pagrindinių klausimų yra jos pritaikomumas SEO. Kaip žinia, gana svarbus to faktorius yra URL optimizacija. Kas yra optimalus URL galima diskutuoti daug, tačiau mano asmeniniai kriterijai yra šie:</p>
+<ul>
+<li>URL, kaip failų sistemos atspindys, reiškia failą</li>
+<li>URL identifikuoja failo vietą &#8211; direktoriją, kurioje jis guli</li>
+<li>URL identifikuoja failo turinį (failo pavadinimas &#8211; turinio pavadinimas)</li>
+<li>URL identifikuoja failo tipą (pagal išplėtimą)</li>
+<li>URL padeda indetifikuoti failo statiškumą/dinamiškumą</li>
+</ul>
+<h2>URL identifikuoja failą</h2>
+<p>
+Pati URL sąvoka reiškia būtent tai, kad jis yra <strong>nuoroda į kažkokį resursą</strong>. Jeigu kalbėti apie web svetaines &#8211; senų senovėje HTTP metodas GET reikšdavo &#8220;atsiųsk man šitą hipertekstinį failą, iš anos direktorijos, iš to serverio&#8221;. Tai be abejo tiko statiškam turiniui, ir atsiradus visokiai dinamikai tai nustojo šiek tiek galioti.
+</p>
+<h2>URL identifikuoja failo vietą</h2>
+<p>
+Aš esu per jaunas, kad atsiminti vienos dimensijos failų sistemas, nors ir teko naudotis santakomis, kurios užsikraudavo iš kasečių. Bet kuri padori <strong>failų sistema yra hierarchija</strong> suskirstyta į direktorijų medį, su failais juose. Bet kuri didesnė web svetainė taipogi turi savo struktūrą &#8211; dažniausiai užtenka elementaraus medžio. Kalbant apie blog&#8217;us &#8211; to pakanka.
+</p>
+<h2>URL identifikuoja failo turinį</h2>
+<p>
+Šitą principą jau seniai įsikando visi optimizuotojai ir dauguma turinio valdymo sistemų jam yra pritaikytos. Paprastais žodžiais kalbant &#8211; puslapio/įrašo <strong>turinys privalo sutapti su tuo, ką matome adrese</strong>, t.y. iš esmės su jo pavadinimu.
+</p>
+<h2>URL identifikuoja failo tipą</h2>
+<p>
+Žiūrint iš vartotojo pusės, jeigu adrese nesimato turinio formos &#8211; turinys gali būti pavojingas. Iš dalies, tai yra optinė apgaulė (hell &#8211; sandros papai ir panašūs virusai būtent remiasi tuo, kad vartotojas matydamas .jpg išplėtimą tikisi .jpg failo), tačiau aš visiškai nemėgstu spausti nuorodos ir ten netikėtai rasti PDF dokumentą. Ši taisyklė šiek tiek gadina reikalą, jeigu kalbame apie <i>mobile content</i>, nes priklausomai nuo aparato/naršyklės tenka keisti failo tipą (WML <-> cHTML, etc.), tačiau kol kas tą ketinu ignoruoti, nes pradžioje mano turinys vistiek nebus pritaikytas WAP&#8217;ui.
+</p>
+<h2>URL identifikuoja turinio statiškumą</h2>
+<p>
+Kaip jau minėjau aukščiau, atsiradus dinamiškam turiniui tinkle, šiek tiek nustojo galioti principas, kad URL rodo į failą. Mano nuomone, dinamiškumas turi būti atspindėtas <dfn title="paieškos parametrų eilutė?">query string</dfn> (elementariaus pavyzdys &#8211; paieškos filtras ir jo parametrai adrese). Jeigu kalbėti apie blog&#8217;us ir šiaip didžiąją dalį svetainių &#8211; <strong>turime gana statiškų resursų rinkinį</strong> (t.y. nekeičiančių savo prasmės ir turinio) &#8211; daug įrašų, kurie iš esmės tėra HTML failai, gulintys savo vietoje. Tam ir yra skirti <i>permalinks</i>.
+</p>
+<h2>URL ir SEO yra skirti žmogui</h2>
+<p>
+<a href="http://www.google.com/support/webmasters/bin/answer.py?hl=en&#038;answer=35769">Google savo nurodymuose</a> teigia, kad nereikėtų rūpintis puslapio optimizavimu robotams &#8211; reikia rūpintis vartotojais. Net jeigu dalis iš mano išvardintų reikalvimų adresui neturi jokios reikšmės paieškos robotams, jie yra svarbūs lankytojui. Gera nuoroda lengva dalintis, be to ji gerai atrodo ir <dfn title="Search Engine Results Page">SERP</dfn>. Šiuolaikiniame internete, paieškos robotai privalo prisitaikyti prie žmogaus ir prie internetinės realybės (t.y. didelio <i>bardako</i>), tačiau aš mėgstu tvarką ir prasmę. Adresas <code>/2007/12/noriu-padorios-adresu-strukturos.rss2.xml</code> man yra tiesiog malonesnis ir prasmingesnis už <code>/2007/12/noriu-padorios-adresu-strukturos/feed/</code> ar tuo labiau už <code>/index.php?p=4&#038;feed=rss2</code>
+</p>
+<p>Šiame įraše paminėjau tik esminius meta reikalavimus URL struktūrai &#8211; tačiau vien to geram adresui negana. Turint plačias galimybes, galima nesunkiai viską sugadinti, o be to žvelgiant iš SEO perspektyvos &#8211; yra ir keletas papildomų reikalavimų, kuriuos dera apžvelgti atskirai.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.rss2.xml</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaip tapti ekspertu? &#187; javascript</title>
+	<atom:link href="http://www.d-b.lt/tag/javascript.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Ateikit į Vilnius JS susitikimą</title>
+		<link>http://www.d-b.lt/2012/11/ateikit-i-vilnius-js-susitikima.html</link>
+		<comments>http://www.d-b.lt/2012/11/ateikit-i-vilnius-js-susitikima.html#comments</comments>
+		<pubDate>Sun, 18 Nov 2012 15:36:02 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[javascript]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=419</guid>
+		<description><![CDATA[
+Lapkričio 20, Vilnius HUB vyks pirmasis Vilniaus JavaScript programuotojų susitikimas, pasidiskutavimas ir [nemokamos] picos/alaus paragavimas.
+Jo metu aš papasakosiu apie pažadus (Promises/A ir Promises/A+ ribose), su kuo jie valgomi ir kaip jie padeda valdyti visokius asinchroniškai vykstančius dalykus beigi parodysiu keletą pavyzdžių su Q biblioteka.
+Taip pat Vytautas Butkus papasakos apie modulinę, eventais paremtą vartotojo sąsajos architektūrą.
+Užsiregistruokit [...]]]></description>
+			<content:encoded><![CDATA[<p><img src="http://www.d-b.lt/uploads/2012/11/77efc55f3a45a22ba891ba532ec16c77.png" style="margin-left: 1em; margin-bottom: 1em; float: right; border: 0;" alt="Vilnius JS logotipas" /><br />
+Lapkričio 20, Vilnius HUB vyks <a href="http://vilniusjs.lt/">pirmasis Vilniaus JavaScript programuotojų susitikimas</a>, pasidiskutavimas ir [nemokamos] picos/alaus paragavimas.</p>
+<p>Jo metu aš papasakosiu apie pažadus (<a href="http://wiki.commonjs.org/wiki/Promises/A">Promises/A</a> ir <a href="https://github.com/promises-aplus/promises-spec">Promises/A+</a> ribose), su kuo jie valgomi ir kaip jie padeda valdyti visokius asinchroniškai vykstančius dalykus beigi parodysiu keletą pavyzdžių su <a href="https://github.com/kriskowal/q">Q biblioteka</a>.</p>
+<p>Taip pat <a href="https://github.com/bytasv">Vytautas Butkus</a> papasakos apie modulinę, <i>eventais</i> paremtą vartotojo sąsajos architektūrą.</p>
+<p><a href="https://tito.io/vilniusjs/vilniusjs-1">Užsiregistruokit</a> ir ateikit.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2012/11/ateikit-i-vilnius-js-susitikima.rss2.xml</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Ateikit į InfoShow WEB konferenciją 2012</title>
+		<link>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html</link>
+		<comments>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html#comments</comments>
+		<pubDate>Tue, 17 Apr 2012 14:54:18 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[geekiška filosofija]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[url]]></category>
+		<category><![CDATA[usability]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=403</guid>
+		<description><![CDATA[
+Būti front-end programuotoju yra OSAM. Osam, nes sudėtinga &#8211; štai pvz. naujausia Sunday Business Post versija turi keturis kartus daugiau front-end kodo, negu back-end. Balandžio 21 d. apie tai kalbėsiu InfoShow festivalio WEB konferencijoje.
+Dar kalbėsiu apie tai, kaip paskutiniu metu internetai yra gadinami, kaip jūs visi esate neteisūs ir kaip tik aš vienas išmanau, kaip [...]]]></description>
+			<content:encoded><![CDATA[<p><img src="http://www.d-b.lt/uploads/2012/04/41607_292463217490036_926997090_n.jpg" style="margin-left: 1em; margin-bottom: 1em; float: right; border: 0;" alt="InfoShow WEB konferencijos logotipas" /><br />
+Būti <i>front-end</i> programuotoju yra <strong><i>OSAM</i></strong>. <i>Osam</i>, nes sudėtinga &#8211; štai pvz. naujausia <a href="http://www.businesspost.ie/">Sunday Business Post</a> versija turi keturis kartus daugiau <i>front-end</i> kodo, negu <i>back-end</i>. Balandžio 21 d. apie tai kalbėsiu <a href="http://infoshow.info/">InfoShow</a> festivalio WEB konferencijoje.</p>
+<p>Dar kalbėsiu apie tai, kaip paskutiniu metu internetai yra gadinami, kaip jūs visi esate neteisūs ir kaip tik aš vienas išmanau, kaip Teisingai gaminti svetaines. Apžvelgsiu dalykus nuo &lt;a&gt; iki SEO*, nuo CSS iki <i>usability</i>, nuo W3C standartų iki programuotojų etikos. Prisiliesiu prie nesenų &#8220;skandalų&#8221; apie <i>vendor prefixes</i>, mobilias prieš &#8220;normalias&#8221; svetaines, kabliataškius Javascript ir pareikšiu savo Ypatingai Svarbią ir Autoritetingą Nuomonę tais klausimais.</p>
+<p>Veiksmas KTU Elektronikos fak.** 101 auditorijoje, <a href="http://www.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fviewform%3Fformkey%3DdFE2dXRUZWNmVTVCU2xYelZ2RmFIN3c6MQ%23gid%3D0&#038;h=eAQHd9D85">registracija gūgluose</a>, <a href="http://www.facebook.com/events/292463217490036/">aprašymas Veidaknygėje</a>, programa:</p>
+<ul>
+<li>11:00 <a href="https://twitter.com/zaza_lt">Sergej Kurakin</a> &#8211; Projekto su 1M lankytojų per dieną apkrovimo paskirstymo istorija;</li>
+<li>12:00 <a href="http://sergejus.blogas.lt/">Sergejus Barinovas</a> &#8211; Introduction to Big Data and Hadoop;</li>
+<li>13:00 Edvinas Aleksejonokas &#8211; Python/Django;</li>
+<li>14:00 Pietūs</li>
+<li>15:00 Rokas Paškevičius &#8211; SEO friendly žiniatinklio aplikacijų kūrimas;</li>
+<li>15:45 Dominykas Blyžė (taigi čia aš!) &#8211; <del>Priekinio galo</del> Kliento pusės kūrimo ypatumai;</li>
+<li>16:45 Mažvydas Skuodas &#8211; Kodo derinimo metodai: Zend, Xdebug, Firebug;</li>
+<li>17:45 Paulius Paškevičius &#8211; KTU LSS projektas</li>
+<li>19:00 After Party @ <a href="http://www.facebook.com/kavine.kultura">Kavinė Kultūra</a></li>
+</ul>
+<p>Renginys nemokamas.</p>
+<p style="font-size: 85.7%">* iš tikro tai apie SEO nieko nesakysiu, nes apie tai kalbės Rokas.</p>
+<p style="font-size: 85.7%">** ne keiksmažodis.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.rss2.xml</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Savaitgalio eksperimentas: Login 2011 programa, pritaikyta mobiliems telefonams</title>
+		<link>http://www.d-b.lt/2011/03/savaitgalio-eksperimentas-login-2011-programa-pritaikyta-mobiliems-telefonams.html</link>
+		<comments>http://www.d-b.lt/2011/03/savaitgalio-eksperimentas-login-2011-programa-pritaikyta-mobiliems-telefonams.html#comments</comments>
+		<pubDate>Mon, 07 Mar 2011 00:45:26 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[css3]]></category>
+		<category><![CDATA[html5]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[mobilus tinklas]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=355</guid>
+		<description><![CDATA[Per paskutinius kelis metus perskaičiau šimtus blogų, apie tai, kaip internetus reikia kurti galvojant apie nešiojamus įrenginius mažais ekranais, ir kaip gražiai viskas galėtų veikti, jeigu laikytis standartų. Deja &#8211; šio savaitgalio eksperimentas parodė, kad tokiai filosofijai dar kiek per anksti.
+Bendrai paėmus, kadangi investavau tik pusantros dienos darbo, rezultatas visai patenkinamas &#8211; &#8220;mobili&#8221; Login 2011 [...]]]></description>
+			<content:encoded><![CDATA[<p>Per paskutinius kelis metus perskaičiau šimtus blogų, apie tai, kaip internetus reikia kurti galvojant apie nešiojamus įrenginius mažais ekranais, ir kaip gražiai viskas galėtų veikti, jeigu laikytis standartų. Deja &#8211; šio savaitgalio eksperimentas parodė, kad tokiai filosofijai dar kiek per anksti.</p>
+<p>Bendrai paėmus, kadangi investavau tik pusantros dienos darbo, rezultatas visai patenkinamas &#8211; <a href="http://dominykas.net/login/">&#8220;mobili&#8221; Login 2011 programa</a>. Informaciją nukopijavau iš <a href="http://www.login.lt/">oficialios svetainės</a> &#8211; tikiuosi savininkai nesupyks.</p>
+<p>Žvaigždutės veikia ir turėtų atsiminti nustatymus iš <code>localStorage</code>, taipogi turėtų veikti ir offline, jeigu išsisaugoti &#8220;darbastalyje&#8221; (bent jau su Android 2.2). <i>Back</i> mygtukui sutvarkyti laiko pritrūkau, taipogi vietomis matosi animacijos šokčiojimai ir trūkčiojimai.</p>
+<p>Pirmojoje versijoje, kurią išmečiau, bandžiau viską pasiekti apskritai be Javascript, <a href="http://webdesignernotebook.com/css/the-css3-target-pseudo-class-and-css-animations/"><code>:target</code> pseudo-selektoriaus</a> pagalba, tačiau rezultatas gavosi gerokai prastesnis negu galutinis variantas.</p>
+<p>Taipogi peržvelgiau akimis <a href="http://www.phonegap.com/tools">Phonegap rekomenduojamus įrankius</a>, tačiau panašu, kad visi jie kenčia nuo tų pačių problemų &#8211; mobilios naršyklės labai jautriai reaguoja į ekrano pločio/aukščio pasikeitimus kai tenka animuoti perėjimus iš vieno ekrano į kitą, o išsprendus šią problemą kiek griežtesniais išdėstymo apribojimais, vistiek lieka <i>scrollinimo</i> problema &#8211; sugrąžinti vartotoją į tą pačią ekrano vietą be ekrano mirksėjimo ir šokinėjimo yra neįmanoma.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2011/03/savaitgalio-eksperimentas-login-2011-programa-pritaikyta-mobiliems-telefonams.rss2.xml</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Naudoti svetimus JS failus yra nemandagu ir nesaugu</title>
+		<link>http://www.d-b.lt/2010/03/naudoti-svetimus-js-failus-yra-nemandagu-ir-nesaugu.html</link>
+		<comments>http://www.d-b.lt/2010/03/naudoti-svetimus-js-failus-yra-nemandagu-ir-nesaugu.html#comments</comments>
+		<pubDate>Fri, 26 Mar 2010 01:19:59 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[html5]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[saugumas]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=276</guid>
+		<description><![CDATA[Vos prieš porą mėnesių garsiai nuskambėjo Ajaxian, kai paėmė ir įdėjo besisukančios Coca Cola skardinės pavyzdį į iframe tiesiogiai iš autoriaus svetainės. Gana panašus atvejis buvo ir su Douglas Crockford JSON2 biblioteka bent keletoje didokų svetainių (žr. pirmą šaltinio eilutę).
+Moralas toks &#8211; jeigu įtrauki į savo kodą failus tiesiogiai iš kitų žmonių serverių, ypač jeigu [...]]]></description>
+			<content:encoded><![CDATA[<p>Vos prieš porą mėnesių garsiai nuskambėjo <a href="http://ajaxian.com/">Ajaxian</a>, kai paėmė ir įdėjo <a href="http://www.techkumar.com/showcase/rolling-coke-pure-css-code/">besisukančios Coca Cola skardinės</a> pavyzdį į <code>iframe</code> tiesiogiai iš <a href="http://www.romancortes.com/blog/pure-css-coke-can/">autoriaus svetainės</a>. Gana panašus atvejis buvo ir su Douglas Crockford <a href="http://www.json.org/js.html">JSON2 biblioteka</a> bent keletoje didokų svetainių (žr. pirmą <a href="http://www.json.org/json2.js">šaltinio</a> eilutę).</p>
+<p>Moralas toks &#8211; jeigu įtrauki į savo kodą failus tiesiogiai iš kitų žmonių serverių, ypač jeigu jų nepažįsti ir nepaklausi jų sutikimo, viskas gali baigtis blogai. Štai pvz. mano blog&#8217;as naudoja html5.js &#8211; aš galėčiai ramiai pakeisti jį taip, kad jis vogtų jūsų svetainės lankytojų slaptažodžius ir siųstų man. Bet aš neesu blogietis ir to nedarysiu.</p>
+<p>Jeigu kam nors reikia įsijungti HTML5 Internet Exploreryje &#8211; galima gi paimti ir parsisiųsti tą JS ir pasidėti savo svetainėje. Bet jeigu jau taip gaila srauto &#8211; <a href="http://remysharp.com/2009/01/07/html5-enabling-script/">Remy Sharp leidžia</a> tiesiogiai naudoti jo sukurtą <a href="http://html5shiv.googlecode.com/svn/trunk/html5.js">versiją iš Google Code SVN</a>.</p>
+<p>Man iš tikro negaila, bet pagunda bent pajuokauti yra&#8230; Tu žinai kas tu esi. Ar ne?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2010/03/naudoti-svetimus-js-failus-yra-nemandagu-ir-nesaugu.rss2.xml</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Užrašai iš FullFrontal 2009</title>
+		<link>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.html</link>
+		<comments>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.html#comments</comments>
+		<pubDate>Sat, 28 Nov 2009 21:46:42 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[html5]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[standartai]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=193</guid>
+		<description><![CDATA[Prėjusį penktadienį Brighton&#8217;e vyko FullFrontal 2009 JavaScript konferencija, kurioje turėjau progą apsilankyti. Tikrai nenusivyliau!
+Šiame blogo įraše susidėjau tai, ką pasižymėjau pats sau beklausydamas kalbėtojų. Pačių kalbų tikrai neketinu aprašinėti &#8211; tai puikiai padarė Ajaxian (nuorodas pateikiu), o skaidrės taipogi prieinamos viešai.
+Jeigu kažkuris punktas sudomino &#8211; palikit komentarą &#8211; išplėsiu!
+Christian Heilmann &#8211; Frontloaded and zipped up [...]]]></description>
+			<content:encoded><![CDATA[<p>Prėjusį penktadienį Brighton&#8217;e vyko FullFrontal 2009 JavaScript konferencija, kurioje turėjau progą apsilankyti. Tikrai nenusivyliau!</p>
+<p>Šiame blogo įraše susidėjau tai, ką pasižymėjau pats sau beklausydamas kalbėtojų. Pačių kalbų tikrai neketinu aprašinėti &#8211; tai puikiai padarė Ajaxian (nuorodas pateikiu), o skaidrės taipogi prieinamos viešai.</p>
+<p>Jeigu kažkuris punktas sudomino &#8211; palikit komentarą &#8211; išplėsiu!</p>
+<h2><a href="http://www.wait-till-i.com/">Christian Heilmann</a> &#8211; Frontloaded and zipped up &#8211; do loose types sink ships</h2>
+<p><a href="http://ajaxian.com/archives/full-frontal-09-chris-heilmann-on-javascript-security">Ajaxian santrauka</a>; <a href="http://www.wait-till-i.com/2009/11/21/frontloaded-and-zipped-up-the-full-frontal-2009-keynote/">skaidrės</a>; <a href="http://www.archive.org/download/FrontloadedAndZippedUp-FullFrontalJavascriptConference2009/FrontloadedAndZippedUp-FullFrontalConference2009.mp3">garso įrašas</a>.</p>
+<ul>
+<li>Apie &#8220;AJAX&#8221; programuotojus kalbama žymiai pagarbiau negu apie &#8220;JavaScript&#8221; programuotojus. <i>Abydna, vienok.</i></li>
+<li>JS nėra programavimo kalba skirta kiekvienam &#8211; ir ne kiekvienas save vadinantis &#8220;tinklo kūrėju&#8221; turėtu ja užsiimti.</li>
+<li>JS egzistavo gerokai prieš jQuery.</li>
+<li>Naudojant JS kalbą, reikėtų ją naudoti taip, kaip ji buvo suplanuota &#8211; gana kurti įvairias abstrakcijas pagal tradicinius OO modelius. JS turi savo stilių &#8211; privalu jį išnaudoti ir įsisavinti.</li>
+<li>Saugumo skylės (XSS, XSRF ir t.t.) yra <i>server-side</i> problema &#8211; JS dažniausiai yra nekaltas (nors ir išnaudojamas)</li>
+<li>Nepamiršti: http-only sausainiukai sesijoms</li>
+<li>Bet kuris API yra iš esmės saugumo skylė &#8211; Firefox greičiausiai yra pati nesaugiausia naršyklė būtent dėl savo plėtinių architektūros. Priminė kažkieno sakinį, kad mash-up&#8217;ai yra XSS atakos prieš save patį.</li>
+<li>Išbandyti: dažnos ir paprastos apklausėlės kaip mokymosi metodas komandoje</li>
+<li>Pasidomėti: adsafe.org saugumo rekomendacijos</li>
+<li>Pasidomėti: <a href="http://code.google.com/p/google-caja/">Google Caja</a> (yra informacijos <a href="http://developer.yahoo.com/yap/guide/caja-support.html">ir YDN</a>)
+<ul>
+<li>Kas per saugumo skylė IE su <code>radio</code> mygtukais?</li>
+<li>Kodėl <code><a href="http://www.positioniseverything.net/easyclearing.html">clearfix</a></code> nevartotinas pagal Caja?</li>
+<li>Kodėl tiek daug CSS apribojimų?</li>
+</ul>
+</li>
+<li><code>javascript:void(0)</code> turi mirti (žiauria ir negarbina mirtimi)!</li>
+<li><a href="http://ejohn.org/">John Resig</a> yra, lyg ir, pažadėjęs, kad jeigu pakankamai žmonių to reikalaus &#8211; jQuery pritaikys Caja rekomendacijas</li>
+<li>Pasidomėti: ar įmanoma padaryti <i>YQL injection</i>?</li>
+<li>Pasidomėti: jau egzistuoja OAuth implementacija vien su JS</li>
+</ul>
+<h2><a href="http://robertnyman.com/">Robert Nyman</a> &#8211; JavaScript: from birth to closure</h2>
+<p><a href="http://ajaxian.com/archives/full-frontal-09-robert-nyman-on-the-javascript-language">Ajaxian santrauka</a>; <a href="http://www.slideshare.net/robnyman/javascript-from-birth-to-closure">skaidrės</a>.</p>
+<ul>
+<li>Kas čia per įprotis, tikrinti ar dižiąjame ekrane bėgantis Twitter srautas yra cenzūruojamas? Įdomus kultūrinis pokrypis, besivystant technologijoms&#8230;</i>
+<li>Nepamiršt: skaityti <a href="http://dmitry.baranovskiy.com/">Dmitry Baranovskiy&#8217;o</a> blogą</li>
+<li>Pasikartot: <code>typeof kint == 'undefined'</code> naudojimas</li>
+<li>Pasidomėt: Koks yra globalus <code>this</code> Rhino variklyje (t.y. <code>window</code> atitikmuo naršyklėse)?</li>
+<li>Pasidomėt: <a href="http://yuiblog.com/blog/2007/06/12/module-pattern/">YAHOO Module Pattern</a></li>
+</ul>
+<h2><a href="http://www.quirksmode.org/">Peter-Paul Koch</a> &#8211; W3C Widgets</h2>
+<p><a href="http://ajaxian.com/archives/full-frontal-09-ppk-on-mobile-quirks-and-practices">Ajaxian santrauka</a>; <a href="http://www.quirksmode.org/blog/archives/2009/11/presentations_t.html">skaidrės</a>.</p>
+<ul>
+<li>Pasidomėt: Ar Nokia N900 naršyklė yra fennec? (Atsakymas: taip)</li>
+<li>Mobilaus telefono naudojimas interneto naršymui yra puikus būdas pasimokyti &#8211; visos vartojiškumo pamokos gali būti pritaikytos eilinėms naršyklėms</li>
+<li>Ar <code>@media</code> kartu su iPhone&#8217;o <code>&lt;meta name="viewport" /&gt;</code> galėtų išspręsti problemą, kad <i>user-agentai</i> savaip interpretuoja pločius kai svetainė yra <i>išzoominta</i>? (Prie alaus PPK patvirtino, kad ketina tą patikrinti artimiausiu metu)</li>
+<li>Kai kuriuose aukšto DPI telefonuose kartais būna sunku paspausti tą vietą kurią nori &#8211; ar gali spaudimo jautrumo DPI ir ekrano DPI gali būti skirtingi?</li>
+<li>Nejaugi mobilūs telefonai neturi &#8220;ilgai trunkančio skripto&#8221; perspėjimų?</li>
+<li>Dėl greičio problemų, rekomenduojama nenaudoti <code>iframe</code> mobiliems telefonams skirtose svetainėse &#8211; kaip įgyventi AJAX-išką naršyklės istoriją (<i>back/forward</i>)?</li>
+<li>Dingstantis ryšys yra problema &#8211; ir <code>online/offline</code> įvykiai jos visiškai nepadeda spręsti</li>
+<li>Mobilių telefonų kešas yra ~200kb &#8211; būtina dar protingiau optimizuoti kodą</li>
+<li>W3C specifikacijos <i>widgetai</i> leidžia tik vieną HTML puslapį &#8211; potenciali problema?</li>
+<li>Dalintis <i>widgetais</i> per Bluetooth yra pavojinga</li>
+<li>Animacijos efektai mobiliuose telefonuose veikia lėtai. Iš patirties &#8211; ne viskas taip jau blogai, bet optimizuoti ir apskritai elgtis protingai privalu</li>
+</ul>
+<h2><a href="http://www.kryogenix.org/">Stuart Langridge</a> &#8211; New things that HTML5 provides to JavaScript hackers</h2>
+<p><a href="http://ajaxian.com/archives/full-frontal-09-stuart-langridge-on-html5-features">Ajaxian santrauka</a></p>
+<ul>
+<li>Pasidomėti: <a href="http://documentcloud.github.com/underscore/">underscore.js</a></li>
+<li>Internetas jau nebėra &#8220;programų rašymo platforma&#8221;. Tavo <em>svetainė</em> gali būti ta platforma, jeigu atidarysi savo API. Ir net jeigu neatidarysi &#8211; yra GreaseMonkey. Reikia tam būti pasiruošus!</li>
+<li>Idėja: naršyklių gamintojai, galėtų turėti standartinį būdą palaikymo tikrinimui, t.y. jeigu tu rašai savo kodą laikydamasis <i>progressive enhancement</i> principo, kartais turi paprastus būdus patikrinti, ar kažkas veiks &#8211; o kartais ne (pvz. Operos <code>&lt;event-source/&gt;</code>). O galėtų būti kas nors paprasto, pvz. <code>window.navigator.supports("event-source");</code></li>
+</ul>
+<h2><a href="http://twitter.com/toddkloots">Todd Kloots</a> &#8211; More accessible user interfaces with ARIA</h2>
+<p><a href="http://ajaxian.com/archives/full-frontal-09-todd-kloots-on-aria-and-acessibility">Ajaxian santrauka</a>, <a href="http://www.yuiblog.com/blog/2009/11/23/video-kloots-yuiconf2009-a11y/">video įrašas</a> ta pačia tema iš YUI konferencijos</p>
+<ul>
+<li>Idėja: YUI3 šiuo moment palaiko ARIA pridėdami roles ir atributus elementams, su kuriais dirba, pvz. sukuriant YUI meniu JS, susiiję elementai yra teisingai pažymimi. Ar neturėtų viskas būti atvirkščiai? T.y. rolės ir atributai nustatomi tiesiai HTML dar serveryje, o YUI (ar kita biblioteka) inicializuojasi jau naudodami tas roles.</li>
+<li>Toddas kalbėjo apie tai, kaip galima &#8220;uždėti ARIA sluoksnį savo sistemoje&#8221;. Bet argi nebūtų paprasčiau laikytis &#8220;ARIA palaikymo&#8221; kaip pagrindinio principo, t.y. tai yra kažkas tokio, ką tiesiog darai natūraliai, negu tai, ką darai pabaigoje, ant viršaus? Lygiai taip, kaip kažkada reikėjo pakeisti mastymą rašant HTML ir CSS, bei išmokti naudoti <i>progressive enhancement</i>, o ne <i>graceful degradation</i>.</li>
+<li>YUI2 palaiko <i>&#8220;<a href="http://yuiblog.com/blog/2007/01/17/event-plan/">event delegation</a>&#8220;</i>? Čia nuo kada? (Atsakymas: pasirodo, nuo YUI 2.8 &#8211; pamiršęs buvau&#8230; <i>&#8220;event delegation&#8221;</i> valdo!)</li>
+<li>Žmonės su normaliu regėjimu, turbūt savo protiniuose modeliuose (kaip išversti <i>mental model</i>?) turbūt be problemų priima, kad meniu dažnai eina iš kairės į dešinę. Kaip tai suvokia aklieji? T.y. kaip jų modeliai susitvarko su tuo, kad meniu navigacija vykdoma &#8220;kairė/dešinė&#8221; mygtukais, o ne &#8220;viršus/apačia&#8221;, kai naudojamos ekrano skaityklės?</li>
+<li>Pasidomėti: ar ARIA turi kokį nors &#8220;fokusuotos grupės&#8221; apibrėžimą, o ne vien tik &#8220;fokusuoto elemento&#8221;?</li>
+<li>Pasidomėti: <i>accessibility</i> šiuo metu dažniausiai siejasi su pele ir klaviatūra, kaip įvesties įrenginiais &#8211; kokie modeliai naudojami kitiems įrenginiams?</li>
+<li>Pasidomėti: ką HTML5 specifikacija sako apie <code>&lt;section/&gt;</code> <i>web application</i> kontekste?</li>
+<li>Pasidomėti: klaviatūros greitųjų klavišų atrandamumas lankytojams su <em>normalia</em> rega</li>
+</ul>
+<h2><a href="http://twitter.com/jaffathecake">Jake Archibald</a> &#8211; Optimising where it hurts</h2>
+<p><a href="http://ajaxian.com/archives/full-frontal-09-jake-archibald-on-performance-optimisation">Ajaxian santrauka</a>; <a href="http://www.jakearchibald.co.uk/jsperformance/">tyrimas ir skaidrės</a></p>
+<ul>
+<li>Ar jis čia skaidres varto su savo WII kontroleriu? Geras!</li>
+<li>Niekada nenaudoti <code>eval()</code>, ypač <i>closure</i> viduje &#8211; tai iš esmės nužudo visas JS variklių (V8, TraceMonkey ir t.t.) optimizacijas, nes <code>eval()</code> gali nesunkiai pakeisti kintamųjų aprėptį (kaip išversti <i>scope</i>?)</li>
+<li>Nenaudoti <i>closure</i> per dideliam gyliui, jeigu galima to išvengti</li>
+<li><em>Niekada nenaudoti</em> eilučių sujungimo, kai jos rašomos į <code>innerHTML</code>, t.y. ne <code>el.innerHTML="&lt;div&gt;"+kint+"&lt;/div&gt;"</code>, o <code>var s="&lt;div&gt;"+kint+"&lt;/div&gt;"; el.innerHTML=s;</code></li>
+<li>Vengti <code>window.onunload</code> naudojimo, nes nužudomas kešinimas (jQuery jau turi šią problemą &#8211; bet ketina išspręsti)</li>
+<li>Švarus ir paprastas HTML, neturintis bereikalingų tagų, pats savaime paspartina selektorių darbą (nes reikia perfiltruoti mažesnį kiekį elementų). Žodžiu, rašyti didelį kiekį nesemantinio HTML (ar tai būtų nereikalingi <code>div</code>, ar <code>table</code>) yra blogai!</li>
+<li>Kiekvienas turėtų pasimokyti pats rašyti vykdymo greičio testus (tik reikia nepamiršti apie &#8220;<a href="http://ejohn.org/blog/accuracy-of-javascript-time/">16ms problemą</a> JS&#8221;)</li>
+<li>&#8220;Optimizuok ten kur skauda&#8221; iš tikro tereiškia &#8220;nebūk durnas&#8221; &#8211; visos diskusijos, apie tai kuris ciklas optimalesnis (<code>for</code> prieš <code>while</code>) yra bevertės (nes sutaupo 0.002 <em>mili</em>sekundės). Iš tikro reikia izoliuoti tą dalį, kuri veikia lėčiausiai, ir tvarkyti būtent ją. Vargti stengiantis rašyti &#8220;teisingą kodą&#8221; iš anksto yra beprasmiška &#8211; žinot istoriją su &#8220;priešlaikine optimizacija&#8221;, ar ne?</li>
+</ul>
+<h2><a href="http://simonwillison.net/">Simon Willison</a> &#8211; Beating server side engineers in their own game</h2>
+<p><a href="http://ajaxian.com/archives/full-frontal-09-simon-willison-on-server-side-javascript-and-node-js">Ajaxian santrauka</a>; <a href="http://simonwillison.net/2009/Nov/23/node/">autoriaus santrauka</a></p>
+<ul>
+<li>Pasidomėti plačiau apie <a href="http://en.wikipedia.org/wiki/ECMAScript_for_XML">E4X</a></li>
+<li>Mac&#8217;ų vartotojai elgiasi&#8230; kitaip. Tiesiog kitaip ir tiek.</li>
+<li>Ar eitų NodeJS panaudoti kaip <i>unit testų</i> konsolę? Integruoti į <i>continuous build&#8217;us</i>?</li>
+<li>JS nėra &#8220;strongly typed&#8221; kalba &#8211; tai natūraliai yra sunkiau dirbant komandoje. Pasidomėti: kaip tai galima spręsti</li>
+<li><a href="http://nodejs.org/">NodeJS</a> ir <a href="http://couchdb.apache.org/">CouchDB</a> yra labai labai <i>seksi</i>! Kiekvienas turėtų pasidomėti kaip jie veikia, kaip optimizuoja procesus ir kokiais principais yra paremti!</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.rss2.xml</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+<enclosure url="http://www.archive.org/download/FrontloadedAndZippedUp-FullFrontalJavascriptConference2009/FrontloadedAndZippedUp-FullFrontalConference2009.mp3" length="40572024" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Formų validacija: netrukdyk man!</title>
+		<link>http://www.d-b.lt/2009/07/formu-validacija-netrukdyk-man.html</link>
+		<comments>http://www.d-b.lt/2009/07/formu-validacija-netrukdyk-man.html#comments</comments>
+		<pubDate>Tue, 14 Jul 2009 21:30:16 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[usability]]></category>
+		<category><![CDATA[užknisantys dalykai internete]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=139</guid>
+		<description><![CDATA[Alanas Cooperis savo knygose pastoviai kartoja, kad blogiausias dalykas, kurį galima padaryti vartotojui, tai priversti jį jaustis kvailu. Bene lengviausia šį &#8220;tikslą&#8221; pasiekti yra validacijoje &#8211; kiekvienas bereikalingas klaidos pranešimas ir kiekviena sistema, kuri man trukdo daryti dalykus mano būdu, tiesiog ir verčia mane daužyti galvą į sieną su klausimu &#8220;Nu, kodėl šito reikia?&#8221; Šiandien [...]]]></description>
+			<content:encoded><![CDATA[<p><cite>Alanas Cooperis</cite> savo knygose pastoviai kartoja, kad blogiausias dalykas, kurį galima padaryti vartotojui, tai priversti jį jaustis kvailu. Bene lengviausia šį &#8220;tikslą&#8221; pasiekti yra validacijoje &#8211; kiekvienas bereikalingas klaidos pranešimas ir kiekviena sistema, kuri man trukdo daryti dalykus mano būdu, tiesiog ir verčia mane daužyti galvą į sieną su klausimu &#8220;<i>Nu</i>, kodėl šito reikia?&#8221; Šiandien aptikau puikų to pavyzdį:</p>
+<pre>function isNumberKey(evt)
+{
+     var charCode = (evt.which) ? evt.which : event.keyCode
+     if (charCode > 31 &#038;&#038; (charCode < 48 || charCode > 57))
+        return false;
+
+     return true;
+}</pre>
+<p>Ši funkcija naudojama kaip <code>onkeypress</code> <i>event handler</i>. Ką ji daro iš tikro? Kai įvesties lauke paspaudžiamas klavišas, kuris nėra skaičius, ir nėra vienas iš kontrolinių klavišų (<kbd>Enter</kbd>, <kbd>Backspace</kbd> ir tt), klavišo paspaudimas yra sustabdomas ir ignoruojamas. Konkrečiu atveju, man reikėjo įvesti svetainėje savo 8 skaitmenų prisijungimo kodą, na ir lyg būtų logiška, kad man nereikia spausti kitų klavišų, tik skaičius, ir po to <kbd>Tab</kbd>, kad įvesti slaptažodį. <strong>Netiesa!</strong></p>
+<p>Visiškai galima kombinacija, kurią galiu įvesti yra <kbd>Ctrl+V</kbd>. Nes paprasčiausiai naudojuosi konkrečia svetaine kartą per metus, todėl prisijungimo vardą, kuris yra generuojamas automatiškai, galiu surasti tik el. pašto archyve. Ar tai veiks? Be abejo ne (išskyrus Chrome &#8211; nesigilinau kodėl), nes tokio paspaudimo atveju <code>charCode</code> bus lygus 118, t.y. &#8220;v&#8221; raidės ASCII kodas, ir mano <i>Paste</i> veiksmas bus sustabdytas.</p>
+<h2>Patarimas: leisk vartotojui elgtis kaip jis įpratęs</h2>
+<p>Galima, be abejo sakyti, kad prisijungimo formoje tokia validacija išvis nereikalinga, nes įvedus neteisingą vartotojo vardą (pvz. <code>' OR ''='</code>), prisijungti tiesiog nepavyks, su pranešimu &#8220;Neteisingas vartotojo vardas ir/arba slaptažodis&#8221;. Tačiau lygiai taip pat galima teigti, kad siekiama vartotoją apsaugoti nuo to klaidos pranešimo, arba, kad toks validacijos veikimas kai kuriais atvejais gali būti pageidautinas. <strong>Netiesa!</strong></p>
+<h2>Patarimas: nepasikliauk naršyklės API</h2>
+<p>Javascript palaikymas interneto naršyklėse yra labai ribotas. Jis negali suteikti standartinių OS galimybių, kaip pvz. garsinis signalas paspaudus netinkamą klavišą. Negana to, konkrečioje formoje nėra suteikiama jokių užuominų, kad &#8220;leidžiama įvesti tik skaičius&#8221; (tuo atveju galima būtų tiesiog keikti programuotoją, už neteisingą vykdymą). Tačiau net jeigu viso to implementacija būtų teisinga, o puslapis pateiktų visas užuominas apie tai, ką galima daryti ir ko negalima, vistiek aš pasisakyčiau prieš tokį dalyką, ir ne vien tik todėl, kad <a href="http://www.quirksmode.org/blog/archives/2009/03/testing_mobile_1.html#link10">Nokia telefonai neteisingai perduoda <code>keyCode</code></a>.</p>
+<p>Dar vienas pavyzdys būtų validacijos vykdymas, kai nuspaudžiamas <kbd>Enter</kbd> klavišas &#8211; ši problema mane nervuoja pragare, kuris vadinamas <a href="http://www.o2.ie">o2.ie</a> kasdien. Kodėl? Ogi tiek Firefox, tiek Chrome (su Opera svetainė neveikia išvis) <i>autocomplete</i> pasirinkus reikšmę, ir paspaudus <kbd>Enter</kbd>, įvykis perduodamas į Javascript, todėl pasirinkęs iš sąrašo savo telefoną, gaunu malonų pranešimą, kad neįvedžiau slaptažodžio, nors dar net nespėjau prieiti iki to žingsnio!</p>
+<h2>Patarimas: nedėk apribojimų ten, kur jie visiškai nereikalingi</h2>
+<p>Problema slypi tame, kad ribojama mano veiksmų laisvė. Neverta to daryti. Štai pvz. <code>textarea</code> elementas neturi <code>maxlength</code> atributo &#8211; galima to palaikymą sukurti su JS, bet daug geresnis variantas yra tiesiog parodyti kiek yra likę galimų įvesti simbolių, o <strong>klaidos pranešimą rodyti tik tada, kai klaida yra <em>tikrai</em> padaryta</strong>. Įsivaizduokite, jei Twitter neleistų įvesti daugiau negu 140 simbolių ir nesuteiktų galimybės redaguoti tekstą tol, kol jis telpa į juos.</p>
+<p>Lygiai taip ir šiuo validacijos atveju, derėtų leisti vartotojui spausti tuos klavišus, kuriuos jis nori spausti, o įvestus duomenis tikrinti tik tada, kai vartotojas pasako &#8220;taip, aš žinau, kad noriu tokius duomenis išsiųsti&#8221;, t.y. <code>onsubmit</code> įvykio metu, arba tiesiog <i>server-side</i>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2009/07/formu-validacija-netrukdyk-man.rss2.xml</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>hasFocus ir activeElement už 400 baitų</title>
+		<link>http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html</link>
+		<comments>http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html#comments</comments>
+		<pubDate>Sat, 07 Mar 2009 19:42:16 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[eksperimentai]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[html5]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[kodas]]></category>
+		<category><![CDATA[užknisantys dalykai internete]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html</guid>
+		<description><![CDATA[Vienas labiausiai internete užknisančių dalykų yra tai, kad kai kurios svetainės visiškai manęs negerbdamos paima ir perrašo įvesties laukų turinį tada kai aš jau ten bandau kažką rašyti. Ši situacija kyla iš to, kad nėra paprasto būdo nustatyti ar (ir kuris) HTML elementas yra fokusuotas ar ne. Internet Exploreris jau senokai turi document.activeElement, bet kas [...]]]></description>
+			<content:encoded><![CDATA[<p>Vienas labiausiai internete užknisančių dalykų yra tai, kad kai kurios svetainės visiškai manęs negerbdamos paima ir perrašo įvesties laukų turinį tada kai aš jau ten bandau kažką rašyti. Ši situacija kyla iš to, kad nėra paprasto būdo nustatyti ar (ir kuris) HTML elementas yra fokusuotas ar ne. Internet Exploreris jau senokai turi <code>document.activeElement</code>, bet kas iš to, jeigu tai negalioja kitoms naršyklėms. HTML5 specifikacijoje yra standartizuotos abi -<code>element.hasFocus</code> ir <code>document.activeElement</code> galimybės, tačiau ką daryti šiandien? <a href="http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html#galutinis-sprendimas-20090307">Tingiu skaityti &#8211; duok galutinį sprendimą</a>.</p>
+<p>Aprašytos problemos sprendimo algoritmas yra gana paprastas &#8211; prikabinti <dfn title="event handler">įvykių gaudytojus</dfn> prie reikalingų elementų ir pačiam nustatyti reikalingus parametrus. Tačiau jeigu nesusimąstytume &#8211; greitas ir paprastas įgyvendimas turėtų kelias problemas.</p>
+<h2>Sprendimo problemos</h2>
+<p>Pavyzdys: krauname puslapį, jame yra paieškos laukas, kurio viduje yra tekstas &#8220;Paieška&#8221;. Fokusuojant lauką tas tekstas turi pradingti. Be abejo, pats &#8220;standartinio teksto&#8221; <i>patternas</i> yra jau savaime nelabai geras, tačiau kartais be jo tiesiog neįmanoma išsiversti. Taigi, turime du variantus: a) tekstą įrašyti lauke iš anksto (<code>input value="Paieška"</code>), fokusuojant jį ištrinti; b) palikti tuščią lauką, ir užkrovus puslapį tą tekstą įrašyti. Pirmu atveju turime semantikos problemą, o taipogi jis nėra <dfn title="unobtrusive">netrukdantis</dfn>, t.y. tam, kad naudotis lauku, reikalingas įjungtas Javascript. Taip pat, abiem atvejais, neįdėjus papildomų pastangų, perrašymas gali įvykti jau po to kai vartotojas fokusuoja lauką (pvz. dėl lėtai kraunamų Javascript bibliotekų arba IE6 paspaudus <i>refresh</i>, kai kursorius yra viename iš laukų).</p>
+<p>Konkrečiam pavyzdžiui yra dar ir trečiasis variantas &#8211; naudoti <code>onfocus</code> ir <code>onblur</code> atributus ir Javascript rašyti tiesiog HTML viduje (<i>inline Javascript</i>), tačiau šis būdas tinkamas tik tuo atveju, jeigu nesilaikote <dfn title="HTML - markup">sužymėjimo</dfn> ir <dfn title="Javascript - behaviour">elgsenos</dfn> atskyrimo principo. Be to, jis apkrauna kiekvieną siunčiamą puslapį papildomu kodu, kas nėra pageidautina, ypač jeigu tokių laukų yra ne vienas. Na ir aišku, jis neišsprendžia pagrindės šio įrašo problemos &#8211; <code>hasFocus</code> &#8211; vieningu, paprastu, universaliu būdu.</p>
+<h3>Kodo kiekis ir geriausios praktikos</h3>
+<p>Akivaizdu, kad <code>hasFocus</code> simuliavimui reikės kiekviename puslapyje įtraukti gabaliuką Javascript, kuris priešingai negu geriausios praktikos rekomendacijos, turės būti įvykdomas dar prieš galutiniai &#8220;nupiešiant&#8221; puslapį, t.y. <code>&lt;head&gt;</code> viduje. Tai reiškia, kad pats kodas turi būti minimalus &#8211; tiek instrukcijų kiekiu, tiek savo apimtimi, nes kiekvienas persiųstas baitas ir vykdymas <a href="http://glinden.blogspot.com/2006/11/marissa-mayer-at-web-20.html">kainuoja vertingas milisekundes</a> (<a href="http://home.blarg.net/~glinden/StanfordDataMining.2006-11-29.ppt">prezentacija</a>).</p>
+<h3>Įvykių burbuliavimas</h3>
+<p>Su ankstesniu reikalavimu atsiranda ir kitas &#8211; neturime galimybės įvykių gaudyti kiekvienam elementui individualiai. Net jeigu tai ir nebūtų idelaus sprendimas vien dėl apkrovimo priežasčių, tie elementai dar paprasčiausiai neegzistuoja dokumente. Taigi turime rinktis <a href="http://code.google.com/p/reglib/">reglib</a> požiūrį &#8211; prikabinti savo funkcijas prie viso dokumento ir jų viduje nustatinėti elementą, kuriame viskas vyksta. Šioje vietoje derėtų paminėti, kad remiantis standartais, <code>focus</code> ir <code>blur</code> įvykiai neburbuliuoja į viršų, t.y. tėvinis elementas teoriškai neturėtų žinoti, kad jo vaikuose vyksta būtent šie įvykiai.</p>
+<h3>Naršyklių skirtumai</h3>
+<p>Skirtingos naršyklės <i>eventus</i> gaudo skirtingais būdais, taipogi naudoja skirtingą metodiką perduoti susiijusius elementus. Tradiciškai ši problema buvo sprendžiama vykdant skirtingas kodo šakas skirtingoms naršyklėms, tai nustant pagal <code>user-agent</code> eilutę. Tokia metodika yra žalinga ir nėra amžina. Pastaruoju metu tiek jQuery, tiek kitos bibliotekos perėjo prie efektyvesnio būdo &#8211; tikrinti ar egzistuoja tam tikros galimybės, o ne tikrinti ar lankytojas naudoja konkrečią naršyklę. <i>Feature sniffing</i> taipogi yra reikalavimas šiai užduočiai.</p>
+<h2>Sprendimas pažingsniui</h2>
+<ol>
+<li>Nusistatom įvykių gaudymo funkciją (<i>f</i>) &#8211; IE naudoja <code>attachEvent</code>, padorios naršyklės &#8211; <code>addEventListener</code>.
+<li>Nusistatom įvykių vardus (<i>n</i>). <code>focus</code> ir <code>blur</code> kaip minėjau neturėtų burbuliuoti į viršų, todėl su IE reikia naudoti <code>onfocusin</code> ir <code>onfocusout</code>. Šia tema <a href="http://www.quirksmode.org/dom/events/blurfocus.html">galima pasiskaityti ir daugiau</a>, tačiau šiam sprendimui šito užtenka.</li>
+<li>Pagrindinė fokuso nustatymo funkcija (<i>s</i>) ima du parametrus &#8211; pirmas nurodo ar fokusą įjungti, ar atjungti, antrasis gi nurodo elementą.</li>
+<li>Neesu įsitikinęs, kad čia pats taupiausias variantas, tačiau įdedame dvi funkcijas &#8211; viena gaudo <code>focus</code> (<i>i</i>), kita <code>blur</code> (<i>o</i>), ir kviečia pagrindinę funkciją.</li>
+<li>Viską sukišame į <code>closure</code> ir sutrumpinę iki minimumo pagaliau prisegame įvykius &#8211; <code>d[f](n[0],i,true);</code>.</li>
+</ol>
+<h2 id="galutinis-sprendimas-20090307">Galutinis sprendimas</h2>
+<pre>
+(function() {
+    var d = document,
+	s = function(h, t) {
+		if (t.tagName) {
+			t.hasFocus=h;
+			if (a) document.activeElement=t;
+		}
+	},
+	i = function(e) {
+		s(true, e.target || e.srcElement); },
+	o = function(e) {
+		s(false, e.target || e.srcElement); },
+	f = d.addEventListener ?
+		"addEventListener" : "attachEvent",
+	n = typeof d.onfocusin=="object" ?
+		['onfocusin','onfocusout'] : ['focus','blur'],
+	a = typeof document.activeElement=="object" ?
+		false : true;
+
+	d[f](n[0],i,true); d[f](n[1],o,true);
+})();
+</pre>
+<p>Panaikinus bereikalingus tarpus ir <a href="http://developer.yahoo.com/yui/compressor/">suspaudus viską į vieną eilutę</a>, šis sprendimas užimtų vos daugiau nei 400 baitų &#8211; pakankamai maža kaina už funkcionalumą. Jeigu netyčia nepalikau kokios klaidos kur nors &#8211; viskas turėtų veikti su IE6/7, FF2/3, Opera 9.6 ir Safari 3.x.</p>
+<p>Taipogi galite pasižiūrėti <a href="http://code.dominykas.com/js/hasFocus.html">veikiančią demonstraciją</a>. Po dviejų sekundžių nuo užkrovimo gausite iššokantį langą, kuriame bus surašyta kas turi fokusą.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.rss2.xml</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

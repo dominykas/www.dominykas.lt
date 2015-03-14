@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaip tapti ekspertu? &#187; semantiškas tinklas</title>
+	<atom:link href="http://www.d-b.lt/tag/semantiskas-tinklas.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Noriu padorios adresų struktūros</title>
+		<link>http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html</link>
+		<comments>http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html#comments</comments>
+		<pubDate>Fri, 07 Dec 2007 07:40:03 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[blogo pradžia]]></category>
+		<category><![CDATA[geekiška filosofija]]></category>
+		<category><![CDATA[semantinis tinklas]]></category>
+		<category><![CDATA[semantiškas tinklas]]></category>
+		<category><![CDATA[url]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html</guid>
+		<description><![CDATA[Renkantis bet kokią web turinio valdymo sistemą vienas iš pagrindinių klausimų yra jos pritaikomumas SEO. Kaip žinia, gana svarbus to faktorius yra URL optimizacija. Kas yra optimalus URL galima diskutuoti daug, tačiau mano asmeniniai kriterijai yra šie:
+
+URL, kaip failų sistemos atspindys, reiškia failą
+URL identifikuoja failo vietą &#8211; direktoriją, kurioje jis guli
+URL identifikuoja failo turinį (failo [...]]]></description>
+			<content:encoded><![CDATA[<p>Renkantis bet kokią web turinio valdymo sistemą vienas iš pagrindinių klausimų yra jos pritaikomumas SEO. Kaip žinia, gana svarbus to faktorius yra URL optimizacija. Kas yra optimalus URL galima diskutuoti daug, tačiau mano asmeniniai kriterijai yra šie:</p>
+<ul>
+<li>URL, kaip failų sistemos atspindys, reiškia failą</li>
+<li>URL identifikuoja failo vietą &#8211; direktoriją, kurioje jis guli</li>
+<li>URL identifikuoja failo turinį (failo pavadinimas &#8211; turinio pavadinimas)</li>
+<li>URL identifikuoja failo tipą (pagal išplėtimą)</li>
+<li>URL padeda indetifikuoti failo statiškumą/dinamiškumą</li>
+</ul>
+<h2>URL identifikuoja failą</h2>
+<p>
+Pati URL sąvoka reiškia būtent tai, kad jis yra <strong>nuoroda į kažkokį resursą</strong>. Jeigu kalbėti apie web svetaines &#8211; senų senovėje HTTP metodas GET reikšdavo &#8220;atsiųsk man šitą hipertekstinį failą, iš anos direktorijos, iš to serverio&#8221;. Tai be abejo tiko statiškam turiniui, ir atsiradus visokiai dinamikai tai nustojo šiek tiek galioti.
+</p>
+<h2>URL identifikuoja failo vietą</h2>
+<p>
+Aš esu per jaunas, kad atsiminti vienos dimensijos failų sistemas, nors ir teko naudotis santakomis, kurios užsikraudavo iš kasečių. Bet kuri padori <strong>failų sistema yra hierarchija</strong> suskirstyta į direktorijų medį, su failais juose. Bet kuri didesnė web svetainė taipogi turi savo struktūrą &#8211; dažniausiai užtenka elementaraus medžio. Kalbant apie blog&#8217;us &#8211; to pakanka.
+</p>
+<h2>URL identifikuoja failo turinį</h2>
+<p>
+Šitą principą jau seniai įsikando visi optimizuotojai ir dauguma turinio valdymo sistemų jam yra pritaikytos. Paprastais žodžiais kalbant &#8211; puslapio/įrašo <strong>turinys privalo sutapti su tuo, ką matome adrese</strong>, t.y. iš esmės su jo pavadinimu.
+</p>
+<h2>URL identifikuoja failo tipą</h2>
+<p>
+Žiūrint iš vartotojo pusės, jeigu adrese nesimato turinio formos &#8211; turinys gali būti pavojingas. Iš dalies, tai yra optinė apgaulė (hell &#8211; sandros papai ir panašūs virusai būtent remiasi tuo, kad vartotojas matydamas .jpg išplėtimą tikisi .jpg failo), tačiau aš visiškai nemėgstu spausti nuorodos ir ten netikėtai rasti PDF dokumentą. Ši taisyklė šiek tiek gadina reikalą, jeigu kalbame apie <i>mobile content</i>, nes priklausomai nuo aparato/naršyklės tenka keisti failo tipą (WML <-> cHTML, etc.), tačiau kol kas tą ketinu ignoruoti, nes pradžioje mano turinys vistiek nebus pritaikytas WAP&#8217;ui.
+</p>
+<h2>URL identifikuoja turinio statiškumą</h2>
+<p>
+Kaip jau minėjau aukščiau, atsiradus dinamiškam turiniui tinkle, šiek tiek nustojo galioti principas, kad URL rodo į failą. Mano nuomone, dinamiškumas turi būti atspindėtas <dfn title="paieškos parametrų eilutė?">query string</dfn> (elementariaus pavyzdys &#8211; paieškos filtras ir jo parametrai adrese). Jeigu kalbėti apie blog&#8217;us ir šiaip didžiąją dalį svetainių &#8211; <strong>turime gana statiškų resursų rinkinį</strong> (t.y. nekeičiančių savo prasmės ir turinio) &#8211; daug įrašų, kurie iš esmės tėra HTML failai, gulintys savo vietoje. Tam ir yra skirti <i>permalinks</i>.
+</p>
+<h2>URL ir SEO yra skirti žmogui</h2>
+<p>
+<a href="http://www.google.com/support/webmasters/bin/answer.py?hl=en&#038;answer=35769">Google savo nurodymuose</a> teigia, kad nereikėtų rūpintis puslapio optimizavimu robotams &#8211; reikia rūpintis vartotojais. Net jeigu dalis iš mano išvardintų reikalvimų adresui neturi jokios reikšmės paieškos robotams, jie yra svarbūs lankytojui. Gera nuoroda lengva dalintis, be to ji gerai atrodo ir <dfn title="Search Engine Results Page">SERP</dfn>. Šiuolaikiniame internete, paieškos robotai privalo prisitaikyti prie žmogaus ir prie internetinės realybės (t.y. didelio <i>bardako</i>), tačiau aš mėgstu tvarką ir prasmę. Adresas <code>/2007/12/noriu-padorios-adresu-strukturos.rss2.xml</code> man yra tiesiog malonesnis ir prasmingesnis už <code>/2007/12/noriu-padorios-adresu-strukturos/feed/</code> ar tuo labiau už <code>/index.php?p=4&#038;feed=rss2</code>
+</p>
+<p>Šiame įraše paminėjau tik esminius meta reikalavimus URL struktūrai &#8211; tačiau vien to geram adresui negana. Turint plačias galimybes, galima nesunkiai viską sugadinti, o be to žvelgiant iš SEO perspektyvos &#8211; yra ir keletas papildomų reikalavimų, kuriuos dera apžvelgti atskirai.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.rss2.xml</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

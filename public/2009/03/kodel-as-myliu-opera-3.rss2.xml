@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Kodėl aš myliu Operą (3)</title>
+	<atom:link href="http://www.d-b.lt/2009/03/kodel-as-myliu-opera-3.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt/2009/03/kodel-as-myliu-opera-3.html</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Sun, 18 Nov 2012 23:44:11 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>By: Dominykas</title>
+		<link>http://www.d-b.lt/2009/03/kodel-as-myliu-opera-3.html/comment-page-1#comment-2964</link>
+		<dc:creator>Dominykas</dc:creator>
+		<pubDate>Fri, 27 Mar 2009 19:51:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/2009/03/kodel-as-myliu-opera-3.html#comment-2964</guid>
+		<description>Martin, dėl plėtimo be abejo tu teisus. Nors man kažkaip dar neprisireikė jos plėsti, nes ji turi viską ko man reik, išskyrus _gerą_ Firebug ekvivalentą (Dragonfly tiesiog per lėtas).
+
+O dėl renderinimo variklio tai nežinau ką turi omeny. Opera visada viską renderino teisingai - naudoju nuo 6 versijos. Vienintelės problemos kurios man kyla, tai kai svetainės yra pritaikytos IE ir tada net Firefox sunkiai padeda. Su JS truputį daugiau problemų būna, nes Firefox gerokai tolerantiškesnis.</description>
+		<content:encoded><![CDATA[<p>Martin, dėl plėtimo be abejo tu teisus. Nors man kažkaip dar neprisireikė jos plėsti, nes ji turi viską ko man reik, išskyrus _gerą_ Firebug ekvivalentą (Dragonfly tiesiog per lėtas).</p>
+<p>O dėl renderinimo variklio tai nežinau ką turi omeny. Opera visada viską renderino teisingai &#8211; naudoju nuo 6 versijos. Vienintelės problemos kurios man kyla, tai kai svetainės yra pritaikytos IE ir tada net Firefox sunkiai padeda. Su JS truputį daugiau problemų būna, nes Firefox gerokai tolerantiškesnis.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Chionsas</title>
+		<link>http://www.d-b.lt/2009/03/kodel-as-myliu-opera-3.html/comment-page-1#comment-2960</link>
+		<dc:creator>Chionsas</dc:creator>
+		<pubDate>Fri, 27 Mar 2009 14:42:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/2009/03/kodel-as-myliu-opera-3.html#comment-2960</guid>
+		<description>FF pluginas vadinasi &quot;Web Developer&quot; ir jis turi daug daugiau visko naudingo =)</description>
+		<content:encoded><![CDATA[<p>FF pluginas vadinasi &#8220;Web Developer&#8221; ir jis turi daug daugiau visko naudingo =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Martin</title>
+		<link>http://www.d-b.lt/2009/03/kodel-as-myliu-opera-3.html/comment-page-1#comment-2947</link>
+		<dc:creator>Martin</dc:creator>
+		<pubDate>Thu, 26 Mar 2009 20:01:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/2009/03/kodel-as-myliu-opera-3.html#comment-2947</guid>
+		<description>taip, Opera daug ką turi.
+bėda ta, kad 99% vartotojų tokių dalykų niekada nenaudoja.
+o juk optimali sistema ne ta, kuri viską turi, o ta, į kurią, prireikus, galima integruoti tai, ko reikia.
+ir Operos renderinimo varikliukas. nu kiauras jis. vis dar kiauras.</description>
+		<content:encoded><![CDATA[<p>taip, Opera daug ką turi.<br />
+bėda ta, kad 99% vartotojų tokių dalykų niekada nenaudoja.<br />
+o juk optimali sistema ne ta, kuri viską turi, o ta, į kurią, prireikus, galima integruoti tai, ko reikia.<br />
+ir Operos renderinimo varikliukas. nu kiauras jis. vis dar kiauras.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaip tapti ekspertu? &#187; standartai</title>
+	<atom:link href="http://www.d-b.lt/tag/standartai.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Užrašai iš FullFrontal 2009</title>
+		<link>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.html</link>
+		<comments>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.html#comments</comments>
+		<pubDate>Sat, 28 Nov 2009 21:46:42 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[accessibility]]></category>
+		<category><![CDATA[html5]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[standartai]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=193</guid>
+		<description><![CDATA[Prėjusį penktadienį Brighton&#8217;e vyko FullFrontal 2009 JavaScript konferencija, kurioje turėjau progą apsilankyti. Tikrai nenusivyliau!
+Šiame blogo įraše susidėjau tai, ką pasižymėjau pats sau beklausydamas kalbėtojų. Pačių kalbų tikrai neketinu aprašinėti &#8211; tai puikiai padarė Ajaxian (nuorodas pateikiu), o skaidrės taipogi prieinamos viešai.
+Jeigu kažkuris punktas sudomino &#8211; palikit komentarą &#8211; išplėsiu!
+Christian Heilmann &#8211; Frontloaded and zipped up [...]]]></description>
+			<content:encoded><![CDATA[<p>Prėjusį penktadienį Brighton&#8217;e vyko FullFrontal 2009 JavaScript konferencija, kurioje turėjau progą apsilankyti. Tikrai nenusivyliau!</p>
+<p>Šiame blogo įraše susidėjau tai, ką pasižymėjau pats sau beklausydamas kalbėtojų. Pačių kalbų tikrai neketinu aprašinėti &#8211; tai puikiai padarė Ajaxian (nuorodas pateikiu), o skaidrės taipogi prieinamos viešai.</p>
+<p>Jeigu kažkuris punktas sudomino &#8211; palikit komentarą &#8211; išplėsiu!</p>
+<h2><a href="http://www.wait-till-i.com/">Christian Heilmann</a> &#8211; Frontloaded and zipped up &#8211; do loose types sink ships</h2>
+<p><a href="http://ajaxian.com/archives/full-frontal-09-chris-heilmann-on-javascript-security">Ajaxian santrauka</a>; <a href="http://www.wait-till-i.com/2009/11/21/frontloaded-and-zipped-up-the-full-frontal-2009-keynote/">skaidrės</a>; <a href="http://www.archive.org/download/FrontloadedAndZippedUp-FullFrontalJavascriptConference2009/FrontloadedAndZippedUp-FullFrontalConference2009.mp3">garso įrašas</a>.</p>
+<ul>
+<li>Apie &#8220;AJAX&#8221; programuotojus kalbama žymiai pagarbiau negu apie &#8220;JavaScript&#8221; programuotojus. <i>Abydna, vienok.</i></li>
+<li>JS nėra programavimo kalba skirta kiekvienam &#8211; ir ne kiekvienas save vadinantis &#8220;tinklo kūrėju&#8221; turėtu ja užsiimti.</li>
+<li>JS egzistavo gerokai prieš jQuery.</li>
+<li>Naudojant JS kalbą, reikėtų ją naudoti taip, kaip ji buvo suplanuota &#8211; gana kurti įvairias abstrakcijas pagal tradicinius OO modelius. JS turi savo stilių &#8211; privalu jį išnaudoti ir įsisavinti.</li>
+<li>Saugumo skylės (XSS, XSRF ir t.t.) yra <i>server-side</i> problema &#8211; JS dažniausiai yra nekaltas (nors ir išnaudojamas)</li>
+<li>Nepamiršti: http-only sausainiukai sesijoms</li>
+<li>Bet kuris API yra iš esmės saugumo skylė &#8211; Firefox greičiausiai yra pati nesaugiausia naršyklė būtent dėl savo plėtinių architektūros. Priminė kažkieno sakinį, kad mash-up&#8217;ai yra XSS atakos prieš save patį.</li>
+<li>Išbandyti: dažnos ir paprastos apklausėlės kaip mokymosi metodas komandoje</li>
+<li>Pasidomėti: adsafe.org saugumo rekomendacijos</li>
+<li>Pasidomėti: <a href="http://code.google.com/p/google-caja/">Google Caja</a> (yra informacijos <a href="http://developer.yahoo.com/yap/guide/caja-support.html">ir YDN</a>)
+<ul>
+<li>Kas per saugumo skylė IE su <code>radio</code> mygtukais?</li>
+<li>Kodėl <code><a href="http://www.positioniseverything.net/easyclearing.html">clearfix</a></code> nevartotinas pagal Caja?</li>
+<li>Kodėl tiek daug CSS apribojimų?</li>
+</ul>
+</li>
+<li><code>javascript:void(0)</code> turi mirti (žiauria ir negarbina mirtimi)!</li>
+<li><a href="http://ejohn.org/">John Resig</a> yra, lyg ir, pažadėjęs, kad jeigu pakankamai žmonių to reikalaus &#8211; jQuery pritaikys Caja rekomendacijas</li>
+<li>Pasidomėti: ar įmanoma padaryti <i>YQL injection</i>?</li>
+<li>Pasidomėti: jau egzistuoja OAuth implementacija vien su JS</li>
+</ul>
+<h2><a href="http://robertnyman.com/">Robert Nyman</a> &#8211; JavaScript: from birth to closure</h2>
+<p><a href="http://ajaxian.com/archives/full-frontal-09-robert-nyman-on-the-javascript-language">Ajaxian santrauka</a>; <a href="http://www.slideshare.net/robnyman/javascript-from-birth-to-closure">skaidrės</a>.</p>
+<ul>
+<li>Kas čia per įprotis, tikrinti ar dižiąjame ekrane bėgantis Twitter srautas yra cenzūruojamas? Įdomus kultūrinis pokrypis, besivystant technologijoms&#8230;</i>
+<li>Nepamiršt: skaityti <a href="http://dmitry.baranovskiy.com/">Dmitry Baranovskiy&#8217;o</a> blogą</li>
+<li>Pasikartot: <code>typeof kint == 'undefined'</code> naudojimas</li>
+<li>Pasidomėt: Koks yra globalus <code>this</code> Rhino variklyje (t.y. <code>window</code> atitikmuo naršyklėse)?</li>
+<li>Pasidomėt: <a href="http://yuiblog.com/blog/2007/06/12/module-pattern/">YAHOO Module Pattern</a></li>
+</ul>
+<h2><a href="http://www.quirksmode.org/">Peter-Paul Koch</a> &#8211; W3C Widgets</h2>
+<p><a href="http://ajaxian.com/archives/full-frontal-09-ppk-on-mobile-quirks-and-practices">Ajaxian santrauka</a>; <a href="http://www.quirksmode.org/blog/archives/2009/11/presentations_t.html">skaidrės</a>.</p>
+<ul>
+<li>Pasidomėt: Ar Nokia N900 naršyklė yra fennec? (Atsakymas: taip)</li>
+<li>Mobilaus telefono naudojimas interneto naršymui yra puikus būdas pasimokyti &#8211; visos vartojiškumo pamokos gali būti pritaikytos eilinėms naršyklėms</li>
+<li>Ar <code>@media</code> kartu su iPhone&#8217;o <code>&lt;meta name="viewport" /&gt;</code> galėtų išspręsti problemą, kad <i>user-agentai</i> savaip interpretuoja pločius kai svetainė yra <i>išzoominta</i>? (Prie alaus PPK patvirtino, kad ketina tą patikrinti artimiausiu metu)</li>
+<li>Kai kuriuose aukšto DPI telefonuose kartais būna sunku paspausti tą vietą kurią nori &#8211; ar gali spaudimo jautrumo DPI ir ekrano DPI gali būti skirtingi?</li>
+<li>Nejaugi mobilūs telefonai neturi &#8220;ilgai trunkančio skripto&#8221; perspėjimų?</li>
+<li>Dėl greičio problemų, rekomenduojama nenaudoti <code>iframe</code> mobiliems telefonams skirtose svetainėse &#8211; kaip įgyventi AJAX-išką naršyklės istoriją (<i>back/forward</i>)?</li>
+<li>Dingstantis ryšys yra problema &#8211; ir <code>online/offline</code> įvykiai jos visiškai nepadeda spręsti</li>
+<li>Mobilių telefonų kešas yra ~200kb &#8211; būtina dar protingiau optimizuoti kodą</li>
+<li>W3C specifikacijos <i>widgetai</i> leidžia tik vieną HTML puslapį &#8211; potenciali problema?</li>
+<li>Dalintis <i>widgetais</i> per Bluetooth yra pavojinga</li>
+<li>Animacijos efektai mobiliuose telefonuose veikia lėtai. Iš patirties &#8211; ne viskas taip jau blogai, bet optimizuoti ir apskritai elgtis protingai privalu</li>
+</ul>
+<h2><a href="http://www.kryogenix.org/">Stuart Langridge</a> &#8211; New things that HTML5 provides to JavaScript hackers</h2>
+<p><a href="http://ajaxian.com/archives/full-frontal-09-stuart-langridge-on-html5-features">Ajaxian santrauka</a></p>
+<ul>
+<li>Pasidomėti: <a href="http://documentcloud.github.com/underscore/">underscore.js</a></li>
+<li>Internetas jau nebėra &#8220;programų rašymo platforma&#8221;. Tavo <em>svetainė</em> gali būti ta platforma, jeigu atidarysi savo API. Ir net jeigu neatidarysi &#8211; yra GreaseMonkey. Reikia tam būti pasiruošus!</li>
+<li>Idėja: naršyklių gamintojai, galėtų turėti standartinį būdą palaikymo tikrinimui, t.y. jeigu tu rašai savo kodą laikydamasis <i>progressive enhancement</i> principo, kartais turi paprastus būdus patikrinti, ar kažkas veiks &#8211; o kartais ne (pvz. Operos <code>&lt;event-source/&gt;</code>). O galėtų būti kas nors paprasto, pvz. <code>window.navigator.supports("event-source");</code></li>
+</ul>
+<h2><a href="http://twitter.com/toddkloots">Todd Kloots</a> &#8211; More accessible user interfaces with ARIA</h2>
+<p><a href="http://ajaxian.com/archives/full-frontal-09-todd-kloots-on-aria-and-acessibility">Ajaxian santrauka</a>, <a href="http://www.yuiblog.com/blog/2009/11/23/video-kloots-yuiconf2009-a11y/">video įrašas</a> ta pačia tema iš YUI konferencijos</p>
+<ul>
+<li>Idėja: YUI3 šiuo moment palaiko ARIA pridėdami roles ir atributus elementams, su kuriais dirba, pvz. sukuriant YUI meniu JS, susiiję elementai yra teisingai pažymimi. Ar neturėtų viskas būti atvirkščiai? T.y. rolės ir atributai nustatomi tiesiai HTML dar serveryje, o YUI (ar kita biblioteka) inicializuojasi jau naudodami tas roles.</li>
+<li>Toddas kalbėjo apie tai, kaip galima &#8220;uždėti ARIA sluoksnį savo sistemoje&#8221;. Bet argi nebūtų paprasčiau laikytis &#8220;ARIA palaikymo&#8221; kaip pagrindinio principo, t.y. tai yra kažkas tokio, ką tiesiog darai natūraliai, negu tai, ką darai pabaigoje, ant viršaus? Lygiai taip, kaip kažkada reikėjo pakeisti mastymą rašant HTML ir CSS, bei išmokti naudoti <i>progressive enhancement</i>, o ne <i>graceful degradation</i>.</li>
+<li>YUI2 palaiko <i>&#8220;<a href="http://yuiblog.com/blog/2007/01/17/event-plan/">event delegation</a>&#8220;</i>? Čia nuo kada? (Atsakymas: pasirodo, nuo YUI 2.8 &#8211; pamiršęs buvau&#8230; <i>&#8220;event delegation&#8221;</i> valdo!)</li>
+<li>Žmonės su normaliu regėjimu, turbūt savo protiniuose modeliuose (kaip išversti <i>mental model</i>?) turbūt be problemų priima, kad meniu dažnai eina iš kairės į dešinę. Kaip tai suvokia aklieji? T.y. kaip jų modeliai susitvarko su tuo, kad meniu navigacija vykdoma &#8220;kairė/dešinė&#8221; mygtukais, o ne &#8220;viršus/apačia&#8221;, kai naudojamos ekrano skaityklės?</li>
+<li>Pasidomėti: ar ARIA turi kokį nors &#8220;fokusuotos grupės&#8221; apibrėžimą, o ne vien tik &#8220;fokusuoto elemento&#8221;?</li>
+<li>Pasidomėti: <i>accessibility</i> šiuo metu dažniausiai siejasi su pele ir klaviatūra, kaip įvesties įrenginiais &#8211; kokie modeliai naudojami kitiems įrenginiams?</li>
+<li>Pasidomėti: ką HTML5 specifikacija sako apie <code>&lt;section/&gt;</code> <i>web application</i> kontekste?</li>
+<li>Pasidomėti: klaviatūros greitųjų klavišų atrandamumas lankytojams su <em>normalia</em> rega</li>
+</ul>
+<h2><a href="http://twitter.com/jaffathecake">Jake Archibald</a> &#8211; Optimising where it hurts</h2>
+<p><a href="http://ajaxian.com/archives/full-frontal-09-jake-archibald-on-performance-optimisation">Ajaxian santrauka</a>; <a href="http://www.jakearchibald.co.uk/jsperformance/">tyrimas ir skaidrės</a></p>
+<ul>
+<li>Ar jis čia skaidres varto su savo WII kontroleriu? Geras!</li>
+<li>Niekada nenaudoti <code>eval()</code>, ypač <i>closure</i> viduje &#8211; tai iš esmės nužudo visas JS variklių (V8, TraceMonkey ir t.t.) optimizacijas, nes <code>eval()</code> gali nesunkiai pakeisti kintamųjų aprėptį (kaip išversti <i>scope</i>?)</li>
+<li>Nenaudoti <i>closure</i> per dideliam gyliui, jeigu galima to išvengti</li>
+<li><em>Niekada nenaudoti</em> eilučių sujungimo, kai jos rašomos į <code>innerHTML</code>, t.y. ne <code>el.innerHTML="&lt;div&gt;"+kint+"&lt;/div&gt;"</code>, o <code>var s="&lt;div&gt;"+kint+"&lt;/div&gt;"; el.innerHTML=s;</code></li>
+<li>Vengti <code>window.onunload</code> naudojimo, nes nužudomas kešinimas (jQuery jau turi šią problemą &#8211; bet ketina išspręsti)</li>
+<li>Švarus ir paprastas HTML, neturintis bereikalingų tagų, pats savaime paspartina selektorių darbą (nes reikia perfiltruoti mažesnį kiekį elementų). Žodžiu, rašyti didelį kiekį nesemantinio HTML (ar tai būtų nereikalingi <code>div</code>, ar <code>table</code>) yra blogai!</li>
+<li>Kiekvienas turėtų pasimokyti pats rašyti vykdymo greičio testus (tik reikia nepamiršti apie &#8220;<a href="http://ejohn.org/blog/accuracy-of-javascript-time/">16ms problemą</a> JS&#8221;)</li>
+<li>&#8220;Optimizuok ten kur skauda&#8221; iš tikro tereiškia &#8220;nebūk durnas&#8221; &#8211; visos diskusijos, apie tai kuris ciklas optimalesnis (<code>for</code> prieš <code>while</code>) yra bevertės (nes sutaupo 0.002 <em>mili</em>sekundės). Iš tikro reikia izoliuoti tą dalį, kuri veikia lėčiausiai, ir tvarkyti būtent ją. Vargti stengiantis rašyti &#8220;teisingą kodą&#8221; iš anksto yra beprasmiška &#8211; žinot istoriją su &#8220;priešlaikine optimizacija&#8221;, ar ne?</li>
+</ul>
+<h2><a href="http://simonwillison.net/">Simon Willison</a> &#8211; Beating server side engineers in their own game</h2>
+<p><a href="http://ajaxian.com/archives/full-frontal-09-simon-willison-on-server-side-javascript-and-node-js">Ajaxian santrauka</a>; <a href="http://simonwillison.net/2009/Nov/23/node/">autoriaus santrauka</a></p>
+<ul>
+<li>Pasidomėti plačiau apie <a href="http://en.wikipedia.org/wiki/ECMAScript_for_XML">E4X</a></li>
+<li>Mac&#8217;ų vartotojai elgiasi&#8230; kitaip. Tiesiog kitaip ir tiek.</li>
+<li>Ar eitų NodeJS panaudoti kaip <i>unit testų</i> konsolę? Integruoti į <i>continuous build&#8217;us</i>?</li>
+<li>JS nėra &#8220;strongly typed&#8221; kalba &#8211; tai natūraliai yra sunkiau dirbant komandoje. Pasidomėti: kaip tai galima spręsti</li>
+<li><a href="http://nodejs.org/">NodeJS</a> ir <a href="http://couchdb.apache.org/">CouchDB</a> yra labai labai <i>seksi</i>! Kiekvienas turėtų pasidomėti kaip jie veikia, kaip optimizuoja procesus ir kokiais principais yra paremti!</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.rss2.xml</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+<enclosure url="http://www.archive.org/download/FrontloadedAndZippedUp-FullFrontalJavascriptConference2009/FrontloadedAndZippedUp-FullFrontalConference2009.mp3" length="40572024" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Kaip HTML5 įsisenėjusį skaudulį nuėmė</title>
+		<link>http://www.d-b.lt/2009/07/kaip-html5-isisenejusi-skauduli-nueme.html</link>
+		<comments>http://www.d-b.lt/2009/07/kaip-html5-isisenejusi-skauduli-nueme.html#comments</comments>
+		<pubDate>Mon, 06 Jul 2009 23:13:14 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Be kategorijos]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[html5]]></category>
+		<category><![CDATA[pavadinimai]]></category>
+		<category><![CDATA[standartai]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=117</guid>
+		<description><![CDATA[Jau kokius du su puse metų vis ruošiausi parašyti įrašą apie h1-h6 žymų naudojimą ir jų nepakankamumą. Gerai, kad tingėjau &#8211; dabar nebereikia net sukti dėl to galvos.
+Antraščių problema HTML 4.01
+HTML4 specifikacija apie h? antraštes kalba gana abstrakčiai. Jų esmė &#8211; pristatyti toliau einačios dokumento dalies turinį. Paminėta, kad h1 yra svarbiau negu h6, taipogi, [...]]]></description>
+			<content:encoded><![CDATA[<p>Jau kokius du su puse metų vis ruošiausi parašyti įrašą apie <code>h1</code>-<code>h6</code> žymų naudojimą ir jų nepakankamumą. Gerai, kad tingėjau &#8211; dabar nebereikia net sukti dėl to galvos.</p>
+<h2>Antraščių problema HTML 4.01</h2>
+<p>HTML4 specifikacija <a href="http://www.w3.org/TR/html401/struct/global.html#h-7.5.5">apie <code>h?</code> antraštes</a> kalba gana abstrakčiai. Jų esmė &#8211; pristatyti toliau einačios dokumento dalies turinį. Paminėta, kad <code>h1</code> yra svarbiau negu <code>h6</code>, taipogi, kad iš to galima sukurti dokumento &#8220;apžvalgą&#8221; ar &#8220;turinio rodyklę&#8221;. Dar rašoma, kad &#8220;kai kurie žmonės&#8221; laiko, kad &#8220;peršokti&#8221; lygius (t.y. <code>h1 h3 h5</code>) yra neteisinga, tačiau neteikia jokių rekomendacijų šiuo klausimu.</p>
+<p>Be jau paminėto komentaro pačioje specifikacijoje, toks aprašymas palieka begalybę kitų klausimų, kad ir pvz. kiek puslapyje gali būti <code>h1</code> žymų? Kaip atskirti skirtingą jų kontekstą? Viena iš SEO strategijų (kol robotai nebuvo to išmokę pažinti), buvo sukišti vos ne visą puslapio turinį į <code>h1</code>, taip raktažodžiams suteikiant papildomą vertę. Kita problema buvo, kad ir tai, kad pvz. dokumento skiltis skirta navigacijai (blog&#8217;o <i>sidebar</i>) taipogi buvo suskirstyta į dalis &#8211; tokiu atveju norėtųsi atskirti, kad <i>sidebar</i> poskyriai (pažymėti <code>h3</code>) nėra vienos iš įrašo pastraipų (pažymėtų <code>h2</code>) dalis.</p>
+<h3>Interpretacija: <code>h1</code> yra svarbiausias ir vienintelis</h3>
+<p><aside>Vis pamirštu, kad HTML4 reikia naudoti būtuoju laiku</aside></p>
+<p>Negana to, mano asmeniniu požiūriu, puslapyje <del>derėtų</del> derėjo naudoti tik vieną <code>h1</code> tipo elementą (<a href="http://www.w3.org/TR/2008/NOTE-WCAG20-TECHS-20081211/H42">WCAG rekomendacija</a>) &#8211; tą, kuris daugiau mažiau sutaptų su puslapio pavadinimu, nurodytu <code>title</code>. Taigi titulinis eilinio blog&#8217;o puslapis atrodytų maždaug taip:</p>
+<ul>
+<li><code>h1</code>: blog&#8217;o pavadinimas
+<ul>
+<li><code>h2</code>: navigacija
+<ul>
+<li><code>h3</code>: <i>sidebar</i> skiltis</li>
+<li><code>h3</code>: <i>sidebar</i> skiltis</li>
+</ul>
+</li>
+<li><code>h2</code>: įrašas
+<ul>
+<li><code>h3</code>: įrašo pastraipa</li>
+<li><code>h3</code>: įrašo pastraipa</li>
+</ul>
+</li>
+<li><code>h2</code>: įrašas
+<ul>
+<li><code>h3</code>: įrašo pastraipa</li>
+<li><code>h3</code>: įrašo pastraipa</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3>Ką daryti kai antraštės &#8220;šokinėja&#8221;?</h3>
+<p>Aukštesnis suskirstymas tinka tik pirmąjam puslapiui. Jeigu kalbame apie individualaus įrašo puslapio sužymėjimą, tai situacija lyg ir keistųsi &#8211; <em>blog&#8217;o pavadinimas jau nebėra <code>h1</code> svarbos</em>, nes svarbiausia antraštė tokiu atveju yra <em>įrašo</em> pavadinimas! Įrašo pastraipos taipogi turėtų kylti lygiu aukščiau &#8211; iki <code>h2</code>. Kas tokiu atveju atsitinka su <i>sidebar</i> skiltimis? Nežinau.</p>
+<p>Taip iki galo ir neišsprendžiau tos problemos, nors ir labai norėjosi. Viena iš minčių buvo išvis atsisakyti pašalinės navigacijos. Lankytojų tai per daug nenuskriaustų &#8211; pagal mano duomenis didžioji dalis lankytojų iš Google patekę tiesiai į konkretų įrašą arba tiesiog išeidavo (aš gal rašyt nemoku?), arba po to keliaudavo į titulinį puslapį (o gal vistik moku?), o ne tiesiogiai į kitus įrašus.</p>
+<h2>HTML5 dokumento skilčių apibrėžimai į pagalbą!</h2>
+<p>Nepaisant to, kad iš aukščiau apibrėžtos problemos grafomanas išspaustų tris įrašus, o internetas pilnas <a href="http://www.h1debate.com/">nesibaigiančių diskusijų</a>, man tai nebėra aktualu! HTML5 apibrėžia dokumento skiltis &#8211; joms sužymėti galima naudoti <code>section</code>, <code>nav</code> ir <code>article</code> elementus (<code>aside</code> taipogi laikoma atskiru, susijusiu poskyriu). Visi šie elementai gali turėti savo antraštes ir paraštes (<code>header</code> ir <code>footer</code>). Tokiu atveju, kiekviena antraštė įgauna savo individualų kontekstą (<code>body</code> viduje esanti antraštė aprašo puslapį, gi tuo tarpu <code>article</code> viduje &#8211; tik tą įrašą) ir savo individualią hierarchiją.</p>
+<p>Nepaisant to, kad specifikacijoje gana daug teksto yra skiriama <a href="http://dev.w3.org/html5/spec/Overview.html#outlines">rodyklės (<i>outline</i>) formavimo algoritmui</a>, paprastam blog&#8217;ui, o turbūt ir daugeliui kitų svetainių, tai yra neaktualu, nes antraščių hierarchija visada gaunasi elementari &#8211; praktiškai bet kurios dokumento dalies antraštės apsirašo tiesiog <code>&lt;header&gt;&lt;h1&gt; pavadinimas &lt;/h1&gt;&lt;/header&gt;</code>, t.y. <code>h1</code> šiuo atveju nebereiškia tiesiog &#8220;svarbiausia antraštė&#8221;, o interpretuotina kaip &#8220;svarbiausia antraštė šioje dokumento dalyje&#8221;. Naudojant tokią logiką, individualus įrašo puslapis jau nebeturi kitokio globalaus antraščių lygmenų išsidėstymo, nei sąrašuose &#8211; dabar aš drąsiai galiu savo įrašų poskilčius žymėti tiesiog <code>h2</code>.</p>
+<h2>Desertas</h2>
+<ul>
+<li>HTML5 neberiboja antraščių gilumo (anksčiau buvo maks. 6) &#8211; nors ir nelabai žinau kam to gali prireikti</li>
+<li><code>hgroup</code> elementas leidžia grupuoti antraštes su paantraštėm, kaip pvz. aš esu padaręs su blog&#8217;o pavadinimu &#8211; <i>View source</i> naudoti mokat?</li>
+<li><a href="http://www.w3.org/TR/wai-aria/#banner">ARIA <code>banner</code> rolė</a> leidžia atskirti &#8220;svetainės&#8221; ir &#8220;dokumento&#8221; pavadinimus &#8211; apie ARIA apskritai dar reiktų daugiau man pasiskaityti&#8230;</li>
+</ul>
+<h2>Papildomas skaitymas</h2>
+<ul>
+<li><a href="http://blog.whatwg.org/this-week-in-html-5-episode-32#hgroup">Introducing the <code>&lt;hgroup&gt;</code> element</a></li>
+<li><a href="http://www.brucelawson.co.uk/2009/headings-in-html-5-and-accessibility/">Headings in HTML 5 and accessibility</a></li>
+<li><a href="http://www.youtube.com/watch?v=GIn5qJKU8VM">More than one H1 on a page: good or bad?</a></li>
+</ul>
+<p>PS neturiu laiko ieškoti, bet gal kas turit pasiūlymą, kaip WordPress priversti nedėti <code>aside</code> į <code>p</code>?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2009/07/kaip-html5-isisenejusi-skauduli-nueme.rss2.xml</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>HTML5: naudoti negalima laukti</title>
+		<link>http://www.d-b.lt/2009/07/html5-naudoti-negalima-laukti.html</link>
+		<comments>http://www.d-b.lt/2009/07/html5-naudoti-negalima-laukti.html#comments</comments>
+		<pubDate>Sun, 05 Jul 2009 21:15:33 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[eksperimentai]]></category>
+		<category><![CDATA[html5]]></category>
+		<category><![CDATA[html5 mitai]]></category>
+		<category><![CDATA[semantinis tinklas]]></category>
+		<category><![CDATA[standartai]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/?p=96</guid>
+		<description><![CDATA[Jau kuris laikas pavydėjau Bruce Lawson, kad jis paėmė ir sužymėjo savo blog&#8217;ą HTML5. Kentėjau, tingėjau ir atidėliojau, kol va pagaliau šį savaitgalį paėmiau ir pasidariau tai pats. Tiesa, ne iki galo ir ne visai taip kaip norėjau, bet hell &#8211; HTML5 galima privaloma, bent dalinai, naudoti jau šiandien.
+
+Struktūriniai elementai veikia puikiai
+Naujieji elementai (header, footer, [...]]]></description>
+			<content:encoded><![CDATA[<p>Jau kuris laikas pavydėjau Bruce Lawson, kad jis paėmė ir <a href="http://www.brucelawson.co.uk/2009/redesigning-with-html-5-wai-aria/">sužymėjo savo blog&#8217;ą HTML5</a>. Kentėjau, tingėjau ir atidėliojau, kol va pagaliau šį savaitgalį paėmiau ir pasidariau tai pats. Tiesa, ne iki galo ir ne visai taip kaip norėjau, bet hell &#8211; HTML5 <del>galima</del> privaloma, bent dalinai, naudoti jau šiandien.</p>
+<p style="text-align:center;"><img src="http://www.d-b.lt/uploads/2009/07/html5.png" alt="HTML5 struktūra" title="HTML5 struktūra" width="450" height="189" class="aligncenter size-full wp-image-103" style="border: 1px solid #000;" /></p>
+<h2>Struktūriniai elementai veikia puikiai</h2>
+<p><a href="http://www.w3.org/TR/html5-diff/">Naujieji elementai</a> (<code>header</code>, <code>footer</code>, <code>time</code>, etc) veikia (beveik) puikiai. Nėra nei vienos rimtos priežasties, kodėl reiktų delsti su jų naudojimu. Vienintelė išimtis (kurios aš net nesistengiau išspręsti) &#8211; Firefox 2. IE šeimos naršyklės taipogi nenori pripažinti naujų žymų ir pritaikyti joms stilių, tačiau tai nesunkiai <a href="http://html5doctor.com/how-to-get-html5-working-in-ie-and-firefox-2/">išsprendžiama Javascript pagalba</a>. Jeigu vien Javascript sprendimas netenkina (<i>unobtrussive, progressive enhancement, etc</i>) &#8211; visada galima naudoti tarpinį sprendimą &#8211; naudoti naujas HTML5 žymas semantikai, o stiliams prikaišioti <code>div</code>&#8216;ų.</p>
+<p>Be viso šito, perrašydamas savo blog&#8217;o HTML, nesusidūriau su jokiom problemom, išskyrus <code>header</code> ir <code>h1</code> semantinėm reikšmėm, bet tai yra verta atskiro įrašo. Dar turėjau šiek tiek dvejonių dėl <code>section</code> naudojimo, tačiau priėjau išvados, kad geriau šiandien eksperimentuoti, o rytoj padaryti teisingai &#8211; be klaidų progreso nebus.</p>
+<h2>Formos elementų tipus naudoti galima</h2>
+<p>Aš pats nenaudojau naujų formų elementų tipų (<code>type=email</code>, <code>type=url</code>), tačiau kai tik turėsiu daugiau laiko paeksperimentuoti &#8211; naudosiu ir juos. Kol kas juos palaiko tik <a href="http://www.opera.com/">Opera naršyklė</a>, tačiau kitos netruks prisivyti, o tos kurios jų nepalaiko &#8211; atvaizduos laukus tiesiog kaip <code>type=text</code> &#8211; <a href="http://people.opera.com/brucel/demo/html5-forms-demo.html">demo</a>. Vėlgi &#8211; truputėlis JS šen bei ten, truputėlis CSS ir ateitis bus šiandien.</p>
+<h2><code>canvas</code>, <code>video</code> ir <code>audio</code> palaikymas</h2>
+<p>Na, šitie trys žvėrys man šį savaitgalį, ir juo labiau eiliniam blog&#8217;ui, buvo visai neaktualūs, tačiau jie jau veikia bent dalyje naršyklių.</p>
+<p>Turint omeny, kad iš dalies HTML5 yra kuriamas kaip standartas, dokumentuojantis jau egzistuojančią tinklo ir naršyklių būklę, tai <code>canvas</code> yra tas dalykas, kuris turi mažiausiai palaikymo problemų (neskaitant vienos, ghkhmz, naršyklės). <a href="http://ajaxian.com/">Ajaxian</a> vos ne kas antrą dieną paskelbią kokį nors naują demo su <code>canvas</code>. <a href="http://www.nihilogic.dk/labs/mario/mario_small_music.htm">Super Mario</a> žaidimas &#8211; sukurtas prieš daugiau nei metus! Aš ir pats dar užpernai naudojau vieną iš jQuery pluginų grafikų paišymui.</p>
+<p>Su <code>video</code> problemos yra kur kas didesnės. Kas nors dar atsimenat, kaip prieš daug daug metų tekdavo vargti ieškant codec packų? Internete tai būtų visos &#8220;video be pluginų (skaityti: Flash)&#8221; idėjos žudikas. Safari palaiko Quick Time, Opera 10 ir Firefox &#8211; OGG Vorbis ir Theora, Chrome &#8211; OGG ir H.264, ir nei vieni, nei kiti neketina pasiduoti.</p>
+<p>Kodekų problema yra iš esmės tai, kad dauguma jų yra uždari, apsaugoti patentų ir brangiai kainuoja. Tie, kurie yra atviri &#8211; netenkina kokybės reikalavimų (Google, kaip didžiausias video turinio teikėjas, nenori naudoti OGG, nes na interneto srautas yra brangus dalykas).</p>
+<h2>Ateitis</h2>
+<p>Kadangi <a href="http://www.w3.org/News/2009#item119">XHTML2 mirė</a>, tai HTML5 lieka vienintelis ateities standardas. Ir jis nors ir nėra tobulas, tačiau panašu, kad neketina sugriauti egzistuojančio interneto. Naršyklės pradeda jį po truputį palaikyti, tinklo kūrėjai taipogi jau turi galimybę juo naudotis. Kartais atrodo, kad jis gal ir nėra reikalingas &#8211; juk internetas veikia ir dabar, tačiau tikrasis postūmis bus tada, kai paieškos robotukai pradės labiau gerbti semantinį tinklą. Tai nutiks tik tuo atveju, jeigu HTML5 bus naudojamas jau dabar &#8211; nereikia laukti galutinės W3C rekomendacijos (juk ji bus tik tada, kai bus 2 pilnai įgyventintos realizacijos).</p>
+<h2>Šaltiniai ir tolesnis skaitymas</h2>
+<ul>
+<li><a href="http://html5doctor.com/">HTML5 doctor</a></li>
+<li><a href="http://remysharp.com/2009/01/07/html5-enabling-script/">HTML5 enabling script</a></li>
+<li><a href="http://www.sitepoint.com/article/html-5-snapshot-2009/">Yes, You Can Use HTML 5 Today!</a></li>
+<li><a href="http://blog.whatwg.org/">HTML5 darbo grupės blog&#8217;as</a></li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2009/07/html5-naudoti-negalima-laukti.rss2.xml</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>Paranoja: HTML5</title>
+		<link>http://www.d-b.lt/2008/02/paranoja-html5.html</link>
+		<comments>http://www.d-b.lt/2008/02/paranoja-html5.html#comments</comments>
+		<pubDate>Tue, 05 Feb 2008 19:52:09 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[html5]]></category>
+		<category><![CDATA[paranoja]]></category>
+		<category><![CDATA[standartai]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2008/02/paranoja-html5.html</guid>
+		<description><![CDATA[Vakar pagaliau prisiverčiau atidžiai perskaityti prieš kelias savaites paskelbto HTML5 juodraščio skyrių apie skirtumus nuo HTML4. Skaičiau ir norėjau verkti. Kažko pastaruoju metu dažnai taip nutinka skaitant ką nors apie technologijas &#8211; matyt ištižėlis pasidariau&#8230; Arba tiesiog trūksta atostogų.
+O dėl verkimo, tai jis turi kelias labai konkrečias priežastis:
+
+Džiaugsmas, dėl tobulėjimo, naujų galimybių, semantiškumo;
+Nusivylimas, kad tai [...]]]></description>
+			<content:encoded><![CDATA[<p>Vakar pagaliau prisiverčiau atidžiai perskaityti prieš kelias savaites paskelbto HTML5 juodraščio skyrių apie <a href="http://www.w3.org/html/wg/html5/diff/">skirtumus nuo HTML4</a>. Skaičiau ir norėjau verkti. Kažko pastaruoju metu <a href="http://www.d-b.lt/2008/01/kas-kaltas.html">dažnai taip nutinka</a> skaitant ką nors apie technologijas &#8211; matyt ištižėlis pasidariau&#8230; Arba tiesiog <a href="http://www.visitmalta.com/">trūksta atostogų</a>.</p>
+<p>O dėl verkimo, tai jis turi kelias labai konkrečias priežastis:</p>
+<ul>
+<li><strong>Džiaugsmas</strong>, dėl tobulėjimo, naujų galimybių, semantiškumo;</li>
+<li><strong>Nusivylimas</strong>, kad tai kas aprašyta specifikacijoje, turėsime (su implementacija) tik po, geriausiu atveju, penkių, jeigu ne penkiasdešimties, metų;</li>
+<li><strong>Pyktis</strong> su klausimu &#8220;koks idiotas sugalvojo, kad tai yra reikalinga&#8221;;</li>
+<li><strong>Tragiška panika</strong>, kad naujasis HTML5 suteiks galimybę Microsoft padaryti dar daugiau klaidų Internet Exploreryje&#8230;.</li>
+</ul>
+<h2>Žingsnis į priekį</h2>
+<p><a href="http://www.ibm.com/developerworks/library/x-html5/">Pirmą kartą skaitydamas</a> apie tuos skirtumus atkreipiau dėmesį tik į naujus elementus. Labiausiai džiaugiuosi struktūriniais <code>&lt;section&gt;, &lt;article&gt;, &lt;header&gt;, &lt;footer&gt;, &lt;aside&gt;</code> elementais &#8211; jie bus <strong>labai naudingi SEO požiūriu</strong>. Didžioji dalis kitų naujų tag&#8217;ų taipogi nėra blogi iš esmės &#8211; jie visi turi savo pritaikymą.</p>
+<h2>Du žingsniai atgal</h2>
+<p>Na, dėl žengimo atgal gal per daug griežtai pasakyta, tačiau kai kurie dalykai atrodo mažų mažiausiai keisti. Labiausiai mane <strong>neramina esminiai pasikeitimai formose</strong>. Aš tikrai nepeikiu tų idėjų, netgi atvirkščiai &#8211; džiaugiuosi jomis, tačiau didysis klausimas yra <strong>ar šioms naujovėms vieta HTML standarte</strong>?</p>
+<p>Nepaisant to, kad <code>&lt;input&gt;</code> elemento tipas <code>datetime</code> yra tikrai reikalingas, tereikia tinkamai apibrėžti siuntimo standartus į serverį (nes atvaizdavimo formatas skirtingas priklausomai nuo vartotojo lokalės), jis sukelia <strong>neigiamą postūmį tinklo kūrėjams</strong>.</p>
+<h2>HTML mokymosi kreivė</h2>
+<p>Daugiau nei pusė &#8220;PHP programuotojų&#8221;, kurie ateidavo pas mane į pokalbius dėl darbo, nežinojo arba <strong>nesugebėdavo apibrėžti kas yra &#8220;SQL injection&#8221;</strong>. Natūralus klausimas yra ar tie programuotojai suvoks kad <code>email</code> lauke įvestus duomenis reikia vistiek tikrinti ir server-side? Nemanau. Be abejo, galimi kažkokie priverstiniai sprendimai, kad ir reikalavimas kartu su siunčiama forma perduoti metaduomenis apie laukų tipus. juos automatiškai patikrintų, kad ir tas pats PHP &#8211; tačiau tam gali prireikti ir pakeitimų HTTP standarte &#8211; kas sukuria tik <strong>dar didesnį sniego kamuolį</strong>, besiritantį žemyn nuo kalno.</p>
+<p>Be abejo, galimas kontra-argumentas yra tai, kad <strong>svetaines turėtų kurti profesionalai</strong>, bet juk HTML visada buvo standartas, kurio mokymosi kreivė nėra labai stati, be to idėja prieštarauja <i>user-generated content</i> principui. Kažkada žaidžiant žaidimus, teko susidurti su penkiasdešitmetėmis mamytėmis, kurios prižiūrėdamus vaikus, be didelio vargo tvarkydavo savo sritį žaidėjų aliansų svetainėse. Profesionalūs programuotojai jau beveik išmoko <strong>&#8220;teisingo HTML&#8221; taisykles</strong> &#8211; tačiau didžioji dauguma žmonių, kuriems teks susidurti su tuo, <strong>niekada nevargs dėl jų</strong>, bet puslapius tvarkyti norės. Tokie žmonės visada galvos <q>&#8220;Štai įdedu čia <code>number</code> lauką ir jis automatiškai išsisaugo duomenų bazėje &#8211; puiku! Paprasta! Dabar pradėsiu profesionalią tinklo kūrėjo karjerą!&#8221;</q></p>
+<h2>Daugiau medžių</h2>
+<p>HTML5 specifikacija gan neblogai atspindi tam tikras Web 2.0 tendencijas, o ypač &#8211; AJAX paplitimą. Tai ryškiai matosi iš tokių naujų atributų kaip <code>contenteditable, contextmenu, draggable, ping</code> ar elementų <code>&lt;menu&gt;, &lt;progress&gt;</code>. Vėlgi &#8211; beprotiškai džiaugiuosi didžiąją jų dalimi. Kasdieniame darbe ne kartą apie juos teko pasvajoti (tol kol nepradėjau žaisti su <a href="http://code.google.com/webtoolkit/">GWT</a> &#8211; JavaScript nėra pati dėkingiausia programavimo kalba).</p>
+<p>Tačiau <strong>ar tikrai HTML yra ta kalba, kuria derėtų aprašinėti turinio <em>valdymo</em> sistemas</strong>? Kiek pamenu, HTML buvo sukurta tam, kad sužymėti hiper-tekstą &#8211; tai yra dokumentą su išorinėmis nuorodomis. Evoliucija link semantiško HTML yra natūrali. Tačiau realybėje tinklas išsiplėtė ir &#8220;interneto svetainė&#8221;, dabar gali reikšti ir &#8220;tinkle veikiantis programinis paketas&#8221; (think: Google Apps). Lyg ir nebūtų problemos tame, tačiau tą evoliuciją griauna esminis rudimentas:</p>
+<blockquote><p>To keep the authoring language relatively simple <strong>for authors</strong> several elements and attributes <strong>are not included</strong> &lt;..&gt; <strong>User agents</strong>, however, will always <strong>have to support</strong> these older elements.</p>
+</blockquote>
+<p>Ši frazė iš esmės reiškia, kad kūrėjas neturi teisės naudoti tam tikrų senų elementų, bet naršyklės privalo juos palaikyti. Sakyčiau visiškas absurdas. Panašiai kaip ir su greičio limitais. Mieste lyg ir 50km/h, bet Vilniuje visi važiuoja 70km/h ar greičiau. Tai kur gi dingo ta aktyviai W3C propaguojama semantika? Iš vienos pusės jie nori suteikti kuo daugiau lankstumo, tačiau tuo <strong>sukelia absoliutų chaosą</strong> savo diegiamoje tvarkoje. Iš vienos pusės jie skatina naudoti CSS turinio formatavimui, tačiau iš kitos &#8211; bando palikti meniu iš &#8220;tipinio interfeiso&#8221;. Tiesa, neįsivaizduoju kaip galima būtų su CSS aprašyti iššokantį kalendorių (kurį sukuria naršyklė, pagal OS standartus). Nors&#8230; ne bėda juk. &lt;SELECT&gt;&#8217;ų po IE neina formatuoti &#8211; matyt teks gyventi šiame pragare ir toliau&#8230;</p>
+<h2>Šaunam į kiškius</h2>
+<p>Kaip ten bebūtų &#8211; pagrindinė <strong>W3C problema kuriant HTML5 yra siekimas patenkinti visus</strong>. Tiek naršyklių kūrėjus, tiek tinklo kūrėjus. Tiek patyrusius HTML ekspertus, tiek entuziastiškus mėgėjus. O juk jie galėtų atsižvelgti į vieną elementarią usability taisyklę &#8211; ekspertai nepyksta, kai dalykai yra pritaikyti <del>kvailesniems</del> mažiau patyrusiems už juos ir todėl yra nesudėtingi.</p>
+<p>Juk galima vos vos pataisyti esamą HTML standartą, iš jo pašalinant kelis &#8220;per sudėtingus&#8221; elementus bei neįtraukiant naujovių ir publikuoti tai kaip <i>HTML5 basic</i>. O visus sudėtinguosius dalykus perkelti į <i>HTML5 strict</i> standartą, kuriame vertinimas būtų daug griežtesnis. Panašiai jau yra padaryta su HTML4, tačiau svarbiausias dalykas kurio reikia &#8211; norint naudoti pažangius dalykus, privalu naudoti <em>strict</em> standartą. Tai yra, mamytė kovinio alianso žaidime vadovė ir toliau gali naudoti paprastą HTML, o komanda, kurianti corporate level web programą būtų <strong>priversta <em>pilnai</em> laikytis standartų, nes kitaip aplikacija neveiktų išvis</strong>.</p>
+<p>Labiausiai paguodžiantis, tačiau tuo pačiu virkdantis dalykas visame dokumente yra ši eilutė:</p>
+<blockquote><p>The HTML 5 specification will not be considered finished before there are at least two complete implementations of the specification.</p>
+</blockquote>
+<p>Paguodžia todėl, kad jeigu Microsoft nesugebės to įdiegti 19.5 IE versijoje be klaidų &#8211; jie atsiliks. Virkdo dėl dviejų priežasčių. Pirma &#8211; Microsoft pasakys, kad standartas yra tai, kaip klaidos veikia 19.5 IE versijoje, o antra &#8211; tinklo kūrėjai pirmo žingsnio diegiant standartus negalės žengti, o naršyklių kūrėjai gali gerokai užtrukti priiminėdami sprendimus, nes visi kabės ore dėl galimų pasikeitimų standarto specifikacijoje.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2008/02/paranoja-html5.rss2.xml</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Naršyklinė realybė</title>
+		<link>http://www.d-b.lt/2008/01/narsykline-realybe.html</link>
+		<comments>http://www.d-b.lt/2008/01/narsykline-realybe.html#comments</comments>
+		<pubDate>Thu, 24 Jan 2008 20:15:50 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[Internet Explorer]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[standartai]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2008/01/narsykline-realybe.html</guid>
+		<description><![CDATA[Šią savaitė A List Apart paskelbė du vienas kitam prieštaraujančius straipsnius. Čia ne kritika &#8211; prieštarą jie sukėlė sąmoningai. Ir ta prieštara išaugo į gana rimtą diskusiją, kurioje teisių nėra ir nebus. Išskyrus mane.
+Trumpai: problemos aprašymas
+Sulig kiekviena kiekvienos naršyklės versija, pasikeičia HTML ir CSS kodo interpretacija ir atvaizdavimas. Visi jau seniai įprato rašyti pseudo-standartinį kodą, [...]]]></description>
+			<content:encoded><![CDATA[<p>Šią savaitė A List Apart paskelbė du <a href="http://www.alistapart.com/articles/beyonddoctype">vienas</a> kitam <a href="http://www.alistapart.com/articles/fromswitchestotargets">prieštaraujančius</a> straipsnius. Čia ne kritika &#8211; prieštarą jie sukėlė sąmoningai. Ir ta prieštara išaugo į gana rimtą diskusiją, kurioje <a href="http://www.456bereastreet.com/archive/200801/standards_mode_is_the_new_quirks_mode/">teisių nėra ir nebus</a>. Išskyrus mane.</p>
+<h2>Trumpai: problemos aprašymas</h2>
+<p>Sulig kiekviena kiekvienos naršyklės versija, <strong>pasikeičia HTML ir CSS kodo interpretacija</strong> ir atvaizdavimas. Visi jau seniai įprato rašyti pseudo-standartinį kodą, su papildomais browser-hack&#8217;ais. Tam, kad ateityje išvengti šios problemos, vienas iš List Apart autorių, teigia, kad sprendimas <strong>naudoti papildomą HTTP headerį/META eilutę su naršyklės versija</strong>, kuriai pritaikyta svetainė yra geras, o kitas tuo tarpu teigia, kad blogesnės idėjos būti negali.</p>
+<h2>Realybė</h2>
+<p>Šiaip pats sprendimas lyg ir atrodytų neblogas &#8211; nurodau, kad mano svetainė gerai veikia su FF3 ir IE8, o toliau &#8211; nusispjaunu. Vartotojas jokio skirtumo nepajaučia, išskyrus tai, kad kiekviena nauja naršyklė veikia vis lėčiau ir tenka atsinaujinti techninę įrangą. Ir įsidiegti Vista.</p>
+<p>Tačiau realybėje jis nieko nekeičia &#8211; ir ateityje visi <strong>tinklo meistrai turės spręsti naršyklių klaidas</strong>, bei priedo nurodyti kurios naršyklės problemos yra <strike>nulaužtos</strike> išspręstos. Šis sprendimas tereiškia viena &#8211; Microsoft, su visa galybe savo pinigų ir programuotojų, pasiduoda ir tiesiai šviesiai sako: <strong>&#8220;mes niekada neišspręsime suderinamumo problemų&#8221;</strong>. Paranojikas galėtų pasakyti, kad MS verslas yra paremtas marketingu ir rinkos kontrole, o naujos programų versijos niekuo nepasikeičia (&#8220;buvo blogai, tapo kitaip, bet vistiek blogai&#8221;) &#8211; vartotojas yra priverčiamas jas naudoti apgaulės būdu.</p>
+<h2>Kur dingo semantinis tinklas?</h2>
+<p>Kiek teko girdėti (ghkhmz), tai web 3.0 bus sematinis tinklas &#8211; t.y. &#8220;naujojo tipo&#8221; svetainės bus struktūriškai tvarkingos ne tik sužymėjimo/kodo atžvilgiu, bet ir to kodo prasmingumo atžvilgiu tam, kad įvairūs programiniai robotai galėtų aptažinti sužymėto turinio prasmę. Tačiau visa šita &#8220;<strong>standartizavimo&#8221; banga stabdo</strong> vieną esminį elementą &#8211; <strong>išvaizdos individualumą</strong>. <em>Pašalinė mintis: Tarybų Sąjunga būtų išsivysčiusi į labai semantinę valstybę. Pasiilgau mėlynų ir rudų mokyklinių uniformų.</em></p>
+<p>Ką reiškia nauja žyma &#8220;pritaikyta XX naršyklės YY versijai&#8221; semantine <em>HTML</em> prasme? Absoliučiai nieko (meta). Ji tik nurodo kokį &#8220;piešimo&#8221; variklį derėtų naudoti tam, kad svetainė atrodytų &#8220;idealiai&#8221;. Vienas pirmų dizainerių, su kuriais teko dirbti, atsiuntęs man PSD failą vis sakydavo &#8211; galutinis rezultatas naršyklėje turi būti tiksliai toks, be menkiausio, net 1px nukrypimo. Ši nauja žyma tik parodo, kad tokie dizaineriai, bei už jų stovintys marketingo žmonės vis dar valdo tinklą.</p>
+<h2>Lankytojui tikslumas nesvarbu</h2>
+<p>Be abejo, IE6 turi daug šlykščių piešimo problemų, tačiau ar eiliniam vartotojui taip jau svarbu, kad svetainės vaizdas yra šiek tiek kitoks negu buvo planuota? Juk lankytojas net nežino kaip svetainė &#8220;turi&#8221; atrodyti! Vienintelis dalykas, kuris jam svarbus &#8211; tai, kad jis ta svetaine gali naudotis ir matomas vaizdas neturi aiškių &#8220;nesklandumų&#8221;, kaip pvz. balti tarpai žaliame fone.</p>
+<p>Tiek aš, tiek galybė kitų tinklo meistrų jau seniai išmoko padaryti taip, kad svetainės atrodytų <strong><em>beveik</em> identiškai</strong> atsidarius jas skirtingose naršyklėse. Įdėjus papildomų pastangų &#8211; vaizdas gali būti ir absoliučiai identiškas, tačiau ar tai yra galutinis tikslas ir ar jis vertas tų pastangų?</p>
+<h2>Paprastas sprendimas</h2>
+<p><strong>Tiems, kas susiiję su svetainių kūrimu</strong>, siūlyčiau tiesiog spjauti į šią MS diegiamą &#8220;naujovę&#8221;, spjauti į tikslų atvaizdavimą, o svetaines kurti <strong>pagal W3C standartus</strong>. Negana to &#8211; apie šią problemą turėtų aiškiai žinoti ir užsakovai, bei visi kiti ne tokie techniniai žmonės &#8211; jie privalo suvokti, kad universalaus metodo pasiekti idealiai vienodą rezultatą nėra ir artimoje ateityje nebus (nes MS to nenori). Mano nuomone, geriausia yra <strong>nenaudoti jokių browser hack&#8217;ų</strong> ir padaryti išlygas rezultate (išvaizdoje) &#8211; gera svetainė pritrauks lankytojus pati savaime, o investicijos į tos svetainės išlaikymą ir pritaikymą kiekvienai naujai naršyklės versijai bus nereikalingos.</p>
+<p><strong>Tiems, kas kuria naršykles</strong> derėtų paprasčiausiai nepaisyti blogo kodo ir kurti naršyklę <strong>pagal W3C standartus</strong>. Blogas kodas yra vistiek atvaizduojamas vienokiu ar kitokiu būdu. Gera naršyklė nereikalauja browser hack&#8217;ų ir pritraukia naudotojus savaime. Šiuo metu juk turime atvirkštinį variantą, kai visi rekomenduoja naudoti Firefox, nes IE tiesiog neteisingai veikia. <strong>Jeigu Exploreris darytų tai ką privalo daryti &#8211; tinklo meistrai nepyktų</strong>, nesikeiktų ir nesiūlytų visiems naudoti kitą produktą!</p>
+<h2>Ginčas be galo</h2>
+<p>Kita vertus, ši diskusija &#8211; kaip ir visos temos apie web standartus &#8211; yra uždaras ratas. Bet kuriam argumentui visada galima surasti kontrargumentą. Net pasakymas &#8220;reikalingi standartai&#8221; pats savaime sukelia dilemą &#8211; juk <strong>internetas yra laisvės išraiška</strong> ir bet koks autoritetas jame tą laisvę riboja. Žmonija yra perdaug skirtinga tam, kad turėtų vieningą nuomonę, o <strong>radikalai yra reikalingi tam, kad skatinti progresą</strong> ir žemė nenustotų suktis.</p>
+<p>Kita vertus, jeigu HTML+CSS standartizavimą palikti W3C, bei sukurti pvz. <dfn title="Jūs Idiotai Modeling Language">JIML</dfn>+<dfn title="Soberaną Gerti Gerai">SGG</dfn>, kurį administruotų <dfn title="Qemm for Dummies">Q4D</dfn>, bei pasiekti, kad naršyklės (tegul ir skirtingai) palaikytų juos abu &#8211; turėtume konkurenciją, progresą bei pasirinkimo laisvę. O naršyklės, kurios nepalaiko abiejų, arba palaiko juos blogai &#8211; numirtų. <a href="http://www.ipv6porn.com/">Pradėti nuo pornografijos</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2008/01/narsykline-realybe.rss2.xml</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

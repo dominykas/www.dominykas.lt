@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaip tapti ekspertu? &#187; ASP.NET</title>
+	<atom:link href="http://www.d-b.lt/tag/aspnet.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Labiausiai niekam tikęs Visual Studio fyturas</title>
+		<link>http://www.d-b.lt/2008/08/labiausiai-niekam-tikes-visual-studio-fyturas.html</link>
+		<comments>http://www.d-b.lt/2008/08/labiausiai-niekam-tikes-visual-studio-fyturas.html#comments</comments>
+		<pubDate>Thu, 28 Aug 2008 20:24:01 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[ASP.NET]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Visual Studio]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2008/08/labiausiai-niekam-tikes-visual-studio-fyturas.html</guid>
+		<description><![CDATA[Kad ir kaip aš nemėgčiau tam tikros įmonės, už tai, kad ji griauna Tinklą, turiu pripažinti, kad kai kuriuos dalykus jie sugeba padaryti visai neblogai. Visual Studio 2008 yra beveik neblogas įrankis kai jį prisijaukini (nors man dar iki to toli). Tik va, be abejo, jis nelabai tinka tinklo kūrimui&#8230; Ir tai kas parašyta toliau [...]]]></description>
+			<content:encoded><![CDATA[<p>Kad ir kaip aš nemėgčiau tam tikros įmonės, už tai, kad ji griauna Tinklą, turiu pripažinti, kad kai kuriuos dalykus jie sugeba padaryti visai neblogai. Visual Studio 2008 yra beveik neblogas įrankis kai jį prisijaukini (nors man dar iki to toli). Tik va, be abejo, jis nelabai tinka tinklo kūrimui&#8230; Ir tai kas parašyta toliau &#8211; tik viena iš smulkmenų.</p>
+<p>ASP.NET, naudojant teisingai, taipogi nėra <em>visiškas</em> blogis. Neskaitant kreivos defaultinės formų (one form per page?!) implementacijos, daugybės nestandartinių pribumbasų ir apskritai pačio fakto, kad Microsoft neskatina tinklo kūrimo pagal standartus. Pačio ASP kodo redagavimas su Visual Studio net jeigu ir nėra didžiausias malonumas, galėtų būti kur kas baisesnis. Tačiau vienas ypatumas redagavimo procese yra absoliučiai juokingas&#8230;</p>
+<p><strong>Kam reikalinga, kad darant copy/paste visi tag&#8217;ai, kurie turi atributą <code>runat="server"</code>, automatiškai įgautų ID atributą</strong>, kuris sugeneruojamas pagal TagoPavadinimas + skaičius?</p>
+<p>ID atributas gryname HTML kode yra reikalingas tik išskirtiniais atvejais, JavaScript&#8217;ui jis reikalingas tik tada kai ketini manipuliuoti elementu. Kalbant apie tai, daug naudingiau (tiek CSS, tiek JS) yra naudoti klases, nes laikui bėgant per daug dažnai nutinka taip, kad puslapyje atsiranda keli elementai su vienodu ID&#8230; Ką ASP.NET sprendžia automatiškai išplėsdami tuos atributus prefiksais, kas tik dar labiau išpučia kodą.</p>
+<p><i>Code behind</i> ID atributai vėlgi reikalingi tik tada kai norime manipuliuoti tam tikrais elementais, tačiau kas nors man atsakykite &#8211; koks programuotojas dirba su kintamaisais, kurie vadinasi &#8220;Div1&#8243; ar &#8220;Li5&#8243;? Į didžiąją dalį tokių elementų dažniausiai niekada netenka kreiptis, o kai norime kreiptis &#8211; visada tenka juos pervadinti, nes nepervadinę gauname elementariai blogą programavimo praktiką&#8230; Ar čia gal Microsoft bando įteigti, kad copy/paste kodas yra absoliutus blogis? Man asmeniškai tokiu būdu įkelti <code>&lt;manoNS:manoWidgetas runat="server"/&gt;</code> daug lengviau&#8230; Ir šiukšlių savo kode aš tikrai nepageidauju.</p>
+<p>Ko aš siekiau šitu įrašu&#8230; Pamiršau&#8230; A! Gal kas žinote kur tai atjungti?..</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2008/08/labiausiai-niekam-tikes-visual-studio-fyturas.rss2.xml</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

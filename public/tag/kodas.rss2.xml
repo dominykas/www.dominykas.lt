@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaip tapti ekspertu? &#187; kodas</title>
+	<atom:link href="http://www.d-b.lt/tag/kodas.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>hasFocus ir activeElement už 400 baitų</title>
+		<link>http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html</link>
+		<comments>http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html#comments</comments>
+		<pubDate>Sat, 07 Mar 2009 19:42:16 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[eksperimentai]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[html5]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[kodas]]></category>
+		<category><![CDATA[užknisantys dalykai internete]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html</guid>
+		<description><![CDATA[Vienas labiausiai internete užknisančių dalykų yra tai, kad kai kurios svetainės visiškai manęs negerbdamos paima ir perrašo įvesties laukų turinį tada kai aš jau ten bandau kažką rašyti. Ši situacija kyla iš to, kad nėra paprasto būdo nustatyti ar (ir kuris) HTML elementas yra fokusuotas ar ne. Internet Exploreris jau senokai turi document.activeElement, bet kas [...]]]></description>
+			<content:encoded><![CDATA[<p>Vienas labiausiai internete užknisančių dalykų yra tai, kad kai kurios svetainės visiškai manęs negerbdamos paima ir perrašo įvesties laukų turinį tada kai aš jau ten bandau kažką rašyti. Ši situacija kyla iš to, kad nėra paprasto būdo nustatyti ar (ir kuris) HTML elementas yra fokusuotas ar ne. Internet Exploreris jau senokai turi <code>document.activeElement</code>, bet kas iš to, jeigu tai negalioja kitoms naršyklėms. HTML5 specifikacijoje yra standartizuotos abi -<code>element.hasFocus</code> ir <code>document.activeElement</code> galimybės, tačiau ką daryti šiandien? <a href="http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html#galutinis-sprendimas-20090307">Tingiu skaityti &#8211; duok galutinį sprendimą</a>.</p>
+<p>Aprašytos problemos sprendimo algoritmas yra gana paprastas &#8211; prikabinti <dfn title="event handler">įvykių gaudytojus</dfn> prie reikalingų elementų ir pačiam nustatyti reikalingus parametrus. Tačiau jeigu nesusimąstytume &#8211; greitas ir paprastas įgyvendimas turėtų kelias problemas.</p>
+<h2>Sprendimo problemos</h2>
+<p>Pavyzdys: krauname puslapį, jame yra paieškos laukas, kurio viduje yra tekstas &#8220;Paieška&#8221;. Fokusuojant lauką tas tekstas turi pradingti. Be abejo, pats &#8220;standartinio teksto&#8221; <i>patternas</i> yra jau savaime nelabai geras, tačiau kartais be jo tiesiog neįmanoma išsiversti. Taigi, turime du variantus: a) tekstą įrašyti lauke iš anksto (<code>input value="Paieška"</code>), fokusuojant jį ištrinti; b) palikti tuščią lauką, ir užkrovus puslapį tą tekstą įrašyti. Pirmu atveju turime semantikos problemą, o taipogi jis nėra <dfn title="unobtrusive">netrukdantis</dfn>, t.y. tam, kad naudotis lauku, reikalingas įjungtas Javascript. Taip pat, abiem atvejais, neįdėjus papildomų pastangų, perrašymas gali įvykti jau po to kai vartotojas fokusuoja lauką (pvz. dėl lėtai kraunamų Javascript bibliotekų arba IE6 paspaudus <i>refresh</i>, kai kursorius yra viename iš laukų).</p>
+<p>Konkrečiam pavyzdžiui yra dar ir trečiasis variantas &#8211; naudoti <code>onfocus</code> ir <code>onblur</code> atributus ir Javascript rašyti tiesiog HTML viduje (<i>inline Javascript</i>), tačiau šis būdas tinkamas tik tuo atveju, jeigu nesilaikote <dfn title="HTML - markup">sužymėjimo</dfn> ir <dfn title="Javascript - behaviour">elgsenos</dfn> atskyrimo principo. Be to, jis apkrauna kiekvieną siunčiamą puslapį papildomu kodu, kas nėra pageidautina, ypač jeigu tokių laukų yra ne vienas. Na ir aišku, jis neišsprendžia pagrindės šio įrašo problemos &#8211; <code>hasFocus</code> &#8211; vieningu, paprastu, universaliu būdu.</p>
+<h3>Kodo kiekis ir geriausios praktikos</h3>
+<p>Akivaizdu, kad <code>hasFocus</code> simuliavimui reikės kiekviename puslapyje įtraukti gabaliuką Javascript, kuris priešingai negu geriausios praktikos rekomendacijos, turės būti įvykdomas dar prieš galutiniai &#8220;nupiešiant&#8221; puslapį, t.y. <code>&lt;head&gt;</code> viduje. Tai reiškia, kad pats kodas turi būti minimalus &#8211; tiek instrukcijų kiekiu, tiek savo apimtimi, nes kiekvienas persiųstas baitas ir vykdymas <a href="http://glinden.blogspot.com/2006/11/marissa-mayer-at-web-20.html">kainuoja vertingas milisekundes</a> (<a href="http://home.blarg.net/~glinden/StanfordDataMining.2006-11-29.ppt">prezentacija</a>).</p>
+<h3>Įvykių burbuliavimas</h3>
+<p>Su ankstesniu reikalavimu atsiranda ir kitas &#8211; neturime galimybės įvykių gaudyti kiekvienam elementui individualiai. Net jeigu tai ir nebūtų idelaus sprendimas vien dėl apkrovimo priežasčių, tie elementai dar paprasčiausiai neegzistuoja dokumente. Taigi turime rinktis <a href="http://code.google.com/p/reglib/">reglib</a> požiūrį &#8211; prikabinti savo funkcijas prie viso dokumento ir jų viduje nustatinėti elementą, kuriame viskas vyksta. Šioje vietoje derėtų paminėti, kad remiantis standartais, <code>focus</code> ir <code>blur</code> įvykiai neburbuliuoja į viršų, t.y. tėvinis elementas teoriškai neturėtų žinoti, kad jo vaikuose vyksta būtent šie įvykiai.</p>
+<h3>Naršyklių skirtumai</h3>
+<p>Skirtingos naršyklės <i>eventus</i> gaudo skirtingais būdais, taipogi naudoja skirtingą metodiką perduoti susiijusius elementus. Tradiciškai ši problema buvo sprendžiama vykdant skirtingas kodo šakas skirtingoms naršyklėms, tai nustant pagal <code>user-agent</code> eilutę. Tokia metodika yra žalinga ir nėra amžina. Pastaruoju metu tiek jQuery, tiek kitos bibliotekos perėjo prie efektyvesnio būdo &#8211; tikrinti ar egzistuoja tam tikros galimybės, o ne tikrinti ar lankytojas naudoja konkrečią naršyklę. <i>Feature sniffing</i> taipogi yra reikalavimas šiai užduočiai.</p>
+<h2>Sprendimas pažingsniui</h2>
+<ol>
+<li>Nusistatom įvykių gaudymo funkciją (<i>f</i>) &#8211; IE naudoja <code>attachEvent</code>, padorios naršyklės &#8211; <code>addEventListener</code>.
+<li>Nusistatom įvykių vardus (<i>n</i>). <code>focus</code> ir <code>blur</code> kaip minėjau neturėtų burbuliuoti į viršų, todėl su IE reikia naudoti <code>onfocusin</code> ir <code>onfocusout</code>. Šia tema <a href="http://www.quirksmode.org/dom/events/blurfocus.html">galima pasiskaityti ir daugiau</a>, tačiau šiam sprendimui šito užtenka.</li>
+<li>Pagrindinė fokuso nustatymo funkcija (<i>s</i>) ima du parametrus &#8211; pirmas nurodo ar fokusą įjungti, ar atjungti, antrasis gi nurodo elementą.</li>
+<li>Neesu įsitikinęs, kad čia pats taupiausias variantas, tačiau įdedame dvi funkcijas &#8211; viena gaudo <code>focus</code> (<i>i</i>), kita <code>blur</code> (<i>o</i>), ir kviečia pagrindinę funkciją.</li>
+<li>Viską sukišame į <code>closure</code> ir sutrumpinę iki minimumo pagaliau prisegame įvykius &#8211; <code>d[f](n[0],i,true);</code>.</li>
+</ol>
+<h2 id="galutinis-sprendimas-20090307">Galutinis sprendimas</h2>
+<pre>
+(function() {
+    var d = document,
+	s = function(h, t) {
+		if (t.tagName) {
+			t.hasFocus=h;
+			if (a) document.activeElement=t;
+		}
+	},
+	i = function(e) {
+		s(true, e.target || e.srcElement); },
+	o = function(e) {
+		s(false, e.target || e.srcElement); },
+	f = d.addEventListener ?
+		"addEventListener" : "attachEvent",
+	n = typeof d.onfocusin=="object" ?
+		['onfocusin','onfocusout'] : ['focus','blur'],
+	a = typeof document.activeElement=="object" ?
+		false : true;
+
+	d[f](n[0],i,true); d[f](n[1],o,true);
+})();
+</pre>
+<p>Panaikinus bereikalingus tarpus ir <a href="http://developer.yahoo.com/yui/compressor/">suspaudus viską į vieną eilutę</a>, šis sprendimas užimtų vos daugiau nei 400 baitų &#8211; pakankamai maža kaina už funkcionalumą. Jeigu netyčia nepalikau kokios klaidos kur nors &#8211; viskas turėtų veikti su IE6/7, FF2/3, Opera 9.6 ir Safari 3.x.</p>
+<p>Taipogi galite pasižiūrėti <a href="http://code.dominykas.com/js/hasFocus.html">veikiančią demonstraciją</a>. Po dviejų sekundžių nuo užkrovimo gausite iššokantį langą, kuriame bus surašyta kas turi fokusą.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.rss2.xml</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Horizontalus centravimas</title>
+		<link>http://www.d-b.lt/2008/05/horizontalus-centravimas-su-css.html</link>
+		<comments>http://www.d-b.lt/2008/05/horizontalus-centravimas-su-css.html#comments</comments>
+		<pubDate>Mon, 26 May 2008 22:18:12 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[Tinklo kūrimas]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[eksperimentai]]></category>
+		<category><![CDATA[html]]></category>
+		<category><![CDATA[kodas]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2008/05/horizontalus-centravimas-su-css.html</guid>
+		<description><![CDATA[Šitas įrašas yra visai ne apie tai, kas būtų jeigu Sabonis žaistų krepšinį gulėdamas ant grindų (tiesa, esu įsitikinęs, kad jis tai darytų puikiai). Ir tikiuosi iš pirmojo sakinio supratote, kad nesusipainiojau ir (beveik) neketinu kartotis vertikalaus centravimo tema.
+Dažniausiai norint nežinomo pločio elementą išcentruoti horizontaliai kitame elemente problemų nekyla &#8211; užtenka tiesiog paprasto text-align:center; ar [...]]]></description>
+			<content:encoded><![CDATA[<p>Šitas įrašas yra visai ne apie tai, kas būtų jeigu Sabonis žaistų krepšinį gulėdamas ant grindų (tiesa, esu įsitikinęs, kad jis tai darytų puikiai). Ir tikiuosi iš pirmojo sakinio supratote, kad nesusipainiojau ir (beveik) neketinu kartotis <a href="http://www.jakpsatweb.cz/css/css-vertical-center-solution.html">vertikalaus centravimo</a> tema.</p>
+<p>Dažniausiai norint nežinomo pločio elementą išcentruoti horizontaliai kitame elemente problemų nekyla &#8211; užtenka tiesiog paprasto <code>text-align:center;</code> ar kiek sudėtingesnio <code>display:block; margin-left: auto; margin-right: auto;</code>. Šie abu variantai netinka tuo atveju, kai vidinis elementas yra platesnis negu išorinis. Jeigu tas vidinis elementas yra paveiksliukas, jį galima perkelti į foną ir uždėti <code>background-position: 50% 50%;</code>, tačiau kartais tiesiog nėra techninės galimybės nenaudoti <code>&lt;img&gt;</code>, o galbūt kai kam kiltų noro ir žaisti su kitokiais elementais.</p>
+<p>Alternatyvus variantas, be abejo, yra naudoti tam JavaScript, tačiau pritaikom Auksinę Gero Tinklo Taisyklę: HTML naudojamas aprašymui (<i>mark-up</i>), CSS atvaizdavimui (<i>presentation</i>), o JS elgsenai/veikimui (<i>behavior</i>)- centravimas yra atvaizdavimas, taigi JS netinka.</p>
+<h2>Praktinė užduotis</h2>
+<p>Turime didelę duomenų bazę, kurioje sukauptas kalnas sumažintų paveiksliukų (<i>thumbnails</i>). Dauguma jų yra 150px pločio, tačiau pasitaiko ir kitokių. Kaip juos visus &#8220;apkarpyti&#8221; parodant tik vidurinę dalį 100px pločio rėmelyje? Galima naudotis tik CSS ir <code>&lt;img&gt;</code> dėl <i>accessibility</i>.</p>
+<h2>Sprendimas: kaip centruoti nežinomo pločio vidinį elementą</h2>
+<p><em>Nustok man kvaršinti galvą ir duok <a href="http://code.dominykas.com/css/centering/">pilną sprendimą</a>.</em></p>
+<p>Jeigu turime fiksuoto pločio išorinį rėmelį, ir visiškai nežinomo pločio (platesnį arba siauresnį) vidinį elementą, tenka šiek tiek pavargti. Matematika atrodytų paprasta &#8211; kažkokiu būdu pastumti vidinį elementą per pusę išorinio elemento pločio, ir patraukti atgal per pusę vidinio elemento pločio, taip sulygiuojant jų centrines linijas. Lengviau pasakyti, negu padaryti&#8230;</p>
+<h3>Pirmas žingsnis &#8211; pastumiam į šoną</h3>
+<p>Išoriniam elementui <code>.frame</code> uždedame fiksuotą plotį ir <code>overflow: hidden;</code>, kad jokie išsiplėtę vidiniai elementai jo nepakeistų. Tada sukuriame pirmą vidinį rėmelį perkėlimui &#8211; <code>.shiftLeft</code>, kuris paprasčiausiai turi papildomą paraštę, kurios plotis yra pusė išorinio rėmelio. Sprendime naudoju pikselius, bet manau, kad turėtų veikti ir procentai.</p>
+<h3>Antras žingsnis &#8211; patraukiam atgal</h3>
+<p>Patraukti vidinį elementą per pusę jo paties pločio atgal yra kiek sudėtingiau &#8211; panaudoti neigiamos paraštės negalima, nes <strong>paraščių procentiniai pločiai</strong>, pagal standartus, <strong>yra skaičiuojami nuo tėvinio elemento pločio</strong>. Šią problemėlę galima išspręsti, jeigu vidinis elementas yra <i>&#8220;plaukiojantis&#8221;</i>. Kadangi kai kurios naršyklės <em>(ghkhmz)</em> tai palaiko ne visai tiksliai &#8211; tenka naudoti du elementus &#8211; vienam jų (<code>.floatToFix</code>) uždėti <code>float</code> ir užfiksuoti plotį, o su kitu (<code>.unshift</code>) traukti atgal. Į <code>.unshift</code> vidų jau galime įdėti neapibrėžto pločio paveiksliuką &#8211; nerekomenduočiau jam pačiam taikyti patraukimo atgal klasės&#8230;</p>
+<h3>Trečias žingsnis &#8211; sprendžiam problemas</h3>
+<p>Gana dažnai dėl klaidos kode (<i>double margin bug</i>) tam tikra naršyklė <em>(ghkhmz)</em> pritaiko dvigubą plotį plaukiančių elementų paraštėms &#8211; tai galima spręsti su <code>display: inline;</code>, tačiau šiuo atveju vistik tenka traukimo veiksmą pakeisti iš paraščių į santykinį pozicionavimą ir panaudoti tiesiog neigiamą <code>left: -50%;</code>. Su tuo santykiniu patraukimu atsiranda kita problema (toje pačioje, tam tikroje, naršyklėje <em>(ghkhmz)</em>) &#8211; vidinis elementas išlipa į viršų ir nebepaiso <code>overflow</code>. Tai galima išspręsti nustatant <code>position: relative;</code> ir visiems tėviniams elementams.</p>
+<h2>Galutinis sprendimas</h2>
+<p>Kažkodėl pažvelgus į jo kodą, atrodo, kad viskas taip elementaru, tačiau teko gerokai paeksperimentuoti, kol pasiekiau <a href="http://code.dominykas.com/css/centering/">veikiantį variantą</a>. Kas keisčiausia, vos vos jį pakeitus viskas sugriūna! Panašu, kad galutinė versija veikia teisingai su:</p>
+<ul>
+<li>Internet Explorer 6</li>
+<li>Internet Explorer 7</li>
+<li>Firefox 2</li>
+<li>Opera 9.26</li>
+<li>Safari 3.1</li>
+</ul>
+<p>Su Safari, tiesa, kartais atsiranda gana keistas perpiešimo efektas &#8211; dalis vidinio elemento pradingsta, tačiau pakeitus lango dydį viskas sugrįžta į vietas. Jeigu kas galite patikrinti su kitomis naršyklėmis &#8211; būtų malonu išgirsti rezultatus, o šiaip jeigu prireiks šio sprendimo &#8211; naudokit į sveikatą ir neminėkit piktuoju, jeigu kas nors neveiks. Bandysiu pritaikyti ir vertikalų centravimą, tačiau bijau, kad aukštesniems elementams jis neveiks&#8230; Todėl eksperimento rezultatuose yra variantas, kuris pakeičia vidinio paveikslėlio aukštį &#8211; darant tai naršyklėje vaizdas kiek sugenda, tačiau galbūt geriau negu nieko?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2008/05/horizontalus-centravimas-su-css.rss2.xml</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaip tapti ekspertu? &#187; vista</title>
+	<atom:link href="http://www.d-b.lt/tag/vista.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Vista ar XP?</title>
+		<link>http://www.d-b.lt/2008/03/vista-ar-xp.html</link>
+		<comments>http://www.d-b.lt/2008/03/vista-ar-xp.html#comments</comments>
+		<pubDate>Fri, 14 Mar 2008 13:37:25 +0000</pubDate>
+		<dc:creator>Dominykas</dc:creator>
+				<category><![CDATA[IT]]></category>
+		<category><![CDATA[vista]]></category>
+		<category><![CDATA[windows]]></category>
+		<category><![CDATA[xp]]></category>
+
+		<guid isPermaLink="false">http://www.d-b.lt/2008/03/vista-ar-xp.html</guid>
+		<description><![CDATA[Naktim nemiegu ir griebia nervas &#8211; nusipirkau naują kompiuterį ir jis atkeliavo su Vista Ultimate. Kiek supratau, turiu galimybę nemokamai pasikeisti ją į Windows XP Pro. Be abejo, jau įsidiegiau Ubuntu, bet kaip dirbantis su interneto svetainėmis &#8211; privalau turėti IE kopiją (ar netgi greičiau &#8211; visas jų), taigi galutinai į Linuxą permigruoti negaliu. Ir [...]]]></description>
+			<content:encoded><![CDATA[<p>Naktim nemiegu ir griebia nervas &#8211; nusipirkau naują kompiuterį ir jis atkeliavo su Vista Ultimate. Kiek supratau, <a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&#038;articleId=9040318">turiu galimybę nemokamai pasikeisti</a> ją į Windows XP Pro. Be abejo, jau įsidiegiau Ubuntu, bet kaip dirbantis su interneto svetainėmis &#8211; privalau turėti IE kopiją (ar netgi greičiau &#8211; <a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=21EABB90-958F-4B64-B5F1-73D0A413C8EF&#038;displaylang=en">visas jų</a>), taigi galutinai į Linuxą permigruoti negaliu. Ir iš to kyla šlykšti dilema&#8230;</p>
+<p>Kaip žmogus dirbantis su IT, turėčiau nebijoti ir netgi mėgti naujas technologijas. Netgi turbūt turėjau migruoti į Vistą vos tik ji pasirodė. Tačiau visi puikiai žino, kad tai nėra pati geriausia OS pasaulyje &#8211; ir tiesą pasakius naudodamasis Vista nejaučiu, kad naudojuosi <em>savo</em> kompiuteriu &#8211; jausmas, kurį galiu palyginti tik su tuo, kai einu į tuoletą pas ką nors svečiuose. Blogiausia dalis &#8211; nesijaučiu, kad esu <i>in control</i> ir užtrunku begalę laiko surasti dalykus, kuriuos XP surasdavau užsimerkęs.</p>
+<p>Pagrindinis mano klausimas turbūt yra toks: kai pasirodė Windows ME, pasilikau su Windows 98 kol išėjo Windows 2000 &#8211; ir nesuklydau. Ar po Windows Vista [kada nors] pasirodys Windows OS, kuri bus geresnė už XP, tačiau ne tokia įkyri kaip Vista? Laukti tos &#8220;naujos geresnės&#8221; ateities, ar pratintis prie šlykščios dabarties, išmetant nuostabią praeitį, nes geriau jau nebebus?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.d-b.lt/2008/03/vista-ar-xp.rss2.xml</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+	</channel>
+</rss>

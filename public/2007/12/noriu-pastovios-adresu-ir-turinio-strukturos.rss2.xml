@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Noriu pastovios adresų ir turinio struktūros</title>
+	<atom:link href="http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</link>
+	<description>Jeigu tokiu tapsiu - čia yra istorija ir vartotojo gidas. Dominyko Blyžės blog&#039;as.</description>
+	<lastBuildDate>Sun, 18 Nov 2012 23:44:11 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9.2</generator>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>By: &#187; Noriu savo struktūros WordPress’e - Kaip tapti ekspertu?</title>
+		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-28</link>
+		<dc:creator>&#187; Noriu savo struktūros WordPress’e - Kaip tapti ekspertu?</dc:creator>
+		<pubDate>Mon, 17 Dec 2007 17:14:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-28</guid>
+		<description>[...] pricipą, išplėtojus idėją ir apibrėžus taisykles galima žiūrėti dar konkrečiau. Turint omeny mano visus princesiškus [...]</description>
+		<content:encoded><![CDATA[<p>[...] pricipą, išplėtojus idėją ir apibrėžus taisykles galima žiūrėti dar konkrečiau. Turint omeny mano visus princesiškus [...]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Dominykas</title>
+		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-13</link>
+		<dc:creator>Dominykas</dc:creator>
+		<pubDate>Tue, 11 Dec 2007 12:59:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-13</guid>
+		<description>Vaidai, dėl naršymo ir rodymo - iš vienos pusės tu teisus, nes &quot;more&quot; nevisi naudoja. Bet kita vertus tai aš &quot;more&quot; pats nenorėjau naudoti nes a) nukerta feed&#039;us b) nukerta post&#039;ą frontpage. Bet va pasidariau truputį pahakinęs maždaug taip kaip noriu ;) Plačiau vėliau :)
+
+Asterisk: norėjau būtent tai ir pasakyti. Jis veikia po PHP5 - pats naudoju taip, bet jis nėra pritaikytas PHP5. Atsidarom &lt;code&gt;wp-settings.php&lt;/code&gt;, užkomentuojam &lt;code&gt;error_reporting&lt;/code&gt; (99 eilutė). Tada į &lt;code&gt;.htaccess&lt;/code&gt; įrašom &lt;pre&gt;
+php_value error_reporting 4095
+php_flag display_errors on
+php_flag display_startup_errors on
+&lt;/pre&gt;
+ir tada browsinam blog&#039;ą. Ką matom? Aš darbe development environmente po defaultu taip kodyju.
+
+Ir be abejo tai ką Vaidas sako - nėra padaraus OO. Na ir šiaip WP vienas iš lyderių yra išreiškęs pasipiktinimą, kad PHP nutrauks PHP4 supportą, nors dar daug Svarbių Aplikacijų (read: WP) yra nepritaikytos PHP5.
+
+Tygai: ne, Habari ne rytiečių, kiek žinau. Giliai nežiūrėjau, bet praverčiau doc&#039;us šiek tiek ir patiko mažų mažiausiai vienas dalykas - plugin&#039;ų API :) Rašai objektą, jame dedi metodus action_ ir filter_, o jie automatiškai prisiregistruoja ten kur reikia :) Šiaip jie daug remiasi į WP galimybes kaip supratau, bet atidžiai dar neseku - nėr kada :)</description>
+		<content:encoded><![CDATA[<p>Vaidai, dėl naršymo ir rodymo &#8211; iš vienos pusės tu teisus, nes &#8220;more&#8221; nevisi naudoja. Bet kita vertus tai aš &#8220;more&#8221; pats nenorėjau naudoti nes a) nukerta feed&#8217;us b) nukerta post&#8217;ą frontpage. Bet va pasidariau truputį pahakinęs maždaug taip kaip noriu ;) Plačiau vėliau :)</p>
+<p>Asterisk: norėjau būtent tai ir pasakyti. Jis veikia po PHP5 &#8211; pats naudoju taip, bet jis nėra pritaikytas PHP5. Atsidarom <code>wp-settings.php</code>, užkomentuojam <code>error_reporting</code> (99 eilutė). Tada į <code>.htaccess</code> įrašom
+<pre>
+php_value error_reporting 4095
+php_flag display_errors on
+php_flag display_startup_errors on
+</pre>
+<p>ir tada browsinam blog&#8217;ą. Ką matom? Aš darbe development environmente po defaultu taip kodyju.</p>
+<p>Ir be abejo tai ką Vaidas sako &#8211; nėra padaraus OO. Na ir šiaip WP vienas iš lyderių yra išreiškęs pasipiktinimą, kad PHP nutrauks PHP4 supportą, nors dar daug Svarbių Aplikacijų (read: WP) yra nepritaikytos PHP5.</p>
+<p>Tygai: ne, Habari ne rytiečių, kiek žinau. Giliai nežiūrėjau, bet praverčiau doc&#8217;us šiek tiek ir patiko mažų mažiausiai vienas dalykas &#8211; plugin&#8217;ų API :) Rašai objektą, jame dedi metodus action_ ir filter_, o jie automatiškai prisiregistruoja ten kur reikia :) Šiaip jie daug remiasi į WP galimybes kaip supratau, bet atidžiai dar neseku &#8211; nėr kada :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Vaidas Žilionis</title>
+		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-12</link>
+		<dc:creator>Vaidas Žilionis</dc:creator>
+		<pubDate>Tue, 11 Dec 2007 12:01:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-12</guid>
+		<description>Asterik: manau, kad norėta pasakyti, kad WP yra ne objektiškai orentuotas :D</description>
+		<content:encoded><![CDATA[<p>Asterik: manau, kad norėta pasakyti, kad WP yra ne objektiškai orentuotas :D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Tygas</title>
+		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-11</link>
+		<dc:creator>Tygas</dc:creator>
+		<pubDate>Tue, 11 Dec 2007 11:58:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-11</guid>
+		<description>&gt;&gt;Pradėsiu pasitikėti Habari
+
+Čia rytiečių produktas? Buvai susidūręs? Kokios nuomonės??</description>
+		<content:encoded><![CDATA[<p>&gt;&gt;Pradėsiu pasitikėti Habari</p>
+<p>Čia rytiečių produktas? Buvai susidūręs? Kokios nuomonės??</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: asterisk</title>
+		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-10</link>
+		<dc:creator>asterisk</dc:creator>
+		<pubDate>Tue, 11 Dec 2007 11:44:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-10</guid>
+		<description>Arba aš kažką ne taip supratau arba tu neteisingai parašei: &quot;WP nėra pritaikytas PHP5&quot; ? Kaip jis nėra pritaikytas PHP5 ?</description>
+		<content:encoded><![CDATA[<p>Arba aš kažką ne taip supratau arba tu neteisingai parašei: &#8220;WP nėra pritaikytas PHP5&#8243; ? Kaip jis nėra pritaikytas PHP5 ?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Vaidas Žilionis</title>
+		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-9</link>
+		<dc:creator>Vaidas Žilionis</dc:creator>
+		<pubDate>Tue, 11 Dec 2007 08:38:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-9</guid>
+		<description>Kad naršant po mėnesius/tagus rodomas pilnas tekstas kaltas yra įprotis taip daryti.</description>
+		<content:encoded><![CDATA[<p>Kad naršant po mėnesius/tagus rodomas pilnas tekstas kaltas yra įprotis taip daryti.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
