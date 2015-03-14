@@ -14,7 +14,7 @@
 <link rel="alternate" type="application/rss+xml" title="Užduodu klausimus, neriu tinklus &raquo; Comments Feed" href="http://www.d-b.lt/comments.rss2.xml" />
 <link rel="alternate" type="application/rss+xml" title="Užduodu klausimus, neriu tinklus &raquo; kodas Tag Feed" href="http://www.d-b.lt/tag/kodas.rss2.xml" />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.d-b.lt/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.d-b.lt/wp-includes/wlwmanifest.xml" /> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.d-b.lt/wp-includes/wlwmanifest.xml" />
 <link rel='index' title='Užduodu klausimus, neriu tinklus' href='http://www.d-b.lt' />
 <meta name="generator" content="WordPress 2.9.2" />
 
@@ -47,7 +47,7 @@
 		</section><section id="linkcat-129" class="widget widget_links"><h1>Kiti mano dalykai</h1>
 	<ul class='xoxo blogroll'>
 <li><a href="http://www.dominykas.com/" rel="me">Blog In English</a></li>
-<li><a href="http://code.google.com/p/h5o/" rel="me">HTML5 santraukų generatorius</a></li>
+<li><a href="https://github.com/h5o" rel="me">HTML5 santraukų generatorius</a></li>
 <li><a href="http://code.dominykas.com/" rel="me">Truputis JS/CSS/PHP kodo</a></li>
 <li><a href="http://twitter.com/dymonaz" rel="me">Twitter</a></li>
 
@@ -89,8 +89,8 @@
 		<h1>Žyma: kodas</h1>
 	    		<a href="http://www.d-b.lt/tag/kodas.rss2.xml" title="Žymos RSS" class="rss">Žymos RSS</a>
 	</header>
-	
-	
+
+
 		<article class="post " id="post-83">
 	<header class="clearfix">
 		<h1><a href="http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html" rel="bookmark">hasFocus ir activeElement už 400 baitų</a></h1>
@@ -99,7 +99,7 @@
 							<li class="comments">Komentarai: <a href="http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html#comments" title="Comment on hasFocus ir activeElement už 400 baitų">1</a></li>
 					</ul>
 	</header>
-	
+
 	<div class="postbody">
 	<p>Vienas labiausiai internete užknisančių dalykų yra tai, kad kai kurios svetainės visiškai manęs negerbdamos paima ir perrašo įvesties laukų turinį tada kai aš jau ten bandau kažką rašyti. Ši situacija kyla iš to, kad nėra paprasto būdo nustatyti ar (ir kuris) HTML elementas yra fokusuotas ar ne. Internet Exploreris jau senokai turi <code>document.activeElement</code>, bet kas iš to, jeigu tai negalioja kitoms naršyklėms. HTML5 specifikacijoje yra standartizuotos abi -<code>element.hasFocus</code> ir <code>document.activeElement</code> galimybės, tačiau ką daryti šiandien? <a href="http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html#galutinis-sprendimas-20090307">Tingiu skaityti &#8211; duok galutinį sprendimą</a>.</p>
 <p>Aprašytos problemos sprendimo algoritmas yra gana paprastas &#8211; prikabinti <dfn title="event handler">įvykių gaudytojus</dfn> prie reikalingų elementų ir pačiam nustatyti reikalingus parametrus. Tačiau jeigu nesusimąstytume &#8211; greitas ir paprastas įgyvendimas turėtų kelias problemas.</p>
@@ -114,7 +114,7 @@
 			<dt>Žymos:</dt> <dd><ul><li><a href="http://www.d-b.lt/tag/eksperimentai.html" rel="tag">eksperimentai</a></li><li><a href="http://www.d-b.lt/tag/html.html" rel="tag">html</a></li><li><a href="http://www.d-b.lt/tag/html5.html" rel="tag">html5</a></li><li><a href="http://www.d-b.lt/tag/javascript.html" rel="tag">javascript</a></li><li><a href="http://www.d-b.lt/tag/kodas.html" rel="tag">kodas</a></li><li><a href="http://www.d-b.lt/tag/uzknisantys-dalykai-internete.html" rel="tag">užknisantys dalykai internete</a></li></ul></dd>
 					</dl>
 	</footer>
-	
+
 	</article><article class="post " id="post-62">
 	<header class="clearfix">
 		<h1><a href="http://www.d-b.lt/2008/05/horizontalus-centravimas-su-css.html" rel="bookmark">Horizontalus centravimas</a></h1>
@@ -123,7 +123,7 @@
 							<li class="comments">Komentarai: <a href="http://www.d-b.lt/2008/05/horizontalus-centravimas-su-css.html#comments" title="Comment on Horizontalus centravimas">5</a></li>
 					</ul>
 	</header>
-	
+
 	<div class="postbody">
 	<p>Šitas įrašas yra visai ne apie tai, kas būtų jeigu Sabonis žaistų krepšinį gulėdamas ant grindų (tiesa, esu įsitikinęs, kad jis tai darytų puikiai). Ir tikiuosi iš pirmojo sakinio supratote, kad nesusipainiojau ir (beveik) neketinu kartotis <a href="http://www.jakpsatweb.cz/css/css-vertical-center-solution.html">vertikalaus centravimo</a> tema.</p>
 <p>Dažniausiai norint nežinomo pločio elementą išcentruoti horizontaliai kitame elemente problemų nekyla &#8211; užtenka tiesiog paprasto <code>text-align:center;</code> ar kiek sudėtingesnio <code>display:block; margin-left: auto; margin-right: auto;</code>. Šie abu variantai netinka tuo atveju, kai vidinis elementas yra platesnis negu išorinis. Jeigu tas vidinis elementas yra paveiksliukas, jį galima perkelti į foną ir uždėti <code>background-position: 50% 50%;</code>, tačiau kartais tiesiog nėra techninės galimybės nenaudoti <code>&lt;img&gt;</code>, o galbūt kai kam kiltų noro ir žaisti su kitokiais elementais.</p>
@@ -138,9 +138,9 @@
 			<dt>Žymos:</dt> <dd><ul><li><a href="http://www.d-b.lt/tag/css.html" rel="tag">css</a></li><li><a href="http://www.d-b.lt/tag/eksperimentai.html" rel="tag">eksperimentai</a></li><li><a href="http://www.d-b.lt/tag/html.html" rel="tag">html</a></li><li><a href="http://www.d-b.lt/tag/kodas.html" rel="tag">kodas</a></li></ul></dd>
 					</dl>
 	</footer>
-	
+
 	</article>
-	
+
 </section>
 
 <footer role="contentinfo" id="contentinfo">
