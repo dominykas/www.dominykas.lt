@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; sprendimai</title>
-	<atom:link href="http://www.d-b.lt/tag/sprendimai.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/sprendimai.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Kuo, jei ne skaičiais, paremti sprendimus?</title>
-		<link>http://www.d-b.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html</link>
-		<comments>http://www.d-b.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html</link>
+		<comments>https://www.dominykas.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html#comments</comments>
 		<pubDate>Mon, 23 Mar 2009 01:37:47 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Filosofija]]></category>
@@ -30,7 +30,7 @@
 		<category><![CDATA[sprendimai]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html</guid>
 		<description><![CDATA[Penktadienį, prieš pat prasidedant beer o&#8217;clock, bendradarbis parodė vieno iš (dabar jau buvusių) Google dizainerių atsisveikinimo laišką. Jame Douglas Bowman nurodo ir darbo keitimo priežastį &#8211; Google priimdama dizaino sprendimus remiasi skaičiais. Pirma visų reakcija į tą įrašą buvo užuojauta &#8211; &#8220;vargšas menininkas užspaustas gigantiškoje tikslumo mašinoje&#8221;. Tačiau šalin jausmus &#8211; kuo gi daugiau besiremsi?
 Grožis [...]]]></description>
 			<content:encoded><![CDATA[<p>Penktadienį, prieš pat prasidedant beer o&#8217;clock, bendradarbis parodė vieno iš (dabar jau buvusių) Google dizainerių <a href="http://stopdesign.com/archive/2009/03/20/goodbye-google.html">atsisveikinimo laišką</a>. Jame Douglas Bowman nurodo ir darbo keitimo priežastį &#8211; Google priimdama dizaino sprendimus remiasi skaičiais. Pirma visų reakcija į tą įrašą buvo užuojauta &#8211; &#8220;vargšas menininkas užspaustas gigantiškoje tikslumo mašinoje&#8221;. Tačiau šalin jausmus &#8211; kuo gi daugiau besiremsi?</p>
@@ -45,7 +45,7 @@ Grožis [...]]]></description>
 <p>Aš turbūt sutinku, kad testuoti 41 mėlynos spalvos atspalvį yra gal kiek per daug ekstremalu, tačiau turint lėšų ir laiko pasitikrinti, kuris rėmelis &#8211; 3 ar 5 pikselių pločio &#8211; veikia geriau, yra tiesiog prideramas rūpestis. Man labai keista, kad pasaulyje išvis dar yra žmonių, kurie net po A/B testo nori ginčytis.</p>
 <p>Tačiau jeigu vistik kažkas mano, kad nereikia vadovautis tyrimu, kuris sako, kad pasirinkus variantą A, pardavimai išaugs 10%, tai jie visada turi alternatyvą &#8211; gali nenustojant bumbėti apie žmones, kurie &#8220;tiesiog nesupranta&#8221;. Arba bandyti perauklėti tuos 95% visuomenės, kurie kažkodėl elgiasi ne taip kaip tu.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.rss2.xml</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>

@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; pavyzdžiai</title>
-	<atom:link href="http://www.d-b.lt/tag/pavyzdziai.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/pavyzdziai.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,33 +20,33 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Nekasdienis WTF ir agile usability</title>
-		<link>http://www.d-b.lt/2008/11/nekasdienis-wtf-ir-agile-usability.html</link>
-		<comments>http://www.d-b.lt/2008/11/nekasdienis-wtf-ir-agile-usability.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/11/nekasdienis-wtf-ir-agile-usability.html</link>
+		<comments>https://www.dominykas.lt/2008/11/nekasdienis-wtf-ir-agile-usability.html#comments</comments>
 		<pubDate>Sun, 30 Nov 2008 01:34:41 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Usability]]></category>
 		<category><![CDATA[agile]]></category>
 		<category><![CDATA[pavyzdžiai]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/11/nekasdienis-wtf-ir-agile-usability.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/11/nekasdienis-wtf-ir-agile-usability.html</guid>
 		<description><![CDATA[Arba kaip netinkamai apsimesti ekspertu&#8230; Tie kas skaito The Daily WTF reguliariai, turbūt jau beveik automatiškai gali atspėti kuo baigsis eilinė pas juos paskelbta istorija. Nesunku pastebėti, kad gana didelė dalis straipsnių yra apie nekompetentingus ekspertus. Aš kiekvieną dieną turiu stengtis, kad tokiu netapčiau&#8230;
 Štai jums pavyzdėlis, apie tokią usability profesionalų asociaciją. Manau, kad buvau kažkada [...]]]></description>
 			<content:encoded><![CDATA[<p>Arba kaip netinkamai apsimesti ekspertu&#8230; Tie kas skaito <a href="http://thedailywtf.com/">The Daily WTF</a> reguliariai, turbūt jau beveik automatiškai gali atspėti kuo baigsis eilinė pas juos paskelbta istorija. Nesunku pastebėti, kad gana didelė dalis straipsnių yra apie nekompetentingus ekspertus. Aš kiekvieną dieną turiu stengtis, kad tokiu netapčiau&#8230;</p>
 <p>Štai jums pavyzdėlis, apie tokią <a href="http://www.usabilityprofessionals.org/">usability profesionalų asociaciją</a>. Manau, kad buvau kažkada užklydęs keletą straipsnių jų svetainėje. Lyg ir atrodo nekaltai. Jie leidžia <a href="http://www.upassoc.org/upa_publications/jus/index.html">žurnalą</a>, kurio aš neskaitau, bet gal ir reikėtų. Iki to žurnalo prisikasiau nuorodomis ir įrašais apie <em>interaction design vs agile development</em> &#8211; <a href="http://www.upassoc.org/upa_publications/jus/2007may/agile-ucd.html">2007 gegužės straipsnis</a>, kurį labai norėjau perskaityti, bet&#8230;</p>
-<p style="text-align:center;"><a href='http://www.d-b.lt/attachments/2008/11/kreivas-straipsnis.html' rel='attachment wp-att-68' title='Kreivas straipsnis'><img src='http://www.d-b.lt/uploads/2008/11/kreivas-straipsnis.png' alt='Kreivas straipsnis' style="border:none;" /></a></p>
+<p style="text-align:center;"><a href='https://www.dominykas.lt/attachments/2008/11/kreivas-straipsnis.html' rel='attachment wp-att-68' title='Kreivas straipsnis'><img src='https://www.dominykas.lt/uploads/2008/11/kreivas-straipsnis.png' alt='Kreivas straipsnis' style="border:none;" /></a></p>
 <p>Būtų bent į kitą pusę pasuktas (t.y. viršus dešinėje), tai nereiktų skaityti iš apačios į viršų, tada skrolinti į apačią, kad gauti kitą puslapį, tada vėl iš apačios į viršų&#8230; Neturiu printerio namie. O šiaip jau, problemas jų svetainėje pastebėjau <a href="http://www.uie.com/brainsparks/2008/09/27/journal-of-usability-studies-articles-lacking-in-usability/">ne aš vienas</a>. Gerai, kad <del>Acrobatas</del> Readeris moka pasukti tekstą&#8230; Bet kodėl viskas aplinkui mane stengiasi nuskriausti ir apkrauti?</p>
 <p>Beje, kalbant apie <em>usability vs agile</em>, tai taip ir nesuprantu, kodėl išvis kyla klausimas kaip juos suderinti ir išgauti rezultatą &#8211; man jie vienas nuo kito neatsiejami&#8230; Vienas iš variantų &#8211; man tiesiog niekada neteko dirbti su &#8220;<em>agile be usability</em>&#8221; ar &#8220;<em>usability be agile</em>&#8220;. Kitas &#8211; turiu įprotį prototipus daryti su HTML ir JS, tai gal todėl automatiškai galutiniam produktui jau būna išspręsta didžioji dalis refaktorinimo klausimų (čia iš techninės pusės). Be to, vos ne kiekviena prototipo iteracija būna patikrinama su komandos nariais ir (vidiniais) &#8220;klientais&#8221;, ko pasekoje galutinė implementacija tampa nesudėtinga, o grafikos dizaineriams belieka tik padaryti, kad būtų gražu (ir nesugadinti).</p>
 <p>Alanas Cooperis net ir šiuo atveju <a href="http://www.cooper.com/journal/agile2008/">pasisako už ankstyvą ir išsamų tyrimą</a> (<a href="http://channel9.msdn.com/posts/Charles/Alan-Cooper-Questions-after-his-keynote/">susiijęs pokalbis</a>). Daugeliu atveju su juo sutinku, tačiau esu įsitikinęs, kad lygiai taip kaip programavimo profesionalai sugeba palaipsniui sudėlioti sudėtingas programas kaip Lego kaladėles (<em>technical excelence</em>), taip usability profesionalai tiesiog žino ką daryti ir nebijo klysti, todėl gali prisitaikyti prie sprintų, iteracijų ir kintančių reikalavimų, kiekvieną savo žingsnį vertindami per vartotojo, tikslų ir usability principų prizmes. Paskutinės pamokos &#8211; <strong>atidėti darbus savaitei ar dviem ir išmesti niekam tikusį (pasenųsį) dizainą yra lygiai taip pat gerai, kaip ir išmesti niekam tikusį kodą</strong>. Žymiai geriau, negu praleisti mėnesius tobulinant idėjas ir prototipus, bet nei kiek nepriartėti prie galutinio produkto.</p>
 <p>Vienintelė išlyga &#8211; Jakobo Nielseno <a href="http://www.useit.com/alertbox/agile-methods.html">paskutiniame straipsnyje</a> esanti auksinė mintis: jeigu norite, kad projekte į sąsajos dizainą būtų žiūrima rimtai &#8211; skirkite tam tiek pat resursų kaip ir programavimui.</p>
 <p>PS apsivertęs straipsnis visai vertas dėmesio!</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/11/nekasdienis-wtf-ir-agile-usability.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/11/nekasdienis-wtf-ir-agile-usability.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Paspausk mygtuką, kurį mes paslėpėm</title>
-		<link>http://www.d-b.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.html</link>
-		<comments>http://www.d-b.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.html</link>
+		<comments>https://www.dominykas.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.html#comments</comments>
 		<pubDate>Fri, 25 Jan 2008 11:19:52 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Usability]]></category>
@@ -54,13 +54,13 @@
 		<category><![CDATA[thawte]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.html</guid>
 		<description><![CDATA[ Kodėl negalima buvo tiesiog įdėti tos pačios nuorodos ir dešinėje? Kodėl aš turiu perskaityti man visiškai nenaudinga tekstą, ir po to mestis į visiškai kitą svetainės vietą ir dar skrolinti į viršų? Ir po to suprasti, kad aš jau esu tame puslapyje į kurį man reikia nueiti!
 Beje, dar &#8211; kodėl apie šitą &#8220;raudoną dalyką&#8221; [...]]]></description>
-			<content:encoded><![CDATA[<p><img src='http://www.d-b.lt/uploads/2008/01/site-seal.png' alt='Thawte svetainė - Site Seal konfigūravimas' style="border:1px solid #ccc;float:right;margin-left: 10px;"/> Kodėl negalima buvo tiesiog įdėti tos pačios nuorodos ir dešinėje? Kodėl aš turiu perskaityti man visiškai nenaudinga tekstą, ir po to mestis į visiškai kitą svetainės vietą ir dar skrolinti į viršų? Ir po to suprasti, kad <strong>aš jau esu tame puslapyje</strong> į kurį man reikia nueiti!</p>
+			<content:encoded><![CDATA[<p><img src='https://www.dominykas.lt/uploads/2008/01/site-seal.png' alt='Thawte svetainė - Site Seal konfigūravimas' style="border:1px solid #ccc;float:right;margin-left: 10px;"/> Kodėl negalima buvo tiesiog įdėti tos pačios nuorodos ir dešinėje? Kodėl aš turiu perskaityti man visiškai nenaudinga tekstą, ir po to mestis į visiškai kitą svetainės vietą ir dar skrolinti į viršų? Ir po to suprasti, kad <strong>aš jau esu tame puslapyje</strong> į kurį man reikia nueiti!</p>
 <p>Beje, dar &#8211; kodėl apie šitą &#8220;<a href="https://www.thawte.com/ssl-digital-certificates/trusted-site-seal/siteseal_installation.html">raudoną dalyką</a>&#8221; man nebuvo pranešta el. paštu, kai sertifikatas buvo atnaujinamas? Sutvarkyti tokias problemėles daug vargo nereikia &#8211; max. 15 minučių darbo. Corporate įvaizdis, marketingas ir visa kita juk nenukenčia&#8230; <strong>Usability yra paprasta</strong>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

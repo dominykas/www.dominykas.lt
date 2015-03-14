@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; samsung</title>
-	<atom:link href="http://www.d-b.lt/tag/samsung.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/samsung.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Samsung SGH-D880 DuoS</title>
-		<link>http://www.d-b.lt/2008/01/samsung-sgh-880-duos.html</link>
-		<comments>http://www.d-b.lt/2008/01/samsung-sgh-880-duos.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/01/samsung-sgh-880-duos.html</link>
+		<comments>https://www.dominykas.lt/2008/01/samsung-sgh-880-duos.html#comments</comments>
 		<pubDate>Fri, 04 Jan 2008 18:43:33 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Usability]]></category>
@@ -29,11 +29,11 @@
 		<category><![CDATA[telefonai]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/01/samsung-sgh-880-duos.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/01/samsung-sgh-880-duos.html</guid>
 		<description><![CDATA[Iš karto po Kalėdų atkeliavo mano dovana sau pačiam &#8211; pirmasis telefonas, iš padoraus gamintojo, kuris palaiko dvi SIM korteles vienu metu. Tik išpakavus, be abejo užplūdo džiaugsmas (na, išleidus 500 eurų, kitaip ir negalėjo būti) ir pirmasis įspūdis buvo tikrai neblogas &#8211; didelis ekranas, patogiai besispaudžiantys mygtukai, gražios spalvos ir garsai. Čia iki tol [...]]]></description>
 			<content:encoded><![CDATA[<p>Iš karto po Kalėdų atkeliavo mano dovana sau pačiam &#8211; <a href="http://www.samsung.ru/products/phones/duos/sgh-d880/">pirmasis telefonas, iš padoraus gamintojo, kuris palaiko dvi SIM korteles vienu metu</a>. Tik išpakavus, be abejo užplūdo džiaugsmas (na, išleidus 500 eurų, kitaip ir negalėjo būti) ir pirmasis įspūdis buvo tikrai neblogas &#8211; didelis ekranas, patogiai besispaudžiantys mygtukai, gražios spalvos ir garsai. Čia iki tol kol nepradėjau naudotis rimtai&#8230; Įrašas apie tai, kad <strong>net labai geros <em>techninės</em> idėjos, gali būti tikru pragaru vartotojui</strong> paprastame gyvenime.</p>
 <h2>Kodėl aš negaliu daryti ko noriu?</h2>
-<p><a href='http://www.d-b.lt/attachments/2008/01/mobilusis-telefonas-samsung-sgh-d880-duos.html' rel='attachment wp-att-22' title='Mobilusis telefonas Samsung SGH-D880 DuoS'><img src='http://www.d-b.lt/uploads/2008/01/samsung-sgh-d880-duos.png' alt='Mobilusis telefonas Samsung SGH-D880 DuoS' align="right" border="0" /></a> Jau žinojau, kad Samsung telefonai nėra patys draugiškiausi kūriniai. Pirmą kartą apie tai <a href="http://www.guardian.co.uk/Columnists/Column/0,,2026580,00.html">perskaičiau kovo mėnesį</a>, o vasarą teko skubiai nusipirkti &#8220;telefoną, kuris sugeba skambinti&#8221; &#8211; <a href="http://www.gsmarena.com/samsung_c300-1768.php">SGH-C300</a>, kuriuo naudojantis keikiausi sulig kiekviena vykdoma užduotim, net jei tai tebūtų elementariausias skambinimas.</p>
+<p><a href='https://www.dominykas.lt/attachments/2008/01/mobilusis-telefonas-samsung-sgh-d880-duos.html' rel='attachment wp-att-22' title='Mobilusis telefonas Samsung SGH-D880 DuoS'><img src='https://www.dominykas.lt/uploads/2008/01/samsung-sgh-d880-duos.png' alt='Mobilusis telefonas Samsung SGH-D880 DuoS' align="right" border="0" /></a> Jau žinojau, kad Samsung telefonai nėra patys draugiškiausi kūriniai. Pirmą kartą apie tai <a href="http://www.guardian.co.uk/Columnists/Column/0,,2026580,00.html">perskaičiau kovo mėnesį</a>, o vasarą teko skubiai nusipirkti &#8220;telefoną, kuris sugeba skambinti&#8221; &#8211; <a href="http://www.gsmarena.com/samsung_c300-1768.php">SGH-C300</a>, kuriuo naudojantis keikiausi sulig kiekviena vykdoma užduotim, net jei tai tebūtų elementariausias skambinimas.</p>
 <p>Pirma rimta užduotis, kurią reikėjo padaryti su DuoS&#8217;u &#8211; persikelti kontaktus. Kadangi jie buvo išmėtyti per tris telefonus ir tris korteles &#8211; nusprendžiau išbandyti kartu su telefonu pateiktą programinę įrangą. Didelė klaida&#8230; Samsung PC Studio sugeba sinchronizuoti duomenis tik su Outlook Express &#8211; o ką daryti jeigu aš naudoju Thunderbird? Na bet čia ne esmė &#8211; man vistiek pirmiau reikėjo viską susikelti į Excelį ir susitvarkyti, nes telefonas nesugebėjo atpažinti, kad tas pats kontaktas kartojasi abiejose įdėtose kortelėse.</p>
 <p>Taigi, eksportuojam į CSV ir&#8230; o kad tai būtų taip paprasta! Kažkodėl, kūrėjai nusprendė, kad į CSV galima eksportuoti <em>tik</em> tuos kontaktus, kurie jau nukopijuoti į PC &#8211; o tą kopijavimą reikia atlikti būdu, kuris lyg ir būtų panašus į paprastą copy-paste per clipboardą, tačiau nėra toks. <strong>Kodėl negalima tiesiog paspausti &#8220;Copy&#8221; ir paskui &#8220;Paste&#8221; jau Excelyje?</strong> Beje, Samsung telefonai turi dar vieną labai įdomią ypatybę &#8211; <strong>kontaktus galima perkelti iš SIM į telefoną, bet ne atvirkščiai</strong>.</p>
 <p>Visa tai bedarydamas, atradau dar vieną paslėptą <i>&#8220;feature&#8221;</i> sinchronizacijos programoje &#8211; <strong>jeigu telefono laidas atjungiamas, uždaromos visos aktyvios paketo programos</strong> &#8211; tame tarpe ir kalendorius, ir adresų knygelė. Reikia suprasti, kad neturint telefono ir USB laido prie savęs, kompiuteryje numerių pasižiūrėti nebūtina&#8230; Keista buvo ir paketo architektūra &#8211; visą laiką task bar&#8217;e bėganti programa, kurioje yra šešios didelės ikonos su nuorodomis į paketo &#8220;programas&#8221;, tačiau iš tų &#8220;programų&#8221; vienu metu gali dirbti tik vieną&#8230; Ne, bet iš tikro &#8211; na kam man žiūrint į organaizerį persijungti į telefonų knygelę. Spaudžiam uninstall ir meldžiamės, kad atrasčiau kokią nors alternatyvą Samsungams, panašią į <a href="http://www.fjsoft.at/en/">My Phone Explorer</a>.</p>
@@ -68,7 +68,7 @@
 <p>Nepaisant dar vieno sunkumo, kurį patiriu naudodamasis šiuo telefonu (sunku susigaudyti kada naudoti &#8220;OK&#8221; mygtuką patvirtinimui, o kada kairyjį soft klavišą), nustebau radęs kelias įdomesnes funkcijas. Tai anglų &#8211; rusų kalbų žodynas (kuriuo nemoku naudotis); pradėjus rašyti bet kokį numerį &#8211; iš karto vykdoma dalinė paieška adresų knygutėje pagal jį; nuostabus kalkuliatorius, aplenkiantis visų kitų gamintojų kalkuliatorius (matematiniai veiksmai priskirti kryptiniams klavišams, kai paprastai reikia juos pasirinkinėti atskirai iš meniu).</p>
 <p>Kaip ten bebūtų, <strong>jeigu tik galėčiau nesinaudoti šiuo telefonu &#8211; nesinaudočiau</strong>. Tačiau jo galimybės ir techniniai parametrai &#8211; įspūdingi. Išleisti pinigai &#8211; taipogi. Samsung rezultatas, be abejo, daug kartų geresnis, negu prieš tai išbandyto Samkung N77i (kinietiškas klonas, kurio analogą pristatė ir <a href="http://www.teltonika.lt/lt/">Teltonika</a>), tačiau jis vistiek stengiasi daryti viską, kad tik aš nepasiekčiau norimo rezultato.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/01/samsung-sgh-880-duos.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/01/samsung-sgh-880-duos.rss2.xml</wfw:commentRss>
 		<slash:comments>77</slash:comments>
 		</item>
 	</channel>

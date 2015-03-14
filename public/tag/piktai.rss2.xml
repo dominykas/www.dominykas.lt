@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; piktai</title>
-	<atom:link href="http://www.d-b.lt/tag/piktai.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/piktai.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Piktai apie Delfi paiešką</title>
-		<link>http://www.d-b.lt/2007/12/piktai-apie-delfi-paieska.html</link>
-		<comments>http://www.d-b.lt/2007/12/piktai-apie-delfi-paieska.html#comments</comments>
+		<link>https://www.dominykas.lt/2007/12/piktai-apie-delfi-paieska.html</link>
+		<comments>https://www.dominykas.lt/2007/12/piktai-apie-delfi-paieska.html#comments</comments>
 		<pubDate>Tue, 11 Dec 2007 16:19:47 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[IT]]></category>
@@ -30,14 +30,14 @@
 		<category><![CDATA[piktai]]></category>
 		<category><![CDATA[seo]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/piktai-apie-delfi-paieska.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/piktai-apie-delfi-paieska.html</guid>
 		<description><![CDATA[Be abejo specializuota paieška Lietuvoje yra geras dalykas. Ir konkurencija Gūglui yra geras dalykas. Ir šiaip džiugu matyti, kad ir lietuviai sugeba išnaudoti savo vartotojus pateikdami jiems platesnes galimybes. Tačiau vienas dalykas, kurį daro Delfi paieškos variklis, mane labai pykdo.
 Neatsimenu, kada pirmą kartą pastebėjau, kad Google paieškoje randu Delfi paieškos kešą &#8211; t.y. puslapius kaip [...]]]></description>
 			<content:encoded><![CDATA[<p>Be abejo specializuota paieška Lietuvoje yra geras dalykas. Ir konkurencija Gūglui yra geras dalykas. Ir šiaip džiugu matyti, kad ir lietuviai sugeba išnaudoti savo vartotojus pateikdami jiems platesnes galimybes. Tačiau vienas dalykas, kurį daro <a href="http://search.delfi.lt/">Delfi paieškos variklis</a>, mane labai pykdo.</p>
 <p>Neatsimenu, kada pirmą kartą pastebėjau, kad Google paieškoje randu Delfi paieškos kešą &#8211; t.y. puslapius <a href="http://search.delfi.lt/cache.php?id=78DA24032B5E68D7" rel="nofollow">kaip šis</a>. Šiaip iš esmės bent jau Google su <i>duplicate content</i> tvarkosi neblogai ir aš netgi neprieštarauju tam, kad Delfi kešintų mano puslapius &#8211; veikimo principas galų gale toks. Aš netgi džiaugiuosi iniciatyva, kad jie parodo savo sukešintą versiją. Tačiau iš mandagumo jie galėtų uždėti noindex/nofollow tokiems rezultatams &#8211; taip kaip tai daro ir rekomenduoja <a href="http://www.mattcutts.com/blog/search-results-in-search-results/">Google ir YouTube</a>.</p>
 <p>Labai džiugu, kad Delfi pateikia šiek tiek <a href="http://search.delfi.lt/?c=crawler">informacijos webmasteriams</a>, ir netgi kontaktų nuorodą, tačiau konkretaus ryšio kanalo nėra &#8211; el. pašto adresai yra bendrieji (info ir biuras). Bandysiu parašyti, pasiteirauti &#8211; rezultatus (arba jų nebuvimą) pranešiu. Nesinorėtų spręsti dilemos &#8220;buvimas Delfi rezultatuose&#8221; prieš &#8220;duplicate content&#8221;. Pačiam Delfi interesas irgi turėtų būti &#8211; susitvarkyti iki tol, kol kiti paieškos varikliai pradės juos bausti.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2007/12/piktai-apie-delfi-paieska.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2007/12/piktai-apie-delfi-paieska.rss2.xml</wfw:commentRss>
 		<slash:comments>6</slash:comments>
 		</item>
 	</channel>

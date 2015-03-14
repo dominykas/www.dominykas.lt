@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; geekiška filosofija</title>
-	<atom:link href="http://www.d-b.lt/tag/geekiska-filosofija.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/geekiska-filosofija.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>robots.txt mitai ir neteisingas naudojimas</title>
-		<link>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html</link>
-		<comments>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html#comments</comments>
+		<link>https://www.dominykas.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html</link>
+		<comments>https://www.dominykas.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html#comments</comments>
 		<pubDate>Mon, 04 Feb 2013 20:05:08 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -31,12 +31,12 @@
 		<category><![CDATA[seo]]></category>
 		<category><![CDATA[užknisantys dalykai internete]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=426</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=426</guid>
 		<description><![CDATA[Anądien pliuse išsiliejau apie tai, kad dėl neaiškių priežasčių paieškos [ir kitokiems] robotams pusė Seimo svetainės yra &#8220;uždraustas turinys&#8221;. To rezultatas labai paprastas &#8211; ieškant, pvz., &#8220;PVM įstatymas&#8221; rezultatuose pirmu numeriu yra nuoroda į būtent tą įstatymą, tačiau nepateikiamas puslapio pavadinimas irba santrauka:
- 
+
 Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &#8211; pastebėjau [...]]]></description>
 			<content:encoded><![CDATA[<p>Anądien <a href="https://plus.google.com/100293756761145273349/posts/BAaQjp2bjns">pliuse išsiliejau</a> apie tai, kad dėl neaiškių priežasčių paieškos [ir kitokiems] robotams pusė Seimo svetainės yra &#8220;uždraustas turinys&#8221;. To rezultatas labai paprastas &#8211; ieškant, pvz., &#8220;PVM įstatymas&#8221; rezultatuose pirmu numeriu yra nuoroda į būtent tą įstatymą, tačiau nepateikiamas puslapio pavadinimas irba santrauka:</p>
-<p style="text-align:center;"><a href="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-google.png"><img src="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-google-300x217.png" alt="" title="Google paieškos rezultatas" width="250" class="aligncenter size-medium wp-image-428" /></a> <a href="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-bing.png"><img src="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-bing-300x173.png" alt="" title="Bing paieškos rezultatas" width="250" /></a></p>
+<p style="text-align:center;"><a href="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-google.png"><img src="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-google-300x217.png" alt="" title="Google paieškos rezultatas" width="250" class="aligncenter size-medium wp-image-428" /></a> <a href="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-bing.png"><img src="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-bing-300x173.png" alt="" title="Bing paieškos rezultatas" width="250" /></a></p>
 <p>Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &#8211; pastebėjau keistų dėsningumų. Kaip ir kas kartą, kai <del>rašau</del> mąstau apie SEO, viskas susiveda į keletą paprastų taisyklių, kurių pati svarbiausia yra &#8220;Daryk taip, kad būtų gerai vartotojams, o robotai atsirinks viską taip, kaip reikia&#8221;.</p>
 <h3>Mitas: robots.txt padės paslėpti nepageidaujamus puslapius</h3>
 <p>Realybė: jeigu kažkokia informacija neturi būti vieša, nedėk jos į internetą. Paprasta kaip du kart du. Jeigu kažkoks puslapis egzistuoja kažkokioje iš išorės prieinamoje svetainėje &#8211; informacija yra prieinama visiems. Jeigu yra bent viena nuoroda į tą turinį &#8211; paieškos robotai suindeksuos vien patį nuorodos egzistavimo faktą ir iš to padarys išvadas. Jeigu nuorodų į tą turinį yra daug, tai tas puslapis netgi bus rodomas pirmu rezultatu paieškoje, lygiai taip, kaip matosi iš aukščiau pateikto pavyzdžio apie PVM įstatymą.</p>
@@ -70,13 +70,13 @@ Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &
 </ul>
 <p>Pabaigai &#8211; jeigu LRS atveju, įtariu, blokavimas atsirado netyčia, greičiausiai dėl sistemų perkonfigūravimo ar atnaujinimo, tai, pvz., <a href="http://www.vlkk.lt/robots.txt">VLKK</a> ar <a href="http://www.lkpt.lt/robots.txt">kelių policijos</a> atvejai mane verčia rautis plaukus &#8211; kodėl svetainės užblokuotos <em>visiškai</em>?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Ateikit į InfoShow WEB konferenciją 2012</title>
-		<link>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html</link>
-		<comments>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html#comments</comments>
+		<link>https://www.dominykas.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html</link>
+		<comments>https://www.dominykas.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html#comments</comments>
 		<pubDate>Tue, 17 Apr 2012 14:54:18 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -86,11 +86,11 @@ Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &
 		<category><![CDATA[url]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=403</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=403</guid>
 		<description><![CDATA[
 Būti front-end programuotoju yra OSAM. Osam, nes sudėtinga &#8211; štai pvz. naujausia Sunday Business Post versija turi keturis kartus daugiau front-end kodo, negu back-end. Balandžio 21 d. apie tai kalbėsiu InfoShow festivalio WEB konferencijoje.
 Dar kalbėsiu apie tai, kaip paskutiniu metu internetai yra gadinami, kaip jūs visi esate neteisūs ir kaip tik aš vienas išmanau, kaip [...]]]></description>
-			<content:encoded><![CDATA[<p><img src="http://www.d-b.lt/uploads/2012/04/41607_292463217490036_926997090_n.jpg" style="margin-left: 1em; margin-bottom: 1em; float: right; border: 0;" alt="InfoShow WEB konferencijos logotipas" /><br />
+			<content:encoded><![CDATA[<p><img src="https://www.dominykas.lt/uploads/2012/04/41607_292463217490036_926997090_n.jpg" style="margin-left: 1em; margin-bottom: 1em; float: right; border: 0;" alt="InfoShow WEB konferencijos logotipas" /><br />
 Būti <i>front-end</i> programuotoju yra <strong><i>OSAM</i></strong>. <i>Osam</i>, nes sudėtinga &#8211; štai pvz. naujausia <a href="http://www.businesspost.ie/">Sunday Business Post</a> versija turi keturis kartus daugiau <i>front-end</i> kodo, negu <i>back-end</i>. Balandžio 21 d. apie tai kalbėsiu <a href="http://infoshow.info/">InfoShow</a> festivalio WEB konferencijoje.</p>
 <p>Dar kalbėsiu apie tai, kaip paskutiniu metu internetai yra gadinami, kaip jūs visi esate neteisūs ir kaip tik aš vienas išmanau, kaip Teisingai gaminti svetaines. Apžvelgsiu dalykus nuo &lt;a&gt; iki SEO*, nuo CSS iki <i>usability</i>, nuo W3C standartų iki programuotojų etikos. Prisiliesiu prie nesenų &#8220;skandalų&#8221; apie <i>vendor prefixes</i>, mobilias prieš &#8220;normalias&#8221; svetaines, kabliataškius Javascript ir pareikšiu savo Ypatingai Svarbią ir Autoritetingą Nuomonę tais klausimais.</p>
 <p>Veiksmas KTU Elektronikos fak.** 101 auditorijoje, <a href="http://www.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fviewform%3Fformkey%3DdFE2dXRUZWNmVTVCU2xYelZ2RmFIN3c6MQ%23gid%3D0&#038;h=eAQHd9D85">registracija gūgluose</a>, <a href="http://www.facebook.com/events/292463217490036/">aprašymas Veidaknygėje</a>, programa:</p>
@@ -109,19 +109,19 @@ Būti <i>front-end</i> programuotoju yra <strong><i>OSAM</i></strong>. <i>Osam</
 <p style="font-size: 85.7%">* iš tikro tai apie SEO nieko nesakysiu, nes apie tai kalbės Rokas.</p>
 <p style="font-size: 85.7%">** ne keiksmažodis.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.rss2.xml</wfw:commentRss>
 		<slash:comments>3</slash:comments>
 		</item>
 		<item>
 		<title>Apie prioritetus ir kodo grožį</title>
-		<link>http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html</link>
-		<comments>http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html#comments</comments>
+		<link>https://www.dominykas.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html</link>
+		<comments>https://www.dominykas.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html#comments</comments>
 		<pubDate>Tue, 07 Sep 2010 23:20:07 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
 		<category><![CDATA[geekiška filosofija]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=280</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=280</guid>
 		<description><![CDATA[Sėdėdamas ir žiūrėdamas eilinę prezentaciją apie Javascript ir accessibility YDN teatre prisiminiau mintį: programuotojai nemėgsta usability, nes reikia rašyti daug if&#8216;ų. Užsimąsčiau apie tai, kad programuotojo darbas susideda iš labai daug balansavimo.
 Taigi, tam, kad sukurti pakankamai patogų interfeisą, reikia rašyti daug kodo eilučių. Tai natūraliai turi įtakos veikimo greičiui. Tam, kad sistema veiktų greitai, kartais [...]]]></description>
 			<content:encoded><![CDATA[<p>Sėdėdamas ir žiūrėdamas eilinę prezentaciją apie Javascript ir <i>accessibility</i> <a href="http://developer.yahoo.net/blogs/theater/">YDN teatre</a> prisiminiau mintį: <em><a href="http://www.sadauskas.lt/index.php/2007/04/09/usability-ir-programuotojai/">programuotojai nemėgsta <i>usability</i>, nes reikia rašyti daug <i>if</i>&#8216;ų</a></em>. Užsimąsčiau apie tai, kad programuotojo darbas susideda iš labai daug balansavimo.</p>
@@ -142,13 +142,13 @@ Taigi, tam, kad sukurti pakankamai patogų interfeisą, reikia rašyti daug kodo
 </ol>
 <p>Dabar kai jau surašiau <del>juodu ant balto</del> klaviatūra į ekraną, viskas atrodo taip akivaizdu&#8230; Ką praleidau? Kokia jūsų prioritetų tvarka?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2010/09/apie-prioritetus-ir-kodo-grozi.rss2.xml</wfw:commentRss>
 		<slash:comments>5</slash:comments>
 		</item>
 		<item>
 		<title>Noriu pastovios adresų ir turinio struktūros</title>
-		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</link>
-		<comments>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comments</comments>
+		<link>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</link>
+		<comments>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comments</comments>
 		<pubDate>Mon, 10 Dec 2007 21:34:36 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -158,10 +158,10 @@ Taigi, tam, kad sukurti pakankamai patogų interfeisą, reikia rašyti daug kodo
 		<category><![CDATA[seo]]></category>
 		<category><![CDATA[url]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</guid>
 		<description><![CDATA[Praėjusiame įraše privėliau filosofijos apie URL prasmę iš web skaitytojo pozicijos. Senamadiško, techniško ir well&#8230; geekiško web skaitytojo pozicijos &#8211; iš esmės tai, ko aš tikiuosi iš adresų, kuriuos &#8220;sukuria&#8221; kiti. Šiame įraše dar keletas pastabų, kurių nedera pamiršti tinklapio administratoriui.
 Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją reikės keisti. Štai WP nėra [...]]]></description>
-			<content:encoded><![CDATA[<p><a href="http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html">Praėjusiame įraše</a> privėliau filosofijos apie URL prasmę iš web skaitytojo pozicijos. Senamadiško, techniško ir <i>well</i>&#8230; geekiško web skaitytojo pozicijos &#8211; iš esmės tai, ko aš tikiuosi iš adresų, kuriuos &#8220;sukuria&#8221; kiti. Šiame įraše dar keletas pastabų, kurių nedera pamiršti tinklapio administratoriui.</p>
+			<content:encoded><![CDATA[<p><a href="https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.html">Praėjusiame įraše</a> privėliau filosofijos apie URL prasmę iš web skaitytojo pozicijos. Senamadiško, techniško ir <i>well</i>&#8230; geekiško web skaitytojo pozicijos &#8211; iš esmės tai, ko aš tikiuosi iš adresų, kuriuos &#8220;sukuria&#8221; kiti. Šiame įraše dar keletas pastabų, kurių nedera pamiršti tinklapio administratoriui.</p>
 <p>Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją <strong>reikės keisti</strong>. Štai WP nėra pritaikytas PHP5 &#8211; ką jau bekalbėti apie PHP6, be to laikas nuo laiko išeina naujos jo versijos. Ir apskritai soft&#8217;as nėra amžinas &#8211; jo keitimas yra tiesiog garantuotas ilgalaikiu laikotarpiu. Tuo tarpu renkantis svetainės struktūrą reikėtų atsiminti, kad jos keitimas gali brangiai kainuoti. Renkantis adresų struktūrą visų svarbiausia įsidėmėti, kad jos keitimas užtruks ilgą laiką &#8211; tokio pragaro nelinkiu niekam.</p>
 <h2>Robotams ir vartotojams</h2>
 <p>Pirma adreso taisyklė SEO (einanti po nulinės &#8220;prikišk daug keywordų&#8221;) &#8211; jis neturėtų keistis ir idealiame pasaulyje turėtų būti amžinas. Jeigu jis pasikeitė &#8211; be abejo galima sudėlioti teisingus HTTP redirektus (301 Moved Permanently į naują adresą, vėliau laikui bėgant pakeisti į 410 Gone). Tačiau net su redirektais, adreso keitimas užsitraukia paieškos robotų nemalonę. Pavyzdys iš realybės: dar dabar kai kurie paieškos varikliai yra sucache&#8217;inę seno mano darbovietės puslapio variantą su ASP adresais ir nenori jo užmiršti. Keitimas įvyko prieš 2 metus. </p>
@@ -172,13 +172,13 @@ Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją reikės 
 <p>Paprasto sprendimo šiai problemai nėra, tačiau tiek kategorijos, tiek archyvai blog&#8217;e tėra rodyklės (<i>turinys, index, sugalvok savo žodį</i>) &#8211; todėl jie ir turėtų elgtis kaip tokie. Kadangi blog&#8217;as pagal savo <i>definitioną</i> yra chronologinis dalykas, manau, kad vienas iš mažiausiai kenksmingų variantų būtų rodyti kategorijos (tago) puslapyje kelis paskutinius įrašus, o toliau leisti browsinti pagal datą &#8211; jeigu kategorija (ar visas blogas) ganėtinai aktyvus &#8211; rodyti sakykim mėnesio įrašus, jeigu mažiau aktyvus &#8211; rodyti visus metų įrašus, taip atsikratant puslapiavimo poreikio, o tuo pačiu &#8211; niekam tikusių puslapiuotų adresų.</p>
 <p>Adreso bei turinio pastovumas ir &#8220;patikimas&#8221; buvo dvi esminės problemos, kurios mane ilgiausiai stabdė paleidžiant savo blog&#8217;ą &#8211; norėjosi skirti pakankamai laiko apmąstymams ir šiaip dėsningumų įvertinimui tam, kad nesigailėčiau tada kai pradėsiu pasitikėti <a href="http://habariproject.org/">Habari</a>. Artimiausiame įraše &#8211; mano apsisprendimas dėl struktūros.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.rss2.xml</wfw:commentRss>
 		<slash:comments>6</slash:comments>
 		</item>
 		<item>
 		<title>Noriu padorios adresų struktūros</title>
-		<link>http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html</link>
-		<comments>http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html#comments</comments>
+		<link>https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.html</link>
+		<comments>https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.html#comments</comments>
 		<pubDate>Fri, 07 Dec 2007 07:40:03 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -188,7 +188,7 @@ Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją reikės 
 		<category><![CDATA[semantiškas tinklas]]></category>
 		<category><![CDATA[url]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.html</guid>
 		<description><![CDATA[Renkantis bet kokią web turinio valdymo sistemą vienas iš pagrindinių klausimų yra jos pritaikomumas SEO. Kaip žinia, gana svarbus to faktorius yra URL optimizacija. Kas yra optimalus URL galima diskutuoti daug, tačiau mano asmeniniai kriterijai yra šie:
 
 URL, kaip failų sistemos atspindys, reiškia failą
@@ -228,7 +228,7 @@ Kaip jau minėjau aukščiau, atsiradus dinamiškam turiniui tinkle, šiek tiek 
 </p>
 <p>Šiame įraše paminėjau tik esminius meta reikalavimus URL struktūrai &#8211; tačiau vien to geram adresui negana. Turint plačias galimybes, galima nesunkiai viską sugadinti, o be to žvelgiant iš SEO perspektyvos &#8211; yra ir keletas papildomų reikalavimų, kuriuos dera apžvelgti atskirai.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.rss2.xml</wfw:commentRss>
 		<slash:comments>5</slash:comments>
 		</item>
 	</channel>

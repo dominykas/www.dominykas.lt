@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; raštas</title>
-	<atom:link href="http://www.d-b.lt/tag/rastas.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/rastas.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Kam reikalingos &#8220;rašytinės&#8221; raidės?</title>
-		<link>http://www.d-b.lt/2010/01/kam-reikalingos-rasytines-raides.html</link>
-		<comments>http://www.d-b.lt/2010/01/kam-reikalingos-rasytines-raides.html#comments</comments>
+		<link>https://www.dominykas.lt/2010/01/kam-reikalingos-rasytines-raides.html</link>
+		<comments>https://www.dominykas.lt/2010/01/kam-reikalingos-rasytines-raides.html#comments</comments>
 		<pubDate>Sun, 31 Jan 2010 19:00:55 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Filosofija]]></category>
@@ -29,7 +29,7 @@
 		<category><![CDATA[raštas]]></category>
 		<category><![CDATA[švietimas]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=264</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=264</guid>
 		<description><![CDATA[Dienos klausimas &#8211; vis tik, kodėl pirmoje klasėje vaikai mokomi tokio beverčio įgūdžio kaip dailyraštis? Šią tingią sekmadienio popietę praleidau klaidžiodamas internetų gūdybėse, kol užkliuvau už šio &#8220;Ar žinote, kad&#8230;&#8221; video klipuko. Vienas iš faktų jame &#8211; geidžiamiausios darbo vietos prieš dešimtmetį tiesiog dar nebuvo išrastos. Tokiu greičiu judančiame pasaulyje, kai tai, ką išmoksti universitete [...]]]></description>
 			<content:encoded><![CDATA[<p>Dienos klausimas &#8211; vis tik, kodėl pirmoje klasėje vaikai mokomi tokio beverčio įgūdžio kaip dailyraštis? Šią tingią sekmadienio popietę praleidau klaidžiodamas internetų gūdybėse, kol užkliuvau už šio <a href="http://www.youtube.com/watch?v=jpEnFwiqdx8">&#8220;Ar žinote, kad&#8230;&#8221;</a> video klipuko. Vienas iš faktų jame &#8211; geidžiamiausios darbo vietos prieš dešimtmetį tiesiog dar nebuvo išrastos. Tokiu greičiu judančiame pasaulyje, kai tai, ką išmoksti universitete pirmais metais, jau būna pasenę kai baigi, <em>privalomai</em> mokyti dalykų, kurie yra atgyvenę, reiškia elementarų resursų švaistymą ir praktiškai sukelia ekonominį atsilikimą ateityje.</p>
 <p>Pirmas argumentas, kurį gavau uždavęs šį klausimą, buvo tai, kad <strong>ranka rašyti, atseit, yra greičiau</strong>. Kodėl tuomet teismo stenografuotojai &#8211; žmonės, kurių darbas yra rašyti pačiu greičiausiu įmanomu būdu, naudoja (tegul ir specializuotą) aparatūrą? Turint omeny, kaip veikia žmogaus smegenys, kai jis atlieka darbą, kuris jam įaugęs į kraują, aparatūra teikia garantuotą privalumą.</p>
@@ -39,7 +39,7 @@
 <p>Nesupraskit manęs neteisingai. Aš neteigiu, kad rašyti ranka yra apskritai nereikalingas įgūdis &#8211; <strong>sugebėti perduoti informaciją primityviais įrankiais yra labai svarbu</strong>. Maždaug taip, kaip svarbu mokėti sukurti laužą ir sužvejoti žuvį &#8211; elementarus išlikimas. Ir turint omeny, kad visiškai popieriaus atsikratyti artimu metu tikrai nepavyks, treniruotis greitai užpildyti formas derėtų, tačiau mes juk kalbame apie ateinančią kartą &#8211; tą, kuri turės gyventi gerokai po to, kai baigsis mūsų pačių galiojimo laikas.</p>
 <p>Šiuo metu, nėra nei vieno žmogaus, kuris turi nusipirkęs iPad. Tačiau prieš šimtą metų nebuvo nei vieno žmogaus, kuris turėjo nusipirkęs radiją. Po šimto metų, būsim visi prijungti prie matricos, ir nei rašymas, nei spausdinimas, nei išvis diktavimas nebebus aktualūs. Tačiau šiuo pereinamuoju laikotarpiu, septynmetis, kuris sugeba kompiuteriu atlikti namų darbus yra ateities žmogus, kuris savo laiku galės konkuruoti su milijonais kitų dėl darbo ir mokės jūsų pensijas.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2010/01/kam-reikalingos-rasytines-raides.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2010/01/kam-reikalingos-rasytines-raides.rss2.xml</wfw:commentRss>
 		<slash:comments>11</slash:comments>
 		</item>
 	</channel>

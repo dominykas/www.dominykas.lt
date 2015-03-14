@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; three</title>
-	<atom:link href="http://www.d-b.lt/tag/three.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/three.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Three mobilus internetas</title>
-		<link>http://www.d-b.lt/2008/03/three-mobilus-internetas.html</link>
-		<comments>http://www.d-b.lt/2008/03/three-mobilus-internetas.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/03/three-mobilus-internetas.html</link>
+		<comments>https://www.dominykas.lt/2008/03/three-mobilus-internetas.html#comments</comments>
 		<pubDate>Sun, 02 Mar 2008 16:22:47 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Airija]]></category>
@@ -30,7 +30,7 @@
 		<category><![CDATA[mobilus internetas]]></category>
 		<category><![CDATA[three]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/03/three-mobilus-internetas.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/03/three-mobilus-internetas.html</guid>
 		<description><![CDATA[Taigi, prieš kelias neišlaikė nervai ir sugalvojau, kad vėl noriu namie interneto. Negana to &#8211; airių operatorius Three pradėjo teikti mobilų internetą su išankstiniu apmokėjimu &#8211; kadangi vis negaliu apsispręsti kiek ilgai dar čia gyvensiu, sutarties su niekuo nenorėjau pasirašyti. Reklama: iki 3.6Mbps, €25 per mėnesį ir jokių įsipareigojimų.
 Realybė
 Neskanų kvapą burnoje pradėjau jausti vos tik [...]]]></description>
@@ -54,7 +54,7 @@ Neskanų kvapą burnoje pradėjau jausti vos tik [...]]]></description>
 <p>Jeigu visiškai visiškai nėra kitos galimybės &#8211; Three internetas yra visai pakenčiamas. Ir šiaip jau ne per daug brangus. Tačiau jeigu nerasiu ZTE MF622 atrišimo sprendimo (kad vėliau pabėgti į O2 arba Vodafone jeigu bus galimybė) &#8211; manau, kad pasinaudosiu 14 day money back guarantee&#8230;</p>
 <p>O ką &#8211; jūs galvojote vien Lietuvoje žmonės apgaudinėjami?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/03/three-mobilus-internetas.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/03/three-mobilus-internetas.rss2.xml</wfw:commentRss>
 		<slash:comments>6</slash:comments>
 		</item>
 	</channel>

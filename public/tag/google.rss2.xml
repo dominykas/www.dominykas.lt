@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; google</title>
-	<atom:link href="http://www.d-b.lt/tag/google.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/google.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>URL magija: kodėl spemas atrodo kaip spemas?</title>
-		<link>http://www.d-b.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.html</link>
-		<comments>http://www.d-b.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.html</link>
+		<comments>https://www.dominykas.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.html#comments</comments>
 		<pubDate>Mon, 12 Jan 2009 23:31:20 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -29,38 +29,38 @@
 		<category><![CDATA[paieška]]></category>
 		<category><![CDATA[url]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.html</guid>
 		<description><![CDATA[Šiandien didžiąją dalį dienos praleidau visaip laužydamas Google Custom Search Engine. Viskas būtų labai paprasta &#8211; naudojam AJAX Search API, užkraunam JSONą (kai ateis laikas &#8211; XML), pagražinam ir išspjaunam viską į šabloną. Tačiau atsirado problema &#8211; paieškos rezultatų puslapis atrodė kaip spemas &#8211; žinot tuos tuščius domeinus, kuriuose nėra nieko išskyrus reklamą?
 
 Keičiau išdėstymą, šriftus, [...]]]></description>
 			<content:encoded><![CDATA[<p>Šiandien didžiąją dalį dienos praleidau visaip laužydamas <a href="http://www.google.com/coop/cse/">Google Custom Search Engine</a>. Viskas būtų labai paprasta &#8211; naudojam <a href="http://code.google.com/apis/ajaxsearch/documentation/reference.html#_intro_fonje">AJAX Search API</a>, užkraunam JSONą (kai ateis laikas &#8211; <a href="http://www.google.com/coop/docs/cse/resultsxml.html">XML</a>), pagražinam ir išspjaunam viską į šabloną. Tačiau atsirado problema &#8211; <strong>paieškos rezultatų puslapis atrodė kaip spemas</strong> &#8211; žinot tuos tuščius domeinus, kuriuose nėra nieko išskyrus reklamą?</p>
-<p style="text-align:center;"><a href='http://www.d-b.lt/attachments/2009/01/google-paieska-rezultatai-kaip-spemas.html' rel='attachment wp-att-73' title='Google paieška - rezultatai kaip spemas'><img src='http://www.d-b.lt/uploads/2009/01/rezultatai-spemas.png' alt='Google paieška - rezultatai kaip spemas' /></a></p>
+<p style="text-align:center;"><a href='https://www.dominykas.lt/attachments/2009/01/google-paieska-rezultatai-kaip-spemas.html' rel='attachment wp-att-73' title='Google paieška - rezultatai kaip spemas'><img src='https://www.dominykas.lt/uploads/2009/01/rezultatai-spemas.png' alt='Google paieška - rezultatai kaip spemas' /></a></p>
 <p>Keičiau išdėstymą, šriftus, <i>boldus</i>, <i>italikus</i>, paišiau linijas, siaurinau, platinau, didinau tuščią vietą ir mažinau. Niekas nepadėjo &#8211; rezultatai vis atrodė kaip kalnas reklamos. Kodėl? Prie API dokumentacijos yra pateiktas pavyzdys, kuriame kiekvienam rezultatai yra pateiktas maždaug toks kodas: <code>visibleUrl: "www.d-b.lt"</code> ir aš jį be abejo panaudojau.</p>
 <h2>Nebe spemas</h2>
 <p>Tačiau kas gunasi jeigu to pavyzdžio neklausome?</p>
-<p style="text-align:center;"><a href='http://www.d-b.lt/attachments/2009/01/apkarpyti-google-paieskos-rezultatai-nebe-spemas.html' rel='attachment wp-att-74' title='Apkarpyti Google paieškos rezultatai - nebe spemas!'><img src='http://www.d-b.lt/uploads/2009/01/rezultatai-ok.png' alt='Apkarpyti Google paieškos rezultatai - nebe spemas!' /></a></p>
+<p style="text-align:center;"><a href='https://www.dominykas.lt/attachments/2009/01/apkarpyti-google-paieskos-rezultatai-nebe-spemas.html' rel='attachment wp-att-74' title='Apkarpyti Google paieškos rezultatai - nebe spemas!'><img src='https://www.dominykas.lt/uploads/2009/01/rezultatai-ok.png' alt='Apkarpyti Google paieškos rezultatai - nebe spemas!' /></a></p>
 <p>Galbūt aš esu beprotiškai neteisus ir man paieškos langai per giliai įaugę į smegenis, tačiau laikui bėgant išsivystė instinktas &#8211; jeigu adrese pateikiamas tik domeino vardas &#8211; tai yra reklama. Jeigu adresas pateikiamas pilnas &#8211; tai yra galbūt visai nebloga svetainė. Tačiau kaip yra tais atvejais, kai rezultatas veda į titulinį puslapį?</p>
-<p style="text-align:center;"><a href='http://www.d-b.lt/attachments/2009/01/apkarpyti-google-rezultatai-vedantys-i-titulini.html' rel='attachment wp-att-75' title='Apkarpyti Google rezultatai, vedantys į titulinį'><img src='http://www.d-b.lt/uploads/2009/01/rezultatai-titulinis.png' alt='Apkarpyti Google rezultatai, vedantys į titulinį' /></a></p>
+<p style="text-align:center;"><a href='https://www.dominykas.lt/attachments/2009/01/apkarpyti-google-rezultatai-vedantys-i-titulini.html' rel='attachment wp-att-75' title='Apkarpyti Google rezultatai, vedantys į titulinį'><img src='https://www.dominykas.lt/uploads/2009/01/rezultatai-titulinis.png' alt='Apkarpyti Google rezultatai, vedantys į titulinį' /></a></p>
 <p>Šie rezultatai nuo AdWords ar kitų reklaminių skydelių skiriasi tik keliais simbolis &#8211; adreso pabaigoje yra <dfn title="Kas nors atsimena lietuvišką 'Hackerių' vertimą?">įžambus brūkšnys</dfn>, na ir dėl vaizdo palikau puslapio dydį. Tačiau net palikus vien slash&#8217;ą &#8220;tikrumo&#8221; efektas yra įspūdingas!</p>
 <h2>Kad būtų gerai</h2>
-<p><a href="http://www.d-b.lt/tag/url.html">Apie URL svarbą SEO</a> ir vartotojui jau esu rašęs kelis kartus. Belieka tik pasikartoti &#8211; <strong>raktinių žodžių (ne)buvimas daro įtaką paieškos variklių naudotojų elgsenai</strong>. Tam tikri išsivystę kanonai (egzistuojantys pakankamai ilgą laiko tarpą) nuteikia juos savitai elgsenai. Atrodytų kas gi čia tokio &#8211; vienas simbolis, bet <strong>vartotojo lūkesčiai, suformuoti pasąmonėje užstrigusių vaizdų, daro savo</strong>!</p>
+<p><a href="https://www.dominykas.lt/tag/url.html">Apie URL svarbą SEO</a> ir vartotojui jau esu rašęs kelis kartus. Belieka tik pasikartoti &#8211; <strong>raktinių žodžių (ne)buvimas daro įtaką paieškos variklių naudotojų elgsenai</strong>. Tam tikri išsivystę kanonai (egzistuojantys pakankamai ilgą laiko tarpą) nuteikia juos savitai elgsenai. Atrodytų kas gi čia tokio &#8211; vienas simbolis, bet <strong>vartotojo lūkesčiai, suformuoti pasąmonėje užstrigusių vaizdų, daro savo</strong>!</p>
 <p>Donaldas Normanas sako, kad jeigu nepavyksta padaryti, kad daiktas būtų patogus naudoti (būna ir taip) &#8211; geriausia sukurti <dfn title="Kaip gražiai išversti cultural convention?">standartą, archetipą</dfn>, kuriuo būtų galima vadovautis susidūrus su nauja, bet panašia situacija.</p>
-<p>Akivaizdu, kad Google tai padarė su adresų rodymų paieškoje &#8211; jeigu po domeino nėra &#8220;/&#8221; simbolio &#8211; rezultatas veda neaišku kur (tikėtina &#8211; į reklaminį bukletą) nurodomoje svetainėje. Tai galioja ir <a href='http://www.d-b.lt/attachments/2009/01/google-isplestines-paieskos-rezultatai.html' rel='attachment wp-att-76' title='Google išplėstinės paieškos rezultatai'>išplėstiniams rezultatams</a>. Kita vertus, <a href="http://search.live.com/results.aspx?q=news&#038;go=&#038;form=QBRE">Live Search</a> ir <a href="http://search.yahoo.com/search?p=news">Yahoo! Search</a> <del>nusprendė tai ignoruoti</del> nenusprendė tuo vadovautis &#8211; galbūt todėl aš jomis ir nesinaudoju, kad man ten viskas panašu į reklamą?</p>
+<p>Akivaizdu, kad Google tai padarė su adresų rodymų paieškoje &#8211; jeigu po domeino nėra &#8220;/&#8221; simbolio &#8211; rezultatas veda neaišku kur (tikėtina &#8211; į reklaminį bukletą) nurodomoje svetainėje. Tai galioja ir <a href='https://www.dominykas.lt/attachments/2009/01/google-isplestines-paieskos-rezultatai.html' rel='attachment wp-att-76' title='Google išplėstinės paieškos rezultatai'>išplėstiniams rezultatams</a>. Kita vertus, <a href="http://search.live.com/results.aspx?q=news&#038;go=&#038;form=QBRE">Live Search</a> ir <a href="http://search.yahoo.com/search?p=news">Yahoo! Search</a> <del>nusprendė tai ignoruoti</del> nenusprendė tuo vadovautis &#8211; galbūt todėl aš jomis ir nesinaudoju, kad man ten viskas panašu į reklamą?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>SEO: teksto šviežumo įtaka</title>
-		<link>http://www.d-b.lt/2008/06/seo-teksto-sviezumo-itaka.html</link>
-		<comments>http://www.d-b.lt/2008/06/seo-teksto-sviezumo-itaka.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/06/seo-teksto-sviezumo-itaka.html</link>
+		<comments>https://www.dominykas.lt/2008/06/seo-teksto-sviezumo-itaka.html#comments</comments>
 		<pubDate>Sun, 08 Jun 2008 21:13:04 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
 		<category><![CDATA[google]]></category>
 		<category><![CDATA[seo]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/06/seo-teksto-sviezumo-itaka.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/06/seo-teksto-sviezumo-itaka.html</guid>
 		<description><![CDATA[Šiandien sprendžiau vieną problemėlę (IE6 su JS keičiant &#60;iframe&#62;.src nieko nevyksta). Be abejo, vietoj to, kad naudotis savo galva, visų pirma išnaršiau Google rezultatus šita tema. Paskutiniu metu vis dažniau pastebiu, kad Google pateikiami rezultatai mane vis rečiau patenkinta iš pirmo karto, pirmame puslapyje. Šiuo atveju, turėjau labai stiprią nuojautą, kad man rodomi naujesni rezultatai, [...]]]></description>
 			<content:encoded><![CDATA[<p>Šiandien sprendžiau vieną problemėlę (IE6 su JS keičiant <code>&lt;iframe&gt;.src</code> nieko nevyksta). Be abejo, vietoj to, kad naudotis savo galva, visų pirma išnaršiau Google rezultatus šita tema. Paskutiniu metu vis dažniau pastebiu, kad <strong>Google pateikiami rezultatai mane vis rečiau patenkinta</strong> iš pirmo karto, pirmame puslapyje. Šiuo atveju, turėjau labai stiprią nuojautą, kad man rodomi naujesni rezultatai, o senesni paslepiami.</p>
 <p>Be abejo, ta nuojauta yra paremta kita nuojauta &#8211; nejaugi nuo 2002-2003 metų, kai IE6 tapo populiariausia naršykle, niekam nereikėjo pakeisti <code>&lt;iframe&gt;</code> turinio naudojantis JavaScript? Nejaugi tokia įdomi &#8220;klaida&#8221; gali būti nepastebėta iki šiemet? <strong>Pirmieji Google SERP rezultatai buvo įrašai sukurti šiemet ar pernai</strong>. Tuo tarpu nei viename iš jų nebuvo &#8220;teisingo&#8221; problemos sprendimo &#8211; visi puikiai veikė po Firefox ar IE7, tačiau kuo toliau, tuo mažiau žmonių rūpinasi IE6 palaikymu. Natūrali tendencija &#8211; atsidarius naujesnes svetaines su IE5.x (ypač Mac) galima pamatyti labai įdomių grožybių, nors šios naršyklės &#8220;baigė galioti&#8221; vos prieš 2-4 metus.</p>
@@ -68,13 +68,13 @@ Keičiau išdėstymą, šriftus, [...]]]></description>
 <p>Išvada gana paprasta. Kartais aš nerašau savo blog&#8217;e dėl to, kad kažkas apie tai jau rašė &#8211; nesinori kartotis, taip pat nesinori atrodyti tokiu, kur bando kažkam plauti smegenis kažko kalimu į galvą (nors reikėtų&#8230;) Tačiau tas, kas parašė paskutinis amžinai aktualiomis temomis, visada bus teisesnis! Bent jau Google akyse. <strong>Kartotis, matyt, nėra taip jau blogai</strong>.</p>
 <p><strong>PS. IFRAME problemos sprendimas</strong>. Kam naudoti <code>onclick</code> ir bandyti pakeisti <code>iframe.src</code>, jeigu galima sukurti <code>&lt;a href="???"&gt;</code> ir viso to išvengti? <a href="http://thedailywtf.com/">The Daily WTF</a> verta problema. <strong>Savo galvą naudoti kartais geriau negu Google!</strong></p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/06/seo-teksto-sviezumo-itaka.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/06/seo-teksto-sviezumo-itaka.rss2.xml</wfw:commentRss>
 		<slash:comments>5</slash:comments>
 		</item>
 		<item>
 		<title>Google reketas arba balansuojam biudžetą</title>
-		<link>http://www.d-b.lt/2008/03/google-reketas-arba-balansuojam-biudzeta.html</link>
-		<comments>http://www.d-b.lt/2008/03/google-reketas-arba-balansuojam-biudzeta.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/03/google-reketas-arba-balansuojam-biudzeta.html</link>
+		<comments>https://www.dominykas.lt/2008/03/google-reketas-arba-balansuojam-biudzeta.html#comments</comments>
 		<pubDate>Tue, 04 Mar 2008 11:38:51 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -82,12 +82,12 @@ Keičiau išdėstymą, šriftus, [...]]]></description>
 		<category><![CDATA[google]]></category>
 		<category><![CDATA[sem]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/03/google-reketas-arba-balansuojam-biudzeta.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/03/google-reketas-arba-balansuojam-biudzeta.html</guid>
 		<description><![CDATA[Šiandien savo RSS skaityklėje radau vieną džiugią naujieną, apie tai, kad Microsoft kompanijoje kažkas turi smegenų, įsiklausė į tinklo meistrų bendruomenės balsą ir nusprendė, kad IE8 pagal nutylėjimą taikys standartų režimą (žr. ankstesnį įrašą apie tai). Tačiau kitos naujienos buvo ne tokios linksmos ir kas sekė po to mane šiek tiek įžeidė. Ir negana to [...]]]></description>
-			<content:encoded><![CDATA[<p>Šiandien savo RSS skaityklėje radau vieną džiugią naujieną, apie tai, kad Microsoft kompanijoje kažkas turi smegenų, įsiklausė į tinklo meistrų bendruomenės balsą ir nusprendė, kad <a href="http://blogs.msdn.com/ie/archive/2008/03/03/microsoft-s-interoperability-principles-and-ie8.aspx">IE8 pagal nutylėjimą taikys standartų režimą</a> (žr. ankstesnį <a href="http://www.d-b.lt/2008/01/narsykline-realybe.html">įrašą apie tai</a>). Tačiau kitos naujienos buvo ne tokios linksmos ir kas sekė po to mane šiek tiek įžeidė. Ir negana to &#8211; jos buvo ne apie MS, o apie Google, kurie šiaip jau turi &#8220;geriečių&#8221; reputaciją.</p>
+			<content:encoded><![CDATA[<p>Šiandien savo RSS skaityklėje radau vieną džiugią naujieną, apie tai, kad Microsoft kompanijoje kažkas turi smegenų, įsiklausė į tinklo meistrų bendruomenės balsą ir nusprendė, kad <a href="http://blogs.msdn.com/ie/archive/2008/03/03/microsoft-s-interoperability-principles-and-ie8.aspx">IE8 pagal nutylėjimą taikys standartų režimą</a> (žr. ankstesnį <a href="https://www.dominykas.lt/2008/01/narsykline-realybe.html">įrašą apie tai</a>). Tačiau kitos naujienos buvo ne tokios linksmos ir kas sekė po to mane šiek tiek įžeidė. Ir negana to &#8211; jos buvo ne apie MS, o apie Google, kurie šiaip jau turi &#8220;geriečių&#8221; reputaciją.</p>
 <h2>Google AdWords siurprizai</h2>
 <p>Iš pradžių perskaičiau <a href="http://www.searchenginejournal.com/adwords-automatic-matching-lamborghini-ad-for-reelect-obama-2012-query-right/6451/">kelis straipsniukus</a> apie <a href="http://directmag.com/opinions-columnists/loosecannon/loose-cannon-google-knows-best-0303/">automatinį AdWords raktažodžių parinkimą</a>. Be abejo jie tėra tik sarkastiškas požiūris į naują, kol kas klaidingai veikiančią, paslaugą. Tačiau dėl įdomumo prisijungiau į firmos AdWords accountą pasitikrinti ar nieko blogo nesidaro mums ir ten manęs laukė siurprizas:</p>
-<div style="text-align:center;"><a href='http://www.d-b.lt/uploads/2008/03/increase-budget.gif' title='Google prašo padidinti biudžetą'><img src='http://www.d-b.lt/uploads/2008/03/increase-budget.gif' alt='Google prašo padidinti biudžetą' width=400 border=0/></a></div>
+<div style="text-align:center;"><a href='https://www.dominykas.lt/uploads/2008/03/increase-budget.gif' title='Google prašo padidinti biudžetą'><img src='https://www.dominykas.lt/uploads/2008/03/increase-budget.gif' alt='Google prašo padidinti biudžetą' width=400 border=0/></a></div>
 <blockquote><p><strong>Pranešimas apie kampanijos biudžetą</strong><br />
 Jūsų reklaminiai skydeliai negauna 24% įmanomų parodymų dėl jūsų dabartinių biudžeto nustatymų. Jeigu padidintumėte biudžetą &#8211; jūsų skydeliai būtų matomi dažniau, tai padėtų gauti daugiau paspaudimų.</p>
 </blockquote>
@@ -96,17 +96,17 @@ Jūsų reklaminiai skydeliai negauna 24% įmanomų parodymų dėl jūsų dabarti
 <p>Negaliu skelbti tikslių duomenų, tačiau palyginimui galiu pasakyti, kad vasario mėnesį Google AdWords <strong>sumokėjome apie 25-30% daugiau</strong> negu 2007 rugsėjį/spalį. Ir apie dvigubai daugiau negu pernai vasarį! Be abejo tam įtakos turi vidutinis <dfn title="Cost per Click - paspaudimo kaina">CPC</dfn>, kuris per 2007 užkilo nuo €0.12 iki €0.14 (beje irgi ne be Google pagalbos &#8211; minimalūs statymai už raktažodžius kyla taipogi vos ne kas savaitę).</p>
 <p>Lyginant tuos pačius laikotarpius &#8211; mūsų reklamos buvo <strong>parodytos beveik 40% daugiau</strong>, tačiau ar mūsų tikslas yra parodymai? Toli gražu ne &#8211; mūsų tikslas yra, kad reklamą paspaudęs vartotojas užsiregistruotų svetainėje ir susimokėtų pinigus. Realus <dfn title="ClickThrough Rate - paspaudimų/parodymų santykis">CTR</dfn> per tą patį laikotarpį nukrito nuo 2.2% iki 1.9%. Taigi galutinis biudžeto pokyčio rezultatas &#8211; <strong>vos 20% daugiau paspaudimų</strong>, kurie <strong>registracijos skaičiuose atsispindi tik 10% pokyčiu</strong>!</p>
 <p>Jeigu įvertinti tai, kad iš registruotų vartotojų dalis yra netikros registracijos, arba netenkina mūsų kriterijų, todėl turime juos atmesti, o iš likusių patvirtintų vartotojų už paslaugas susimoka tik dalis &#8211; realus pokytis <strong>išleidus 30% daugiau reklamai yra vos keli procentai daugiau mokių vartotojų</strong>. Google gi tuo tarpu mano, kad mes pasiruošę išleisti antra tiek pinigų, dėl dar vieno papildomo lankytojo&#8230;</p>
-<p>Elementari išvada: kas kartą didinant reklamos biudžetą reikia įvertinti būtent realią to teikiamą naudą. Galbūt kartais <strong>daug naudingiau supaprastinti/pagerinti svetainės <a href="http://www.d-b.lt/2008/01/usability-lietuviskai-vartojiskumas.html#comment-118">parankumą</a></strong>, taip sumažinant &#8220;nubyrančių&#8221; vartotojų kiekį? Galbūt reikėtų daugiau dėmesio skirti SEO, o ne SEM? O galbūt derėtų migruoti į Microsoft AdCenter ar Yahoo Overture?</p>
+<p>Elementari išvada: kas kartą didinant reklamos biudžetą reikia įvertinti būtent realią to teikiamą naudą. Galbūt kartais <strong>daug naudingiau supaprastinti/pagerinti svetainės <a href="https://www.dominykas.lt/2008/01/usability-lietuviskai-vartojiskumas.html#comment-118">parankumą</a></strong>, taip sumažinant &#8220;nubyrančių&#8221; vartotojų kiekį? Galbūt reikėtų daugiau dėmesio skirti SEO, o ne SEM? O galbūt derėtų migruoti į Microsoft AdCenter ar Yahoo Overture?</p>
 <h2>Pabaigai</h2>
 <p>Negaliu pykti per daug ant Google &#8211; verslas yra verslas. Turbūt nepyksiu ant jų netgi tada, kai jie pasakys &#8220;atiduok man visus savo pinigus, savo verslą, tada ateik pas mus į duomenų centrą ir būsi prijungtas prie maitinimo aparato &#8211; išnaudosim tavo kūno energiją serveriams&#8221;. Tačiau nejaugi tokia didelė kompanija neturi žmonių, kurie suvoktų, kad mano skiriamas reklaminis biudžetas turi kurti naudą? Nejaugi jie nemato, kad mano <strong>išleidžiami pinigai vienam registruotam vartotojui auga eksponentiškai</strong> ir kažkuriuo momentu aš ant jų supyksiu?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/03/google-reketas-arba-balansuojam-biudzeta.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/03/google-reketas-arba-balansuojam-biudzeta.rss2.xml</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 		<item>
 		<title>Deginti ar nedeginti?</title>
-		<link>http://www.d-b.lt/2008/01/deginti-ar-nedeginti.html</link>
-		<comments>http://www.d-b.lt/2008/01/deginti-ar-nedeginti.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/01/deginti-ar-nedeginti.html</link>
+		<comments>https://www.dominykas.lt/2008/01/deginti-ar-nedeginti.html#comments</comments>
 		<pubDate>Sun, 20 Jan 2008 21:34:24 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -114,7 +114,7 @@ Jūsų reklaminiai skydeliai negauna 24% įmanomų parodymų dėl jūsų dabarti
 		<category><![CDATA[google]]></category>
 		<category><![CDATA[wordpress]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/01/deginti-ar-nedeginti.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/01/deginti-ar-nedeginti.html</guid>
 		<description><![CDATA[FeedBurner man visada atrodė lyg standartas, kurį privaloma naudoti kiekvienam blogeriui. Tačiau pagalvojau šiek tiek plačiau ir supratau, kad jis man visiškai nereikalingas. Tau greičiausiai taipogi!
 Už deginimą
 Kada FeedBurner naudingas?
@@ -137,7 +137,7 @@ Jeigu esi labai pasišventęs ir nori matuoti savo lankytojų reakcijas. (NB: la
 <p>Ir vistik, kiek žmonių skaito mano blogą žinoti ir stebėti norisi &#8211; net jeigu neketinu šių duomenų skelbti viešai. Sprendimas yra &#8211; Chris Finke sukurtas <a href="http://www.chrisfinke.com/wordpress/plugins/feed-statistics/">Feed Statistics</a> pluginas Wordpressui. Tiesa, jis nėra tobulas &#8211; greičiausiai dėl ne visai teisingo algoritmo, tačiau man ne tiek svarbus klausimas &#8220;kiek žmonių mato mano straipsnių pavadinimus savo readeriuose&#8221;, kiek kitas klausimas &#8211; <strong>kiek žmonių skaito tai ką aš parašau?</strong> Šį klausimą pluginas atsako gana nesunkiai, ir beje pačiu elementariausiu būdu &#8211; paslėptas tracking paveiksliukas. Jis, be abejo, neatsako į klausimus &#8220;ar jie tikrai perskaito&#8221; ir &#8220;ar jie pamatytų (paslėptą) reklamą&#8221;, tačiau jis yra vienintelis man aktualus ir naudingas skaičius.</p>
 <p>Kiekvieno teisė rinktis. Šiuo metu blogeriams, rašantiems &#8220;Lietuvos rinkai&#8221;, FeedBurner tikrai nereikalingas. Aš renkuosi nepirkti (ar neparsiduoti?) FeedBurner teikiamos iliuzijos (produktas, kuris nieko nedaro, bet reikalingas visiems).</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/01/deginti-ar-nedeginti.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/01/deginti-ar-nedeginti.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

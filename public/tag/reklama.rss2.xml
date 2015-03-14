@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; reklama</title>
-	<atom:link href="http://www.d-b.lt/tag/reklama.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/reklama.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Tai vistik &#8211; kuri reklama efektyviausia?</title>
-		<link>http://www.d-b.lt/2009/03/tai-vistik-kuri-reklama-efektyviausia.html</link>
-		<comments>http://www.d-b.lt/2009/03/tai-vistik-kuri-reklama-efektyviausia.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/03/tai-vistik-kuri-reklama-efektyviausia.html</link>
+		<comments>https://www.dominykas.lt/2009/03/tai-vistik-kuri-reklama-efektyviausia.html#comments</comments>
 		<pubDate>Mon, 23 Mar 2009 20:39:09 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Filosofija]]></category>
@@ -29,12 +29,12 @@
 		<category><![CDATA[reklama]]></category>
 		<category><![CDATA[statistika]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2009/03/tai-vistik-kuri-reklama-efektyviausia.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2009/03/tai-vistik-kuri-reklama-efektyviausia.html</guid>
 		<description><![CDATA[Na va &#8211; prašau. Vakar parašiau apie skaičius, o šiandien gaunu Baader-Meinhof.
 Marketer.lt rašo:
 &#60;&#8230;&#62; (DB: vartotojai) daug labiau linkę atkreipti dėmesį (ir atlikti pirkimo sprendimą ar bent ieškoti daugiau informacijos) į produktus, minimus straipsniuose negu kitose reklamos formose
 O štai prieš savaitę Adam Singer interpretavo kito tyrimo duomenis ir pasak jo &#8211; mokamos apžvalgos skamba &#8220;nesąžiningai ir [...]]]></description>
-			<content:encoded><![CDATA[<p>Na va &#8211; prašau. Vakar <a href="http://www.d-b.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html">parašiau apie skaičius</a>, o šiandien gaunu <a href="http://qq.dreamy.ws/blogV2/2008/07/21/baader-meinhof-fenomenas/">Baader-Meinhof</a>.</p>
+			<content:encoded><![CDATA[<p>Na va &#8211; prašau. Vakar <a href="https://www.dominykas.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html">parašiau apie skaičius</a>, o šiandien gaunu <a href="http://qq.dreamy.ws/blogV2/2008/07/21/baader-meinhof-fenomenas/">Baader-Meinhof</a>.</p>
 <p>Marketer.lt rašo:</p>
 <blockquote><p>&lt;&#8230;&gt; (DB: vartotojai) daug labiau linkę atkreipti dėmesį (ir atlikti pirkimo sprendimą ar bent ieškoti daugiau informacijos) į produktus, minimus straipsniuose <a href="http://www.marketer.lt/viesieji-rysiai-straipsniu-poveikis-pirkimams-1201.htm">negu kitose reklamos formose</a></p></blockquote>
 <p>O štai prieš savaitę <a href="http://thefuturebuzz.com/2009/03/15/internet-marketing-tactics/">Adam Singer interpretavo</a> kito tyrimo duomenis ir pasak jo &#8211; mokamos apžvalgos skamba &#8220;nesąžiningai ir nupirktai&#8221;, todėl dažnai gali sukelti neigiamą nuomonę ir jų derėtų vengti.</p>
@@ -44,7 +44,7 @@ O štai prieš savaitę Adam Singer interpretavo kito tyrimo duomenis ir pasak j
 <p>Jeigu šio klausimo/atsakymų rezultatai yra taip toli nuo realybės, tai kiek galima pasitikėti informacija, kai vartotojas teigia, kad mėgsta &#8220;straipsnius, kuriuose minimi produktai&#8221;? Tai tikrai galioja, pavyzdžiui, kinui &#8211; aš irgi pasiskaitau kritikų apžvalgas. Technologijos apžvalgas. Šiuo atveju reikia įvertinti tai, kada tokie straipsniai yra naudingi &#8211; užtikus atsitiktinai ar renkantis <em>kurį</em> produktą pirkti. Tokiu atveju <strong>apsisprendimo klausimas atsiremia į pasitikėjimą autoriumi</strong>, o ne tiesiog &#8220;labai tikėtina, kad aš pasitikėsiu straipsniu apie brendą&#8221;.</p>
 <p>O jei jau paminėjau pasitikėjimą&#8230; Kaip manote, kiek ilgai dar žmonės leisis pudrinami parduotų straipsnių Lietuvoje?.. Straipsnyje apie Adfusion &#8220;tyrimą&#8221; paminėtas ir kitas tyrimas, kuris rodo, kad <em>užtarnauti</em> atsiliepimai žiniasklaidoje yra efektyvesni.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/03/tai-vistik-kuri-reklama-efektyviausia.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/03/tai-vistik-kuri-reklama-efektyviausia.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

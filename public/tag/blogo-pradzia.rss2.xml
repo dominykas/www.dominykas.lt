@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; blogo pradžia</title>
-	<atom:link href="http://www.d-b.lt/tag/blogo-pradzia.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/blogo-pradzia.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Noriu savo struktūros WordPress’e</title>
-		<link>http://www.d-b.lt/2007/12/noriu-savo-strukturos-wordpresse.html</link>
-		<comments>http://www.d-b.lt/2007/12/noriu-savo-strukturos-wordpresse.html#comments</comments>
+		<link>https://www.dominykas.lt/2007/12/noriu-savo-strukturos-wordpresse.html</link>
+		<comments>https://www.dominykas.lt/2007/12/noriu-savo-strukturos-wordpresse.html#comments</comments>
 		<pubDate>Mon, 17 Dec 2007 17:10:46 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -29,11 +29,11 @@
 		<category><![CDATA[url]]></category>
 		<category><![CDATA[wordpress]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-savo-strukturos-wordpress%e2%80%99e.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/noriu-savo-strukturos-wordpress%e2%80%99e.html</guid>
 		<description><![CDATA[Nustok burną aušint, Dominykai, ir duok source&#8217;ą.
 Sugalvojus pricipą, išplėtojus idėją ir apibrėžus taisykles galima žiūrėti dar konkrečiau. Turint omeny mano visus princesiškus įgeidžius, WordPress šiaip jau nėra bloga sistema, nors kodo kiekis skirtas adresų generavimui ir jų apdorojimui yra stulbinantis (ir netgi isteriškai juokingas). Tačiau čia jau jų pačių problema, kylanti iš to, kad siekiama [...]]]></description>
 			<content:encoded><![CDATA[<p><a href="http://code.dominykas.com/php/wordpress/canonizer/">Nustok burną aušint, Dominykai, ir duok <i>source&#8217;ą</i></a>.</p>
-<p>Sugalvojus <a href="http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html">pricipą</a>, išplėtojus <a href="http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html">idėją</a> ir apibrėžus <a href="http://www.d-b.lt/2007/12/noriu-blogo-adresu-strukturos.html">taisykles</a> galima žiūrėti dar konkrečiau. Turint omeny mano visus princesiškus įgeidžius, WordPress šiaip jau nėra bloga sistema, nors kodo kiekis skirtas adresų generavimui ir jų apdorojimui yra stulbinantis (ir netgi isteriškai juokingas). Tačiau čia jau jų pačių problema, kylanti iš to, kad siekiama patenkinti kuo didesnį vartotojų ratą. Tačiau liaudies išmintis teigia ką kitą &#8211; <em>kartais kas tinka viskam &#8211; netinka niekam</em>. Na bent jau man tikrai <strong>netinka masinio vartojimo produktas</strong>, kuris netenkina mano poreikių. Tačiau WP yra atviro kodo ir šiaip jau tiesiog <strong>prašosi laužomas</strong> ir &#8220;pritaikomas&#8221; &#8211; kaina viso to be abejo yra tai, kad ateityje mano &#8220;perrašymai&#8221; gali nebeveikti ir teks prie jų padirbėti sulig kiekvienu WP relyzu, tačiau vieną kartą pasidarius taip kaip aš noriu &#8211; turėčiau būti patenkintas gana ilgai, net su sena WP versija &#8211; don&#8217;t fix it, if it ain&#8217;t broken.</p>
+<p>Sugalvojus <a href="https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.html">pricipą</a>, išplėtojus <a href="https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html">idėją</a> ir apibrėžus <a href="https://www.dominykas.lt/2007/12/noriu-blogo-adresu-strukturos.html">taisykles</a> galima žiūrėti dar konkrečiau. Turint omeny mano visus princesiškus įgeidžius, WordPress šiaip jau nėra bloga sistema, nors kodo kiekis skirtas adresų generavimui ir jų apdorojimui yra stulbinantis (ir netgi isteriškai juokingas). Tačiau čia jau jų pačių problema, kylanti iš to, kad siekiama patenkinti kuo didesnį vartotojų ratą. Tačiau liaudies išmintis teigia ką kitą &#8211; <em>kartais kas tinka viskam &#8211; netinka niekam</em>. Na bent jau man tikrai <strong>netinka masinio vartojimo produktas</strong>, kuris netenkina mano poreikių. Tačiau WP yra atviro kodo ir šiaip jau tiesiog <strong>prašosi laužomas</strong> ir &#8220;pritaikomas&#8221; &#8211; kaina viso to be abejo yra tai, kad ateityje mano &#8220;perrašymai&#8221; gali nebeveikti ir teks prie jų padirbėti sulig kiekvienu WP relyzu, tačiau vieną kartą pasidarius taip kaip aš noriu &#8211; turėčiau būti patenkintas gana ilgai, net su sena WP versija &#8211; don&#8217;t fix it, if it ain&#8217;t broken.</p>
 <h2>Užduotis</h2>
 <p>Mano tikslas yra priversti WP atpažinti adresus, pagal mano struktūrą, priversti jį generuoti adresus pagal mano struktūrą ir priversti jį padaryti 301 redirektą, kai adresas netenkina struktūros. Kadangi nežinau iki galo visų galimybių, kurias naudosiu, be to ir laikas ribotas &#8211; kol kas užteks sutvarkyti šitaip:</p>
 <ul>
@@ -101,13 +101,13 @@ Sugalvojus pricipą, išplėtojus idėją ir apibrėžus taisykles galima žiūr
 <p>Galbūt vieną dieną WP išaugs į padorų OO dizainą. Galbūt vieną dieną visas nuorodų generavimas bus viename faile. Tada bus galima tiesiog pakeisti $wp_rewrite ir pvz. $wp_links objektus į savo parašytus/išplėstus ir nukris dalis vargo (performance&#8217;o atžvilgiu turėtų tikrai būti efektyviau, nei du kartus atlikinėti tą patį darbą). Artimiausias dalykas though &#8211; sutvarkyti į padorią PHP5 objektinę sintaksę (static funkcijos), bei sutvarkyti, kad nuorodų atpažinimo regexpų kešas nebūtų generuojamas kas kartą (<code>$wp_rewrite-&gt;flush_rules();</code>. Vėliau jau bus galima žiūrėti šiek tiek plačiau, kad padengti daugiau WP funkcijų ir pritaikyti didesniam ratui lankytojų. Pirmas žingsnis į išleidimą viešumon, būtų permalink nustatymų pakeitimas, t.y. WP options turėtų būti galima pasirinkti ar naudoti WP permalinkus, ar naudoti šio plugino sistemą &#8211; tada jau tektų kurti ir konfigūracijos opcijas. Jeigu kas nors norite tuo užsiimti &#8211; prašau! Kodo turbūt nerašysiu, bet į klausimus kiek sugebėsiu &#8211; atsakysiu.</p>
 <p>O tęsiant WP hackinimo temą, natūralus posūkis yra link skinų laužymo ir templeitų pritaikymo.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2007/12/noriu-savo-strukturos-wordpresse.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2007/12/noriu-savo-strukturos-wordpresse.rss2.xml</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 		<item>
 		<title>Noriu blog&#8217;o adresų struktūros</title>
-		<link>http://www.d-b.lt/2007/12/noriu-blogo-adresu-strukturos.html</link>
-		<comments>http://www.d-b.lt/2007/12/noriu-blogo-adresu-strukturos.html#comments</comments>
+		<link>https://www.dominykas.lt/2007/12/noriu-blogo-adresu-strukturos.html</link>
+		<comments>https://www.dominykas.lt/2007/12/noriu-blogo-adresu-strukturos.html#comments</comments>
 		<pubDate>Thu, 13 Dec 2007 15:57:44 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -115,11 +115,11 @@ Sugalvojus pricipą, išplėtojus idėją ir apibrėžus taisykles galima žiūr
 		<category><![CDATA[url]]></category>
 		<category><![CDATA[wordpress]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-blogo-adresu-strukturos.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/noriu-blogo-adresu-strukturos.html</guid>
 		<description><![CDATA[Apsisprendus, kas yra geras adresas ir kokias papildomas savybes jis privalo turėti, galima kalbėti konkrečiau apie blog&#8217;o struktūrą. Kadangi WordPress šiuo metu yra bene populiauriasia bloginimo platforma &#8211; modeliuosiu daugiau mažiau pagal jos galimybes. Na galų gale juk ir pats ja naudojuosi. Galbūt laikinai &#8211; kol turėsiu laiko paieškoti ar sukurti geresnį sprendimą.
 Turinio nuorodos
 Atsižvelgiant į [...]]]></description>
-			<content:encoded><![CDATA[<p>Apsisprendus, kas yra <a href="http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html">geras adresas</a> ir kokias <a href="http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html">papildomas savybes</a> jis privalo turėti, galima kalbėti konkrečiau apie blog&#8217;o struktūrą. Kadangi WordPress šiuo metu yra bene populiauriasia bloginimo platforma &#8211; modeliuosiu daugiau mažiau pagal jos galimybes. Na galų gale juk ir pats ja naudojuosi. Galbūt laikinai &#8211; kol turėsiu laiko paieškoti ar sukurti geresnį sprendimą.</p>
+			<content:encoded><![CDATA[<p>Apsisprendus, kas yra <a href="https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.html">geras adresas</a> ir kokias <a href="https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html">papildomas savybes</a> jis privalo turėti, galima kalbėti konkrečiau apie blog&#8217;o struktūrą. Kadangi WordPress šiuo metu yra bene populiauriasia bloginimo platforma &#8211; modeliuosiu daugiau mažiau pagal jos galimybes. Na galų gale juk ir pats ja naudojuosi. Galbūt laikinai &#8211; kol turėsiu laiko paieškoti ar sukurti geresnį sprendimą.</p>
 <h2>Turinio nuorodos</h2>
 <p>Atsižvelgiant į tai, kas yra &#8220;blog&#8217;as&#8221;, manau galima drąsiai pasakyti, kad vienintelis <strong>tikras turinys</strong> jame yra patys <strong>įrašai</strong>. Atsižvelgiant į tai, kad blog&#8217;as yra chronologinis daiktas &#8211; įrašus ir derėtų tvarkyti pagal datą. Šiuo požiūriu sutinku su didžiąja dalimi blog&#8217;erių, kurie taip ir daro. Jeigu įrašus dėlioti į folderius pagal kategoriją &#8211; gausime per ilgus ir nepatogius adresus, bei prarasime blog&#8217;o prasmę laike. Mano įrašai gulės adresu <code>/YYYY/MM/iraso-pavadinimas.html</code></p>
 <p>WordPress turi dar kelis turinio objektų tipus &#8211; tai <i>pages</i> ir <i>attachments</i>. Dėl paprastų puslapių galvos daug sukti turbūt nereikia &#8211; <code>/puslapis.html</code> ir <code>/puslapis/subpuslapis.html</code> bus pakankama ir struktūriška. Dėl prisegtų failų (ir paveiksliukų) šiek tiek teko padvejoti. Prisegtų failų (paveiksliukų) adresas mano nuomone turi parodyti kuriam įrašui priklauso pats failas, tačiau žvelgiant tolyn &#8211; turi būti ir saugiai panaudojamas ateityje. Kadangi neketinu daug tuo naudotis &#8211; manau pasirinksiu paprastą įšeiti, kad virtualiai jie gulėtų <code>/attachments/</code> direktorijoje, su subfolderiais pagal datą. ImageShack ir panašiomis tarnybomis neketinu naudotis &#8211; mano turinys, mano kontrolė, o srauto ir apkrovimo problemas galima išspręsti kitais būdais. Ir šiaip &#8211; artimu metu neplanuoju patirti Slashdot efekto ;)</p>
@@ -127,7 +127,7 @@ Atsižvelgiant į [...]]]></description>
 <p>WordPress suteikia gana daug įvairių turinio pjūvių. Ar jų visų tikrai reikia? Kiek iš jų galima atsisakyti ir palikti &#8220;dinamiškai paieškai&#8221;? Kiekvieno blog&#8217;o specifika matyt pateiktų savo atsakymus. Mano asmeniniam blog&#8217;ui toli gražu nereikalingas filtravimas pagal autorių &#8211; taigi ir pastovios nuorodos į jį nebus. Pastovias rodykles norėčiau turėti tik metams, mėnesiams, kategorijoms ir tagams.</p>
 <p>Metų rodyklė kuo puikiausiai telpa <code>/YYYY/</code>, analogiškai ir mėnesinė. Kategorijos ir tag&#8217;ai turėtų atsirasti <code>/categories/pavadinimas.html</code> puslapyje, kuriame būtų rodomi keli paskutiniai įrašai, o toliau <code>/categories/pavadinimas.YYYYMM.html</code> leistų naršymą/puslapiavimą laike. Visos <strong>kitos pjūvių kombinacijos</strong> turėtų keliauti į paiešką ir <strong>nepakliūti paieškoms robotams</strong>.</p>
 <h2>Failų išplėtimai, feed&#8217;ai ir viskas</h2>
-<p style="text-align:center;"><a href='http://www.d-b.lt/attachments/2007/12/url-struktura-blogo-irasams.html' rel='attachment wp-att-9' title='URL struktūra blog’o įrašams'><img src='http://www.d-b.lt/uploads/2007/12/structure.png' alt='URL struktūra blog’o įrašams' border=0/></a></p>
+<p style="text-align:center;"><a href='https://www.dominykas.lt/attachments/2007/12/url-struktura-blogo-irasams.html' rel='attachment wp-att-9' title='URL struktūra blog’o įrašams'><img src='https://www.dominykas.lt/uploads/2007/12/structure.png' alt='URL struktūra blog’o įrašams' border=0/></a></p>
 <p>WordPress idėja naudoti <code>/feed/</code> ir <code>/feed/atom/</code> priedėlius prie bet kokio adreso mane tiesą pasakius vimdo. Negražu man taip. Juk feed&#8217;as &#8211; tai tas pats <strong>turinys, tik kita forma</strong>. Todėl visur kur aukščiau paminėjau <code>.html</code> reikėtų galimybės tiesiog pakeisti į <code>.rss.xml</code> &#8211; ir problema išspręsta. Analogiškai ir su trackback adresu (kuris beje turėtų vėlgi nerūpėti paieškos robotams) &#8211; tiesiog pakeičiam <code>.html</code> į <code>.trackback</code> prie įrašų (ir kitų <i>komentuoj-abilių</i> objektų).</p>
 <p>Tiek to džiaugsmo, tiek tų problemų. Beje, jau susidėliojęs visą logiką sau, pastebėjau, kad labai panašų principą naudoja <a href="http://www.blogger.com/">Blogger</a> &#8211; o Google žino ką daro. Toliau: suformuluojam galutinę užduotį ir rašom WordPress pluginą, kad pasiekti šiuos tikslus.</p>
 <h2>Papildomam skaitymui</h2>
@@ -140,13 +140,13 @@ Atsižvelgiant į [...]]]></description>
 <li><a href="http://en.wikipedia.org/wiki/Extensible_Resource_Identifier">Extensible Resource Identifier</a>, Wikipedia. Nauja URI karta. Tiuzyro, tskant.</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2007/12/noriu-blogo-adresu-strukturos.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2007/12/noriu-blogo-adresu-strukturos.rss2.xml</wfw:commentRss>
 		<slash:comments>3</slash:comments>
 		</item>
 		<item>
 		<title>Noriu pastovios adresų ir turinio struktūros</title>
-		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</link>
-		<comments>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comments</comments>
+		<link>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</link>
+		<comments>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comments</comments>
 		<pubDate>Mon, 10 Dec 2007 21:34:36 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -156,10 +156,10 @@ Atsižvelgiant į [...]]]></description>
 		<category><![CDATA[seo]]></category>
 		<category><![CDATA[url]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</guid>
 		<description><![CDATA[Praėjusiame įraše privėliau filosofijos apie URL prasmę iš web skaitytojo pozicijos. Senamadiško, techniško ir well&#8230; geekiško web skaitytojo pozicijos &#8211; iš esmės tai, ko aš tikiuosi iš adresų, kuriuos &#8220;sukuria&#8221; kiti. Šiame įraše dar keletas pastabų, kurių nedera pamiršti tinklapio administratoriui.
 Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją reikės keisti. Štai WP nėra [...]]]></description>
-			<content:encoded><![CDATA[<p><a href="http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html">Praėjusiame įraše</a> privėliau filosofijos apie URL prasmę iš web skaitytojo pozicijos. Senamadiško, techniško ir <i>well</i>&#8230; geekiško web skaitytojo pozicijos &#8211; iš esmės tai, ko aš tikiuosi iš adresų, kuriuos &#8220;sukuria&#8221; kiti. Šiame įraše dar keletas pastabų, kurių nedera pamiršti tinklapio administratoriui.</p>
+			<content:encoded><![CDATA[<p><a href="https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.html">Praėjusiame įraše</a> privėliau filosofijos apie URL prasmę iš web skaitytojo pozicijos. Senamadiško, techniško ir <i>well</i>&#8230; geekiško web skaitytojo pozicijos &#8211; iš esmės tai, ko aš tikiuosi iš adresų, kuriuos &#8220;sukuria&#8221; kiti. Šiame įraše dar keletas pastabų, kurių nedera pamiršti tinklapio administratoriui.</p>
 <p>Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją <strong>reikės keisti</strong>. Štai WP nėra pritaikytas PHP5 &#8211; ką jau bekalbėti apie PHP6, be to laikas nuo laiko išeina naujos jo versijos. Ir apskritai soft&#8217;as nėra amžinas &#8211; jo keitimas yra tiesiog garantuotas ilgalaikiu laikotarpiu. Tuo tarpu renkantis svetainės struktūrą reikėtų atsiminti, kad jos keitimas gali brangiai kainuoti. Renkantis adresų struktūrą visų svarbiausia įsidėmėti, kad jos keitimas užtruks ilgą laiką &#8211; tokio pragaro nelinkiu niekam.</p>
 <h2>Robotams ir vartotojams</h2>
 <p>Pirma adreso taisyklė SEO (einanti po nulinės &#8220;prikišk daug keywordų&#8221;) &#8211; jis neturėtų keistis ir idealiame pasaulyje turėtų būti amžinas. Jeigu jis pasikeitė &#8211; be abejo galima sudėlioti teisingus HTTP redirektus (301 Moved Permanently į naują adresą, vėliau laikui bėgant pakeisti į 410 Gone). Tačiau net su redirektais, adreso keitimas užsitraukia paieškos robotų nemalonę. Pavyzdys iš realybės: dar dabar kai kurie paieškos varikliai yra sucache&#8217;inę seno mano darbovietės puslapio variantą su ASP adresais ir nenori jo užmiršti. Keitimas įvyko prieš 2 metus. </p>
@@ -170,13 +170,13 @@ Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją reikės 
 <p>Paprasto sprendimo šiai problemai nėra, tačiau tiek kategorijos, tiek archyvai blog&#8217;e tėra rodyklės (<i>turinys, index, sugalvok savo žodį</i>) &#8211; todėl jie ir turėtų elgtis kaip tokie. Kadangi blog&#8217;as pagal savo <i>definitioną</i> yra chronologinis dalykas, manau, kad vienas iš mažiausiai kenksmingų variantų būtų rodyti kategorijos (tago) puslapyje kelis paskutinius įrašus, o toliau leisti browsinti pagal datą &#8211; jeigu kategorija (ar visas blogas) ganėtinai aktyvus &#8211; rodyti sakykim mėnesio įrašus, jeigu mažiau aktyvus &#8211; rodyti visus metų įrašus, taip atsikratant puslapiavimo poreikio, o tuo pačiu &#8211; niekam tikusių puslapiuotų adresų.</p>
 <p>Adreso bei turinio pastovumas ir &#8220;patikimas&#8221; buvo dvi esminės problemos, kurios mane ilgiausiai stabdė paleidžiant savo blog&#8217;ą &#8211; norėjosi skirti pakankamai laiko apmąstymams ir šiaip dėsningumų įvertinimui tam, kad nesigailėčiau tada kai pradėsiu pasitikėti <a href="http://habariproject.org/">Habari</a>. Artimiausiame įraše &#8211; mano apsisprendimas dėl struktūros.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.rss2.xml</wfw:commentRss>
 		<slash:comments>6</slash:comments>
 		</item>
 		<item>
 		<title>Noriu padorios adresų struktūros</title>
-		<link>http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html</link>
-		<comments>http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html#comments</comments>
+		<link>https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.html</link>
+		<comments>https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.html#comments</comments>
 		<pubDate>Fri, 07 Dec 2007 07:40:03 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -186,7 +186,7 @@ Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją reikės 
 		<category><![CDATA[semantiškas tinklas]]></category>
 		<category><![CDATA[url]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.html</guid>
 		<description><![CDATA[Renkantis bet kokią web turinio valdymo sistemą vienas iš pagrindinių klausimų yra jos pritaikomumas SEO. Kaip žinia, gana svarbus to faktorius yra URL optimizacija. Kas yra optimalus URL galima diskutuoti daug, tačiau mano asmeniniai kriterijai yra šie:
 
 URL, kaip failų sistemos atspindys, reiškia failą
@@ -226,7 +226,7 @@ Kaip jau minėjau aukščiau, atsiradus dinamiškam turiniui tinkle, šiek tiek 
 </p>
 <p>Šiame įraše paminėjau tik esminius meta reikalavimus URL struktūrai &#8211; tačiau vien to geram adresui negana. Turint plačias galimybes, galima nesunkiai viską sugadinti, o be to žvelgiant iš SEO perspektyvos &#8211; yra ir keletas papildomų reikalavimų, kuriuos dera apžvelgti atskirai.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.rss2.xml</wfw:commentRss>
 		<slash:comments>5</slash:comments>
 		</item>
 	</channel>

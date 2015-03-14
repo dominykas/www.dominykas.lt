@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; rss</title>
-	<atom:link href="http://www.d-b.lt/tag/rss.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/rss.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Rodom pilną tekstą feeduose!</title>
-		<link>http://www.d-b.lt/2007/12/rodom-pilna-teksta-feeduose.html</link>
-		<comments>http://www.d-b.lt/2007/12/rodom-pilna-teksta-feeduose.html#comments</comments>
+		<link>https://www.dominykas.lt/2007/12/rodom-pilna-teksta-feeduose.html</link>
+		<comments>https://www.dominykas.lt/2007/12/rodom-pilna-teksta-feeduose.html#comments</comments>
 		<pubDate>Wed, 12 Dec 2007 16:27:10 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Blogosfera]]></category>
@@ -29,11 +29,11 @@
 		<category><![CDATA[trumpai]]></category>
 		<category><![CDATA[wordpress]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/rodom-pilna-teksta-feeduose.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/rodom-pilna-teksta-feeduose.html</guid>
 		<description><![CDATA[qemm prieš porą dienų pasiskundė, kad pyksta ant Dėdės Protingo Blogerio, už tai, kad RSS nerodo pilnų straipsnių. qemm&#8217;as yra visiškai teisus dėl to, kad ansubskraibino jo feedą. O WordPress yra visiškai niekam tikęs, kad nebeturi opcijos pagal defaultą rodyti pilną straipsnį feed&#8217;e tada, kai naudojama žyma &#60;--more--&#62;. Naudojam more, naudojam Full Text Feed pluginą, [...]]]></description>
 			<content:encoded><![CDATA[<p><a href="http://www.blogas.lt/qemm/">qemm</a> prieš porą dienų pasiskundė, kad pyksta ant Dėdės Protingo Blogerio, už tai, kad <a href="http://blogas.lt/qemm/320342/vakaras-degurizacija.html">RSS nerodo pilnų straipsnių</a>. qemm&#8217;as yra visiškai teisus dėl to, kad ansubskraibino jo feedą. O WordPress yra visiškai niekam tikęs, kad nebeturi opcijos pagal defaultą rodyti pilną straipsnį feed&#8217;e tada, kai naudojama žyma <code>&lt;--more--&gt;</code>. <strong>Naudojam <i>more</i></strong>, naudojam <a href="http://cavemonkey50.com/code/full-feed/">Full Text Feed</a> pluginą, paieškose ir kategorijose rodoma įžanga, skaitytojai džiaugiasi, <a href="http://techdirt.com/articles/20070813/014338.shtml">gerai 1</a>, <a href="http://scobleizer.com/2006/02/22/blog-herald-doesnt-understand-why-full-text-feeds-work/">gerai 2</a>, <a href="http://www.tmarkiewicz.com/?p=402">gerai 3</a>, <a href="http://muhammadsaleem.com/2007/09/18/do-you-offer-a-full-text-feed-then-advertise-it/">gerai 4</a>&#8230; Lietuvai neaktualių diskusijų apie pelną be abejo galima pasiskaityti, bet auksinė taisyklė yra &#8220;daryk, kad būtų gerai vartotojui, o pelnas ateis savaime&#8221; &#8211; ar yra vartotojų, kuriems būtų patogiau gauti tik dalį teksto feed&#8217;e?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2007/12/rodom-pilna-teksta-feeduose.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2007/12/rodom-pilna-teksta-feeduose.rss2.xml</wfw:commentRss>
 		<slash:comments>3</slash:comments>
 		</item>
 	</channel>

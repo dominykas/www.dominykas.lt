@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; simplicity</title>
-	<atom:link href="http://www.d-b.lt/tag/simplicity.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/simplicity.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Scott Jenson &#8211; The Simplicity Shift</title>
-		<link>http://www.d-b.lt/2007/12/scott-jenson-the-simplicity-shift.html</link>
-		<comments>http://www.d-b.lt/2007/12/scott-jenson-the-simplicity-shift.html#comments</comments>
+		<link>https://www.dominykas.lt/2007/12/scott-jenson-the-simplicity-shift.html</link>
+		<comments>https://www.dominykas.lt/2007/12/scott-jenson-the-simplicity-shift.html#comments</comments>
 		<pubDate>Wed, 19 Dec 2007 18:48:16 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Knygos]]></category>
@@ -30,7 +30,7 @@
 		<category><![CDATA[simplicity]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/scott-jenson-the-simplicity-shift.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/scott-jenson-the-simplicity-shift.html</guid>
 		<description><![CDATA[Kalėdų Šefelis buvo labai geras ir atnešė man kalną įdomių knygų apie usability, programavimą, webą, analyticsus, SEO ir visokius kitokius dalykus, kurių aš net nemoku ištarti. Bet išmoksiu! Kadangi amazonės kažkodėl nusprendė atsiųsti viską per dvi siuntas &#8211; pirmoji knyga nebuvo ta, kurią skaityčiau pirmą, bet koks skirtumas &#8211; perskaičiau Scott Jenson &#8220;The Simplicity Shift: [...]]]></description>
 			<content:encoded><![CDATA[<p>Kalėdų Šefelis buvo labai geras ir atnešė man kalną įdomių knygų apie <i>usability</i>, programavimą, <i>webą</i>, <i>analyticsus</i>, SEO ir visokius kitokius dalykus, kurių aš net nemoku ištarti. Bet išmoksiu! Kadangi <a href="http://www.amazon.com/">amazonės</a> kažkodėl nusprendė atsiųsti viską per dvi siuntas &#8211; pirmoji knyga nebuvo ta, kurią skaityčiau pirmą, bet koks skirtumas &#8211; perskaičiau <em>Scott Jenson &#8220;The Simplicity Shift: Innovative Design Tactics in a Corporate World&#8221;</em> (pavadinimo ilgumas prieštarauja knygos idėjai, bet ką jau čia&#8230;)</p>
 <p><em>(<a href="/2007/12/scott-jenson-the-simplicity-shift.html#ar-verta-20071219">Ar verta skaityti?</a>)</em> <i>Overall</i> &#8211; labai gera knyga atvėrusi man akis kai kuriais klausimais. Tokiais, kurių anksčiau tiesiog nesugebėjau žodžiais apibūdinti.</p>
@@ -48,7 +48,7 @@
 <h2 id="ar-verta-20071219">Ar verta skaityti?</h2>
 <p>Kaip ten bebūtų &#8211; jeigu nei jūs, nei jūsų vadovas dar neesate įsitikinę, kad <strong>dėl <i>usability</i> verta stengtis</strong>, kišti į tai resursus &#8211; neimkite šios knygos į rankas. Kol kas. Galutinis įvertinimas: <strong>ypatingai verta skaitymo</strong> &#8211; tačiau svarbiausia nepamiršti sveiko proto ir analizės. Aklas tikėjimas prie gero nepriveda.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2007/12/scott-jenson-the-simplicity-shift.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2007/12/scott-jenson-the-simplicity-shift.rss2.xml</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>

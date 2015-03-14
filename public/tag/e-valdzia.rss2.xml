@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; e-valdžia</title>
-	<atom:link href="http://www.d-b.lt/tag/e-valdzia.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/e-valdzia.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>robots.txt mitai ir neteisingas naudojimas</title>
-		<link>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html</link>
-		<comments>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html#comments</comments>
+		<link>https://www.dominykas.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html</link>
+		<comments>https://www.dominykas.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html#comments</comments>
 		<pubDate>Mon, 04 Feb 2013 20:05:08 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -31,12 +31,12 @@
 		<category><![CDATA[seo]]></category>
 		<category><![CDATA[užknisantys dalykai internete]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=426</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=426</guid>
 		<description><![CDATA[Anądien pliuse išsiliejau apie tai, kad dėl neaiškių priežasčių paieškos [ir kitokiems] robotams pusė Seimo svetainės yra &#8220;uždraustas turinys&#8221;. To rezultatas labai paprastas &#8211; ieškant, pvz., &#8220;PVM įstatymas&#8221; rezultatuose pirmu numeriu yra nuoroda į būtent tą įstatymą, tačiau nepateikiamas puslapio pavadinimas irba santrauka:
- 
+
 Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &#8211; pastebėjau [...]]]></description>
 			<content:encoded><![CDATA[<p>Anądien <a href="https://plus.google.com/100293756761145273349/posts/BAaQjp2bjns">pliuse išsiliejau</a> apie tai, kad dėl neaiškių priežasčių paieškos [ir kitokiems] robotams pusė Seimo svetainės yra &#8220;uždraustas turinys&#8221;. To rezultatas labai paprastas &#8211; ieškant, pvz., &#8220;PVM įstatymas&#8221; rezultatuose pirmu numeriu yra nuoroda į būtent tą įstatymą, tačiau nepateikiamas puslapio pavadinimas irba santrauka:</p>
-<p style="text-align:center;"><a href="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-google.png"><img src="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-google-300x217.png" alt="" title="Google paieškos rezultatas" width="250" class="aligncenter size-medium wp-image-428" /></a> <a href="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-bing.png"><img src="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-bing-300x173.png" alt="" title="Bing paieškos rezultatas" width="250" /></a></p>
+<p style="text-align:center;"><a href="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-google.png"><img src="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-google-300x217.png" alt="" title="Google paieškos rezultatas" width="250" class="aligncenter size-medium wp-image-428" /></a> <a href="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-bing.png"><img src="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-bing-300x173.png" alt="" title="Bing paieškos rezultatas" width="250" /></a></p>
 <p>Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &#8211; pastebėjau keistų dėsningumų. Kaip ir kas kartą, kai <del>rašau</del> mąstau apie SEO, viskas susiveda į keletą paprastų taisyklių, kurių pati svarbiausia yra &#8220;Daryk taip, kad būtų gerai vartotojams, o robotai atsirinks viską taip, kaip reikia&#8221;.</p>
 <h3>Mitas: robots.txt padės paslėpti nepageidaujamus puslapius</h3>
 <p>Realybė: jeigu kažkokia informacija neturi būti vieša, nedėk jos į internetą. Paprasta kaip du kart du. Jeigu kažkoks puslapis egzistuoja kažkokioje iš išorės prieinamoje svetainėje &#8211; informacija yra prieinama visiems. Jeigu yra bent viena nuoroda į tą turinį &#8211; paieškos robotai suindeksuos vien patį nuorodos egzistavimo faktą ir iš to padarys išvadas. Jeigu nuorodų į tą turinį yra daug, tai tas puslapis netgi bus rodomas pirmu rezultatu paieškoje, lygiai taip, kaip matosi iš aukščiau pateikto pavyzdžio apie PVM įstatymą.</p>
@@ -70,7 +70,7 @@ Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &
 </ul>
 <p>Pabaigai &#8211; jeigu LRS atveju, įtariu, blokavimas atsirado netyčia, greičiausiai dėl sistemų perkonfigūravimo ar atnaujinimo, tai, pvz., <a href="http://www.vlkk.lt/robots.txt">VLKK</a> ar <a href="http://www.lkpt.lt/robots.txt">kelių policijos</a> atvejai mane verčia rautis plaukus &#8211; kodėl svetainės užblokuotos <em>visiškai</em>?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

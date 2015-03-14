@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; accessibility</title>
-	<atom:link href="http://www.d-b.lt/tag/accessibility.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/accessibility.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Užrašai iš FullFrontal 2009</title>
-		<link>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.html</link>
-		<comments>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/11/uzrasai-is-fullfrontal-2009.html</link>
+		<comments>https://www.dominykas.lt/2009/11/uzrasai-is-fullfrontal-2009.html#comments</comments>
 		<pubDate>Sat, 28 Nov 2009 21:46:42 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -30,7 +30,7 @@
 		<category><![CDATA[javascript]]></category>
 		<category><![CDATA[standartai]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=193</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=193</guid>
 		<description><![CDATA[Prėjusį penktadienį Brighton&#8217;e vyko FullFrontal 2009 JavaScript konferencija, kurioje turėjau progą apsilankyti. Tikrai nenusivyliau!
 Šiame blogo įraše susidėjau tai, ką pasižymėjau pats sau beklausydamas kalbėtojų. Pačių kalbų tikrai neketinu aprašinėti &#8211; tai puikiai padarė Ajaxian (nuorodas pateikiu), o skaidrės taipogi prieinamos viešai.
 Jeigu kažkuris punktas sudomino &#8211; palikit komentarą &#8211; išplėsiu!
@@ -127,20 +127,20 @@ Christian Heilmann &#8211; Frontloaded and zipped up [...]]]></description>
 <li><a href="http://nodejs.org/">NodeJS</a> ir <a href="http://couchdb.apache.org/">CouchDB</a> yra labai labai <i>seksi</i>! Kiekvienas turėtų pasidomėti kaip jie veikia, kaip optimizuoja procesus ir kokiais principais yra paremti!</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/11/uzrasai-is-fullfrontal-2009.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/11/uzrasai-is-fullfrontal-2009.rss2.xml</wfw:commentRss>
 		<slash:comments>8</slash:comments>
 <enclosure url="http://www.archive.org/download/FrontloadedAndZippedUp-FullFrontalJavascriptConference2009/FrontloadedAndZippedUp-FullFrontalConference2009.mp3" length="40572024" type="audio/mpeg" />
 		</item>
 		<item>
 		<title>Prieinamos svetainės žmonėms BE negalių</title>
-		<link>http://www.d-b.lt/2009/02/prieinamos-svetaines-zmonems-be-negaliu.html</link>
-		<comments>http://www.d-b.lt/2009/02/prieinamos-svetaines-zmonems-be-negaliu.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/02/prieinamos-svetaines-zmonems-be-negaliu.html</link>
+		<comments>https://www.dominykas.lt/2009/02/prieinamos-svetaines-zmonems-be-negaliu.html#comments</comments>
 		<pubDate>Tue, 17 Feb 2009 02:20:30 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Usability]]></category>
 		<category><![CDATA[accessibility]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2009/02/prieinamos-svetaines-zmonems-be-negaliu.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2009/02/prieinamos-svetaines-zmonems-be-negaliu.html</guid>
 		<description><![CDATA[Prieš porą savaičių WebAIM paskelbė ekrano &#8220;skaityklių&#8221; naudotojų apklausos rezultatus. Nepaisant to, kad man ganėtinai keistai skamba kai kurių klausimų, o ypač atsakymų variantų formuluotės, pats tyrimas&#8230; neatskleidė nieko naujo ar išskirtinio tarp interneto naudojų su negalia.
 Ką sako screenreader&#8217;ių naudotojai?
 Žiūriu vien į skaičius, ir beveik neinterpretuoju jų prasmės:
@@ -164,7 +164,7 @@ Apie trečdalis teigia esą arba ekspertai, arba pradinukai [...]]]></descriptio
 <h2>O kaip elgiasi &#8220;normalūs&#8221; žmonės?</h2>
 <p>Dabar man kas nors atsakykite &#8211; kuo gi tie neįgalieji taip skiriasi nuo eilinių interneto vartotojų? Štai jums 7 nemokami interneto svetainių kūrimo patarimai:</p>
 <ul>
-<li>Internete veikia du principai: <strong>turinys yra karalius, o <a href="http://www.d-b.lt/2008/01/steve-krug-dont-make-me-think.html">žmonės ieško kur paspausti</a></strong>, kad pereiti toliau, kas privestų prie geresnio karališko turinio. Neįgalieji elgiasi lygiai taip pat.</li>
+<li>Internete veikia du principai: <strong>turinys yra karalius, o <a href="https://www.dominykas.lt/2008/01/steve-krug-dont-make-me-think.html">žmonės ieško kur paspausti</a></strong>, kad pereiti toliau, kas privestų prie geresnio karališko turinio. Neįgalieji elgiasi lygiai taip pat.</li>
 <li>Rašant tiek komercinės svetainės tekstą, tiek blogą, tiek referatą universitete, vienas pirmųjų duodamų patarimų yra netuščiažodžiauti: &#8220;<strong>tegul teksto būna nedaug, ir tegul jis būna gražiai suskaidytas</strong>&#8220;. Jeigu screenreader&#8217;io naudotojas antraštes pritaiko &#8220;šokinėjimui&#8221; tarp teksto dalių, tai lygiai taip pat eilinis vartotojas &#8220;šokinėja&#8221; tarp jų <a href="http://www.useit.com/alertbox/9710a.html">skanuodamas svetainės tekstą</a>.</li>
 <li>Raktažodžiais paremta vertikali paieška duoda puikius rezultatus ir yra greitesnis naršymo būdas. Iš dalis dėl to, kad per mažai tiek didelių, tiek mažų svetainių pamąsto apie elementarią informacijos architektūrą. Jei kalbame apie usability &#8211; interfeisas neturi atspindėti vidinio sistemos veikimo, o <strong>informacija turi būti išdėstyta pagal tai, <a href="http://www.useit.com/alertbox/20040719.html">kaip ją įsivaizduoja vartotojai</a></strong>, o ne pagal taip, kaip direktorius ją susidėlioja ant savo stalo. Tada ir svetainės žemėlapis bus naudingas eiliniam vartotojui.</li>
 <li>Eiliniai interneto vartotojai <i>popup&#8217;ų</i> nemėgsta lygiai taip pat kaip ir neįgalieji.</li>
@@ -184,7 +184,7 @@ Apie trečdalis teigia esą arba ekspertai, arba pradinukai [...]]]></descriptio
 <h2>Kas yra <i>accessibility</i>?</h2>
 <p>Man dažnai yra sunku suvokti, kai žmonės kalba apie <dfn title="Prieinamumas">accessibility</dfn> kaip apie dalyką, kurį <em>reikia</em> daryti tam, kad svetainė būtų pritaikyta žmonėms su negalia. Tai yra didžiausias melas, o taipogi tai negalioja visame pasaulyje. Gal kas galite man pasiūlyti programinę įrangą, kuri gražiai skaitytų lietuvių kalba sukurtas svetaines? Juk <strong>žemagrindžiai autobusai yra gerai ne todėl, kad į juos lengva įvažiuoti su invalido vežimėliu</strong>, o todėl, kad net <em>tau</em> į juos įlipti yra lengviau, nes nereikia aukštai kelti kojų! Tai, kas yra lengvai naudojama tada, kai neturi visų fizinių priemonių, yra dar lengviau naudojama tada kai jas turi &#8211; nuo to ir reikia pradėti kurti tiek interneto svetaines, tiek visus kitus produktus.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/02/prieinamos-svetaines-zmonems-be-negaliu.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/02/prieinamos-svetaines-zmonems-be-negaliu.rss2.xml</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>

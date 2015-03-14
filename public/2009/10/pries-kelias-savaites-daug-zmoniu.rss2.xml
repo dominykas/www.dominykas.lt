@@ -6,8 +6,8 @@
 		>
 <channel>
 	<title>Comments on: Prieš kelias savaites daug žmonių</title>
-	<atom:link href="http://www.d-b.lt/2009/10/pries-kelias-savaites-daug-zmoniu.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt/2009/10/pries-kelias-savaites-daug-zmoniu.html</link>
+	<atom:link href="https://www.dominykas.lt/2009/10/pries-kelias-savaites-daug-zmoniu.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt/2009/10/pries-kelias-savaites-daug-zmoniu.html</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Sun, 18 Nov 2012 23:44:11 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -15,10 +15,10 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 		<item>
 		<title>By: Donatas</title>
-		<link>http://www.d-b.lt/2009/10/pries-kelias-savaites-daug-zmoniu.html/comment-page-1#comment-5388</link>
+		<link>https://www.dominykas.lt/2009/10/pries-kelias-savaites-daug-zmoniu.html/comment-page-1#comment-5388</link>
 		<dc:creator>Donatas</dc:creator>
 		<pubDate>Thu, 01 Oct 2009 20:59:28 +0000</pubDate>
-		<guid isPermaLink="false">http://www.d-b.lt/?p=187#comment-5388</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=187#comment-5388</guid>
 		<description>Jo... Rimtas sakinys :)</description>
 		<content:encoded><![CDATA[<p>Jo&#8230; Rimtas sakinys :)</p>
 ]]></content:encoded>

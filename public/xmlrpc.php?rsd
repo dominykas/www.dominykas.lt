@@ -2,13 +2,13 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>http://wordpress.org/</engineLink>
-    <homePageLink>http://www.d-b.lt</homePageLink>
+    <homePageLink>https://www.dominykas.lt</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="http://www.d-b.lt/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://www.d-b.lt/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://www.d-b.lt/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="http://www.d-b.lt/xmlrpc.php" />
-      <api name="Atom" blogID="" preferred="false" apiLink="http://www.d-b.lt/wp-app.php/service" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="https://www.dominykas.lt/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="https://www.dominykas.lt/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://www.dominykas.lt/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="https://www.dominykas.lt/xmlrpc.php" />
+      <api name="Atom" blogID="" preferred="false" apiLink="https://www.dominykas.lt/wp-app.php/service" />
     </apis>
   </service>
 </rsd>

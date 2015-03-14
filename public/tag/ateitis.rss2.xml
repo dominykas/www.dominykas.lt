@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; ateitis</title>
-	<atom:link href="http://www.d-b.lt/tag/ateitis.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/ateitis.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Kontrolės inversija socialiniame semantiniame tinkle</title>
-		<link>http://www.d-b.lt/2008/11/kontroles-inversija-socialiniame-semantiniame-tinkle.html</link>
-		<comments>http://www.d-b.lt/2008/11/kontroles-inversija-socialiniame-semantiniame-tinkle.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/11/kontroles-inversija-socialiniame-semantiniame-tinkle.html</link>
+		<comments>https://www.dominykas.lt/2008/11/kontroles-inversija-socialiniame-semantiniame-tinkle.html#comments</comments>
 		<pubDate>Mon, 17 Nov 2008 21:59:53 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Filosofija]]></category>
@@ -29,7 +29,7 @@
 		<category><![CDATA[idėjos]]></category>
 		<category><![CDATA[semantinis tinklas]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/11/kontroles-inversija-socialiniame-semantiniame-tinkle.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/11/kontroles-inversija-socialiniame-semantiniame-tinkle.html</guid>
 		<description><![CDATA[Ilgas laikas nėra rašymas. Statistika: pradėjau šį įrašą prieš gerus keturis mėnesius (ša, žinau, kad kitą pradėjau prieš beveik metus), todėl gavosi kiek per ilgas&#8230; Pradžia &#8211; ganėtinai techniška ir apie programavimą, bet pats įrašas iš tikro tėra apie idėją ir svajonę. Kodėl įvairiose svetainėse turiu registruotis aš, o ne svetainės registruojasi pas mane? Neaušink [...]]]></description>
 			<content:encoded><![CDATA[<p>Ilgas laikas nėra rašymas. Statistika: pradėjau šį įrašą prieš gerus keturis mėnesius (ša, žinau, kad kitą pradėjau prieš beveik metus), todėl gavosi kiek per ilgas&#8230; Pradžia &#8211; ganėtinai techniška ir apie programavimą, bet pats įrašas iš tikro tėra apie idėją ir svajonę. <strong>Kodėl įvairiose svetainėse turiu registruotis aš, o ne svetainės registruojasi pas mane?</strong> <em>Neaušink burnos, man neįdomu &#8211; <a href="/2008/11/kontroles-inversija-socialiniame-semantiniame-tinkle.html#20081117-santrauka">duok santrauką</a>.</em></p>
 <h2>Kontrolės inversija</h2>
@@ -76,7 +76,7 @@
 </ul>
 <p>PS žmogau, kuris viename socialiniame tinkle teigia, kad jo vardas ir pavardė yra lygiai tokie patys kaip mano &#8211; pakviesk mane alaus. Apverčiau kontrolę &#8211; buvo nulis, liko nulis.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/11/kontroles-inversija-socialiniame-semantiniame-tinkle.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/11/kontroles-inversija-socialiniame-semantiniame-tinkle.rss2.xml</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 	</channel>

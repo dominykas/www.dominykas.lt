@@ -6,8 +6,8 @@
 		>
 <channel>
 	<title>Comments on: Noriu pastovios adresų ir turinio struktūros</title>
-	<atom:link href="http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</link>
+	<atom:link href="https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Sun, 18 Nov 2012 23:44:11 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -15,20 +15,20 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 		<item>
 		<title>By: &#187; Noriu savo struktūros WordPress’e - Kaip tapti ekspertu?</title>
-		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-28</link>
+		<link>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-28</link>
 		<dc:creator>&#187; Noriu savo struktūros WordPress’e - Kaip tapti ekspertu?</dc:creator>
 		<pubDate>Mon, 17 Dec 2007 17:14:55 +0000</pubDate>
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-28</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-28</guid>
 		<description>[...] pricipą, išplėtojus idėją ir apibrėžus taisykles galima žiūrėti dar konkrečiau. Turint omeny mano visus princesiškus [...]</description>
 		<content:encoded><![CDATA[<p>[...] pricipą, išplėtojus idėją ir apibrėžus taisykles galima žiūrėti dar konkrečiau. Turint omeny mano visus princesiškus [...]</p>
 ]]></content:encoded>
 	</item>
 	<item>
 		<title>By: Dominykas</title>
-		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-13</link>
+		<link>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-13</link>
 		<dc:creator>Dominykas</dc:creator>
 		<pubDate>Tue, 11 Dec 2007 12:59:41 +0000</pubDate>
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-13</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-13</guid>
 		<description>Vaidai, dėl naršymo ir rodymo - iš vienos pusės tu teisus, nes &quot;more&quot; nevisi naudoja. Bet kita vertus tai aš &quot;more&quot; pats nenorėjau naudoti nes a) nukerta feed&#039;us b) nukerta post&#039;ą frontpage. Bet va pasidariau truputį pahakinęs maždaug taip kaip noriu ;) Plačiau vėliau :)
 
 Asterisk: norėjau būtent tai ir pasakyti. Jis veikia po PHP5 - pats naudoju taip, bet jis nėra pritaikytas PHP5. Atsidarom &lt;code&gt;wp-settings.php&lt;/code&gt;, užkomentuojam &lt;code&gt;error_reporting&lt;/code&gt; (99 eilutė). Tada į &lt;code&gt;.htaccess&lt;/code&gt; įrašom &lt;pre&gt;
@@ -55,20 +55,20 @@ php_flag display_startup_errors on
 	</item>
 	<item>
 		<title>By: Vaidas Žilionis</title>
-		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-12</link>
+		<link>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-12</link>
 		<dc:creator>Vaidas Žilionis</dc:creator>
 		<pubDate>Tue, 11 Dec 2007 12:01:26 +0000</pubDate>
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-12</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-12</guid>
 		<description>Asterik: manau, kad norėta pasakyti, kad WP yra ne objektiškai orentuotas :D</description>
 		<content:encoded><![CDATA[<p>Asterik: manau, kad norėta pasakyti, kad WP yra ne objektiškai orentuotas :D</p>
 ]]></content:encoded>
 	</item>
 	<item>
 		<title>By: Tygas</title>
-		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-11</link>
+		<link>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-11</link>
 		<dc:creator>Tygas</dc:creator>
 		<pubDate>Tue, 11 Dec 2007 11:58:19 +0000</pubDate>
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-11</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-11</guid>
 		<description>&gt;&gt;Pradėsiu pasitikėti Habari
 
 Čia rytiečių produktas? Buvai susidūręs? Kokios nuomonės??</description>
@@ -78,20 +78,20 @@ php_flag display_startup_errors on
 	</item>
 	<item>
 		<title>By: asterisk</title>
-		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-10</link>
+		<link>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-10</link>
 		<dc:creator>asterisk</dc:creator>
 		<pubDate>Tue, 11 Dec 2007 11:44:03 +0000</pubDate>
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-10</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-10</guid>
 		<description>Arba aš kažką ne taip supratau arba tu neteisingai parašei: &quot;WP nėra pritaikytas PHP5&quot; ? Kaip jis nėra pritaikytas PHP5 ?</description>
 		<content:encoded><![CDATA[<p>Arba aš kažką ne taip supratau arba tu neteisingai parašei: &#8220;WP nėra pritaikytas PHP5&#8243; ? Kaip jis nėra pritaikytas PHP5 ?</p>
 ]]></content:encoded>
 	</item>
 	<item>
 		<title>By: Vaidas Žilionis</title>
-		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-9</link>
+		<link>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html/comment-page-1#comment-9</link>
 		<dc:creator>Vaidas Žilionis</dc:creator>
 		<pubDate>Tue, 11 Dec 2007 08:38:32 +0000</pubDate>
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-9</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comment-9</guid>
 		<description>Kad naršant po mėnesius/tagus rodomas pilnas tekstas kaltas yra įprotis taip daryti.</description>
 		<content:encoded><![CDATA[<p>Kad naršant po mėnesius/tagus rodomas pilnas tekstas kaltas yra įprotis taip daryti.</p>
 ]]></content:encoded>

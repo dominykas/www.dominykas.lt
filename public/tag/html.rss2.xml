@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; html</title>
-	<atom:link href="http://www.d-b.lt/tag/html.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/html.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Ateikit į InfoShow WEB konferenciją 2012</title>
-		<link>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html</link>
-		<comments>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html#comments</comments>
+		<link>https://www.dominykas.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html</link>
+		<comments>https://www.dominykas.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html#comments</comments>
 		<pubDate>Tue, 17 Apr 2012 14:54:18 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -31,11 +31,11 @@
 		<category><![CDATA[url]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=403</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=403</guid>
 		<description><![CDATA[
 Būti front-end programuotoju yra OSAM. Osam, nes sudėtinga &#8211; štai pvz. naujausia Sunday Business Post versija turi keturis kartus daugiau front-end kodo, negu back-end. Balandžio 21 d. apie tai kalbėsiu InfoShow festivalio WEB konferencijoje.
 Dar kalbėsiu apie tai, kaip paskutiniu metu internetai yra gadinami, kaip jūs visi esate neteisūs ir kaip tik aš vienas išmanau, kaip [...]]]></description>
-			<content:encoded><![CDATA[<p><img src="http://www.d-b.lt/uploads/2012/04/41607_292463217490036_926997090_n.jpg" style="margin-left: 1em; margin-bottom: 1em; float: right; border: 0;" alt="InfoShow WEB konferencijos logotipas" /><br />
+			<content:encoded><![CDATA[<p><img src="https://www.dominykas.lt/uploads/2012/04/41607_292463217490036_926997090_n.jpg" style="margin-left: 1em; margin-bottom: 1em; float: right; border: 0;" alt="InfoShow WEB konferencijos logotipas" /><br />
 Būti <i>front-end</i> programuotoju yra <strong><i>OSAM</i></strong>. <i>Osam</i>, nes sudėtinga &#8211; štai pvz. naujausia <a href="http://www.businesspost.ie/">Sunday Business Post</a> versija turi keturis kartus daugiau <i>front-end</i> kodo, negu <i>back-end</i>. Balandžio 21 d. apie tai kalbėsiu <a href="http://infoshow.info/">InfoShow</a> festivalio WEB konferencijoje.</p>
 <p>Dar kalbėsiu apie tai, kaip paskutiniu metu internetai yra gadinami, kaip jūs visi esate neteisūs ir kaip tik aš vienas išmanau, kaip Teisingai gaminti svetaines. Apžvelgsiu dalykus nuo &lt;a&gt; iki SEO*, nuo CSS iki <i>usability</i>, nuo W3C standartų iki programuotojų etikos. Prisiliesiu prie nesenų &#8220;skandalų&#8221; apie <i>vendor prefixes</i>, mobilias prieš &#8220;normalias&#8221; svetaines, kabliataškius Javascript ir pareikšiu savo Ypatingai Svarbią ir Autoritetingą Nuomonę tais klausimais.</p>
 <p>Veiksmas KTU Elektronikos fak.** 101 auditorijoje, <a href="http://www.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fviewform%3Fformkey%3DdFE2dXRUZWNmVTVCU2xYelZ2RmFIN3c6MQ%23gid%3D0&#038;h=eAQHd9D85">registracija gūgluose</a>, <a href="http://www.facebook.com/events/292463217490036/">aprašymas Veidaknygėje</a>, programa:</p>
@@ -54,13 +54,13 @@ Būti <i>front-end</i> programuotoju yra <strong><i>OSAM</i></strong>. <i>Osam</
 <p style="font-size: 85.7%">* iš tikro tai apie SEO nieko nesakysiu, nes apie tai kalbės Rokas.</p>
 <p style="font-size: 85.7%">** ne keiksmažodis.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.rss2.xml</wfw:commentRss>
 		<slash:comments>3</slash:comments>
 		</item>
 		<item>
 		<title>Kaip HTML5 įsisenėjusį skaudulį nuėmė</title>
-		<link>http://www.d-b.lt/2009/07/kaip-html5-isisenejusi-skauduli-nueme.html</link>
-		<comments>http://www.d-b.lt/2009/07/kaip-html5-isisenejusi-skauduli-nueme.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/07/kaip-html5-isisenejusi-skauduli-nueme.html</link>
+		<comments>https://www.dominykas.lt/2009/07/kaip-html5-isisenejusi-skauduli-nueme.html#comments</comments>
 		<pubDate>Mon, 06 Jul 2009 23:13:14 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Be kategorijos]]></category>
@@ -69,7 +69,7 @@ Būti <i>front-end</i> programuotoju yra <strong><i>OSAM</i></strong>. <i>Osam</
 		<category><![CDATA[pavadinimai]]></category>
 		<category><![CDATA[standartai]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=117</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=117</guid>
 		<description><![CDATA[Jau kokius du su puse metų vis ruošiausi parašyti įrašą apie h1-h6 žymų naudojimą ir jų nepakankamumą. Gerai, kad tingėjau &#8211; dabar nebereikia net sukti dėl to galvos.
 Antraščių problema HTML 4.01
 HTML4 specifikacija apie h? antraštes kalba gana abstrakčiai. Jų esmė &#8211; pristatyti toliau einačios dokumento dalies turinį. Paminėta, kad h1 yra svarbiau negu h6, taipogi, [...]]]></description>
@@ -124,13 +124,13 @@ HTML4 specifikacija apie h? antraštes kalba gana abstrakčiai. Jų esmė &#8211
 </ul>
 <p>PS neturiu laiko ieškoti, bet gal kas turit pasiūlymą, kaip WordPress priversti nedėti <code>aside</code> į <code>p</code>?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/07/kaip-html5-isisenejusi-skauduli-nueme.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/07/kaip-html5-isisenejusi-skauduli-nueme.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>hasFocus ir activeElement už 400 baitų</title>
-		<link>http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html</link>
-		<comments>http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html</link>
+		<comments>https://www.dominykas.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html#comments</comments>
 		<pubDate>Sat, 07 Mar 2009 19:42:16 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -141,9 +141,9 @@ HTML4 specifikacija apie h? antraštes kalba gana abstrakčiai. Jų esmė &#8211
 		<category><![CDATA[kodas]]></category>
 		<category><![CDATA[užknisantys dalykai internete]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html</guid>
 		<description><![CDATA[Vienas labiausiai internete užknisančių dalykų yra tai, kad kai kurios svetainės visiškai manęs negerbdamos paima ir perrašo įvesties laukų turinį tada kai aš jau ten bandau kažką rašyti. Ši situacija kyla iš to, kad nėra paprasto būdo nustatyti ar (ir kuris) HTML elementas yra fokusuotas ar ne. Internet Exploreris jau senokai turi document.activeElement, bet kas [...]]]></description>
-			<content:encoded><![CDATA[<p>Vienas labiausiai internete užknisančių dalykų yra tai, kad kai kurios svetainės visiškai manęs negerbdamos paima ir perrašo įvesties laukų turinį tada kai aš jau ten bandau kažką rašyti. Ši situacija kyla iš to, kad nėra paprasto būdo nustatyti ar (ir kuris) HTML elementas yra fokusuotas ar ne. Internet Exploreris jau senokai turi <code>document.activeElement</code>, bet kas iš to, jeigu tai negalioja kitoms naršyklėms. HTML5 specifikacijoje yra standartizuotos abi -<code>element.hasFocus</code> ir <code>document.activeElement</code> galimybės, tačiau ką daryti šiandien? <a href="http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html#galutinis-sprendimas-20090307">Tingiu skaityti &#8211; duok galutinį sprendimą</a>.</p>
+			<content:encoded><![CDATA[<p>Vienas labiausiai internete užknisančių dalykų yra tai, kad kai kurios svetainės visiškai manęs negerbdamos paima ir perrašo įvesties laukų turinį tada kai aš jau ten bandau kažką rašyti. Ši situacija kyla iš to, kad nėra paprasto būdo nustatyti ar (ir kuris) HTML elementas yra fokusuotas ar ne. Internet Exploreris jau senokai turi <code>document.activeElement</code>, bet kas iš to, jeigu tai negalioja kitoms naršyklėms. HTML5 specifikacijoje yra standartizuotos abi -<code>element.hasFocus</code> ir <code>document.activeElement</code> galimybės, tačiau ką daryti šiandien? <a href="https://www.dominykas.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html#galutinis-sprendimas-20090307">Tingiu skaityti &#8211; duok galutinį sprendimą</a>.</p>
 <p>Aprašytos problemos sprendimo algoritmas yra gana paprastas &#8211; prikabinti <dfn title="event handler">įvykių gaudytojus</dfn> prie reikalingų elementų ir pačiam nustatyti reikalingus parametrus. Tačiau jeigu nesusimąstytume &#8211; greitas ir paprastas įgyvendimas turėtų kelias problemas.</p>
 <h2>Sprendimo problemos</h2>
 <p>Pavyzdys: krauname puslapį, jame yra paieškos laukas, kurio viduje yra tekstas &#8220;Paieška&#8221;. Fokusuojant lauką tas tekstas turi pradingti. Be abejo, pats &#8220;standartinio teksto&#8221; <i>patternas</i> yra jau savaime nelabai geras, tačiau kartais be jo tiesiog neįmanoma išsiversti. Taigi, turime du variantus: a) tekstą įrašyti lauke iš anksto (<code>input value="Paieška"</code>), fokusuojant jį ištrinti; b) palikti tuščią lauką, ir užkrovus puslapį tą tekstą įrašyti. Pirmu atveju turime semantikos problemą, o taipogi jis nėra <dfn title="unobtrusive">netrukdantis</dfn>, t.y. tam, kad naudotis lauku, reikalingas įjungtas Javascript. Taip pat, abiem atvejais, neįdėjus papildomų pastangų, perrašymas gali įvykti jau po to kai vartotojas fokusuoja lauką (pvz. dėl lėtai kraunamų Javascript bibliotekų arba IE6 paspaudus <i>refresh</i>, kai kursorius yra viename iš laukų).</p>
@@ -189,13 +189,13 @@ HTML4 specifikacija apie h? antraštes kalba gana abstrakčiai. Jų esmė &#8211
 <p>Panaikinus bereikalingus tarpus ir <a href="http://developer.yahoo.com/yui/compressor/">suspaudus viską į vieną eilutę</a>, šis sprendimas užimtų vos daugiau nei 400 baitų &#8211; pakankamai maža kaina už funkcionalumą. Jeigu netyčia nepalikau kokios klaidos kur nors &#8211; viskas turėtų veikti su IE6/7, FF2/3, Opera 9.6 ir Safari 3.x.</p>
 <p>Taipogi galite pasižiūrėti <a href="http://code.dominykas.com/js/hasFocus.html">veikiančią demonstraciją</a>. Po dviejų sekundžių nuo užkrovimo gausite iššokantį langą, kuriame bus surašyta kas turi fokusą.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.rss2.xml</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 		<item>
 		<title>Horizontalus centravimas</title>
-		<link>http://www.d-b.lt/2008/05/horizontalus-centravimas-su-css.html</link>
-		<comments>http://www.d-b.lt/2008/05/horizontalus-centravimas-su-css.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/05/horizontalus-centravimas-su-css.html</link>
+		<comments>https://www.dominykas.lt/2008/05/horizontalus-centravimas-su-css.html#comments</comments>
 		<pubDate>Mon, 26 May 2008 22:18:12 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -204,7 +204,7 @@ HTML4 specifikacija apie h? antraštes kalba gana abstrakčiai. Jų esmė &#8211
 		<category><![CDATA[html]]></category>
 		<category><![CDATA[kodas]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/05/horizontalus-centravimas-su-css.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/05/horizontalus-centravimas-su-css.html</guid>
 		<description><![CDATA[Šitas įrašas yra visai ne apie tai, kas būtų jeigu Sabonis žaistų krepšinį gulėdamas ant grindų (tiesa, esu įsitikinęs, kad jis tai darytų puikiai). Ir tikiuosi iš pirmojo sakinio supratote, kad nesusipainiojau ir (beveik) neketinu kartotis vertikalaus centravimo tema.
 Dažniausiai norint nežinomo pločio elementą išcentruoti horizontaliai kitame elemente problemų nekyla &#8211; užtenka tiesiog paprasto text-align:center; ar [...]]]></description>
 			<content:encoded><![CDATA[<p>Šitas įrašas yra visai ne apie tai, kas būtų jeigu Sabonis žaistų krepšinį gulėdamas ant grindų (tiesa, esu įsitikinęs, kad jis tai darytų puikiai). Ir tikiuosi iš pirmojo sakinio supratote, kad nesusipainiojau ir (beveik) neketinu kartotis <a href="http://www.jakpsatweb.cz/css/css-vertical-center-solution.html">vertikalaus centravimo</a> tema.</p>
@@ -232,13 +232,13 @@ Dažniausiai norint nežinomo pločio elementą išcentruoti horizontaliai kitam
 </ul>
 <p>Su Safari, tiesa, kartais atsiranda gana keistas perpiešimo efektas &#8211; dalis vidinio elemento pradingsta, tačiau pakeitus lango dydį viskas sugrįžta į vietas. Jeigu kas galite patikrinti su kitomis naršyklėmis &#8211; būtų malonu išgirsti rezultatus, o šiaip jeigu prireiks šio sprendimo &#8211; naudokit į sveikatą ir neminėkit piktuoju, jeigu kas nors neveiks. Bandysiu pritaikyti ir vertikalų centravimą, tačiau bijau, kad aukštesniems elementams jis neveiks&#8230; Todėl eksperimento rezultatuose yra variantas, kuris pakeičia vidinio paveikslėlio aukštį &#8211; darant tai naršyklėje vaizdas kiek sugenda, tačiau galbūt geriau negu nieko?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/05/horizontalus-centravimas-su-css.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/05/horizontalus-centravimas-su-css.rss2.xml</wfw:commentRss>
 		<slash:comments>5</slash:comments>
 		</item>
 		<item>
 		<title>Paranoja: HTML5</title>
-		<link>http://www.d-b.lt/2008/02/paranoja-html5.html</link>
-		<comments>http://www.d-b.lt/2008/02/paranoja-html5.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/02/paranoja-html5.html</link>
+		<comments>https://www.dominykas.lt/2008/02/paranoja-html5.html#comments</comments>
 		<pubDate>Tue, 05 Feb 2008 19:52:09 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -247,13 +247,13 @@ Dažniausiai norint nežinomo pločio elementą išcentruoti horizontaliai kitam
 		<category><![CDATA[paranoja]]></category>
 		<category><![CDATA[standartai]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/02/paranoja-html5.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/02/paranoja-html5.html</guid>
 		<description><![CDATA[Vakar pagaliau prisiverčiau atidžiai perskaityti prieš kelias savaites paskelbto HTML5 juodraščio skyrių apie skirtumus nuo HTML4. Skaičiau ir norėjau verkti. Kažko pastaruoju metu dažnai taip nutinka skaitant ką nors apie technologijas &#8211; matyt ištižėlis pasidariau&#8230; Arba tiesiog trūksta atostogų.
 O dėl verkimo, tai jis turi kelias labai konkrečias priežastis:
 
 Džiaugsmas, dėl tobulėjimo, naujų galimybių, semantiškumo;
 Nusivylimas, kad tai [...]]]></description>
-			<content:encoded><![CDATA[<p>Vakar pagaliau prisiverčiau atidžiai perskaityti prieš kelias savaites paskelbto HTML5 juodraščio skyrių apie <a href="http://www.w3.org/html/wg/html5/diff/">skirtumus nuo HTML4</a>. Skaičiau ir norėjau verkti. Kažko pastaruoju metu <a href="http://www.d-b.lt/2008/01/kas-kaltas.html">dažnai taip nutinka</a> skaitant ką nors apie technologijas &#8211; matyt ištižėlis pasidariau&#8230; Arba tiesiog <a href="http://www.visitmalta.com/">trūksta atostogų</a>.</p>
+			<content:encoded><![CDATA[<p>Vakar pagaliau prisiverčiau atidžiai perskaityti prieš kelias savaites paskelbto HTML5 juodraščio skyrių apie <a href="http://www.w3.org/html/wg/html5/diff/">skirtumus nuo HTML4</a>. Skaičiau ir norėjau verkti. Kažko pastaruoju metu <a href="https://www.dominykas.lt/2008/01/kas-kaltas.html">dažnai taip nutinka</a> skaitant ką nors apie technologijas &#8211; matyt ištižėlis pasidariau&#8230; Arba tiesiog <a href="http://www.visitmalta.com/">trūksta atostogų</a>.</p>
 <p>O dėl verkimo, tai jis turi kelias labai konkrečias priežastis:</p>
 <ul>
 <li><strong>Džiaugsmas</strong>, dėl tobulėjimo, naujų galimybių, semantiškumo;</li>
@@ -283,13 +283,13 @@ Nusivylimas, kad tai [...]]]></description>
 </blockquote>
 <p>Paguodžia todėl, kad jeigu Microsoft nesugebės to įdiegti 19.5 IE versijoje be klaidų &#8211; jie atsiliks. Virkdo dėl dviejų priežasčių. Pirma &#8211; Microsoft pasakys, kad standartas yra tai, kaip klaidos veikia 19.5 IE versijoje, o antra &#8211; tinklo kūrėjai pirmo žingsnio diegiant standartus negalės žengti, o naršyklių kūrėjai gali gerokai užtrukti priiminėdami sprendimus, nes visi kabės ore dėl galimų pasikeitimų standarto specifikacijoje.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/02/paranoja-html5.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/02/paranoja-html5.rss2.xml</wfw:commentRss>
 		<slash:comments>4</slash:comments>
 		</item>
 		<item>
 		<title>Naršyklinė realybė</title>
-		<link>http://www.d-b.lt/2008/01/narsykline-realybe.html</link>
-		<comments>http://www.d-b.lt/2008/01/narsykline-realybe.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/01/narsykline-realybe.html</link>
+		<comments>https://www.dominykas.lt/2008/01/narsykline-realybe.html#comments</comments>
 		<pubDate>Thu, 24 Jan 2008 20:15:50 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -298,7 +298,7 @@ Nusivylimas, kad tai [...]]]></description>
 		<category><![CDATA[Microsoft]]></category>
 		<category><![CDATA[standartai]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/01/narsykline-realybe.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/01/narsykline-realybe.html</guid>
 		<description><![CDATA[Šią savaitė A List Apart paskelbė du vienas kitam prieštaraujančius straipsnius. Čia ne kritika &#8211; prieštarą jie sukėlė sąmoningai. Ir ta prieštara išaugo į gana rimtą diskusiją, kurioje teisių nėra ir nebus. Išskyrus mane.
 Trumpai: problemos aprašymas
 Sulig kiekviena kiekvienos naršyklės versija, pasikeičia HTML ir CSS kodo interpretacija ir atvaizdavimas. Visi jau seniai įprato rašyti pseudo-standartinį kodą, [...]]]></description>
@@ -321,7 +321,7 @@ Sulig kiekviena kiekvienos naršyklės versija, pasikeičia HTML ir CSS kodo int
 <p>Kita vertus, ši diskusija &#8211; kaip ir visos temos apie web standartus &#8211; yra uždaras ratas. Bet kuriam argumentui visada galima surasti kontrargumentą. Net pasakymas &#8220;reikalingi standartai&#8221; pats savaime sukelia dilemą &#8211; juk <strong>internetas yra laisvės išraiška</strong> ir bet koks autoritetas jame tą laisvę riboja. Žmonija yra perdaug skirtinga tam, kad turėtų vieningą nuomonę, o <strong>radikalai yra reikalingi tam, kad skatinti progresą</strong> ir žemė nenustotų suktis.</p>
 <p>Kita vertus, jeigu HTML+CSS standartizavimą palikti W3C, bei sukurti pvz. <dfn title="Jūs Idiotai Modeling Language">JIML</dfn>+<dfn title="Soberaną Gerti Gerai">SGG</dfn>, kurį administruotų <dfn title="Qemm for Dummies">Q4D</dfn>, bei pasiekti, kad naršyklės (tegul ir skirtingai) palaikytų juos abu &#8211; turėtume konkurenciją, progresą bei pasirinkimo laisvę. O naršyklės, kurios nepalaiko abiejų, arba palaiko juos blogai &#8211; numirtų. <a href="http://www.ipv6porn.com/">Pradėti nuo pornografijos</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/01/narsykline-realybe.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/01/narsykline-realybe.rss2.xml</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 	</channel>

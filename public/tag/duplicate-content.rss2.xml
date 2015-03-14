@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; duplicate content</title>
-	<atom:link href="http://www.d-b.lt/tag/duplicate-content.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/duplicate-content.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Noriu pastovios adresų ir turinio struktūros</title>
-		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</link>
-		<comments>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comments</comments>
+		<link>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</link>
+		<comments>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comments</comments>
 		<pubDate>Mon, 10 Dec 2007 21:34:36 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -31,10 +31,10 @@
 		<category><![CDATA[seo]]></category>
 		<category><![CDATA[url]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</guid>
 		<description><![CDATA[Praėjusiame įraše privėliau filosofijos apie URL prasmę iš web skaitytojo pozicijos. Senamadiško, techniško ir well&#8230; geekiško web skaitytojo pozicijos &#8211; iš esmės tai, ko aš tikiuosi iš adresų, kuriuos &#8220;sukuria&#8221; kiti. Šiame įraše dar keletas pastabų, kurių nedera pamiršti tinklapio administratoriui.
 Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją reikės keisti. Štai WP nėra [...]]]></description>
-			<content:encoded><![CDATA[<p><a href="http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html">Praėjusiame įraše</a> privėliau filosofijos apie URL prasmę iš web skaitytojo pozicijos. Senamadiško, techniško ir <i>well</i>&#8230; geekiško web skaitytojo pozicijos &#8211; iš esmės tai, ko aš tikiuosi iš adresų, kuriuos &#8220;sukuria&#8221; kiti. Šiame įraše dar keletas pastabų, kurių nedera pamiršti tinklapio administratoriui.</p>
+			<content:encoded><![CDATA[<p><a href="https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.html">Praėjusiame įraše</a> privėliau filosofijos apie URL prasmę iš web skaitytojo pozicijos. Senamadiško, techniško ir <i>well</i>&#8230; geekiško web skaitytojo pozicijos &#8211; iš esmės tai, ko aš tikiuosi iš adresų, kuriuos &#8220;sukuria&#8221; kiti. Šiame įraše dar keletas pastabų, kurių nedera pamiršti tinklapio administratoriui.</p>
 <p>Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją <strong>reikės keisti</strong>. Štai WP nėra pritaikytas PHP5 &#8211; ką jau bekalbėti apie PHP6, be to laikas nuo laiko išeina naujos jo versijos. Ir apskritai soft&#8217;as nėra amžinas &#8211; jo keitimas yra tiesiog garantuotas ilgalaikiu laikotarpiu. Tuo tarpu renkantis svetainės struktūrą reikėtų atsiminti, kad jos keitimas gali brangiai kainuoti. Renkantis adresų struktūrą visų svarbiausia įsidėmėti, kad jos keitimas užtruks ilgą laiką &#8211; tokio pragaro nelinkiu niekam.</p>
 <h2>Robotams ir vartotojams</h2>
 <p>Pirma adreso taisyklė SEO (einanti po nulinės &#8220;prikišk daug keywordų&#8221;) &#8211; jis neturėtų keistis ir idealiame pasaulyje turėtų būti amžinas. Jeigu jis pasikeitė &#8211; be abejo galima sudėlioti teisingus HTTP redirektus (301 Moved Permanently į naują adresą, vėliau laikui bėgant pakeisti į 410 Gone). Tačiau net su redirektais, adreso keitimas užsitraukia paieškos robotų nemalonę. Pavyzdys iš realybės: dar dabar kai kurie paieškos varikliai yra sucache&#8217;inę seno mano darbovietės puslapio variantą su ASP adresais ir nenori jo užmiršti. Keitimas įvyko prieš 2 metus. </p>
@@ -45,7 +45,7 @@ Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją reikės 
 <p>Paprasto sprendimo šiai problemai nėra, tačiau tiek kategorijos, tiek archyvai blog&#8217;e tėra rodyklės (<i>turinys, index, sugalvok savo žodį</i>) &#8211; todėl jie ir turėtų elgtis kaip tokie. Kadangi blog&#8217;as pagal savo <i>definitioną</i> yra chronologinis dalykas, manau, kad vienas iš mažiausiai kenksmingų variantų būtų rodyti kategorijos (tago) puslapyje kelis paskutinius įrašus, o toliau leisti browsinti pagal datą &#8211; jeigu kategorija (ar visas blogas) ganėtinai aktyvus &#8211; rodyti sakykim mėnesio įrašus, jeigu mažiau aktyvus &#8211; rodyti visus metų įrašus, taip atsikratant puslapiavimo poreikio, o tuo pačiu &#8211; niekam tikusių puslapiuotų adresų.</p>
 <p>Adreso bei turinio pastovumas ir &#8220;patikimas&#8221; buvo dvi esminės problemos, kurios mane ilgiausiai stabdė paleidžiant savo blog&#8217;ą &#8211; norėjosi skirti pakankamai laiko apmąstymams ir šiaip dėsningumų įvertinimui tam, kad nesigailėčiau tada kai pradėsiu pasitikėti <a href="http://habariproject.org/">Habari</a>. Artimiausiame įraše &#8211; mano apsisprendimas dėl struktūros.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.rss2.xml</wfw:commentRss>
 		<slash:comments>6</slash:comments>
 		</item>
 	</channel>

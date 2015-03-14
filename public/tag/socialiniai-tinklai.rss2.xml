@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; socialiniai tinklai</title>
-	<atom:link href="http://www.d-b.lt/tag/socialiniai-tinklai.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/socialiniai-tinklai.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Ammado &#8211; socialinis tinklas žmonėms, kuriems nenusispjaut</title>
-		<link>http://www.d-b.lt/2008/05/ammado-socialinis-tinklas-zmonems-kuriems-nenusispjaut.html</link>
-		<comments>http://www.d-b.lt/2008/05/ammado-socialinis-tinklas-zmonems-kuriems-nenusispjaut.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/05/ammado-socialinis-tinklas-zmonems-kuriems-nenusispjaut.html</link>
+		<comments>https://www.dominykas.lt/2008/05/ammado-socialinis-tinklas-zmonems-kuriems-nenusispjaut.html#comments</comments>
 		<pubDate>Tue, 13 May 2008 12:34:45 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[IT]]></category>
@@ -30,7 +30,7 @@
 		<category><![CDATA[labdara]]></category>
 		<category><![CDATA[socialiniai tinklai]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/05/ammado-socialinis-tinklas-zmonems-kuriems-nenusispjaut.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/05/ammado-socialinis-tinklas-zmonems-kuriems-nenusispjaut.html</guid>
 		<description><![CDATA[Web 2.0 aukštumoje &#8211; jeigu pažvelgti į Alexa duomenis tai top 10 pamatysime dvi tikras &#8220;pažinčių svetaines&#8221; (MySpace ir Facebook), bei dar dvi svetaines, kurios iš esmės vistiek yra socialiniai tinklai (Youtube ir Blogger). Wikipedia turbūt taipogi gali būti panaudota tam tikslui &#8211; ryšių užmezgimui ir jų palaikymui. Be didžiųjų grandų egzistuoja gana nemažai kitų [...]]]></description>
 			<content:encoded><![CDATA[<p>Web 2.0 aukštumoje &#8211; jeigu pažvelgti į Alexa duomenis tai top 10 pamatysime dvi tikras &#8220;pažinčių svetaines&#8221; (MySpace ir Facebook), bei dar dvi svetaines, kurios iš esmės vistiek yra socialiniai tinklai (Youtube ir Blogger). Wikipedia turbūt taipogi gali būti panaudota tam tikslui &#8211; ryšių užmezgimui ir jų palaikymui. Be didžiųjų grandų egzistuoja <a href="http://en.wikipedia.org/wiki/List_of_social_networking_websites">gana nemažai kitų socialinių tinklelių</a> (drugeliams gaudyti), kai kurie iš jų &#8211; su gana ribota interesų tematika ir/arba paskirtimi.</p>
 <p><a href="http://www.ammado.com/">Ammado</a> yra <strong>socialinis tinklas</strong> skirtas ne pelno organizacijoms ir apskritai <strong>žmonėms, kuriems Rūpi</strong>. Teorijoje ir vizijoje, tai turėtų būti susitikimo taškas tiems, kas pakeis pasaulį.</p>
@@ -38,7 +38,7 @@
 <p>Lietuvoje aukojimas labdarai kol kas nėra labai populiarus &#8211; aš ir pats turbūt mieliau pervesčiau savo 2% Žalgiriui, o ne Raudonąjam Kryžiui. Tačiau likusiame pasaulyje žmonės aukoja, ir daro tai nuoširdžiai. Žmonės užsiima savanoriškais darbais, aukų rinkimu ir apskritai parama tiems, kas gyvena prasčiau. Tokie žmonės gana dažnai turi organizaciją, kuriai padeda dažniausiai &#8211; jiems Ammado bus vieta, kurioje jie visada bus savo labdaros organizacijos ryšio zonoje ir <strong>galės padėti tada kada reikia</strong>, bei patys organizuoti akcijas.</p>
 <p>Man Ammado nuo vakar yra darbovietė.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/05/ammado-socialinis-tinklas-zmonems-kuriems-nenusispjaut.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/05/ammado-socialinis-tinklas-zmonems-kuriems-nenusispjaut.rss2.xml</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>

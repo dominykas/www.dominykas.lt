@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; css3</title>
-	<atom:link href="http://www.d-b.lt/tag/css3.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/css3.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Savaitgalio eksperimentas: Login 2011 programa, pritaikyta mobiliems telefonams</title>
-		<link>http://www.d-b.lt/2011/03/savaitgalio-eksperimentas-login-2011-programa-pritaikyta-mobiliems-telefonams.html</link>
-		<comments>http://www.d-b.lt/2011/03/savaitgalio-eksperimentas-login-2011-programa-pritaikyta-mobiliems-telefonams.html#comments</comments>
+		<link>https://www.dominykas.lt/2011/03/savaitgalio-eksperimentas-login-2011-programa-pritaikyta-mobiliems-telefonams.html</link>
+		<comments>https://www.dominykas.lt/2011/03/savaitgalio-eksperimentas-login-2011-programa-pritaikyta-mobiliems-telefonams.html#comments</comments>
 		<pubDate>Mon, 07 Mar 2011 00:45:26 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -30,7 +30,7 @@
 		<category><![CDATA[javascript]]></category>
 		<category><![CDATA[mobilus tinklas]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=355</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=355</guid>
 		<description><![CDATA[Per paskutinius kelis metus perskaičiau šimtus blogų, apie tai, kaip internetus reikia kurti galvojant apie nešiojamus įrenginius mažais ekranais, ir kaip gražiai viskas galėtų veikti, jeigu laikytis standartų. Deja &#8211; šio savaitgalio eksperimentas parodė, kad tokiai filosofijai dar kiek per anksti.
 Bendrai paėmus, kadangi investavau tik pusantros dienos darbo, rezultatas visai patenkinamas &#8211; &#8220;mobili&#8221; Login 2011 [...]]]></description>
 			<content:encoded><![CDATA[<p>Per paskutinius kelis metus perskaičiau šimtus blogų, apie tai, kaip internetus reikia kurti galvojant apie nešiojamus įrenginius mažais ekranais, ir kaip gražiai viskas galėtų veikti, jeigu laikytis standartų. Deja &#8211; šio savaitgalio eksperimentas parodė, kad tokiai filosofijai dar kiek per anksti.</p>
@@ -39,7 +39,7 @@ Bendrai paėmus, kadangi investavau tik pusantros dienos darbo, rezultatas visai
 <p>Pirmojoje versijoje, kurią išmečiau, bandžiau viską pasiekti apskritai be Javascript, <a href="http://webdesignernotebook.com/css/the-css3-target-pseudo-class-and-css-animations/"><code>:target</code> pseudo-selektoriaus</a> pagalba, tačiau rezultatas gavosi gerokai prastesnis negu galutinis variantas.</p>
 <p>Taipogi peržvelgiau akimis <a href="http://www.phonegap.com/tools">Phonegap rekomenduojamus įrankius</a>, tačiau panašu, kad visi jie kenčia nuo tų pačių problemų &#8211; mobilios naršyklės labai jautriai reaguoja į ekrano pločio/aukščio pasikeitimus kai tenka animuoti perėjimus iš vieno ekrano į kitą, o išsprendus šią problemą kiek griežtesniais išdėstymo apribojimais, vistiek lieka <i>scrollinimo</i> problema &#8211; sugrąžinti vartotoją į tą pačią ekrano vietą be ekrano mirksėjimo ir šokinėjimo yra neįmanoma.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2011/03/savaitgalio-eksperimentas-login-2011-programa-pritaikyta-mobiliems-telefonams.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2011/03/savaitgalio-eksperimentas-login-2011-programa-pritaikyta-mobiliems-telefonams.rss2.xml</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 	</channel>

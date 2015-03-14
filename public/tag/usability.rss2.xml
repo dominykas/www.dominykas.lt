@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; usability</title>
-	<atom:link href="http://www.d-b.lt/tag/usability.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/usability.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Ateikit į InfoShow WEB konferenciją 2012</title>
-		<link>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html</link>
-		<comments>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html#comments</comments>
+		<link>https://www.dominykas.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html</link>
+		<comments>https://www.dominykas.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.html#comments</comments>
 		<pubDate>Tue, 17 Apr 2012 14:54:18 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -31,11 +31,11 @@
 		<category><![CDATA[url]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=403</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=403</guid>
 		<description><![CDATA[
 Būti front-end programuotoju yra OSAM. Osam, nes sudėtinga &#8211; štai pvz. naujausia Sunday Business Post versija turi keturis kartus daugiau front-end kodo, negu back-end. Balandžio 21 d. apie tai kalbėsiu InfoShow festivalio WEB konferencijoje.
 Dar kalbėsiu apie tai, kaip paskutiniu metu internetai yra gadinami, kaip jūs visi esate neteisūs ir kaip tik aš vienas išmanau, kaip [...]]]></description>
-			<content:encoded><![CDATA[<p><img src="http://www.d-b.lt/uploads/2012/04/41607_292463217490036_926997090_n.jpg" style="margin-left: 1em; margin-bottom: 1em; float: right; border: 0;" alt="InfoShow WEB konferencijos logotipas" /><br />
+			<content:encoded><![CDATA[<p><img src="https://www.dominykas.lt/uploads/2012/04/41607_292463217490036_926997090_n.jpg" style="margin-left: 1em; margin-bottom: 1em; float: right; border: 0;" alt="InfoShow WEB konferencijos logotipas" /><br />
 Būti <i>front-end</i> programuotoju yra <strong><i>OSAM</i></strong>. <i>Osam</i>, nes sudėtinga &#8211; štai pvz. naujausia <a href="http://www.businesspost.ie/">Sunday Business Post</a> versija turi keturis kartus daugiau <i>front-end</i> kodo, negu <i>back-end</i>. Balandžio 21 d. apie tai kalbėsiu <a href="http://infoshow.info/">InfoShow</a> festivalio WEB konferencijoje.</p>
 <p>Dar kalbėsiu apie tai, kaip paskutiniu metu internetai yra gadinami, kaip jūs visi esate neteisūs ir kaip tik aš vienas išmanau, kaip Teisingai gaminti svetaines. Apžvelgsiu dalykus nuo &lt;a&gt; iki SEO*, nuo CSS iki <i>usability</i>, nuo W3C standartų iki programuotojų etikos. Prisiliesiu prie nesenų &#8220;skandalų&#8221; apie <i>vendor prefixes</i>, mobilias prieš &#8220;normalias&#8221; svetaines, kabliataškius Javascript ir pareikšiu savo Ypatingai Svarbią ir Autoritetingą Nuomonę tais klausimais.</p>
 <p>Veiksmas KTU Elektronikos fak.** 101 auditorijoje, <a href="http://www.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fspreadsheet%2Fviewform%3Fformkey%3DdFE2dXRUZWNmVTVCU2xYelZ2RmFIN3c6MQ%23gid%3D0&#038;h=eAQHd9D85">registracija gūgluose</a>, <a href="http://www.facebook.com/events/292463217490036/">aprašymas Veidaknygėje</a>, programa:</p>
@@ -54,20 +54,20 @@ Būti <i>front-end</i> programuotoju yra <strong><i>OSAM</i></strong>. <i>Osam</
 <p style="font-size: 85.7%">* iš tikro tai apie SEO nieko nesakysiu, nes apie tai kalbės Rokas.</p>
 <p style="font-size: 85.7%">** ne keiksmažodis.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2012/04/ateikit-i-infoshow-web-konferencija-2012.rss2.xml</wfw:commentRss>
 		<slash:comments>3</slash:comments>
 		</item>
 		<item>
 		<title>Eskizų paskirtis</title>
-		<link>http://www.d-b.lt/2009/08/eskizu-paskirtis.html</link>
-		<comments>http://www.d-b.lt/2009/08/eskizu-paskirtis.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/08/eskizu-paskirtis.html</link>
+		<comments>https://www.dominykas.lt/2009/08/eskizu-paskirtis.html#comments</comments>
 		<pubDate>Wed, 19 Aug 2009 08:04:21 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Usability]]></category>
 		<category><![CDATA[kūrybos procesas]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=158</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=158</guid>
 		<description><![CDATA[Neseniai perskaičiau Bill Buxton knygą &#8220;Sketching User Experiences&#8221;. Nepaisant to, kad aš jau seniai vertinu prototipų gamybą, kai tai leidžia biudžetas, knyga atvėrė akis, tuo kad prototipų daryti pačioje pradžioje išvis nereikia &#8211; užtenka tiesiog eskizų. Būtent tas atskyrimas tarp eskizų ir prototipų ir yra esminis dalykas, kurį iš jos pasiėmiau. Iš tiesų, eskizas kartais [...]]]></description>
 			<content:encoded><![CDATA[<p>Neseniai perskaičiau Bill Buxton knygą <a href="http://www.amazon.com/Sketching-User-Experiences-Interactive-Technologies/dp/0123740371/ref=sr_1_1?ie=UTF8&#038;s=books&#038;qid=1250629470&#038;sr=8-1">&#8220;Sketching User Experiences&#8221;</a>. Nepaisant to, kad aš jau seniai vertinu prototipų gamybą, kai tai leidžia biudžetas, knyga atvėrė akis, tuo kad prototipų daryti pačioje pradžioje išvis nereikia &#8211; užtenka tiesiog eskizų. Būtent tas atskyrimas tarp eskizų ir prototipų ir yra esminis dalykas, kurį iš jos pasiėmiau. Iš tiesų, eskizas kartais gali būti daug vertingesnis negu pats prototipas, dėl savo savybių.</p>
 <h2>Pigumas</h2>
@@ -76,21 +76,21 @@ Būti <i>front-end</i> programuotoju yra <strong><i>OSAM</i></strong>. <i>Osam</
 <h2>Neišbaigtumas</h2>
 <p>Nepaisant to, kad darant greitą &#8220;tep lep&#8221; darbą rezultatas niekada nebus patenkinamas, kuriant eskizus privalu išlaikyti tą stilių priverstinai. Netiesios linijos, nesulygiuotas tekstas ir mygtukai, jokių specialiųjų efektų &#8211; visa tai tiesiog šaukia &#8220;<strong>aš tik noriu sužadinti tavo vaizduotę</strong>&#8220;. Juk vieną kartą pamačius, geriau negu šimtą kartų išgirdus &#8211; tiek vidiniai, tiek išoriniai klientai idėjas priima lengviau, kai į jas gali pažiūrėti. Eskizai sumažina jų lūkesčius &#8211; kuriant prototipą dažnai per daug dėmesio skiriama detalėms. Pristatant eskizą, daug lengviau nuteikti žmogų, priimantį sprendimus, kad tai toli gražu nėra produktas, o tiesiog &#8220;dokumentuota idėja&#8221;.</p>
 <h2>Diskusija</h2>
-<p>Jeigu cituoti Billą Buxtoną, tai viena iš eskizo paskirčių yra užduoti klausimus, kai tuo tarpu prototipo &#8211; juos atsakyti. Iš šitos dalies, labai svarbu pasiimti tai, kad <strong>net drebančia ranka nupieštą eskizą galima panaudoti <a href="http://www.d-b.lt/2008/01/usability-lietuviskai-vartojiskumas.html" title="Usability">vartojiškumo</a> testams</strong> &#8211; ar produktas juda tinkama linkme? Ar tenkina vartotojo poreikius ir padeda siekti tikslų? Ar aišku, kas įvyks paspaudus vieną ar kitą nuorodą? Greitas, paprastas bandymas taipogi padeda įvertinti ir galimas kliūtis ateityje.</p>
-<p>Kaip programuotojas, turiu didelį aplanką mažų failų, kuriuose tėra po 10 eilučių kodo tam, kad tiesiog patikrinti <em>ar įmanoma</em>, kad paprastos idėjos tiesiog veiktų (su visomis naršyklėmis) &#8211; tiek <a href="http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html">hasFocus/activeElement</a>, tiek <a href="http://www.d-b.lt/2008/05/horizontalus-centravimas-su-css.html">horizontalaus centravimo</a> sprendimai gimė būtent iš to.</p>
+<p>Jeigu cituoti Billą Buxtoną, tai viena iš eskizo paskirčių yra užduoti klausimus, kai tuo tarpu prototipo &#8211; juos atsakyti. Iš šitos dalies, labai svarbu pasiimti tai, kad <strong>net drebančia ranka nupieštą eskizą galima panaudoti <a href="https://www.dominykas.lt/2008/01/usability-lietuviskai-vartojiskumas.html" title="Usability">vartojiškumo</a> testams</strong> &#8211; ar produktas juda tinkama linkme? Ar tenkina vartotojo poreikius ir padeda siekti tikslų? Ar aišku, kas įvyks paspaudus vieną ar kitą nuorodą? Greitas, paprastas bandymas taipogi padeda įvertinti ir galimas kliūtis ateityje.</p>
+<p>Kaip programuotojas, turiu didelį aplanką mažų failų, kuriuose tėra po 10 eilučių kodo tam, kad tiesiog patikrinti <em>ar įmanoma</em>, kad paprastos idėjos tiesiog veiktų (su visomis naršyklėmis) &#8211; tiek <a href="https://www.dominykas.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html">hasFocus/activeElement</a>, tiek <a href="https://www.dominykas.lt/2008/05/horizontalus-centravimas-su-css.html">horizontalaus centravimo</a> sprendimai gimė būtent iš to.</p>
 <p>Aukštesniame <i>Метод научного тыка</i> galioja bet kokiam darbui &#8211; įskaitant ir <i>user interaction</i> dizainą!</p>
 <h2>Dokumentacija</h2>
 <p>O dabar gali pasirodyti, kad prieštarauju pats sau. Nepaisant to, kad eskizai yra pigūs, jų nevalia išmesti. Vykdant projektą, svarbu turėti juos kaip istorinius duomenis &#8211; jeigu kartojimas yra mokslų motina, tai būtent žiūrint į savo klaidas ir pasikartojant kokios jos buvo, galima iš jų mokytis. Užrašai, anotacijos, atsiliepimai ir vertinimai &#8211; visą šią informaciją privalu išsaugoti ateičiai (dabar gali dar kartą pasirodyti, kad prieštarauju pats sau), nes ilgesniu laikotarpiu, viena iš eskizų paskirčių yra būtent nutraukti diskusijas, t.y. kiekvienas eskizo užduotas klausimas, ir kiekviena pateikta idėja turi būti atsakyta prieš pradedant tikrąjį darbą, kad išvengti bereikalingo laiko švaistymo grįžtant prie jau patikrintų problemų.</p>
 <p>Kas iš viso to? Ech&#8230; Prieš porą savaičių pats pačiulbėjau, kad <a href="http://twitter.com/dymonaz/status/3133443920">abstraktūs dalykai patys savaime neturi prasmės</a>. Reiškias ateina įrašas, su daugiau prasmės. Продолжение следует&#8230;</p>
 <p>PS žodis &#8220;vartojiškumas&#8221; yra tik eskizas. Vienas iš kelių variantų. Gal reiktų &#8220;š&#8221; pakeisti į &#8220;ž&#8221;, kad atrodytų neišbaigčiau? Imu jį į praktiką, žiūrėsim kas gausis &#8211; kiek galima apie tai vien galvoti ar kalbėti.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/08/eskizu-paskirtis.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/08/eskizu-paskirtis.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Formų validacija: netrukdyk man!</title>
-		<link>http://www.d-b.lt/2009/07/formu-validacija-netrukdyk-man.html</link>
-		<comments>http://www.d-b.lt/2009/07/formu-validacija-netrukdyk-man.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/07/formu-validacija-netrukdyk-man.html</link>
+		<comments>https://www.dominykas.lt/2009/07/formu-validacija-netrukdyk-man.html#comments</comments>
 		<pubDate>Tue, 14 Jul 2009 21:30:16 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -98,7 +98,7 @@ Būti <i>front-end</i> programuotoju yra <strong><i>OSAM</i></strong>. <i>Osam</
 		<category><![CDATA[usability]]></category>
 		<category><![CDATA[užknisantys dalykai internete]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=139</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=139</guid>
 		<description><![CDATA[Alanas Cooperis savo knygose pastoviai kartoja, kad blogiausias dalykas, kurį galima padaryti vartotojui, tai priversti jį jaustis kvailu. Bene lengviausia šį &#8220;tikslą&#8221; pasiekti yra validacijoje &#8211; kiekvienas bereikalingas klaidos pranešimas ir kiekviena sistema, kuri man trukdo daryti dalykus mano būdu, tiesiog ir verčia mane daužyti galvą į sieną su klausimu &#8220;Nu, kodėl šito reikia?&#8221; Šiandien [...]]]></description>
 			<content:encoded><![CDATA[<p><cite>Alanas Cooperis</cite> savo knygose pastoviai kartoja, kad blogiausias dalykas, kurį galima padaryti vartotojui, tai priversti jį jaustis kvailu. Bene lengviausia šį &#8220;tikslą&#8221; pasiekti yra validacijoje &#8211; kiekvienas bereikalingas klaidos pranešimas ir kiekviena sistema, kuri man trukdo daryti dalykus mano būdu, tiesiog ir verčia mane daužyti galvą į sieną su klausimu &#8220;<i>Nu</i>, kodėl šito reikia?&#8221; Šiandien aptikau puikų to pavyzdį:</p>
 <pre>function isNumberKey(evt)
@@ -120,13 +120,13 @@ Būti <i>front-end</i> programuotoju yra <strong><i>OSAM</i></strong>. <i>Osam</
 <p>Problema slypi tame, kad ribojama mano veiksmų laisvė. Neverta to daryti. Štai pvz. <code>textarea</code> elementas neturi <code>maxlength</code> atributo &#8211; galima to palaikymą sukurti su JS, bet daug geresnis variantas yra tiesiog parodyti kiek yra likę galimų įvesti simbolių, o <strong>klaidos pranešimą rodyti tik tada, kai klaida yra <em>tikrai</em> padaryta</strong>. Įsivaizduokite, jei Twitter neleistų įvesti daugiau negu 140 simbolių ir nesuteiktų galimybės redaguoti tekstą tol, kol jis telpa į juos.</p>
 <p>Lygiai taip ir šiuo validacijos atveju, derėtų leisti vartotojui spausti tuos klavišus, kuriuos jis nori spausti, o įvestus duomenis tikrinti tik tada, kai vartotojas pasako &#8220;taip, aš žinau, kad noriu tokius duomenis išsiųsti&#8221;, t.y. <code>onsubmit</code> įvykio metu, arba tiesiog <i>server-side</i>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/07/formu-validacija-netrukdyk-man.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/07/formu-validacija-netrukdyk-man.rss2.xml</wfw:commentRss>
 		<slash:comments>3</slash:comments>
 		</item>
 		<item>
 		<title>Kuo, jei ne skaičiais, paremti sprendimus?</title>
-		<link>http://www.d-b.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html</link>
-		<comments>http://www.d-b.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html</link>
+		<comments>https://www.dominykas.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html#comments</comments>
 		<pubDate>Mon, 23 Mar 2009 01:37:47 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Filosofija]]></category>
@@ -135,7 +135,7 @@ Būti <i>front-end</i> programuotoju yra <strong><i>OSAM</i></strong>. <i>Osam</
 		<category><![CDATA[sprendimai]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html</guid>
 		<description><![CDATA[Penktadienį, prieš pat prasidedant beer o&#8217;clock, bendradarbis parodė vieno iš (dabar jau buvusių) Google dizainerių atsisveikinimo laišką. Jame Douglas Bowman nurodo ir darbo keitimo priežastį &#8211; Google priimdama dizaino sprendimus remiasi skaičiais. Pirma visų reakcija į tą įrašą buvo užuojauta &#8211; &#8220;vargšas menininkas užspaustas gigantiškoje tikslumo mašinoje&#8221;. Tačiau šalin jausmus &#8211; kuo gi daugiau besiremsi?
 Grožis [...]]]></description>
 			<content:encoded><![CDATA[<p>Penktadienį, prieš pat prasidedant beer o&#8217;clock, bendradarbis parodė vieno iš (dabar jau buvusių) Google dizainerių <a href="http://stopdesign.com/archive/2009/03/20/goodbye-google.html">atsisveikinimo laišką</a>. Jame Douglas Bowman nurodo ir darbo keitimo priežastį &#8211; Google priimdama dizaino sprendimus remiasi skaičiais. Pirma visų reakcija į tą įrašą buvo užuojauta &#8211; &#8220;vargšas menininkas užspaustas gigantiškoje tikslumo mašinoje&#8221;. Tačiau šalin jausmus &#8211; kuo gi daugiau besiremsi?</p>
@@ -150,13 +150,13 @@ Grožis [...]]]></description>
 <p>Aš turbūt sutinku, kad testuoti 41 mėlynos spalvos atspalvį yra gal kiek per daug ekstremalu, tačiau turint lėšų ir laiko pasitikrinti, kuris rėmelis &#8211; 3 ar 5 pikselių pločio &#8211; veikia geriau, yra tiesiog prideramas rūpestis. Man labai keista, kad pasaulyje išvis dar yra žmonių, kurie net po A/B testo nori ginčytis.</p>
 <p>Tačiau jeigu vistik kažkas mano, kad nereikia vadovautis tyrimu, kuris sako, kad pasirinkus variantą A, pardavimai išaugs 10%, tai jie visada turi alternatyvą &#8211; gali nenustojant bumbėti apie žmones, kurie &#8220;tiesiog nesupranta&#8221;. Arba bandyti perauklėti tuos 95% visuomenės, kurie kažkodėl elgiasi ne taip kaip tu.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.rss2.xml</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 		<item>
 		<title>Mes gyvenam aukštyn kojom</title>
-		<link>http://www.d-b.lt/2008/04/mes-gyvenam-aukstyn-kojom.html</link>
-		<comments>http://www.d-b.lt/2008/04/mes-gyvenam-aukstyn-kojom.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/04/mes-gyvenam-aukstyn-kojom.html</link>
+		<comments>https://www.dominykas.lt/2008/04/mes-gyvenam-aukstyn-kojom.html#comments</comments>
 		<pubDate>Wed, 30 Apr 2008 20:47:40 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Filosofija]]></category>
@@ -165,19 +165,19 @@ Grožis [...]]]></description>
 		<category><![CDATA[smalsumas]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/04/mes-gyvenam-aukstyn-kojom.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/04/mes-gyvenam-aukstyn-kojom.html</guid>
 		<description><![CDATA[Viena iš usability rekomendacijų yra laikytis kultūrinių nuostatų, kaip pavyzdžiui &#8220;į kairę reiškia prieš laikrodžio rodyklę&#8221;. Kodėl laikrodžiai sukasi būtent ta kryptimi? Manoma, kad taip yra tik todėl, kad saulė šiauriniame žemės pusrutulyje sukasi ta pačia kryptimi.
 Šioje vietoje man kyla klausimas &#8211; ar galima teigti, kad jeigu dominuojanti civilizacija būtų išsivysčiusi, sakykim, Australijoje, tai laikrodžiai [...]]]></description>
 			<content:encoded><![CDATA[<p>Viena iš usability rekomendacijų yra laikytis kultūrinių nuostatų, kaip pavyzdžiui &#8220;į kairę reiškia prieš laikrodžio rodyklę&#8221;. Kodėl laikrodžiai sukasi būtent ta kryptimi? Manoma, kad taip yra tik todėl, kad saulė šiauriniame žemės pusrutulyje sukasi ta pačia kryptimi.</p>
 <p>Šioje vietoje man kyla klausimas &#8211; ar galima teigti, kad jeigu dominuojanti civilizacija būtų išsivysčiusi, sakykim, Australijoje, tai laikrodžiai suktųsi į priešingą pusę. Jeigu taip &#8211; ar &#8220;į kairę&#8221; tada reikštų &#8220;pagal laikrodžio rodyklę&#8221;? Reikės matyt kraustytis į kitą pasaulio pusę ir studijuoti aborigenų kultūrą&#8230;</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/04/mes-gyvenam-aukstyn-kojom.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/04/mes-gyvenam-aukstyn-kojom.rss2.xml</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 		<item>
 		<title>Usability lietuviškai &#8211; vartojiškumas?</title>
-		<link>http://www.d-b.lt/2008/01/usability-lietuviskai-vartojiskumas.html</link>
-		<comments>http://www.d-b.lt/2008/01/usability-lietuviskai-vartojiskumas.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/01/usability-lietuviskai-vartojiskumas.html</link>
+		<comments>https://www.dominykas.lt/2008/01/usability-lietuviskai-vartojiskumas.html#comments</comments>
 		<pubDate>Tue, 29 Jan 2008 22:59:29 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Usability]]></category>
@@ -185,7 +185,7 @@ Grožis [...]]]></description>
 		<category><![CDATA[terminai]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/01/usability-lietuviskai-vartojiskumas.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/01/usability-lietuviskai-vartojiskumas.html</guid>
 		<description><![CDATA[Norėjau šiandien parašyti visai kitą įrašą, gimusį po diskusijos su kolega, kuris didelę gyvenimo dalį dirbo marketingo srityje, tačiau parašęs pirmus du pavadinimo žodžius &#8220;Marketingas prieš&#8221; sustojau &#8211; kaip usability būtų lietuviškai?
 Kiek daugiau nei prieš metus Laumaras, jau yra pradėjęs šią diskusiją. Viena lietuvių kompanija jau iš to bando daryti verslą ir parduota tai kaip [...]]]></description>
 			<content:encoded><![CDATA[<p>Norėjau šiandien parašyti visai kitą įrašą, gimusį po diskusijos su kolega, kuris didelę gyvenimo dalį dirbo marketingo srityje, tačiau parašęs pirmus du pavadinimo žodžius &#8220;Marketingas prieš&#8221; sustojau &#8211; kaip <i>usability</i> būtų lietuviškai?</p>
@@ -196,13 +196,13 @@ Kiek daugiau nei prieš metus Laumaras, jau yra pradėjęs šią diskusiją. Vie
 <p>Viena iš mano minčių naujam terminui būtų <strong>vartojiškumas</strong> (arba <strong>vartotiškumas</strong>). Sutinku, kad žodis yra absoliutus naujadaras ir skamba gana keistai, bet galbūt būtų įmanoma prie jo priprasti? Jis skamba panašiai kaip dalis <i>usability</i> kriterijų &#8211; &#8220;aiškumas&#8221;, taipogi siejasi su &#8220;žmogiškumu&#8221;: <strong>&#8220;vartojiškas&#8221; &#8211; &#8220;geras vartotojui, vartojimui&#8221;</strong>.</p>
 <p>Na ir paskutinis lašiukas: <a href="http://de.wikipedia.org/wiki/Benutzerfreundlichkeit">Benutzerfreundlichkeit</a> (vokiškai), <a href="http://es.wikipedia.org/wiki/Usabilidad">Usabilidad</a> (ispaniškai, nors panašiai ir prancūziškai, itališkai), <a href="http://da.wikipedia.org/wiki/Brugervenlighed">Brugervenlighed</a> (daniškai), <a href="http://mk.wikipedia.org/wiki/Употребливост">Употребливост</a> (makedonietiškai, kodėl rusiškai <a href="http://ru.wikipedia.org/wiki/Юзабилити">Юзабилити</a> &#8211; nesuprantu, nors <a href="http://blog.juokaz.com/">juozabilitis</a> visai nieko skamba), <a href="http://sv.wikipedia.org/wiki/Användbarhet">Användbarhet</a> (švediškai).</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/01/usability-lietuviskai-vartojiskumas.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/01/usability-lietuviskai-vartojiskumas.rss2.xml</wfw:commentRss>
 		<slash:comments>26</slash:comments>
 		</item>
 		<item>
 		<title>Paspausk mygtuką, kurį mes paslėpėm</title>
-		<link>http://www.d-b.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.html</link>
-		<comments>http://www.d-b.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.html</link>
+		<comments>https://www.dominykas.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.html#comments</comments>
 		<pubDate>Fri, 25 Jan 2008 11:19:52 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Usability]]></category>
@@ -210,26 +210,26 @@ Kiek daugiau nei prieš metus Laumaras, jau yra pradėjęs šią diskusiją. Vie
 		<category><![CDATA[thawte]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.html</guid>
 		<description><![CDATA[ Kodėl negalima buvo tiesiog įdėti tos pačios nuorodos ir dešinėje? Kodėl aš turiu perskaityti man visiškai nenaudinga tekstą, ir po to mestis į visiškai kitą svetainės vietą ir dar skrolinti į viršų? Ir po to suprasti, kad aš jau esu tame puslapyje į kurį man reikia nueiti!
 Beje, dar &#8211; kodėl apie šitą &#8220;raudoną dalyką&#8221; [...]]]></description>
-			<content:encoded><![CDATA[<p><img src='http://www.d-b.lt/uploads/2008/01/site-seal.png' alt='Thawte svetainė - Site Seal konfigūravimas' style="border:1px solid #ccc;float:right;margin-left: 10px;"/> Kodėl negalima buvo tiesiog įdėti tos pačios nuorodos ir dešinėje? Kodėl aš turiu perskaityti man visiškai nenaudinga tekstą, ir po to mestis į visiškai kitą svetainės vietą ir dar skrolinti į viršų? Ir po to suprasti, kad <strong>aš jau esu tame puslapyje</strong> į kurį man reikia nueiti!</p>
+			<content:encoded><![CDATA[<p><img src='https://www.dominykas.lt/uploads/2008/01/site-seal.png' alt='Thawte svetainė - Site Seal konfigūravimas' style="border:1px solid #ccc;float:right;margin-left: 10px;"/> Kodėl negalima buvo tiesiog įdėti tos pačios nuorodos ir dešinėje? Kodėl aš turiu perskaityti man visiškai nenaudinga tekstą, ir po to mestis į visiškai kitą svetainės vietą ir dar skrolinti į viršų? Ir po to suprasti, kad <strong>aš jau esu tame puslapyje</strong> į kurį man reikia nueiti!</p>
 <p>Beje, dar &#8211; kodėl apie šitą &#8220;<a href="https://www.thawte.com/ssl-digital-certificates/trusted-site-seal/siteseal_installation.html">raudoną dalyką</a>&#8221; man nebuvo pranešta el. paštu, kai sertifikatas buvo atnaujinamas? Sutvarkyti tokias problemėles daug vargo nereikia &#8211; max. 15 minučių darbo. Corporate įvaizdis, marketingas ir visa kita juk nenukenčia&#8230; <strong>Usability yra paprasta</strong>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/01/paspausk-mygtuka-kuri-mes-paslepem.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Steve Krug &#8211; Don&#8217;t Make Me Think</title>
-		<link>http://www.d-b.lt/2008/01/steve-krug-dont-make-me-think.html</link>
-		<comments>http://www.d-b.lt/2008/01/steve-krug-dont-make-me-think.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/01/steve-krug-dont-make-me-think.html</link>
+		<comments>https://www.dominykas.lt/2008/01/steve-krug-dont-make-me-think.html#comments</comments>
 		<pubDate>Sun, 13 Jan 2008 20:16:32 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Knygos]]></category>
 		<category><![CDATA[steve krug]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/01/steve-krug-dont-make-me-think.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/01/steve-krug-dont-make-me-think.html</guid>
 		<description><![CDATA[Šią knygą radau vienos kompanijos, kuriai kažkodėl jaučiu ganėtinai didelę pagarbą, rekomendacijų sąraše. Knyga yra ganėtinai trumpa ir ganėtinai brangi &#8211; iš viso mano Kalėdinių pirkinių sąrašo, turbūt šios knygos pinigai už puslapį būtų didžiausi. Iš vienos pusės &#8211; turiu abejonių, ar jie to verti, iš kitos pusės turiu pripažinti &#8211; tam tikros konsistencijos medžiagos [...]]]></description>
 			<content:encoded><![CDATA[<p>Šią knygą radau vienos kompanijos, kuriai kažkodėl jaučiu ganėtinai didelę pagarbą, rekomendacijų sąraše. Knyga yra ganėtinai trumpa ir ganėtinai brangi &#8211; iš viso mano Kalėdinių pirkinių sąrašo, turbūt šios knygos <i>pinigai už puslapį</i> būtų didžiausi. Iš vienos pusės &#8211; turiu abejonių, ar jie to verti, iš kitos pusės turiu pripažinti &#8211; <i>tam tikros konsistencijos medžiagos</i> knygoje tikrai nėra malamos, o patarimai yra efektyvūs. Vienintelė bėda &#8211; tuos patarimus aš iš esmės jau seniai žinojau, ir kiekvienas, kuris bent šiek tiek turi patirties kuriant interneto svetaines &#8211; turėtų juos būti suradęs pats. <em>(<a href="/2008/01/steve-krug-dont-make-me-think.html#ar-verta-20080113">Ar verta skaityti?</a>)</em></p>
 <h2>Bendrai paėmus&#8230;</h2>
@@ -246,20 +246,20 @@ Beje, dar &#8211; kodėl apie šitą &#8220;raudoną dalyką&#8221; [...]]]></de
 <h2 id="ar-verta-20080113">Ar verta skaityti?</h2>
 <p>Galutinis įvertinimas: <strong>jeigu turite galimybę &#8211; perskaitykite</strong>. Jeigu esate pradedantysis &#8211; suprasite tai ko nežinojote. Jeigu esate jau pažengęs &#8211; pažvelgsite giliau. Iš esmės, jeigu ruošiatės tvarkyti, keisti ar kurti naują didelį projektą &#8211; labai gerai peržvelgti patarimus prieš jo pradžią, taip užbėgant kai kuriems negerumams už akių. Nors analizė knygoje nėra gili &#8211; nepadarius to, ką rekomenduoja Steve Krug, niekada nepasieksite gero rezultato. Jeigu ruošiatės užsiimti usability testavimu plačiau &#8211; taipogi verta peržvelgti kaip tai galima daryti &#8211; <strong>knygoje apstu konkrečių pavyzdžių</strong>, kur analizuojamos egzistuojančios svetainės ir pateikiami paprasti būdai kaip jas patobulinti. Kita vertus, jeigu būtų keliamas klausimas &#8220;ar verta pirkti&#8221; šią knygą, turėčiau gerokai paabejoti&#8230;</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/01/steve-krug-dont-make-me-think.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/01/steve-krug-dont-make-me-think.rss2.xml</wfw:commentRss>
 		<slash:comments>4</slash:comments>
 		</item>
 		<item>
 		<title>Kas kaltas?</title>
-		<link>http://www.d-b.lt/2008/01/kas-kaltas.html</link>
-		<comments>http://www.d-b.lt/2008/01/kas-kaltas.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/01/kas-kaltas.html</link>
+		<comments>https://www.dominykas.lt/2008/01/kas-kaltas.html#comments</comments>
 		<pubDate>Sat, 05 Jan 2008 16:30:45 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Filosofija]]></category>
 		<category><![CDATA[the inmates are running the asylum]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/01/kas-kaltas.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/01/kas-kaltas.html</guid>
 		<description><![CDATA[Šiuo metu skaitau Alan&#8217;o Cooper&#8217;io &#8220;The Inmates Are Running The Asylum&#8220;. Knyga tiek gera, kad kartais norisi verkti. Kartu ji yra ir žiauri, ypač programuotojų atžvilgiu. Nesiginčyju &#8211; programuotojams nederėtų kurti interfeisų bei dizainų. Jiems nederėtų ir verslo valdyti. Kiekvienas žmogus turėtų daryti tai ką geriausiai sugeba ir išmano &#8211; o kitas sritis užleisti jų [...]]]></description>
 			<content:encoded><![CDATA[<p>Šiuo metu skaitau Alan&#8217;o Cooper&#8217;io &#8220;<a href="http://www.cooper.com/insights/books/#inmates">The Inmates Are Running The Asylum</a>&#8220;. Knyga tiek gera, kad kartais norisi verkti. Kartu ji yra ir žiauri, ypač programuotojų atžvilgiu. Nesiginčyju &#8211; programuotojams nederėtų kurti interfeisų bei dizainų. Jiems nederėtų ir verslo valdyti. Kiekvienas žmogus turėtų daryti tai ką geriausiai sugeba ir išmano &#8211; o kitas sritis užleisti jų profesionalams. Tačiau vistik &#8211; kas kaltas, kad pasaulyje šiuo metu yra tiek daug nepatogios programinės įrangos ar šiaip technikos prietaisų?</p>
 <ul>
@@ -273,13 +273,13 @@ Beje, dar &#8211; kodėl apie šitą &#8220;raudoną dalyką&#8221; [...]]]></de
 </ul>
 <p>Faktai ir nesėkmės receptas ganėtinai aiškūs &#8211; tačiau kieno galvos turėtų ristis dėl to, kad <strong>99% programinės įrangos niekada neišlaikys &#8220;mamos testo&#8221;</strong>? Jeigu ryšitės atsakyti į klausimą ir palikti komentarą, prašau, paminėkite ir savo profesiją.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/01/kas-kaltas.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/01/kas-kaltas.rss2.xml</wfw:commentRss>
 		<slash:comments>6</slash:comments>
 		</item>
 		<item>
 		<title>Samsung SGH-D880 DuoS</title>
-		<link>http://www.d-b.lt/2008/01/samsung-sgh-880-duos.html</link>
-		<comments>http://www.d-b.lt/2008/01/samsung-sgh-880-duos.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/01/samsung-sgh-880-duos.html</link>
+		<comments>https://www.dominykas.lt/2008/01/samsung-sgh-880-duos.html#comments</comments>
 		<pubDate>Fri, 04 Jan 2008 18:43:33 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Usability]]></category>
@@ -287,11 +287,11 @@ Beje, dar &#8211; kodėl apie šitą &#8220;raudoną dalyką&#8221; [...]]]></de
 		<category><![CDATA[telefonai]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/01/samsung-sgh-880-duos.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/01/samsung-sgh-880-duos.html</guid>
 		<description><![CDATA[Iš karto po Kalėdų atkeliavo mano dovana sau pačiam &#8211; pirmasis telefonas, iš padoraus gamintojo, kuris palaiko dvi SIM korteles vienu metu. Tik išpakavus, be abejo užplūdo džiaugsmas (na, išleidus 500 eurų, kitaip ir negalėjo būti) ir pirmasis įspūdis buvo tikrai neblogas &#8211; didelis ekranas, patogiai besispaudžiantys mygtukai, gražios spalvos ir garsai. Čia iki tol [...]]]></description>
 			<content:encoded><![CDATA[<p>Iš karto po Kalėdų atkeliavo mano dovana sau pačiam &#8211; <a href="http://www.samsung.ru/products/phones/duos/sgh-d880/">pirmasis telefonas, iš padoraus gamintojo, kuris palaiko dvi SIM korteles vienu metu</a>. Tik išpakavus, be abejo užplūdo džiaugsmas (na, išleidus 500 eurų, kitaip ir negalėjo būti) ir pirmasis įspūdis buvo tikrai neblogas &#8211; didelis ekranas, patogiai besispaudžiantys mygtukai, gražios spalvos ir garsai. Čia iki tol kol nepradėjau naudotis rimtai&#8230; Įrašas apie tai, kad <strong>net labai geros <em>techninės</em> idėjos, gali būti tikru pragaru vartotojui</strong> paprastame gyvenime.</p>
 <h2>Kodėl aš negaliu daryti ko noriu?</h2>
-<p><a href='http://www.d-b.lt/attachments/2008/01/mobilusis-telefonas-samsung-sgh-d880-duos.html' rel='attachment wp-att-22' title='Mobilusis telefonas Samsung SGH-D880 DuoS'><img src='http://www.d-b.lt/uploads/2008/01/samsung-sgh-d880-duos.png' alt='Mobilusis telefonas Samsung SGH-D880 DuoS' align="right" border="0" /></a> Jau žinojau, kad Samsung telefonai nėra patys draugiškiausi kūriniai. Pirmą kartą apie tai <a href="http://www.guardian.co.uk/Columnists/Column/0,,2026580,00.html">perskaičiau kovo mėnesį</a>, o vasarą teko skubiai nusipirkti &#8220;telefoną, kuris sugeba skambinti&#8221; &#8211; <a href="http://www.gsmarena.com/samsung_c300-1768.php">SGH-C300</a>, kuriuo naudojantis keikiausi sulig kiekviena vykdoma užduotim, net jei tai tebūtų elementariausias skambinimas.</p>
+<p><a href='https://www.dominykas.lt/attachments/2008/01/mobilusis-telefonas-samsung-sgh-d880-duos.html' rel='attachment wp-att-22' title='Mobilusis telefonas Samsung SGH-D880 DuoS'><img src='https://www.dominykas.lt/uploads/2008/01/samsung-sgh-d880-duos.png' alt='Mobilusis telefonas Samsung SGH-D880 DuoS' align="right" border="0" /></a> Jau žinojau, kad Samsung telefonai nėra patys draugiškiausi kūriniai. Pirmą kartą apie tai <a href="http://www.guardian.co.uk/Columnists/Column/0,,2026580,00.html">perskaičiau kovo mėnesį</a>, o vasarą teko skubiai nusipirkti &#8220;telefoną, kuris sugeba skambinti&#8221; &#8211; <a href="http://www.gsmarena.com/samsung_c300-1768.php">SGH-C300</a>, kuriuo naudojantis keikiausi sulig kiekviena vykdoma užduotim, net jei tai tebūtų elementariausias skambinimas.</p>
 <p>Pirma rimta užduotis, kurią reikėjo padaryti su DuoS&#8217;u &#8211; persikelti kontaktus. Kadangi jie buvo išmėtyti per tris telefonus ir tris korteles &#8211; nusprendžiau išbandyti kartu su telefonu pateiktą programinę įrangą. Didelė klaida&#8230; Samsung PC Studio sugeba sinchronizuoti duomenis tik su Outlook Express &#8211; o ką daryti jeigu aš naudoju Thunderbird? Na bet čia ne esmė &#8211; man vistiek pirmiau reikėjo viską susikelti į Excelį ir susitvarkyti, nes telefonas nesugebėjo atpažinti, kad tas pats kontaktas kartojasi abiejose įdėtose kortelėse.</p>
 <p>Taigi, eksportuojam į CSV ir&#8230; o kad tai būtų taip paprasta! Kažkodėl, kūrėjai nusprendė, kad į CSV galima eksportuoti <em>tik</em> tuos kontaktus, kurie jau nukopijuoti į PC &#8211; o tą kopijavimą reikia atlikti būdu, kuris lyg ir būtų panašus į paprastą copy-paste per clipboardą, tačiau nėra toks. <strong>Kodėl negalima tiesiog paspausti &#8220;Copy&#8221; ir paskui &#8220;Paste&#8221; jau Excelyje?</strong> Beje, Samsung telefonai turi dar vieną labai įdomią ypatybę &#8211; <strong>kontaktus galima perkelti iš SIM į telefoną, bet ne atvirkščiai</strong>.</p>
 <p>Visa tai bedarydamas, atradau dar vieną paslėptą <i>&#8220;feature&#8221;</i> sinchronizacijos programoje &#8211; <strong>jeigu telefono laidas atjungiamas, uždaromos visos aktyvios paketo programos</strong> &#8211; tame tarpe ir kalendorius, ir adresų knygelė. Reikia suprasti, kad neturint telefono ir USB laido prie savęs, kompiuteryje numerių pasižiūrėti nebūtina&#8230; Keista buvo ir paketo architektūra &#8211; visą laiką task bar&#8217;e bėganti programa, kurioje yra šešios didelės ikonos su nuorodomis į paketo &#8220;programas&#8221;, tačiau iš tų &#8220;programų&#8221; vienu metu gali dirbti tik vieną&#8230; Ne, bet iš tikro &#8211; na kam man žiūrint į organaizerį persijungti į telefonų knygelę. Spaudžiam uninstall ir meldžiamės, kad atrasčiau kokią nors alternatyvą Samsungams, panašią į <a href="http://www.fjsoft.at/en/">My Phone Explorer</a>.</p>
@@ -326,7 +326,7 @@ Beje, dar &#8211; kodėl apie šitą &#8220;raudoną dalyką&#8221; [...]]]></de
 <p>Nepaisant dar vieno sunkumo, kurį patiriu naudodamasis šiuo telefonu (sunku susigaudyti kada naudoti &#8220;OK&#8221; mygtuką patvirtinimui, o kada kairyjį soft klavišą), nustebau radęs kelias įdomesnes funkcijas. Tai anglų &#8211; rusų kalbų žodynas (kuriuo nemoku naudotis); pradėjus rašyti bet kokį numerį &#8211; iš karto vykdoma dalinė paieška adresų knygutėje pagal jį; nuostabus kalkuliatorius, aplenkiantis visų kitų gamintojų kalkuliatorius (matematiniai veiksmai priskirti kryptiniams klavišams, kai paprastai reikia juos pasirinkinėti atskirai iš meniu).</p>
 <p>Kaip ten bebūtų, <strong>jeigu tik galėčiau nesinaudoti šiuo telefonu &#8211; nesinaudočiau</strong>. Tačiau jo galimybės ir techniniai parametrai &#8211; įspūdingi. Išleisti pinigai &#8211; taipogi. Samsung rezultatas, be abejo, daug kartų geresnis, negu prieš tai išbandyto Samkung N77i (kinietiškas klonas, kurio analogą pristatė ir <a href="http://www.teltonika.lt/lt/">Teltonika</a>), tačiau jis vistiek stengiasi daryti viską, kad tik aš nepasiekčiau norimo rezultato.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/01/samsung-sgh-880-duos.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/01/samsung-sgh-880-duos.rss2.xml</wfw:commentRss>
 		<slash:comments>77</slash:comments>
 		</item>
 	</channel>

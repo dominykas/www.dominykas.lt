@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; seo</title>
-	<atom:link href="http://www.d-b.lt/tag/seo.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/seo.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>robots.txt mitai ir neteisingas naudojimas</title>
-		<link>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html</link>
-		<comments>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html#comments</comments>
+		<link>https://www.dominykas.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html</link>
+		<comments>https://www.dominykas.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html#comments</comments>
 		<pubDate>Mon, 04 Feb 2013 20:05:08 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -31,12 +31,12 @@
 		<category><![CDATA[seo]]></category>
 		<category><![CDATA[užknisantys dalykai internete]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=426</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=426</guid>
 		<description><![CDATA[Anądien pliuse išsiliejau apie tai, kad dėl neaiškių priežasčių paieškos [ir kitokiems] robotams pusė Seimo svetainės yra &#8220;uždraustas turinys&#8221;. To rezultatas labai paprastas &#8211; ieškant, pvz., &#8220;PVM įstatymas&#8221; rezultatuose pirmu numeriu yra nuoroda į būtent tą įstatymą, tačiau nepateikiamas puslapio pavadinimas irba santrauka:
- 
+
 Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &#8211; pastebėjau [...]]]></description>
 			<content:encoded><![CDATA[<p>Anądien <a href="https://plus.google.com/100293756761145273349/posts/BAaQjp2bjns">pliuse išsiliejau</a> apie tai, kad dėl neaiškių priežasčių paieškos [ir kitokiems] robotams pusė Seimo svetainės yra &#8220;uždraustas turinys&#8221;. To rezultatas labai paprastas &#8211; ieškant, pvz., &#8220;PVM įstatymas&#8221; rezultatuose pirmu numeriu yra nuoroda į būtent tą įstatymą, tačiau nepateikiamas puslapio pavadinimas irba santrauka:</p>
-<p style="text-align:center;"><a href="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-google.png"><img src="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-google-300x217.png" alt="" title="Google paieškos rezultatas" width="250" class="aligncenter size-medium wp-image-428" /></a> <a href="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-bing.png"><img src="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-bing-300x173.png" alt="" title="Bing paieškos rezultatas" width="250" /></a></p>
+<p style="text-align:center;"><a href="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-google.png"><img src="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-google-300x217.png" alt="" title="Google paieškos rezultatas" width="250" class="aligncenter size-medium wp-image-428" /></a> <a href="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-bing.png"><img src="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-bing-300x173.png" alt="" title="Bing paieškos rezultatas" width="250" /></a></p>
 <p>Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &#8211; pastebėjau keistų dėsningumų. Kaip ir kas kartą, kai <del>rašau</del> mąstau apie SEO, viskas susiveda į keletą paprastų taisyklių, kurių pati svarbiausia yra &#8220;Daryk taip, kad būtų gerai vartotojams, o robotai atsirinks viską taip, kaip reikia&#8221;.</p>
 <h3>Mitas: robots.txt padės paslėpti nepageidaujamus puslapius</h3>
 <p>Realybė: jeigu kažkokia informacija neturi būti vieša, nedėk jos į internetą. Paprasta kaip du kart du. Jeigu kažkoks puslapis egzistuoja kažkokioje iš išorės prieinamoje svetainėje &#8211; informacija yra prieinama visiems. Jeigu yra bent viena nuoroda į tą turinį &#8211; paieškos robotai suindeksuos vien patį nuorodos egzistavimo faktą ir iš to padarys išvadas. Jeigu nuorodų į tą turinį yra daug, tai tas puslapis netgi bus rodomas pirmu rezultatu paieškoje, lygiai taip, kaip matosi iš aukščiau pateikto pavyzdžio apie PVM įstatymą.</p>
@@ -70,20 +70,20 @@ Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &
 </ul>
 <p>Pabaigai &#8211; jeigu LRS atveju, įtariu, blokavimas atsirado netyčia, greičiausiai dėl sistemų perkonfigūravimo ar atnaujinimo, tai, pvz., <a href="http://www.vlkk.lt/robots.txt">VLKK</a> ar <a href="http://www.lkpt.lt/robots.txt">kelių policijos</a> atvejai mane verčia rautis plaukus &#8211; kodėl svetainės užblokuotos <em>visiškai</em>?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>SEO: teksto šviežumo įtaka</title>
-		<link>http://www.d-b.lt/2008/06/seo-teksto-sviezumo-itaka.html</link>
-		<comments>http://www.d-b.lt/2008/06/seo-teksto-sviezumo-itaka.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/06/seo-teksto-sviezumo-itaka.html</link>
+		<comments>https://www.dominykas.lt/2008/06/seo-teksto-sviezumo-itaka.html#comments</comments>
 		<pubDate>Sun, 08 Jun 2008 21:13:04 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
 		<category><![CDATA[google]]></category>
 		<category><![CDATA[seo]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/06/seo-teksto-sviezumo-itaka.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/06/seo-teksto-sviezumo-itaka.html</guid>
 		<description><![CDATA[Šiandien sprendžiau vieną problemėlę (IE6 su JS keičiant &#60;iframe&#62;.src nieko nevyksta). Be abejo, vietoj to, kad naudotis savo galva, visų pirma išnaršiau Google rezultatus šita tema. Paskutiniu metu vis dažniau pastebiu, kad Google pateikiami rezultatai mane vis rečiau patenkinta iš pirmo karto, pirmame puslapyje. Šiuo atveju, turėjau labai stiprią nuojautą, kad man rodomi naujesni rezultatai, [...]]]></description>
 			<content:encoded><![CDATA[<p>Šiandien sprendžiau vieną problemėlę (IE6 su JS keičiant <code>&lt;iframe&gt;.src</code> nieko nevyksta). Be abejo, vietoj to, kad naudotis savo galva, visų pirma išnaršiau Google rezultatus šita tema. Paskutiniu metu vis dažniau pastebiu, kad <strong>Google pateikiami rezultatai mane vis rečiau patenkinta</strong> iš pirmo karto, pirmame puslapyje. Šiuo atveju, turėjau labai stiprią nuojautą, kad man rodomi naujesni rezultatai, o senesni paslepiami.</p>
 <p>Be abejo, ta nuojauta yra paremta kita nuojauta &#8211; nejaugi nuo 2002-2003 metų, kai IE6 tapo populiariausia naršykle, niekam nereikėjo pakeisti <code>&lt;iframe&gt;</code> turinio naudojantis JavaScript? Nejaugi tokia įdomi &#8220;klaida&#8221; gali būti nepastebėta iki šiemet? <strong>Pirmieji Google SERP rezultatai buvo įrašai sukurti šiemet ar pernai</strong>. Tuo tarpu nei viename iš jų nebuvo &#8220;teisingo&#8221; problemos sprendimo &#8211; visi puikiai veikė po Firefox ar IE7, tačiau kuo toliau, tuo mažiau žmonių rūpinasi IE6 palaikymu. Natūrali tendencija &#8211; atsidarius naujesnes svetaines su IE5.x (ypač Mac) galima pamatyti labai įdomių grožybių, nors šios naršyklės &#8220;baigė galioti&#8221; vos prieš 2-4 metus.</p>
@@ -91,13 +91,13 @@ Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &
 <p>Išvada gana paprasta. Kartais aš nerašau savo blog&#8217;e dėl to, kad kažkas apie tai jau rašė &#8211; nesinori kartotis, taip pat nesinori atrodyti tokiu, kur bando kažkam plauti smegenis kažko kalimu į galvą (nors reikėtų&#8230;) Tačiau tas, kas parašė paskutinis amžinai aktualiomis temomis, visada bus teisesnis! Bent jau Google akyse. <strong>Kartotis, matyt, nėra taip jau blogai</strong>.</p>
 <p><strong>PS. IFRAME problemos sprendimas</strong>. Kam naudoti <code>onclick</code> ir bandyti pakeisti <code>iframe.src</code>, jeigu galima sukurti <code>&lt;a href="???"&gt;</code> ir viso to išvengti? <a href="http://thedailywtf.com/">The Daily WTF</a> verta problema. <strong>Savo galvą naudoti kartais geriau negu Google!</strong></p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/06/seo-teksto-sviezumo-itaka.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/06/seo-teksto-sviezumo-itaka.rss2.xml</wfw:commentRss>
 		<slash:comments>5</slash:comments>
 		</item>
 		<item>
 		<title>Spauskite čia ir niekam tikę pavadinimai</title>
-		<link>http://www.d-b.lt/2008/03/spauskite-cia-ir-niekam-tike-pavadinimai.html</link>
-		<comments>http://www.d-b.lt/2008/03/spauskite-cia-ir-niekam-tike-pavadinimai.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/03/spauskite-cia-ir-niekam-tike-pavadinimai.html</link>
+		<comments>https://www.dominykas.lt/2008/03/spauskite-cia-ir-niekam-tike-pavadinimai.html#comments</comments>
 		<pubDate>Wed, 26 Mar 2008 17:32:37 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -106,7 +106,7 @@ Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &
 		<category><![CDATA[seo]]></category>
 		<category><![CDATA[url]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/03/spauskite-cia-ir-niekam-tike-pavadinimai.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/03/spauskite-cia-ir-niekam-tike-pavadinimai.html</guid>
 		<description><![CDATA[Kartais, kai labai užknisa dirbti, einu pažaisti su Google &#8211; man tai yra tas pats kas sekretorei Solitaire. Mėgstamiausi žaidimo būdai &#8211; pasižiūrėti kas karšta ir atsitiktinės paieškos eilutės.
 Šiandien paieškojau &#8220;click here&#8221; &#8211; pirmos vietos rezultatas turbūt neturėtų nieko stebinti. &#8220;Spauskite čia&#8221; rezultatai yra gerokai įdomesni &#8211; kodėl pirmoje vietoje yra Euro ir Egipto svaro [...]]]></description>
 			<content:encoded><![CDATA[<p>Kartais, kai labai užknisa dirbti, einu pažaisti su Google &#8211; man tai yra tas pats kas sekretorei Solitaire. Mėgstamiausi žaidimo būdai &#8211; pasižiūrėti <a href="http://www.google.com/trends/hottrends?sa=X">kas karšta</a> ir atsitiktinės paieškos eilutės.</p>
@@ -119,13 +119,13 @@ Searches related to: <strong>click here</strong><br />
 </blockquote>
 <p><strong>Niekam tikę produktų pavadinimai</strong> mane kamuoja daug labiau ir yra kenksmingesni jų kūrėjams. Keletas pavyzdžių: <a href="http://www.lost.lt/">Lost</a> serialas tapo pakankamai populiariu, kad toks bendrinis ir trumpas žodis būtų nesvarbus ieškant (ir randant), tačiau kaip manote, ar grupė pasivadinusi &#8220;<a href="http://en.wikipedia.org/wiki/Chk_Chk_Chk">!!!</a>&#8221; kada nors bus populiari? <a href="http://www.google.com/search?q=!!!">Atsakymas Google paieškoje</a>. Įmonė besivadinanti &#8220;<a href="http://www.version1.com/">Version 1</a>&#8221; greičiausiai ką nors slepia &#8211; sėkmės randant kokios nors informacijos apie ją, o ne apie atsitikinę programinę įrangą. Gal kas žinot kokių nors lietuviškų pavyzdžių į šitą temą?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/03/spauskite-cia-ir-niekam-tike-pavadinimai.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/03/spauskite-cia-ir-niekam-tike-pavadinimai.rss2.xml</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 		<item>
 		<title>Piktai apie Delfi paiešką</title>
-		<link>http://www.d-b.lt/2007/12/piktai-apie-delfi-paieska.html</link>
-		<comments>http://www.d-b.lt/2007/12/piktai-apie-delfi-paieska.html#comments</comments>
+		<link>https://www.dominykas.lt/2007/12/piktai-apie-delfi-paieska.html</link>
+		<comments>https://www.dominykas.lt/2007/12/piktai-apie-delfi-paieska.html#comments</comments>
 		<pubDate>Tue, 11 Dec 2007 16:19:47 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[IT]]></category>
@@ -134,20 +134,20 @@ Searches related to: <strong>click here</strong><br />
 		<category><![CDATA[piktai]]></category>
 		<category><![CDATA[seo]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/piktai-apie-delfi-paieska.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/piktai-apie-delfi-paieska.html</guid>
 		<description><![CDATA[Be abejo specializuota paieška Lietuvoje yra geras dalykas. Ir konkurencija Gūglui yra geras dalykas. Ir šiaip džiugu matyti, kad ir lietuviai sugeba išnaudoti savo vartotojus pateikdami jiems platesnes galimybes. Tačiau vienas dalykas, kurį daro Delfi paieškos variklis, mane labai pykdo.
 Neatsimenu, kada pirmą kartą pastebėjau, kad Google paieškoje randu Delfi paieškos kešą &#8211; t.y. puslapius kaip [...]]]></description>
 			<content:encoded><![CDATA[<p>Be abejo specializuota paieška Lietuvoje yra geras dalykas. Ir konkurencija Gūglui yra geras dalykas. Ir šiaip džiugu matyti, kad ir lietuviai sugeba išnaudoti savo vartotojus pateikdami jiems platesnes galimybes. Tačiau vienas dalykas, kurį daro <a href="http://search.delfi.lt/">Delfi paieškos variklis</a>, mane labai pykdo.</p>
 <p>Neatsimenu, kada pirmą kartą pastebėjau, kad Google paieškoje randu Delfi paieškos kešą &#8211; t.y. puslapius <a href="http://search.delfi.lt/cache.php?id=78DA24032B5E68D7" rel="nofollow">kaip šis</a>. Šiaip iš esmės bent jau Google su <i>duplicate content</i> tvarkosi neblogai ir aš netgi neprieštarauju tam, kad Delfi kešintų mano puslapius &#8211; veikimo principas galų gale toks. Aš netgi džiaugiuosi iniciatyva, kad jie parodo savo sukešintą versiją. Tačiau iš mandagumo jie galėtų uždėti noindex/nofollow tokiems rezultatams &#8211; taip kaip tai daro ir rekomenduoja <a href="http://www.mattcutts.com/blog/search-results-in-search-results/">Google ir YouTube</a>.</p>
 <p>Labai džiugu, kad Delfi pateikia šiek tiek <a href="http://search.delfi.lt/?c=crawler">informacijos webmasteriams</a>, ir netgi kontaktų nuorodą, tačiau konkretaus ryšio kanalo nėra &#8211; el. pašto adresai yra bendrieji (info ir biuras). Bandysiu parašyti, pasiteirauti &#8211; rezultatus (arba jų nebuvimą) pranešiu. Nesinorėtų spręsti dilemos &#8220;buvimas Delfi rezultatuose&#8221; prieš &#8220;duplicate content&#8221;. Pačiam Delfi interesas irgi turėtų būti &#8211; susitvarkyti iki tol, kol kiti paieškos varikliai pradės juos bausti.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2007/12/piktai-apie-delfi-paieska.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2007/12/piktai-apie-delfi-paieska.rss2.xml</wfw:commentRss>
 		<slash:comments>6</slash:comments>
 		</item>
 		<item>
 		<title>Noriu pastovios adresų ir turinio struktūros</title>
-		<link>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</link>
-		<comments>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comments</comments>
+		<link>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</link>
+		<comments>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html#comments</comments>
 		<pubDate>Mon, 10 Dec 2007 21:34:36 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -157,10 +157,10 @@ Neatsimenu, kada pirmą kartą pastebėjau, kad Google paieškoje randu Delfi pa
 		<category><![CDATA[seo]]></category>
 		<category><![CDATA[url]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html</guid>
 		<description><![CDATA[Praėjusiame įraše privėliau filosofijos apie URL prasmę iš web skaitytojo pozicijos. Senamadiško, techniško ir well&#8230; geekiško web skaitytojo pozicijos &#8211; iš esmės tai, ko aš tikiuosi iš adresų, kuriuos &#8220;sukuria&#8221; kiti. Šiame įraše dar keletas pastabų, kurių nedera pamiršti tinklapio administratoriui.
 Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją reikės keisti. Štai WP nėra [...]]]></description>
-			<content:encoded><![CDATA[<p><a href="http://www.d-b.lt/2007/12/noriu-padorios-adresu-strukturos.html">Praėjusiame įraše</a> privėliau filosofijos apie URL prasmę iš web skaitytojo pozicijos. Senamadiško, techniško ir <i>well</i>&#8230; geekiško web skaitytojo pozicijos &#8211; iš esmės tai, ko aš tikiuosi iš adresų, kuriuos &#8220;sukuria&#8221; kiti. Šiame įraše dar keletas pastabų, kurių nedera pamiršti tinklapio administratoriui.</p>
+			<content:encoded><![CDATA[<p><a href="https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.html">Praėjusiame įraše</a> privėliau filosofijos apie URL prasmę iš web skaitytojo pozicijos. Senamadiško, techniško ir <i>well</i>&#8230; geekiško web skaitytojo pozicijos &#8211; iš esmės tai, ko aš tikiuosi iš adresų, kuriuos &#8220;sukuria&#8221; kiti. Šiame įraše dar keletas pastabų, kurių nedera pamiršti tinklapio administratoriui.</p>
 <p>Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją <strong>reikės keisti</strong>. Štai WP nėra pritaikytas PHP5 &#8211; ką jau bekalbėti apie PHP6, be to laikas nuo laiko išeina naujos jo versijos. Ir apskritai soft&#8217;as nėra amžinas &#8211; jo keitimas yra tiesiog garantuotas ilgalaikiu laikotarpiu. Tuo tarpu renkantis svetainės struktūrą reikėtų atsiminti, kad jos keitimas gali brangiai kainuoti. Renkantis adresų struktūrą visų svarbiausia įsidėmėti, kad jos keitimas užtruks ilgą laiką &#8211; tokio pragaro nelinkiu niekam.</p>
 <h2>Robotams ir vartotojams</h2>
 <p>Pirma adreso taisyklė SEO (einanti po nulinės &#8220;prikišk daug keywordų&#8221;) &#8211; jis neturėtų keistis ir idealiame pasaulyje turėtų būti amžinas. Jeigu jis pasikeitė &#8211; be abejo galima sudėlioti teisingus HTTP redirektus (301 Moved Permanently į naują adresą, vėliau laikui bėgant pakeisti į 410 Gone). Tačiau net su redirektais, adreso keitimas užsitraukia paieškos robotų nemalonę. Pavyzdys iš realybės: dar dabar kai kurie paieškos varikliai yra sucache&#8217;inę seno mano darbovietės puslapio variantą su ASP adresais ir nenori jo užmiršti. Keitimas įvyko prieš 2 metus. </p>
@@ -171,7 +171,7 @@ Renkantis turinio valdymo sistemą, visada dera įvertinti tai, kad ją reikės 
 <p>Paprasto sprendimo šiai problemai nėra, tačiau tiek kategorijos, tiek archyvai blog&#8217;e tėra rodyklės (<i>turinys, index, sugalvok savo žodį</i>) &#8211; todėl jie ir turėtų elgtis kaip tokie. Kadangi blog&#8217;as pagal savo <i>definitioną</i> yra chronologinis dalykas, manau, kad vienas iš mažiausiai kenksmingų variantų būtų rodyti kategorijos (tago) puslapyje kelis paskutinius įrašus, o toliau leisti browsinti pagal datą &#8211; jeigu kategorija (ar visas blogas) ganėtinai aktyvus &#8211; rodyti sakykim mėnesio įrašus, jeigu mažiau aktyvus &#8211; rodyti visus metų įrašus, taip atsikratant puslapiavimo poreikio, o tuo pačiu &#8211; niekam tikusių puslapiuotų adresų.</p>
 <p>Adreso bei turinio pastovumas ir &#8220;patikimas&#8221; buvo dvi esminės problemos, kurios mane ilgiausiai stabdė paleidžiant savo blog&#8217;ą &#8211; norėjosi skirti pakankamai laiko apmąstymams ir šiaip dėsningumų įvertinimui tam, kad nesigailėčiau tada kai pradėsiu pasitikėti <a href="http://habariproject.org/">Habari</a>. Artimiausiame įraše &#8211; mano apsisprendimas dėl struktūros.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.rss2.xml</wfw:commentRss>
 		<slash:comments>6</slash:comments>
 		</item>
 	</channel>

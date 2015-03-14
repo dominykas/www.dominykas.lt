@@ -6,8 +6,8 @@
 		>
 <channel>
 	<title>Comments on: Apie prioritetus ir kodo grožį</title>
-	<atom:link href="http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html</link>
+	<atom:link href="https://www.dominykas.lt/2010/09/apie-prioritetus-ir-kodo-grozi.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Sun, 18 Nov 2012 23:44:11 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -15,25 +15,25 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 		<item>
 		<title>By: Dalius</title>
-		<link>http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html/comment-page-1#comment-9339</link>
+		<link>https://www.dominykas.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html/comment-page-1#comment-9339</link>
 		<dc:creator>Dalius</dc:creator>
 		<pubDate>Sat, 05 Feb 2011 15:17:29 +0000</pubDate>
-		<guid isPermaLink="false">http://www.d-b.lt/?p=280#comment-9339</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=280#comment-9339</guid>
 		<description>Netyčia užklydau, rasi laiko parašyk kaip sekasi.</description>
 		<content:encoded><![CDATA[<p>Netyčia užklydau, rasi laiko parašyk kaip sekasi.</p>
 ]]></content:encoded>
 	</item>
 	<item>
 		<title>By: tmv</title>
-		<link>http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html/comment-page-1#comment-7572</link>
+		<link>https://www.dominykas.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html/comment-page-1#comment-7572</link>
 		<dc:creator>tmv</dc:creator>
 		<pubDate>Fri, 10 Sep 2010 16:05:40 +0000</pubDate>
-		<guid isPermaLink="false">http://www.d-b.lt/?p=280#comment-7572</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=280#comment-7572</guid>
 		<description>mano būtų kažkas panašaus:
 1. kodas turi būti tvarkingas
 2. minimalus ir elegantiškas
 3. dėl plėtimosi dažniausiai taip būna, kad reikia ir norisi perrašyti vietas kai pamatai parašytą kodą po kiek laiko
-4. veikimo greitis 
+4. veikimo greitis
 5. Patternai ir kita priklausomai ar tai atitiks 2 punktą
 apie accessibility nelabai galvoju, nes ne manau kad tai ne mano sritis</description>
 		<content:encoded><![CDATA[<p>mano būtų kažkas panašaus:<br />
@@ -47,20 +47,20 @@ apie accessibility nelabai galvoju, nes ne manau kad tai ne mano sritis</p>
 	</item>
 	<item>
 		<title>By: QQ</title>
-		<link>http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html/comment-page-1#comment-7552</link>
+		<link>https://www.dominykas.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html/comment-page-1#comment-7552</link>
 		<dc:creator>QQ</dc:creator>
 		<pubDate>Wed, 08 Sep 2010 12:07:12 +0000</pubDate>
-		<guid isPermaLink="false">http://www.d-b.lt/?p=280#comment-7552</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=280#comment-7552</guid>
 		<description>Na kaip kada. Dažnai, deja, kaip sykis žmonėms kurie naudojasi mokama už dėžių tampymą.. tai būna visko :) Bet vienas iš dažnių debatų su klientu - priversti jį dirbti ne visai patogiau vardan /greater good/, kuris dažnai sunkiai apčiuopiamas..</description>
 		<content:encoded><![CDATA[<p>Na kaip kada. Dažnai, deja, kaip sykis žmonėms kurie naudojasi mokama už dėžių tampymą.. tai būna visko :) Bet vienas iš dažnių debatų su klientu &#8211; priversti jį dirbti ne visai patogiau vardan /greater good/, kuris dažnai sunkiai apčiuopiamas..</p>
 ]]></content:encoded>
 	</item>
 	<item>
 		<title>By: Dominykas</title>
-		<link>http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html/comment-page-1#comment-7550</link>
+		<link>https://www.dominykas.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html/comment-page-1#comment-7550</link>
 		<dc:creator>Dominykas</dc:creator>
 		<pubDate>Wed, 08 Sep 2010 09:44:07 +0000</pubDate>
-		<guid isPermaLink="false">http://www.d-b.lt/?p=280#comment-7550</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=280#comment-7550</guid>
 		<description>Mano srity netrukdo :) Aš trukdau backendo developeriams su savo išmislais :)
 
 Šiaip dar prieš parašant pirmą kodo eilutę balansas tarp 1) ir 4) jau būna nuspręstas. Tada kodyjant jau tai kas nuspręsta darau iki smulkmenų, kurios nebūtinai net paminėtos reikalavimuose. Labiausiai kertasi su 8) ir gal su 7), bet dėl 7) aš praktiškai nesijaudinu.
@@ -73,10 +73,10 @@ Kitas dalykas, kad mūsų produktai turbūt kiek skiriasi - žmonėms, kurie nau
 	</item>
 	<item>
 		<title>By: QQ</title>
-		<link>http://www.d-b.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html/comment-page-1#comment-7549</link>
+		<link>https://www.dominykas.lt/2010/09/apie-prioritetus-ir-kodo-grozi.html/comment-page-1#comment-7549</link>
 		<dc:creator>QQ</dc:creator>
 		<pubDate>Wed, 08 Sep 2010 08:43:22 +0000</pubDate>
-		<guid isPermaLink="false">http://www.d-b.lt/?p=280#comment-7549</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=280#comment-7549</guid>
 		<description>O tavo srity 1) netrukdo visiems kitams punktams? Nes pas mus labai dažnai aukojam 1) vardan 2), 3) ir dalinai 5) bei 7).. Man asmeniškai 2) pats svarbiausias, ir labai sutinku su paskutiniu 9) sakiniu :)</description>
 		<content:encoded><![CDATA[<p>O tavo srity 1) netrukdo visiems kitams punktams? Nes pas mus labai dažnai aukojam 1) vardan 2), 3) ir dalinai 5) bei 7).. Man asmeniškai 2) pats svarbiausias, ir labai sutinku su paskutiniu 9) sakiniu :)</p>
 ]]></content:encoded>

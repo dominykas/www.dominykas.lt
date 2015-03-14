@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; žaluma</title>
-	<atom:link href="http://www.d-b.lt/tag/zaluma.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/zaluma.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Kaip &#8220;Lietuvos žinios&#8221; dezinformaciją skleidė</title>
-		<link>http://www.d-b.lt/2009/12/kaip-lietuvos-zinios-dezinformacija-skleide.html</link>
-		<comments>http://www.d-b.lt/2009/12/kaip-lietuvos-zinios-dezinformacija-skleide.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/12/kaip-lietuvos-zinios-dezinformacija-skleide.html</link>
+		<comments>https://www.dominykas.lt/2009/12/kaip-lietuvos-zinios-dezinformacija-skleide.html#comments</comments>
 		<pubDate>Wed, 09 Dec 2009 06:15:46 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Likęs gyvenimas]]></category>
@@ -29,7 +29,7 @@
 		<category><![CDATA[žaluma]]></category>
 		<category><![CDATA[žiniasklaida]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=219</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=219</guid>
 		<description><![CDATA[Vakar Delfi pamačiau straipsnį pavadinimu &#8220;Pasaulinis atšilimas: mitas sklaidosi&#8220;. Tikėjausi, kad bus pateikta rimtesnė analizė, apie tai, ką reiškia pastarųjų savaičių nutekėjusių laiškų skandalas. Ką pamačiau iš tikrųjų? Keletą žodžių apie tai ir krūvą atsitiktinių, melagingų, nepatikrintų ir juokingų &#8220;faktų&#8221;.
 Diskleimeris
 Man rūpi klimato kaita. Aš tikiu, kad žmonija yra kalta dėl to. Aš mėgstu gamtą ir [...]]]></description>
@@ -77,20 +77,20 @@ Man rūpi klimato kaita. Aš tikiu, kad žmonija yra kalta dėl to. Aš mėgstu 
 <h2>Ir dar truputis&#8230;</h2>
 <p>Mes išrausėme žemę. Išdeginome miškus. Priteršėme vandenynus. Gal jau laikas bent truputį susiimti ir apsikuopti? Aš neabejoju, kad mūsų išmetamosios dujos skatina šiltnamio efektą. Kas bus, jeigu iš tiesų prie to dar prisidės saulės aktyvumas? Natūralūs pokyčiai? Kiek žmonių turi <a href="http://www.oxfamireland.org/faceit/blog/?p=224">pradėti auginti bananus maistui</a> arba mirti iš bado, kad pagaliau atsibustume ir pažvelgtume į savo godumą? Ir kada žurnalistai pradės tikrinti faktus?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/12/kaip-lietuvos-zinios-dezinformacija-skleide.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/12/kaip-lietuvos-zinios-dezinformacija-skleide.rss2.xml</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 		<item>
 		<title>Žalių Naujų Metų!</title>
-		<link>http://www.d-b.lt/2008/01/zaliu-nauju-metu.html</link>
-		<comments>http://www.d-b.lt/2008/01/zaliu-nauju-metu.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/01/zaliu-nauju-metu.html</link>
+		<comments>https://www.dominykas.lt/2008/01/zaliu-nauju-metu.html#comments</comments>
 		<pubDate>Thu, 03 Jan 2008 18:12:27 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Likęs gyvenimas]]></category>
 		<category><![CDATA[sveikinimai]]></category>
 		<category><![CDATA[žaluma]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/01/zaliu-nauju-metu.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/01/zaliu-nauju-metu.html</guid>
 		<description><![CDATA[Dar nevėlu rašyti naujametes rezoliucijas ir sveikinimus? Kaip ten bebūtų, kuriam laikui aprimsiu su &#8220;neprofesiniais&#8221; ir &#8220;neekspertiniais&#8221; įrašais &#8211; čia paskutinis iš jų ir grįžtam atgal į darbo ritmą.
 Kitiems metams prisirašiau sau daug asmeninių tikslų, kurie jums neįdomūs, tačiau vienas iš jų yra &#8220;tapti žalesniu&#8221;. Linkiu ir jums tuo užsiimti &#8211; daug nekainuoja, netgi galbūt [...]]]></description>
 			<content:encoded><![CDATA[<p>Dar nevėlu rašyti naujametes rezoliucijas ir sveikinimus? Kaip ten bebūtų, kuriam laikui aprimsiu su &#8220;neprofesiniais&#8221; ir &#8220;neekspertiniais&#8221; įrašais &#8211; čia paskutinis iš jų ir grįžtam atgal į darbo ritmą.</p>
@@ -98,7 +98,7 @@ Kitiems metams prisirašiau sau daug asmeninių tikslų, kurie jums neįdomūs, 
 <p>Neverta pasiduoti, net jeigu atrodo, kad &#8220;vienas nieko nepakeisi&#8221;. Juk štai kažkas padarė &#8220;ė iniciatyvą&#8221;, o aš pradėjau net čatuose naudoti lietuviškas raides &#8211; jeigu aktyviai rodysite pavyzdį (ne)šiukšlindami &#8211; galbūt bent vienas žmogus pasikeis. Neverta pasiduoti ir todėl, kad atrodo, kad &#8220;pats teršiu nedaug &#8211; automobiliai ir pramonė teršia daugiau&#8221;. Galbūt tas <strong>tavo lašas ir yra paskutinis</strong>, kurio reikia sugriauti žemės ekosistemai.</p>
 <p>Vakar važiuodamas iš oro uosto namo, per radiją išgirdau pokalbį apie Repak sukurtą <a href="http://carboncalc.repak.ie/">CO2 kalkuliatorių</a>. Kol kas jo pilnai neužpildžiau &#8211; reikia ganėtinai daug duomenų tam (pvz. dujų sąskaitų, kad pasitikrinti skaičius), tačiau būtinai tai padarysiu dar šią savaitę. Padarykite tai ir jūs &#8211; rezultate gausite kiek anglies dvideginio į orą išleidžiate jūs, o laikui bėgant galėsite stebėti ar darote progresą jį sumažinant. Jeigu aš ir jūs &#8211; visi trys mano skaitytojai &#8211; pasikeisime &#8211; galbūt <a href="http://en.wikipedia.org/wiki/Shutdown_of_thermohaline_circulation">Golfo srovė nesulėtės galutinai</a>, ir Airijoje man ir toliau bus šilta (globalinio atšilimo pašalinis efektas, galiojantis kai kurioms pasaulio dalims). Dėkoju.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/01/zaliu-nauju-metu.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/01/zaliu-nauju-metu.rss2.xml</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>

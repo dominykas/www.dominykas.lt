@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; paranoja</title>
-	<atom:link href="http://www.d-b.lt/tag/paranoja.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/paranoja.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Paranoja: HTML5</title>
-		<link>http://www.d-b.lt/2008/02/paranoja-html5.html</link>
-		<comments>http://www.d-b.lt/2008/02/paranoja-html5.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/02/paranoja-html5.html</link>
+		<comments>https://www.dominykas.lt/2008/02/paranoja-html5.html#comments</comments>
 		<pubDate>Tue, 05 Feb 2008 19:52:09 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -30,13 +30,13 @@
 		<category><![CDATA[paranoja]]></category>
 		<category><![CDATA[standartai]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/02/paranoja-html5.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/02/paranoja-html5.html</guid>
 		<description><![CDATA[Vakar pagaliau prisiverčiau atidžiai perskaityti prieš kelias savaites paskelbto HTML5 juodraščio skyrių apie skirtumus nuo HTML4. Skaičiau ir norėjau verkti. Kažko pastaruoju metu dažnai taip nutinka skaitant ką nors apie technologijas &#8211; matyt ištižėlis pasidariau&#8230; Arba tiesiog trūksta atostogų.
 O dėl verkimo, tai jis turi kelias labai konkrečias priežastis:
 
 Džiaugsmas, dėl tobulėjimo, naujų galimybių, semantiškumo;
 Nusivylimas, kad tai [...]]]></description>
-			<content:encoded><![CDATA[<p>Vakar pagaliau prisiverčiau atidžiai perskaityti prieš kelias savaites paskelbto HTML5 juodraščio skyrių apie <a href="http://www.w3.org/html/wg/html5/diff/">skirtumus nuo HTML4</a>. Skaičiau ir norėjau verkti. Kažko pastaruoju metu <a href="http://www.d-b.lt/2008/01/kas-kaltas.html">dažnai taip nutinka</a> skaitant ką nors apie technologijas &#8211; matyt ištižėlis pasidariau&#8230; Arba tiesiog <a href="http://www.visitmalta.com/">trūksta atostogų</a>.</p>
+			<content:encoded><![CDATA[<p>Vakar pagaliau prisiverčiau atidžiai perskaityti prieš kelias savaites paskelbto HTML5 juodraščio skyrių apie <a href="http://www.w3.org/html/wg/html5/diff/">skirtumus nuo HTML4</a>. Skaičiau ir norėjau verkti. Kažko pastaruoju metu <a href="https://www.dominykas.lt/2008/01/kas-kaltas.html">dažnai taip nutinka</a> skaitant ką nors apie technologijas &#8211; matyt ištižėlis pasidariau&#8230; Arba tiesiog <a href="http://www.visitmalta.com/">trūksta atostogų</a>.</p>
 <p>O dėl verkimo, tai jis turi kelias labai konkrečias priežastis:</p>
 <ul>
 <li><strong>Džiaugsmas</strong>, dėl tobulėjimo, naujų galimybių, semantiškumo;</li>
@@ -66,7 +66,7 @@ Nusivylimas, kad tai [...]]]></description>
 </blockquote>
 <p>Paguodžia todėl, kad jeigu Microsoft nesugebės to įdiegti 19.5 IE versijoje be klaidų &#8211; jie atsiliks. Virkdo dėl dviejų priežasčių. Pirma &#8211; Microsoft pasakys, kad standartas yra tai, kaip klaidos veikia 19.5 IE versijoje, o antra &#8211; tinklo kūrėjai pirmo žingsnio diegiant standartus negalės žengti, o naršyklių kūrėjai gali gerokai užtrukti priiminėdami sprendimus, nes visi kabės ore dėl galimų pasikeitimų standarto specifikacijoje.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/02/paranoja-html5.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/02/paranoja-html5.rss2.xml</wfw:commentRss>
 		<slash:comments>4</slash:comments>
 		</item>
 	</channel>

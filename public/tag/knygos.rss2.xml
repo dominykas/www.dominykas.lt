@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; Knygos</title>
-	<atom:link href="http://www.d-b.lt/tag/knygos.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/knygos.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,15 +20,15 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Twenty Major &#8211; The Order of the Phoenix Park</title>
-		<link>http://www.d-b.lt/2008/03/twenty-major-the-order-of-the-phoenix-park.html</link>
-		<comments>http://www.d-b.lt/2008/03/twenty-major-the-order-of-the-phoenix-park.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/03/twenty-major-the-order-of-the-phoenix-park.html</link>
+		<comments>https://www.dominykas.lt/2008/03/twenty-major-the-order-of-the-phoenix-park.html#comments</comments>
 		<pubDate>Tue, 25 Mar 2008 18:05:50 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Airija]]></category>
 		<category><![CDATA[humoras]]></category>
 		<category><![CDATA[Knygos]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/03/twenty-major-the-order-of-the-phoenix-park.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/03/twenty-major-the-order-of-the-phoenix-park.html</guid>
 		<description><![CDATA[Nusipirkau šitą knygą, perskaičiau ir šiek tiek nusivyliau, tad galvojau nieko nerašyti apie ją. Twenty Major man iš esmės patinka, todėl nesinorėjo per daug jo kritikuoti už klystkelius, tačiau perskaitęs paskutinį jo blog&#8217;o įrašą tarptautine tema ir garsiai nusikvatojęs persigalvojau.
 Kas?
 Twenty Major yra toks žmogus, kuris gyvena kažkur pietiniame Dubline, mėgsta laiką leisti Ron&#8217;s pube ir [...]]]></description>
@@ -40,7 +40,7 @@ Twenty Major yra toks žmogus, kuris gyvena kažkur pietiniame Dubline, mėgsta 
 <h2>Ar?</h2>
 <p>&#8230;perskaičius maždaug trečdalį pasidarė beprotiškai nuobodu &#8211; be abejo, norėjosi pabaigti ir įsitikinti kokiu būdu gauja draugų nugali piktuosius genijus, kurie primena Dr. Evil, tačiau bendrai paėmus, nepaisant konspiracijos dydžio ir absurdiškumo, pagrindinė istorija yra visiškas mėšlas. Kita vertus, turbūt kitko ir nereikėjo tikėtis? Liūdniausia, kad negyvenant Airijoje, šią knygą suprasti turbūt būtų per sunku. O gaila &#8211; autorius tikrai moka dėlioti žodžius ir sekti pasakas, bei yra vertas tarptautinio pripažinimo. Įdomu, kada atsiras kas nors panašaus Lietuvos blogosferoje?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/03/twenty-major-the-order-of-the-phoenix-park.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/03/twenty-major-the-order-of-the-phoenix-park.rss2.xml</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>

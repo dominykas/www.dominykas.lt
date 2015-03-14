@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; paieška</title>
-	<atom:link href="http://www.d-b.lt/tag/paieska.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/paieska.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>robots.txt mitai ir neteisingas naudojimas</title>
-		<link>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html</link>
-		<comments>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html#comments</comments>
+		<link>https://www.dominykas.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html</link>
+		<comments>https://www.dominykas.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html#comments</comments>
 		<pubDate>Mon, 04 Feb 2013 20:05:08 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -31,12 +31,12 @@
 		<category><![CDATA[seo]]></category>
 		<category><![CDATA[užknisantys dalykai internete]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=426</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=426</guid>
 		<description><![CDATA[Anądien pliuse išsiliejau apie tai, kad dėl neaiškių priežasčių paieškos [ir kitokiems] robotams pusė Seimo svetainės yra &#8220;uždraustas turinys&#8221;. To rezultatas labai paprastas &#8211; ieškant, pvz., &#8220;PVM įstatymas&#8221; rezultatuose pirmu numeriu yra nuoroda į būtent tą įstatymą, tačiau nepateikiamas puslapio pavadinimas irba santrauka:
- 
+
 Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &#8211; pastebėjau [...]]]></description>
 			<content:encoded><![CDATA[<p>Anądien <a href="https://plus.google.com/100293756761145273349/posts/BAaQjp2bjns">pliuse išsiliejau</a> apie tai, kad dėl neaiškių priežasčių paieškos [ir kitokiems] robotams pusė Seimo svetainės yra &#8220;uždraustas turinys&#8221;. To rezultatas labai paprastas &#8211; ieškant, pvz., &#8220;PVM įstatymas&#8221; rezultatuose pirmu numeriu yra nuoroda į būtent tą įstatymą, tačiau nepateikiamas puslapio pavadinimas irba santrauka:</p>
-<p style="text-align:center;"><a href="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-google.png"><img src="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-google-300x217.png" alt="" title="Google paieškos rezultatas" width="250" class="aligncenter size-medium wp-image-428" /></a> <a href="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-bing.png"><img src="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-bing-300x173.png" alt="" title="Bing paieškos rezultatas" width="250" /></a></p>
+<p style="text-align:center;"><a href="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-google.png"><img src="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-google-300x217.png" alt="" title="Google paieškos rezultatas" width="250" class="aligncenter size-medium wp-image-428" /></a> <a href="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-bing.png"><img src="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-bing-300x173.png" alt="" title="Bing paieškos rezultatas" width="250" /></a></p>
 <p>Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &#8211; pastebėjau keistų dėsningumų. Kaip ir kas kartą, kai <del>rašau</del> mąstau apie SEO, viskas susiveda į keletą paprastų taisyklių, kurių pati svarbiausia yra &#8220;Daryk taip, kad būtų gerai vartotojams, o robotai atsirinks viską taip, kaip reikia&#8221;.</p>
 <h3>Mitas: robots.txt padės paslėpti nepageidaujamus puslapius</h3>
 <p>Realybė: jeigu kažkokia informacija neturi būti vieša, nedėk jos į internetą. Paprasta kaip du kart du. Jeigu kažkoks puslapis egzistuoja kažkokioje iš išorės prieinamoje svetainėje &#8211; informacija yra prieinama visiems. Jeigu yra bent viena nuoroda į tą turinį &#8211; paieškos robotai suindeksuos vien patį nuorodos egzistavimo faktą ir iš to padarys išvadas. Jeigu nuorodų į tą turinį yra daug, tai tas puslapis netgi bus rodomas pirmu rezultatu paieškoje, lygiai taip, kaip matosi iš aukščiau pateikto pavyzdžio apie PVM įstatymą.</p>
@@ -70,13 +70,13 @@ Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &
 </ul>
 <p>Pabaigai &#8211; jeigu LRS atveju, įtariu, blokavimas atsirado netyčia, greičiausiai dėl sistemų perkonfigūravimo ar atnaujinimo, tai, pvz., <a href="http://www.vlkk.lt/robots.txt">VLKK</a> ar <a href="http://www.lkpt.lt/robots.txt">kelių policijos</a> atvejai mane verčia rautis plaukus &#8211; kodėl svetainės užblokuotos <em>visiškai</em>?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>URL magija: kodėl spemas atrodo kaip spemas?</title>
-		<link>http://www.d-b.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.html</link>
-		<comments>http://www.d-b.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.html</link>
+		<comments>https://www.dominykas.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.html#comments</comments>
 		<pubDate>Mon, 12 Jan 2009 23:31:20 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -84,31 +84,31 @@ Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &
 		<category><![CDATA[paieška]]></category>
 		<category><![CDATA[url]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.html</guid>
 		<description><![CDATA[Šiandien didžiąją dalį dienos praleidau visaip laužydamas Google Custom Search Engine. Viskas būtų labai paprasta &#8211; naudojam AJAX Search API, užkraunam JSONą (kai ateis laikas &#8211; XML), pagražinam ir išspjaunam viską į šabloną. Tačiau atsirado problema &#8211; paieškos rezultatų puslapis atrodė kaip spemas &#8211; žinot tuos tuščius domeinus, kuriuose nėra nieko išskyrus reklamą?
 
 Keičiau išdėstymą, šriftus, [...]]]></description>
 			<content:encoded><![CDATA[<p>Šiandien didžiąją dalį dienos praleidau visaip laužydamas <a href="http://www.google.com/coop/cse/">Google Custom Search Engine</a>. Viskas būtų labai paprasta &#8211; naudojam <a href="http://code.google.com/apis/ajaxsearch/documentation/reference.html#_intro_fonje">AJAX Search API</a>, užkraunam JSONą (kai ateis laikas &#8211; <a href="http://www.google.com/coop/docs/cse/resultsxml.html">XML</a>), pagražinam ir išspjaunam viską į šabloną. Tačiau atsirado problema &#8211; <strong>paieškos rezultatų puslapis atrodė kaip spemas</strong> &#8211; žinot tuos tuščius domeinus, kuriuose nėra nieko išskyrus reklamą?</p>
-<p style="text-align:center;"><a href='http://www.d-b.lt/attachments/2009/01/google-paieska-rezultatai-kaip-spemas.html' rel='attachment wp-att-73' title='Google paieška - rezultatai kaip spemas'><img src='http://www.d-b.lt/uploads/2009/01/rezultatai-spemas.png' alt='Google paieška - rezultatai kaip spemas' /></a></p>
+<p style="text-align:center;"><a href='https://www.dominykas.lt/attachments/2009/01/google-paieska-rezultatai-kaip-spemas.html' rel='attachment wp-att-73' title='Google paieška - rezultatai kaip spemas'><img src='https://www.dominykas.lt/uploads/2009/01/rezultatai-spemas.png' alt='Google paieška - rezultatai kaip spemas' /></a></p>
 <p>Keičiau išdėstymą, šriftus, <i>boldus</i>, <i>italikus</i>, paišiau linijas, siaurinau, platinau, didinau tuščią vietą ir mažinau. Niekas nepadėjo &#8211; rezultatai vis atrodė kaip kalnas reklamos. Kodėl? Prie API dokumentacijos yra pateiktas pavyzdys, kuriame kiekvienam rezultatai yra pateiktas maždaug toks kodas: <code>visibleUrl: "www.d-b.lt"</code> ir aš jį be abejo panaudojau.</p>
 <h2>Nebe spemas</h2>
 <p>Tačiau kas gunasi jeigu to pavyzdžio neklausome?</p>
-<p style="text-align:center;"><a href='http://www.d-b.lt/attachments/2009/01/apkarpyti-google-paieskos-rezultatai-nebe-spemas.html' rel='attachment wp-att-74' title='Apkarpyti Google paieškos rezultatai - nebe spemas!'><img src='http://www.d-b.lt/uploads/2009/01/rezultatai-ok.png' alt='Apkarpyti Google paieškos rezultatai - nebe spemas!' /></a></p>
+<p style="text-align:center;"><a href='https://www.dominykas.lt/attachments/2009/01/apkarpyti-google-paieskos-rezultatai-nebe-spemas.html' rel='attachment wp-att-74' title='Apkarpyti Google paieškos rezultatai - nebe spemas!'><img src='https://www.dominykas.lt/uploads/2009/01/rezultatai-ok.png' alt='Apkarpyti Google paieškos rezultatai - nebe spemas!' /></a></p>
 <p>Galbūt aš esu beprotiškai neteisus ir man paieškos langai per giliai įaugę į smegenis, tačiau laikui bėgant išsivystė instinktas &#8211; jeigu adrese pateikiamas tik domeino vardas &#8211; tai yra reklama. Jeigu adresas pateikiamas pilnas &#8211; tai yra galbūt visai nebloga svetainė. Tačiau kaip yra tais atvejais, kai rezultatas veda į titulinį puslapį?</p>
-<p style="text-align:center;"><a href='http://www.d-b.lt/attachments/2009/01/apkarpyti-google-rezultatai-vedantys-i-titulini.html' rel='attachment wp-att-75' title='Apkarpyti Google rezultatai, vedantys į titulinį'><img src='http://www.d-b.lt/uploads/2009/01/rezultatai-titulinis.png' alt='Apkarpyti Google rezultatai, vedantys į titulinį' /></a></p>
+<p style="text-align:center;"><a href='https://www.dominykas.lt/attachments/2009/01/apkarpyti-google-rezultatai-vedantys-i-titulini.html' rel='attachment wp-att-75' title='Apkarpyti Google rezultatai, vedantys į titulinį'><img src='https://www.dominykas.lt/uploads/2009/01/rezultatai-titulinis.png' alt='Apkarpyti Google rezultatai, vedantys į titulinį' /></a></p>
 <p>Šie rezultatai nuo AdWords ar kitų reklaminių skydelių skiriasi tik keliais simbolis &#8211; adreso pabaigoje yra <dfn title="Kas nors atsimena lietuvišką 'Hackerių' vertimą?">įžambus brūkšnys</dfn>, na ir dėl vaizdo palikau puslapio dydį. Tačiau net palikus vien slash&#8217;ą &#8220;tikrumo&#8221; efektas yra įspūdingas!</p>
 <h2>Kad būtų gerai</h2>
-<p><a href="http://www.d-b.lt/tag/url.html">Apie URL svarbą SEO</a> ir vartotojui jau esu rašęs kelis kartus. Belieka tik pasikartoti &#8211; <strong>raktinių žodžių (ne)buvimas daro įtaką paieškos variklių naudotojų elgsenai</strong>. Tam tikri išsivystę kanonai (egzistuojantys pakankamai ilgą laiko tarpą) nuteikia juos savitai elgsenai. Atrodytų kas gi čia tokio &#8211; vienas simbolis, bet <strong>vartotojo lūkesčiai, suformuoti pasąmonėje užstrigusių vaizdų, daro savo</strong>!</p>
+<p><a href="https://www.dominykas.lt/tag/url.html">Apie URL svarbą SEO</a> ir vartotojui jau esu rašęs kelis kartus. Belieka tik pasikartoti &#8211; <strong>raktinių žodžių (ne)buvimas daro įtaką paieškos variklių naudotojų elgsenai</strong>. Tam tikri išsivystę kanonai (egzistuojantys pakankamai ilgą laiko tarpą) nuteikia juos savitai elgsenai. Atrodytų kas gi čia tokio &#8211; vienas simbolis, bet <strong>vartotojo lūkesčiai, suformuoti pasąmonėje užstrigusių vaizdų, daro savo</strong>!</p>
 <p>Donaldas Normanas sako, kad jeigu nepavyksta padaryti, kad daiktas būtų patogus naudoti (būna ir taip) &#8211; geriausia sukurti <dfn title="Kaip gražiai išversti cultural convention?">standartą, archetipą</dfn>, kuriuo būtų galima vadovautis susidūrus su nauja, bet panašia situacija.</p>
-<p>Akivaizdu, kad Google tai padarė su adresų rodymų paieškoje &#8211; jeigu po domeino nėra &#8220;/&#8221; simbolio &#8211; rezultatas veda neaišku kur (tikėtina &#8211; į reklaminį bukletą) nurodomoje svetainėje. Tai galioja ir <a href='http://www.d-b.lt/attachments/2009/01/google-isplestines-paieskos-rezultatai.html' rel='attachment wp-att-76' title='Google išplėstinės paieškos rezultatai'>išplėstiniams rezultatams</a>. Kita vertus, <a href="http://search.live.com/results.aspx?q=news&#038;go=&#038;form=QBRE">Live Search</a> ir <a href="http://search.yahoo.com/search?p=news">Yahoo! Search</a> <del>nusprendė tai ignoruoti</del> nenusprendė tuo vadovautis &#8211; galbūt todėl aš jomis ir nesinaudoju, kad man ten viskas panašu į reklamą?</p>
+<p>Akivaizdu, kad Google tai padarė su adresų rodymų paieškoje &#8211; jeigu po domeino nėra &#8220;/&#8221; simbolio &#8211; rezultatas veda neaišku kur (tikėtina &#8211; į reklaminį bukletą) nurodomoje svetainėje. Tai galioja ir <a href='https://www.dominykas.lt/attachments/2009/01/google-isplestines-paieskos-rezultatai.html' rel='attachment wp-att-76' title='Google išplėstinės paieškos rezultatai'>išplėstiniams rezultatams</a>. Kita vertus, <a href="http://search.live.com/results.aspx?q=news&#038;go=&#038;form=QBRE">Live Search</a> ir <a href="http://search.yahoo.com/search?p=news">Yahoo! Search</a> <del>nusprendė tai ignoruoti</del> nenusprendė tuo vadovautis &#8211; galbūt todėl aš jomis ir nesinaudoju, kad man ten viskas panašu į reklamą?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/01/url-magija-kodel-spemas-atrodo-kaip-spemas.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Piktai apie Delfi paiešką</title>
-		<link>http://www.d-b.lt/2007/12/piktai-apie-delfi-paieska.html</link>
-		<comments>http://www.d-b.lt/2007/12/piktai-apie-delfi-paieska.html#comments</comments>
+		<link>https://www.dominykas.lt/2007/12/piktai-apie-delfi-paieska.html</link>
+		<comments>https://www.dominykas.lt/2007/12/piktai-apie-delfi-paieska.html#comments</comments>
 		<pubDate>Tue, 11 Dec 2007 16:19:47 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[IT]]></category>
@@ -117,14 +117,14 @@ Keičiau išdėstymą, šriftus, [...]]]></description>
 		<category><![CDATA[piktai]]></category>
 		<category><![CDATA[seo]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/piktai-apie-delfi-paieska.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/piktai-apie-delfi-paieska.html</guid>
 		<description><![CDATA[Be abejo specializuota paieška Lietuvoje yra geras dalykas. Ir konkurencija Gūglui yra geras dalykas. Ir šiaip džiugu matyti, kad ir lietuviai sugeba išnaudoti savo vartotojus pateikdami jiems platesnes galimybes. Tačiau vienas dalykas, kurį daro Delfi paieškos variklis, mane labai pykdo.
 Neatsimenu, kada pirmą kartą pastebėjau, kad Google paieškoje randu Delfi paieškos kešą &#8211; t.y. puslapius kaip [...]]]></description>
 			<content:encoded><![CDATA[<p>Be abejo specializuota paieška Lietuvoje yra geras dalykas. Ir konkurencija Gūglui yra geras dalykas. Ir šiaip džiugu matyti, kad ir lietuviai sugeba išnaudoti savo vartotojus pateikdami jiems platesnes galimybes. Tačiau vienas dalykas, kurį daro <a href="http://search.delfi.lt/">Delfi paieškos variklis</a>, mane labai pykdo.</p>
 <p>Neatsimenu, kada pirmą kartą pastebėjau, kad Google paieškoje randu Delfi paieškos kešą &#8211; t.y. puslapius <a href="http://search.delfi.lt/cache.php?id=78DA24032B5E68D7" rel="nofollow">kaip šis</a>. Šiaip iš esmės bent jau Google su <i>duplicate content</i> tvarkosi neblogai ir aš netgi neprieštarauju tam, kad Delfi kešintų mano puslapius &#8211; veikimo principas galų gale toks. Aš netgi džiaugiuosi iniciatyva, kad jie parodo savo sukešintą versiją. Tačiau iš mandagumo jie galėtų uždėti noindex/nofollow tokiems rezultatams &#8211; taip kaip tai daro ir rekomenduoja <a href="http://www.mattcutts.com/blog/search-results-in-search-results/">Google ir YouTube</a>.</p>
 <p>Labai džiugu, kad Delfi pateikia šiek tiek <a href="http://search.delfi.lt/?c=crawler">informacijos webmasteriams</a>, ir netgi kontaktų nuorodą, tačiau konkretaus ryšio kanalo nėra &#8211; el. pašto adresai yra bendrieji (info ir biuras). Bandysiu parašyti, pasiteirauti &#8211; rezultatus (arba jų nebuvimą) pranešiu. Nesinorėtų spręsti dilemos &#8220;buvimas Delfi rezultatuose&#8221; prieš &#8220;duplicate content&#8221;. Pačiam Delfi interesas irgi turėtų būti &#8211; susitvarkyti iki tol, kol kiti paieškos varikliai pradės juos bausti.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2007/12/piktai-apie-delfi-paieska.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2007/12/piktai-apie-delfi-paieska.rss2.xml</wfw:commentRss>
 		<slash:comments>6</slash:comments>
 		</item>
 	</channel>

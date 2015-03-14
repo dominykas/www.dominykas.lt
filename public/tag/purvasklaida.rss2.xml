@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; purvasklaida</title>
-	<atom:link href="http://www.d-b.lt/tag/purvasklaida.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/purvasklaida.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Kaip &#8220;Lietuvos žinios&#8221; dezinformaciją skleidė</title>
-		<link>http://www.d-b.lt/2009/12/kaip-lietuvos-zinios-dezinformacija-skleide.html</link>
-		<comments>http://www.d-b.lt/2009/12/kaip-lietuvos-zinios-dezinformacija-skleide.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/12/kaip-lietuvos-zinios-dezinformacija-skleide.html</link>
+		<comments>https://www.dominykas.lt/2009/12/kaip-lietuvos-zinios-dezinformacija-skleide.html#comments</comments>
 		<pubDate>Wed, 09 Dec 2009 06:15:46 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Likęs gyvenimas]]></category>
@@ -29,7 +29,7 @@
 		<category><![CDATA[žaluma]]></category>
 		<category><![CDATA[žiniasklaida]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=219</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=219</guid>
 		<description><![CDATA[Vakar Delfi pamačiau straipsnį pavadinimu &#8220;Pasaulinis atšilimas: mitas sklaidosi&#8220;. Tikėjausi, kad bus pateikta rimtesnė analizė, apie tai, ką reiškia pastarųjų savaičių nutekėjusių laiškų skandalas. Ką pamačiau iš tikrųjų? Keletą žodžių apie tai ir krūvą atsitiktinių, melagingų, nepatikrintų ir juokingų &#8220;faktų&#8221;.
 Diskleimeris
 Man rūpi klimato kaita. Aš tikiu, kad žmonija yra kalta dėl to. Aš mėgstu gamtą ir [...]]]></description>
@@ -77,7 +77,7 @@ Man rūpi klimato kaita. Aš tikiu, kad žmonija yra kalta dėl to. Aš mėgstu 
 <h2>Ir dar truputis&#8230;</h2>
 <p>Mes išrausėme žemę. Išdeginome miškus. Priteršėme vandenynus. Gal jau laikas bent truputį susiimti ir apsikuopti? Aš neabejoju, kad mūsų išmetamosios dujos skatina šiltnamio efektą. Kas bus, jeigu iš tiesų prie to dar prisidės saulės aktyvumas? Natūralūs pokyčiai? Kiek žmonių turi <a href="http://www.oxfamireland.org/faceit/blog/?p=224">pradėti auginti bananus maistui</a> arba mirti iš bado, kad pagaliau atsibustume ir pažvelgtume į savo godumą? Ir kada žurnalistai pradės tikrinti faktus?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/12/kaip-lietuvos-zinios-dezinformacija-skleide.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/12/kaip-lietuvos-zinios-dezinformacija-skleide.rss2.xml</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 	</channel>

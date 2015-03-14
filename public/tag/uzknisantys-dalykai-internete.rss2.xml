@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; užknisantys dalykai internete</title>
-	<atom:link href="http://www.d-b.lt/tag/uzknisantys-dalykai-internete.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/uzknisantys-dalykai-internete.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>robots.txt mitai ir neteisingas naudojimas</title>
-		<link>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html</link>
-		<comments>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html#comments</comments>
+		<link>https://www.dominykas.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html</link>
+		<comments>https://www.dominykas.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.html#comments</comments>
 		<pubDate>Mon, 04 Feb 2013 20:05:08 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -31,12 +31,12 @@
 		<category><![CDATA[seo]]></category>
 		<category><![CDATA[užknisantys dalykai internete]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=426</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=426</guid>
 		<description><![CDATA[Anądien pliuse išsiliejau apie tai, kad dėl neaiškių priežasčių paieškos [ir kitokiems] robotams pusė Seimo svetainės yra &#8220;uždraustas turinys&#8221;. To rezultatas labai paprastas &#8211; ieškant, pvz., &#8220;PVM įstatymas&#8221; rezultatuose pirmu numeriu yra nuoroda į būtent tą įstatymą, tačiau nepateikiamas puslapio pavadinimas irba santrauka:
- 
+
 Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &#8211; pastebėjau [...]]]></description>
 			<content:encoded><![CDATA[<p>Anądien <a href="https://plus.google.com/100293756761145273349/posts/BAaQjp2bjns">pliuse išsiliejau</a> apie tai, kad dėl neaiškių priežasčių paieškos [ir kitokiems] robotams pusė Seimo svetainės yra &#8220;uždraustas turinys&#8221;. To rezultatas labai paprastas &#8211; ieškant, pvz., &#8220;PVM įstatymas&#8221; rezultatuose pirmu numeriu yra nuoroda į būtent tą įstatymą, tačiau nepateikiamas puslapio pavadinimas irba santrauka:</p>
-<p style="text-align:center;"><a href="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-google.png"><img src="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-google-300x217.png" alt="" title="Google paieškos rezultatas" width="250" class="aligncenter size-medium wp-image-428" /></a> <a href="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-bing.png"><img src="http://www.d-b.lt/uploads/2013/02/pvm-istatymas-bing-300x173.png" alt="" title="Bing paieškos rezultatas" width="250" /></a></p>
+<p style="text-align:center;"><a href="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-google.png"><img src="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-google-300x217.png" alt="" title="Google paieškos rezultatas" width="250" class="aligncenter size-medium wp-image-428" /></a> <a href="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-bing.png"><img src="https://www.dominykas.lt/uploads/2013/02/pvm-istatymas-bing-300x173.png" alt="" title="Bing paieškos rezultatas" width="250" /></a></p>
 <p>Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &#8211; pastebėjau keistų dėsningumų. Kaip ir kas kartą, kai <del>rašau</del> mąstau apie SEO, viskas susiveda į keletą paprastų taisyklių, kurių pati svarbiausia yra &#8220;Daryk taip, kad būtų gerai vartotojams, o robotai atsirinks viską taip, kaip reikia&#8221;.</p>
 <h3>Mitas: robots.txt padės paslėpti nepageidaujamus puslapius</h3>
 <p>Realybė: jeigu kažkokia informacija neturi būti vieša, nedėk jos į internetą. Paprasta kaip du kart du. Jeigu kažkoks puslapis egzistuoja kažkokioje iš išorės prieinamoje svetainėje &#8211; informacija yra prieinama visiems. Jeigu yra bent viena nuoroda į tą turinį &#8211; paieškos robotai suindeksuos vien patį nuorodos egzistavimo faktą ir iš to padarys išvadas. Jeigu nuorodų į tą turinį yra daug, tai tas puslapis netgi bus rodomas pirmu rezultatu paieškoje, lygiai taip, kaip matosi iš aukščiau pateikto pavyzdžio apie PVM įstatymą.</p>
@@ -70,13 +70,13 @@ Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &
 </ul>
 <p>Pabaigai &#8211; jeigu LRS atveju, įtariu, blokavimas atsirado netyčia, greičiausiai dėl sistemų perkonfigūravimo ar atnaujinimo, tai, pvz., <a href="http://www.vlkk.lt/robots.txt">VLKK</a> ar <a href="http://www.lkpt.lt/robots.txt">kelių policijos</a> atvejai mane verčia rautis plaukus &#8211; kodėl svetainės užblokuotos <em>visiškai</em>?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2013/02/robots-txt-mitai-ir-neteisingas-naudojimas.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Formų validacija: netrukdyk man!</title>
-		<link>http://www.d-b.lt/2009/07/formu-validacija-netrukdyk-man.html</link>
-		<comments>http://www.d-b.lt/2009/07/formu-validacija-netrukdyk-man.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/07/formu-validacija-netrukdyk-man.html</link>
+		<comments>https://www.dominykas.lt/2009/07/formu-validacija-netrukdyk-man.html#comments</comments>
 		<pubDate>Tue, 14 Jul 2009 21:30:16 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -84,7 +84,7 @@ Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &
 		<category><![CDATA[usability]]></category>
 		<category><![CDATA[užknisantys dalykai internete]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=139</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=139</guid>
 		<description><![CDATA[Alanas Cooperis savo knygose pastoviai kartoja, kad blogiausias dalykas, kurį galima padaryti vartotojui, tai priversti jį jaustis kvailu. Bene lengviausia šį &#8220;tikslą&#8221; pasiekti yra validacijoje &#8211; kiekvienas bereikalingas klaidos pranešimas ir kiekviena sistema, kuri man trukdo daryti dalykus mano būdu, tiesiog ir verčia mane daužyti galvą į sieną su klausimu &#8220;Nu, kodėl šito reikia?&#8221; Šiandien [...]]]></description>
 			<content:encoded><![CDATA[<p><cite>Alanas Cooperis</cite> savo knygose pastoviai kartoja, kad blogiausias dalykas, kurį galima padaryti vartotojui, tai priversti jį jaustis kvailu. Bene lengviausia šį &#8220;tikslą&#8221; pasiekti yra validacijoje &#8211; kiekvienas bereikalingas klaidos pranešimas ir kiekviena sistema, kuri man trukdo daryti dalykus mano būdu, tiesiog ir verčia mane daužyti galvą į sieną su klausimu &#8220;<i>Nu</i>, kodėl šito reikia?&#8221; Šiandien aptikau puikų to pavyzdį:</p>
 <pre>function isNumberKey(evt)
@@ -106,13 +106,13 @@ Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &
 <p>Problema slypi tame, kad ribojama mano veiksmų laisvė. Neverta to daryti. Štai pvz. <code>textarea</code> elementas neturi <code>maxlength</code> atributo &#8211; galima to palaikymą sukurti su JS, bet daug geresnis variantas yra tiesiog parodyti kiek yra likę galimų įvesti simbolių, o <strong>klaidos pranešimą rodyti tik tada, kai klaida yra <em>tikrai</em> padaryta</strong>. Įsivaizduokite, jei Twitter neleistų įvesti daugiau negu 140 simbolių ir nesuteiktų galimybės redaguoti tekstą tol, kol jis telpa į juos.</p>
 <p>Lygiai taip ir šiuo validacijos atveju, derėtų leisti vartotojui spausti tuos klavišus, kuriuos jis nori spausti, o įvestus duomenis tikrinti tik tada, kai vartotojas pasako &#8220;taip, aš žinau, kad noriu tokius duomenis išsiųsti&#8221;, t.y. <code>onsubmit</code> įvykio metu, arba tiesiog <i>server-side</i>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/07/formu-validacija-netrukdyk-man.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/07/formu-validacija-netrukdyk-man.rss2.xml</wfw:commentRss>
 		<slash:comments>3</slash:comments>
 		</item>
 		<item>
 		<title>hasFocus ir activeElement už 400 baitų</title>
-		<link>http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html</link>
-		<comments>http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html</link>
+		<comments>https://www.dominykas.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html#comments</comments>
 		<pubDate>Sat, 07 Mar 2009 19:42:16 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -123,9 +123,9 @@ Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &
 		<category><![CDATA[kodas]]></category>
 		<category><![CDATA[užknisantys dalykai internete]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html</guid>
 		<description><![CDATA[Vienas labiausiai internete užknisančių dalykų yra tai, kad kai kurios svetainės visiškai manęs negerbdamos paima ir perrašo įvesties laukų turinį tada kai aš jau ten bandau kažką rašyti. Ši situacija kyla iš to, kad nėra paprasto būdo nustatyti ar (ir kuris) HTML elementas yra fokusuotas ar ne. Internet Exploreris jau senokai turi document.activeElement, bet kas [...]]]></description>
-			<content:encoded><![CDATA[<p>Vienas labiausiai internete užknisančių dalykų yra tai, kad kai kurios svetainės visiškai manęs negerbdamos paima ir perrašo įvesties laukų turinį tada kai aš jau ten bandau kažką rašyti. Ši situacija kyla iš to, kad nėra paprasto būdo nustatyti ar (ir kuris) HTML elementas yra fokusuotas ar ne. Internet Exploreris jau senokai turi <code>document.activeElement</code>, bet kas iš to, jeigu tai negalioja kitoms naršyklėms. HTML5 specifikacijoje yra standartizuotos abi -<code>element.hasFocus</code> ir <code>document.activeElement</code> galimybės, tačiau ką daryti šiandien? <a href="http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html#galutinis-sprendimas-20090307">Tingiu skaityti &#8211; duok galutinį sprendimą</a>.</p>
+			<content:encoded><![CDATA[<p>Vienas labiausiai internete užknisančių dalykų yra tai, kad kai kurios svetainės visiškai manęs negerbdamos paima ir perrašo įvesties laukų turinį tada kai aš jau ten bandau kažką rašyti. Ši situacija kyla iš to, kad nėra paprasto būdo nustatyti ar (ir kuris) HTML elementas yra fokusuotas ar ne. Internet Exploreris jau senokai turi <code>document.activeElement</code>, bet kas iš to, jeigu tai negalioja kitoms naršyklėms. HTML5 specifikacijoje yra standartizuotos abi -<code>element.hasFocus</code> ir <code>document.activeElement</code> galimybės, tačiau ką daryti šiandien? <a href="https://www.dominykas.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html#galutinis-sprendimas-20090307">Tingiu skaityti &#8211; duok galutinį sprendimą</a>.</p>
 <p>Aprašytos problemos sprendimo algoritmas yra gana paprastas &#8211; prikabinti <dfn title="event handler">įvykių gaudytojus</dfn> prie reikalingų elementų ir pačiam nustatyti reikalingus parametrus. Tačiau jeigu nesusimąstytume &#8211; greitas ir paprastas įgyvendimas turėtų kelias problemas.</p>
 <h2>Sprendimo problemos</h2>
 <p>Pavyzdys: krauname puslapį, jame yra paieškos laukas, kurio viduje yra tekstas &#8220;Paieška&#8221;. Fokusuojant lauką tas tekstas turi pradingti. Be abejo, pats &#8220;standartinio teksto&#8221; <i>patternas</i> yra jau savaime nelabai geras, tačiau kartais be jo tiesiog neįmanoma išsiversti. Taigi, turime du variantus: a) tekstą įrašyti lauke iš anksto (<code>input value="Paieška"</code>), fokusuojant jį ištrinti; b) palikti tuščią lauką, ir užkrovus puslapį tą tekstą įrašyti. Pirmu atveju turime semantikos problemą, o taipogi jis nėra <dfn title="unobtrusive">netrukdantis</dfn>, t.y. tam, kad naudotis lauku, reikalingas įjungtas Javascript. Taip pat, abiem atvejais, neįdėjus papildomų pastangų, perrašymas gali įvykti jau po to kai vartotojas fokusuoja lauką (pvz. dėl lėtai kraunamų Javascript bibliotekų arba IE6 paspaudus <i>refresh</i>, kai kursorius yra viename iš laukų).</p>
@@ -171,7 +171,7 @@ Ta proga peržvelgiau ir keleto kitų valdžios įstaigų nurodymus robotukams &
 <p>Panaikinus bereikalingus tarpus ir <a href="http://developer.yahoo.com/yui/compressor/">suspaudus viską į vieną eilutę</a>, šis sprendimas užimtų vos daugiau nei 400 baitų &#8211; pakankamai maža kaina už funkcionalumą. Jeigu netyčia nepalikau kokios klaidos kur nors &#8211; viskas turėtų veikti su IE6/7, FF2/3, Opera 9.6 ir Safari 3.x.</p>
 <p>Taipogi galite pasižiūrėti <a href="http://code.dominykas.com/js/hasFocus.html">veikiančią demonstraciją</a>. Po dviejų sekundžių nuo užkrovimo gausite iššokantį langą, kuriame bus surašyta kas turi fokusą.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.rss2.xml</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>

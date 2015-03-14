@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; efektyvumas</title>
-	<atom:link href="http://www.d-b.lt/tag/efektyvumas.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/efektyvumas.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Nepatogumo kaina</title>
-		<link>http://www.d-b.lt/2008/04/nepatogumo-kaina.html</link>
-		<comments>http://www.d-b.lt/2008/04/nepatogumo-kaina.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/04/nepatogumo-kaina.html</link>
+		<comments>https://www.dominykas.lt/2008/04/nepatogumo-kaina.html#comments</comments>
 		<pubDate>Mon, 14 Apr 2008 14:27:26 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Usability]]></category>
@@ -29,7 +29,7 @@
 		<category><![CDATA[nauda]]></category>
 		<category><![CDATA[trumpai]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/04/nepatogumo-kaina.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/04/nepatogumo-kaina.html</guid>
 		<description><![CDATA[Šiandien vienoje svetainėje radau tokią (lengvai nuspėjamą) žinutę:
 gal kas nors žinot kažką tokio ? kokį puslapį, kur gali vesti užrašus sau, keltis nuotraukas, gal ten šiaip kažką pasidėliot kaip tau patogiau, bet tokį grynai privatų, su prisijungimu ir t.t. ? žinau ten bitėplius yra,bla bla,ir t.t., bet ten baisiai nepatogu.
 
@@ -43,7 +43,7 @@ O Jacob Nielsen svetainėje radau tokią [...]]]></description>
 <p>Iš asmeninės patirties dabartinėje darbovietėje, kol kas atrodo, kad kai paleisime visus pakeitimus į viešumą, registracijos (conversion) skaičiai turėtų padidėti maždaug 30-50%. Be abejo, tai ne visai į naudą, nes padidės atmetamų registracijų (nenaudingo darbo telefonu) kiekis, bet jeigu išsilaikys maždaug panašūs mokančių/nemokančių vartotojų vidurkiai &#8211; įmonės pajamos padidės 10-20%.</p>
 <p>Betikslis įrašas-priminimas visiems, kad patogumas <i>does matter</i>. Štai Bitei Plius jo nebuvimas kainuoja <strong>mažiausiai</strong> vieną vartotoją &#8211; kiek jis kainuoja jums?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/04/nepatogumo-kaina.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/04/nepatogumo-kaina.rss2.xml</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 	</channel>

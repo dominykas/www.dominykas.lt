@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; vagys</title>
-	<atom:link href="http://www.d-b.lt/tag/vagys.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/vagys.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Apie &#8220;ne vagystę&#8221;</title>
-		<link>http://www.d-b.lt/2009/11/apie-ne-vagyste.html</link>
-		<comments>http://www.d-b.lt/2009/11/apie-ne-vagyste.html#comments</comments>
+		<link>https://www.dominykas.lt/2009/11/apie-ne-vagyste.html</link>
+		<comments>https://www.dominykas.lt/2009/11/apie-ne-vagyste.html#comments</comments>
 		<pubDate>Wed, 18 Nov 2009 07:27:32 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[IT]]></category>
@@ -30,7 +30,7 @@
 		<category><![CDATA[piratavimas]]></category>
 		<category><![CDATA[vagys]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=190</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=190</guid>
 		<description><![CDATA[Gyveno kartą bomžas. Biednas buvo, neturėjo pinigų, šalo žiemą lauke.
 Vieną dieną sužinojo, kad kai kurie butai būna neužrakinti. Gal dėl savininkų žioplumo, gal dėl to, kad pametė raktus &#8211; nesvarbu kodėl.
 Nuėjo bomžas į laiptinę ir pradėjo tikrinti duris. Na ir rado atrakintas. Įėjo į vidų ir šiltai sau miega.
@@ -42,13 +42,13 @@ Juk tai nėra įsibrovimas į svetimą valdą, [...]]]></description>
 <p>Anglijoje, gi, žmonės, sakoma, daug uždirba. Todėl pas juos bomžai geriau gyvena. Prisirenka daugiau išmaldos, todėl gali miegoti nakvynės namuose. Todėl Lietuvoje bomžai tiesiog turi teisę eiti į svetimus namus ir ten miegoti.</p>
 <p>Ir apskritai, bomžai turėtų įsteigti bomžų partiją, ir kovoti už teisę, kad visi žmonės paliktų duris atrakintas, kad jie galėtų ateiti ir miegoti kada nori. Nes na juk ne įsibrovimas į svetimą valdą ir visi turėtų turėt teisę miegoti svetimuose butuose.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2009/11/apie-ne-vagyste.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2009/11/apie-ne-vagyste.rss2.xml</wfw:commentRss>
 		<slash:comments>5</slash:comments>
 		</item>
 		<item>
 		<title>Žaidžiam detektyvus</title>
-		<link>http://www.d-b.lt/2007/12/zaidziam-detektyvus.html</link>
-		<comments>http://www.d-b.lt/2007/12/zaidziam-detektyvus.html#comments</comments>
+		<link>https://www.dominykas.lt/2007/12/zaidziam-detektyvus.html</link>
+		<comments>https://www.dominykas.lt/2007/12/zaidziam-detektyvus.html#comments</comments>
 		<pubDate>Mon, 24 Dec 2007 16:17:17 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Airija]]></category>
@@ -56,7 +56,7 @@ Juk tai nėra įsibrovimas į svetimą valdą, [...]]]></description>
 		<category><![CDATA[galvosūkiai]]></category>
 		<category><![CDATA[vagys]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2007/12/zaidziam-detektyvus.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2007/12/zaidziam-detektyvus.html</guid>
 		<description><![CDATA[Kai buvau jaunas ir gražus, skaičiau daug Agatos Kristi ir Artūro Konano Doilio. Erkiulis Puaro, Šerlokas Holmsas ir netgi Miss Marpl buvo mano didvyriai. Nesmerkit, prašau. Ir štai nuo penktadienio vakaro, ar gal tiksliau šeštadienio ryto, turiu progą pats pabūti vienu iš jų. Jeigu dar turėčiau CSI įrangą ir įvairių teisinių leidimų daryti ką noriu [...]]]></description>
 			<content:encoded><![CDATA[<p>Kai buvau jaunas ir gražus, skaičiau daug Agatos Kristi ir Artūro Konano Doilio. Erkiulis Puaro, Šerlokas Holmsas ir netgi Miss Marpl buvo mano didvyriai. Nesmerkit, prašau. Ir štai nuo penktadienio vakaro, ar gal tiksliau šeštadienio ryto, turiu progą pats pabūti vienu iš jų. Jeigu dar turėčiau CSI įrangą ir įvairių teisinių leidimų daryti ką noriu &#8211; būtų dar smagiau.</p>
 <p>Kaip ten bebūtų &#8211; istorija savotiškai smagi, dar nepasibaigusi ir be abejo &#8211; jeigu turite kokios nors informacijos ar tai šiaip logiškai paremtų idėjų, prašau, pasidalinkite!</p>
@@ -95,7 +95,7 @@ Juk tai nėra įsibrovimas į svetimą valdą, [...]]]></description>
 <li>Aničkos telefoną vagys arba pametė, arba tiesiog nenorėjo vargintis &#8211; domėjosi tik grynaisiais</li>
 </ul>
 <h2>Schema</h2>
-<p><a href='http://www.d-b.lt/uploads/2007/12/schema.png' title='Įkalčių išsidėstymas ir kaimynystės planas'><img src='http://www.d-b.lt/uploads/2007/12/schema.thumbnail.png' alt='Įkalčių išsidėstymas ir kaimynystės planas' align="right" style="border: 1px solid #000;margin: 10px;"/></a> Žalia spalva &#8211; galiniai kiemai; pilka spalva &#8211; keliai ir takeliai; rodyklės žymi praėjimus į galinius kiemus tiesiai iš lauko &#8211; ne visi namai juos turi.</p>
+<p><a href='https://www.dominykas.lt/uploads/2007/12/schema.png' title='Įkalčių išsidėstymas ir kaimynystės planas'><img src='https://www.dominykas.lt/uploads/2007/12/schema.thumbnail.png' alt='Įkalčių išsidėstymas ir kaimynystės planas' align="right" style="border: 1px solid #000;margin: 10px;"/></a> Žalia spalva &#8211; galiniai kiemai; pilka spalva &#8211; keliai ir takeliai; rodyklės žymi praėjimus į galinius kiemus tiesiai iš lauko &#8211; ne visi namai juos turi.</p>
 <ol>
 <li>Pirmas apvogtas namas</li>
 <li>Mūsų šiukšlių dėžė, kurioje radome rankinuką iš pirmo namo</li>
@@ -120,7 +120,7 @@ Juk tai nėra įsibrovimas į svetimą valdą, [...]]]></description>
 </ol>
 <p>Paprasta, ar ne?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2007/12/zaidziam-detektyvus.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2007/12/zaidziam-detektyvus.rss2.xml</wfw:commentRss>
 		<slash:comments>4</slash:comments>
 		</item>
 	</channel>

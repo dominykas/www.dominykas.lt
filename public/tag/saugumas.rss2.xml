@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; saugumas</title>
-	<atom:link href="http://www.d-b.lt/tag/saugumas.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/saugumas.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Naudoti svetimus JS failus yra nemandagu ir nesaugu</title>
-		<link>http://www.d-b.lt/2010/03/naudoti-svetimus-js-failus-yra-nemandagu-ir-nesaugu.html</link>
-		<comments>http://www.d-b.lt/2010/03/naudoti-svetimus-js-failus-yra-nemandagu-ir-nesaugu.html#comments</comments>
+		<link>https://www.dominykas.lt/2010/03/naudoti-svetimus-js-failus-yra-nemandagu-ir-nesaugu.html</link>
+		<comments>https://www.dominykas.lt/2010/03/naudoti-svetimus-js-failus-yra-nemandagu-ir-nesaugu.html#comments</comments>
 		<pubDate>Fri, 26 Mar 2010 01:19:59 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -29,7 +29,7 @@
 		<category><![CDATA[javascript]]></category>
 		<category><![CDATA[saugumas]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=276</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=276</guid>
 		<description><![CDATA[Vos prieš porą mėnesių garsiai nuskambėjo Ajaxian, kai paėmė ir įdėjo besisukančios Coca Cola skardinės pavyzdį į iframe tiesiogiai iš autoriaus svetainės. Gana panašus atvejis buvo ir su Douglas Crockford JSON2 biblioteka bent keletoje didokų svetainių (žr. pirmą šaltinio eilutę).
 Moralas toks &#8211; jeigu įtrauki į savo kodą failus tiesiogiai iš kitų žmonių serverių, ypač jeigu [...]]]></description>
 			<content:encoded><![CDATA[<p>Vos prieš porą mėnesių garsiai nuskambėjo <a href="http://ajaxian.com/">Ajaxian</a>, kai paėmė ir įdėjo <a href="http://www.techkumar.com/showcase/rolling-coke-pure-css-code/">besisukančios Coca Cola skardinės</a> pavyzdį į <code>iframe</code> tiesiogiai iš <a href="http://www.romancortes.com/blog/pure-css-coke-can/">autoriaus svetainės</a>. Gana panašus atvejis buvo ir su Douglas Crockford <a href="http://www.json.org/js.html">JSON2 biblioteka</a> bent keletoje didokų svetainių (žr. pirmą <a href="http://www.json.org/json2.js">šaltinio</a> eilutę).</p>
@@ -37,13 +37,13 @@ Moralas toks &#8211; jeigu įtrauki į savo kodą failus tiesiogiai iš kitų ž
 <p>Jeigu kam nors reikia įsijungti HTML5 Internet Exploreryje &#8211; galima gi paimti ir parsisiųsti tą JS ir pasidėti savo svetainėje. Bet jeigu jau taip gaila srauto &#8211; <a href="http://remysharp.com/2009/01/07/html5-enabling-script/">Remy Sharp leidžia</a> tiesiogiai naudoti jo sukurtą <a href="http://html5shiv.googlecode.com/svn/trunk/html5.js">versiją iš Google Code SVN</a>.</p>
 <p>Man iš tikro negaila, bet pagunda bent pajuokauti yra&#8230; Tu žinai kas tu esi. Ar ne?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2010/03/naudoti-svetimus-js-failus-yra-nemandagu-ir-nesaugu.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2010/03/naudoti-svetimus-js-failus-yra-nemandagu-ir-nesaugu.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>FlyLAL saugumas, privatumas ir aiškumas (atnaujinta)</title>
-		<link>http://www.d-b.lt/2008/01/flylal-saugumas-privatumas-ir-aiskumas.html</link>
-		<comments>http://www.d-b.lt/2008/01/flylal-saugumas-privatumas-ir-aiskumas.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/01/flylal-saugumas-privatumas-ir-aiskumas.html</link>
+		<comments>https://www.dominykas.lt/2008/01/flylal-saugumas-privatumas-ir-aiskumas.html#comments</comments>
 		<pubDate>Thu, 10 Jan 2008 18:14:42 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Privatumas]]></category>
@@ -53,7 +53,7 @@ Moralas toks &#8211; jeigu įtrauki į savo kodą failus tiesiogiai iš kitų ž
 		<category><![CDATA[saugumas]]></category>
 		<category><![CDATA[skrydžiai]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/01/flylal-saugumas-privatumas-ir-aiskumas.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/01/flylal-saugumas-privatumas-ir-aiskumas.html</guid>
 		<description><![CDATA[Prieš Naujuosius Metus pirkau bilietus iš FlyLAL.com į Lietuvą. Nežinau &#8211; gal tada, o gal ir anksčiau prisiregistravau jų svetainėje, bet ne tai svarbu. Šią savaitę teko vėl užsakyti iš ten bilietų &#8211; suvedžiau savo vartotojo vardą ir&#8230; pamačiau, kad mano kreditinės kortelės numeris išsaugotas.
 Panika
 Kalėdoms pirkau sau dovanų iš eBay ir turėjau šiokių tokių nesklandumų [...]]]></description>
@@ -82,7 +82,7 @@ Jums tereikia nuspausti nuoroda ir sekti tolimesnius nurodymus.</p>
 </blockquote>
 <p>Pradžiai verta pastebėti, kad nacionalinis vežėjas <a href="http://www.tikra.info/blog/pastebejimai/isbandymas-mobiliojo-rysio-operatoriu-konsultantams/">nemoka lietuviškų raidžių</a>. <i>Oh well&#8230;</i> O po to verta pastebėti, kad jie vis dar teigia, kad tie duomenys pas juos&#8230; Kaip ten bebūtų &#8211; pasekus ta nuoroda, galima prisijungti prie <strong>Lufthansos sistemos</strong> ir ten ištrinti savo kortelės numerį. Jeigu tai reikės daryti po kiekvieno pirkimo&#8230; tai tikiuosi, kad nauja FlyLAL.com versija pasirodys pakankamai greitai.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/01/flylal-saugumas-privatumas-ir-aiskumas.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/01/flylal-saugumas-privatumas-ir-aiskumas.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

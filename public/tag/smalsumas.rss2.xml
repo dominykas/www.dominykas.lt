@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; smalsumas</title>
-	<atom:link href="http://www.d-b.lt/tag/smalsumas.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/smalsumas.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Mes gyvenam aukštyn kojom</title>
-		<link>http://www.d-b.lt/2008/04/mes-gyvenam-aukstyn-kojom.html</link>
-		<comments>http://www.d-b.lt/2008/04/mes-gyvenam-aukstyn-kojom.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/04/mes-gyvenam-aukstyn-kojom.html</link>
+		<comments>https://www.dominykas.lt/2008/04/mes-gyvenam-aukstyn-kojom.html#comments</comments>
 		<pubDate>Wed, 30 Apr 2008 20:47:40 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Filosofija]]></category>
@@ -30,13 +30,13 @@
 		<category><![CDATA[smalsumas]]></category>
 		<category><![CDATA[usability]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/04/mes-gyvenam-aukstyn-kojom.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/04/mes-gyvenam-aukstyn-kojom.html</guid>
 		<description><![CDATA[Viena iš usability rekomendacijų yra laikytis kultūrinių nuostatų, kaip pavyzdžiui &#8220;į kairę reiškia prieš laikrodžio rodyklę&#8221;. Kodėl laikrodžiai sukasi būtent ta kryptimi? Manoma, kad taip yra tik todėl, kad saulė šiauriniame žemės pusrutulyje sukasi ta pačia kryptimi.
 Šioje vietoje man kyla klausimas &#8211; ar galima teigti, kad jeigu dominuojanti civilizacija būtų išsivysčiusi, sakykim, Australijoje, tai laikrodžiai [...]]]></description>
 			<content:encoded><![CDATA[<p>Viena iš usability rekomendacijų yra laikytis kultūrinių nuostatų, kaip pavyzdžiui &#8220;į kairę reiškia prieš laikrodžio rodyklę&#8221;. Kodėl laikrodžiai sukasi būtent ta kryptimi? Manoma, kad taip yra tik todėl, kad saulė šiauriniame žemės pusrutulyje sukasi ta pačia kryptimi.</p>
 <p>Šioje vietoje man kyla klausimas &#8211; ar galima teigti, kad jeigu dominuojanti civilizacija būtų išsivysčiusi, sakykim, Australijoje, tai laikrodžiai suktųsi į priešingą pusę. Jeigu taip &#8211; ar &#8220;į kairę&#8221; tada reikštų &#8220;pagal laikrodžio rodyklę&#8221;? Reikės matyt kraustytis į kitą pasaulio pusę ir studijuoti aborigenų kultūrą&#8230;</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/04/mes-gyvenam-aukstyn-kojom.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/04/mes-gyvenam-aukstyn-kojom.rss2.xml</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 	</channel>

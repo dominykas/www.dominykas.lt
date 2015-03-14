@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; youtube</title>
-	<atom:link href="http://www.d-b.lt/tag/youtube.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/youtube.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Kuo skiriasi B2B portalas nuo pažinčių svetainės?</title>
-		<link>http://www.d-b.lt/2008/03/kuo-skiriasi-b2b-portalas-nuo-pazinciu-svetaines.html</link>
-		<comments>http://www.d-b.lt/2008/03/kuo-skiriasi-b2b-portalas-nuo-pazinciu-svetaines.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/03/kuo-skiriasi-b2b-portalas-nuo-pazinciu-svetaines.html</link>
+		<comments>https://www.dominykas.lt/2008/03/kuo-skiriasi-b2b-portalas-nuo-pazinciu-svetaines.html#comments</comments>
 		<pubDate>Tue, 11 Mar 2008 10:59:03 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[IT]]></category>
@@ -29,7 +29,7 @@
 		<category><![CDATA[web 2.0]]></category>
 		<category><![CDATA[youtube]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/03/kuo-skiriasi-b2b-portalas-nuo-pazinciu-svetaines.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/03/kuo-skiriasi-b2b-portalas-nuo-pazinciu-svetaines.html</guid>
 		<description><![CDATA[Atsakau: niekuo.
 Štai mano bendradarbiai ką tik sugrįžo iš CeBIT 2008. Ten jie iš esmės užsiiminėjo alaus gėrimu su klientais &#8211; firmos tradicija &#8211; stendas būna netoli kavinės, o joje mūsų klientai alų gauna nemokamai. Ko jums ne mytas?
 Negana to &#8211; prifilmavo daug medžiagos, pokalbių ir linksmybių. Dabar visa tai karpysiu ir kelsiu į YouTube ir [...]]]></description>
@@ -39,7 +39,7 @@ Negana to &#8211; prifilmavo daug medžiagos, pokalbių ir linksmybių. Dabar vi
 <p>Web 2.0 &#8211; ką ir bepridursi.</p>
 <p>Tiesa&#8230; Vienas skirtumas yra. Mūsų klientai už paslaugas pinigų mokėti nenori &#8211; o štai tam tikrų pažinčių svetainių Lietuvoje lankytojai išleidžia dešimtis ir šimtus savo &#8220;anketoms&#8221; patobulinti&#8230;</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/03/kuo-skiriasi-b2b-portalas-nuo-pazinciu-svetaines.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/03/kuo-skiriasi-b2b-portalas-nuo-pazinciu-svetaines.rss2.xml</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

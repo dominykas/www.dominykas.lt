@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; pasirinkimai</title>
-	<atom:link href="http://www.d-b.lt/tag/pasirinkimai.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/pasirinkimai.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,22 +20,22 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>CTIA Las Vegas ar BLOGin?</title>
-		<link>http://www.d-b.lt/2008/03/ctia-las-vegas-ar-blogin.html</link>
-		<comments>http://www.d-b.lt/2008/03/ctia-las-vegas-ar-blogin.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/03/ctia-las-vegas-ar-blogin.html</link>
+		<comments>https://www.dominykas.lt/2008/03/ctia-las-vegas-ar-blogin.html#comments</comments>
 		<pubDate>Thu, 20 Mar 2008 10:45:55 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Likęs gyvenimas]]></category>
 		<category><![CDATA[pasirinkimai]]></category>
 		<category><![CDATA[trumpai]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/03/ctia-las-vegas-ar-blogin.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/03/ctia-las-vegas-ar-blogin.html</guid>
 		<description><![CDATA[Kažkaip paskutines dvi savaites su rimtais klausimais kankinuosi&#8230; Štai ir šiandien dar vienas. Balandžio 1-3 dienomis Las Vegas&#8217;e vyksta CTIA wireless paroda ir vadovai pageidauja, kad aš ten nuvykčiau. O balandžio 4 dieną vyksta BLOGin &#8211; kuriame aš turėčiau 5 minutes šlovės ir kalbėčiau apie semantinį tinklą&#8230;
 JAV verslo viza pase aišku yra gerai. Pamatyti Elvio [...]]]></description>
 			<content:encoded><![CDATA[<p>Kažkaip paskutines dvi savaites su rimtais klausimais kankinuosi&#8230; Štai ir šiandien dar vienas. Balandžio 1-3 dienomis Las Vegas&#8217;e vyksta <a href="http://www.ctia.org/conventions_events/index.cfm/AID/10170">CTIA wireless</a> paroda ir vadovai pageidauja, kad aš ten nuvykčiau. O balandžio 4 dieną vyksta <a href="http://www.blogin.lt/">BLOGin</a> &#8211; kuriame aš turėčiau 5 minutes šlovės ir kalbėčiau apie semantinį tinklą&#8230;</p>
 <p>JAV verslo viza pase aišku yra gerai. Pamatyti Elvio klonus irgi yra gerai. Bet aš jau mėnesį nebuvau Lietuvoje&#8230; Ką daryti?</p>
-<p>Beje <a href="http://www.d-b.lt/2008/03/vista-ar-xp.html">dėl ankstesnio klausimo</a> apsisprendžiau &#8211; XP it is! Tiesa su tvarkyklėm sudėtinga, bet čia atskiras įrašas.</p>
+<p>Beje <a href="https://www.dominykas.lt/2008/03/vista-ar-xp.html">dėl ankstesnio klausimo</a> apsisprendžiau &#8211; XP it is! Tiesa su tvarkyklėm sudėtinga, bet čia atskiras įrašas.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/03/ctia-las-vegas-ar-blogin.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/03/ctia-las-vegas-ar-blogin.rss2.xml</wfw:commentRss>
 		<slash:comments>8</slash:comments>
 		</item>
 	</channel>

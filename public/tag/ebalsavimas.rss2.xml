@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; ebalsavimas</title>
-	<atom:link href="http://www.d-b.lt/tag/ebalsavimas.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/ebalsavimas.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,15 +20,15 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Įspūdžiai iš diskusijos apie internetinį balsavimą</title>
-		<link>http://www.d-b.lt/2011/12/ispudziai-is-diskusijos-apie-internetini-balsavima.html</link>
-		<comments>http://www.d-b.lt/2011/12/ispudziai-is-diskusijos-apie-internetini-balsavima.html#comments</comments>
+		<link>https://www.dominykas.lt/2011/12/ispudziai-is-diskusijos-apie-internetini-balsavima.html</link>
+		<comments>https://www.dominykas.lt/2011/12/ispudziai-is-diskusijos-apie-internetini-balsavima.html#comments</comments>
 		<pubDate>Fri, 30 Dec 2011 15:00:59 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[IT]]></category>
 		<category><![CDATA[balsavimas internetu]]></category>
 		<category><![CDATA[ebalsavimas]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/?p=372</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/?p=372</guid>
 		<description><![CDATA[Prieš kiek daugiau nei savaitę teko pasiklausyti keleto prezentacijų ir diskusijos apie internetinio balsavimo technines galimybes &#8211; kol dar visiškai neataušo, bandau nurašyti savo reakciją į kai kuriuos teiginius bei pateikti keletą pasiūlymų ir pamąstymų.
 Diskleimeris
 Aš esu nusistatęs prieš elektroninį balsavimą (internetu ar ne internetu). Šios diskusijos tikslas buvo įvertinti iššūkius &#8211; nepaisant to, kad priėmiau [...]]]></description>
@@ -93,7 +93,7 @@ Aš esu nusistatęs prieš elektroninį balsavimą (internetu ar ne internetu). 
 <p>Taipogi nepaminėjau nieko apie įstatyminę bazę &#8211; o būtent apie ją estams labai daug rekomendacijų pateikė <a href="http://www.osce.org/odihr/77557">ESBO savo apžvalgoje</a>. Vienintelis komentaras, kurį turiu šioje srityje, tai pageidaučiau, kad įstatymų leidėjai įtvirtintų Konstitucijos nuostatą, kad referendumai dėl Konstitucijos ar Konstitucinių Įstatymų galėtų būti vykdomi <em>tik</em> tradiciniu, fiziniu, popieriniu būdu.</p>
 <p>Tikiuosi, kad bent dalis mano idėjų nėra akiplėšiškai naivios ir kvailos ir tikiuosi, kad atsakingi asmenys, įskaitant LIKS, jas apsvarstys. Norėtųsi, kad tiek mano, tiek kitų žmonių mintys būtų katalogizuotos ir sudėtos mažų mažiausiai į kokį nors diskusijų forumą. Laukiu kitų diskusijų, ir tikiuosi, būsiu Lietuvoje kai jos vyks, arba, kad bus galimybė dalyvauti nuotoliniu būdu!</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2011/12/ispudziai-is-diskusijos-apie-internetini-balsavima.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2011/12/ispudziai-is-diskusijos-apie-internetini-balsavima.rss2.xml</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 	</channel>

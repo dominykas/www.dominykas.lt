@@ -10,8 +10,8 @@
 
 <channel>
 	<title>Užduodu klausimus, neriu tinklus &#187; css</title>
-	<atom:link href="http://www.d-b.lt/tag/css.rss2.xml" rel="self" type="application/rss+xml" />
-	<link>http://www.d-b.lt</link>
+	<atom:link href="https://www.dominykas.lt/tag/css.rss2.xml" rel="self" type="application/rss+xml" />
+	<link>https://www.dominykas.lt</link>
 	<description>Dominykas Blyžė turi blog&#039;ą</description>
 	<lastBuildDate>Mon, 04 Feb 2013 22:40:30 +0000</lastBuildDate>
 	<generator>http://wordpress.org/?v=2.9.2</generator>
@@ -20,8 +20,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 			<item>
 		<title>Horizontalus centravimas</title>
-		<link>http://www.d-b.lt/2008/05/horizontalus-centravimas-su-css.html</link>
-		<comments>http://www.d-b.lt/2008/05/horizontalus-centravimas-su-css.html#comments</comments>
+		<link>https://www.dominykas.lt/2008/05/horizontalus-centravimas-su-css.html</link>
+		<comments>https://www.dominykas.lt/2008/05/horizontalus-centravimas-su-css.html#comments</comments>
 		<pubDate>Mon, 26 May 2008 22:18:12 +0000</pubDate>
 		<dc:creator>Dominykas</dc:creator>
 				<category><![CDATA[Tinklo kūrimas]]></category>
@@ -30,7 +30,7 @@
 		<category><![CDATA[html]]></category>
 		<category><![CDATA[kodas]]></category>
 
-		<guid isPermaLink="false">http://www.d-b.lt/2008/05/horizontalus-centravimas-su-css.html</guid>
+		<guid isPermaLink="false">https://www.dominykas.lt/2008/05/horizontalus-centravimas-su-css.html</guid>
 		<description><![CDATA[Šitas įrašas yra visai ne apie tai, kas būtų jeigu Sabonis žaistų krepšinį gulėdamas ant grindų (tiesa, esu įsitikinęs, kad jis tai darytų puikiai). Ir tikiuosi iš pirmojo sakinio supratote, kad nesusipainiojau ir (beveik) neketinu kartotis vertikalaus centravimo tema.
 Dažniausiai norint nežinomo pločio elementą išcentruoti horizontaliai kitame elemente problemų nekyla &#8211; užtenka tiesiog paprasto text-align:center; ar [...]]]></description>
 			<content:encoded><![CDATA[<p>Šitas įrašas yra visai ne apie tai, kas būtų jeigu Sabonis žaistų krepšinį gulėdamas ant grindų (tiesa, esu įsitikinęs, kad jis tai darytų puikiai). Ir tikiuosi iš pirmojo sakinio supratote, kad nesusipainiojau ir (beveik) neketinu kartotis <a href="http://www.jakpsatweb.cz/css/css-vertical-center-solution.html">vertikalaus centravimo</a> tema.</p>
@@ -58,7 +58,7 @@ Dažniausiai norint nežinomo pločio elementą išcentruoti horizontaliai kitam
 </ul>
 <p>Su Safari, tiesa, kartais atsiranda gana keistas perpiešimo efektas &#8211; dalis vidinio elemento pradingsta, tačiau pakeitus lango dydį viskas sugrįžta į vietas. Jeigu kas galite patikrinti su kitomis naršyklėmis &#8211; būtų malonu išgirsti rezultatus, o šiaip jeigu prireiks šio sprendimo &#8211; naudokit į sveikatą ir neminėkit piktuoju, jeigu kas nors neveiks. Bandysiu pritaikyti ir vertikalų centravimą, tačiau bijau, kad aukštesniems elementams jis neveiks&#8230; Todėl eksperimento rezultatuose yra variantas, kuris pakeičia vidinio paveikslėlio aukštį &#8211; darant tai naršyklėje vaizdas kiek sugenda, tačiau galbūt geriau negu nieko?</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.d-b.lt/2008/05/horizontalus-centravimas-su-css.rss2.xml</wfw:commentRss>
+			<wfw:commentRss>https://www.dominykas.lt/2008/05/horizontalus-centravimas-su-css.rss2.xml</wfw:commentRss>
 		<slash:comments>5</slash:comments>
 		</item>
 	</channel>
