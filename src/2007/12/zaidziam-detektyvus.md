@@ -38,7 +38,7 @@
 <li>Aničkos telefoną vagys arba pametė, arba tiesiog nenorėjo vargintis – domėjosi tik grynaisiais</li>
 </ul>
 <h2>Schema</h2>
-<p><a href="https://www.dominykas.lt/uploads/2007/12/schema.png" title="Įkalčių išsidėstymas ir kaimynystės planas"><img src="https://www.dominykas.lt/uploads/2007/12/schema.thumbnail.png" alt="Įkalčių išsidėstymas ir kaimynystės planas" align="right" style="border: 1px solid #000;margin: 10px;"></a> Žalia spalva – galiniai kiemai; pilka spalva – keliai ir takeliai; rodyklės žymi praėjimus į galinius kiemus tiesiai iš lauko – ne visi namai juos turi.</p>
+<p><a href="https://www.dominykas.lt/uploads/2007/12/schema.png" title="Įkalčių išsidėstymas ir kaimynystės planas"><img src="https://www.dominykas.lt/uploads/2007/12/schema.png" alt="Įkalčių išsidėstymas ir kaimynystės planas" align="right" style="border: 1px solid #000;margin: 10px;"></a> Žalia spalva – galiniai kiemai; pilka spalva – keliai ir takeliai; rodyklės žymi praėjimus į galinius kiemus tiesiai iš lauko – ne visi namai juos turi.</p>
 <ol>
 <li>Pirmas apvogtas namas</li>
 <li>Mūsų šiukšlių dėžė, kurioje radome rankinuką iš pirmo namo</li>
