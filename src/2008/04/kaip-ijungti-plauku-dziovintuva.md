@@ -1,7 +1,7 @@
 # Kaip įjungti plaukų džiovintuvą?
 
 <p>Praėjusią savaitę teko praleisti lėktuvuose ir viešbučiuose – turėjau progos pastebėti daug naujų dalykų, bei turėjau nelaimės išmokti jais visais naudotis. Vienas iš jų – šis plaukų džiovintuvas:</p>
-<div style="text-align:center;"><a href="https://www.dominykas.lt/attachments/2008/04/plauku-dziovintuvas.html" rel="attachment wp-att-54" title="Plaukų džiovintuvas su 2 jungikliais"><img src="https://www.dominykas.lt/uploads/2008/04/fenas-1.jpg" alt="Plaukų džiovintuvas su 2 jungikliais"></a></div>
+<div style="text-align:center;"><a href="https://www.dominykas.lt/attachments/2008/04/plauku-dziovintuvas.html" rel="attachment wp-att-54" title="Kaip jį įjungti? Vien šioje nuotraukoje matosi 2 jungikliai ir viena naudojama rozetė &#8211; galimos 8 pozicijos. Ir tai dar ne viskas&#8230;"><img src="https://www.dominykas.lt/uploads/2008/04/fenas-1.jpg" alt="Kaip jį įjungti? Vien šioje nuotraukoje matosi 2 jungikliai ir viena naudojama rozetė &#8211; galimos 8 pozicijos. Ir tai dar ne viskas&#8230;"></a></div>
 <p><span id="more-55"></span><br>
 Dar net nepaėmus jo į rankas matome du jungiklius (plius rozetė), kas suteikiama aštuonias galimas pozicijas. Ir tik vienoje jų džiovintuvas veiks. Beje, kaip manote ką reiškia raudonas mygtukas – ar “STOP” ar “ON”? Džiaugsmai čia nesibaigia:</p>
 <div style="text-align:center;"><a href="https://www.dominykas.lt/attachments/2008/04/plauku-dziovintuvas-stiprumo-pasirinkimas.html" rel="attachment wp-att-56" title="Plaukų džiovintuvas - stiprumo pasirinkimas"><img src="https://www.dominykas.lt/uploads/2008/04/fenas-2.jpg" alt="Plaukų džiovintuvas - stiprumo pasirinkimas"></a></div>
