@@ -8,10 +8,8 @@
       "geekiska-filosofija",
       "paieska",
       "seo",
-      "uzknisantys-dalykai-internete"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "uzknisantys-dalykai-internete",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -20,10 +18,8 @@
     "title": "Ateikit į Vilnius JS susitikimą",
     "date": "2012-11-18T17:36:02+00:00",
     "tags": [
-      "javascript"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "javascript",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -36,10 +32,8 @@
       "html",
       "javascript",
       "url",
-      "usability"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "usability",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -49,9 +43,7 @@
     "date": "2011-12-30T17:00:59+00:00",
     "tags": [
       "balsavimas-internetu",
-      "ebalsavimas"
-    ],
-    "categories": [
+      "ebalsavimas",
       "it"
     ],
     "published": true
@@ -64,10 +56,8 @@
       "css3",
       "html5",
       "javascript",
-      "mobilus-tinklas"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "mobilus-tinklas",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -76,10 +66,8 @@
     "title": "Tiketa Eurobasket 2011 #fail",
     "date": "2011-02-07T23:25:24+00:00",
     "tags": [
-      "fail"
-    ],
-    "categories": [
-      "it/usability-it"
+      "fail",
+      "it-usability-it"
     ],
     "published": true
   },
@@ -88,10 +76,8 @@
     "title": "Apie prioritetus ir kodo grožį",
     "date": "2010-09-08T02:20:07+00:00",
     "tags": [
-      "geekiska-filosofija"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "geekiska-filosofija",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -102,10 +88,8 @@
     "tags": [
       "html5",
       "javascript",
-      "saugumas"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "saugumas",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -116,10 +100,8 @@
     "tags": [
       "futurizmas",
       "rastas",
-      "svietimas"
-    ],
-    "categories": [
-      "it/filosofija"
+      "svietimas",
+      "it-filosofija"
     ],
     "published": true
   },
@@ -130,9 +112,7 @@
     "tags": [
       "purvasklaida",
       "zaluma",
-      "ziniasklaida"
-    ],
-    "categories": [
+      "ziniasklaida",
       "realybe"
     ],
     "published": true
@@ -145,10 +125,8 @@
       "accessibility",
       "html5",
       "javascript",
-      "standartai"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "standartai",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -160,9 +138,7 @@
       "106",
       "lanva",
       "piratavimas",
-      "vagys"
-    ],
-    "categories": [
+      "vagys",
       "it"
     ],
     "published": true
@@ -173,10 +149,8 @@
     "date": "2009-10-01T22:29:13+00:00",
     "tags": [
       "nepriimti-per-daug-rimtai",
-      "trumpai"
-    ],
-    "categories": [
-      "it/blogosfera"
+      "trumpai",
+      "it-blogosfera"
     ],
     "published": true
   },
@@ -186,10 +160,8 @@
     "date": "2009-08-19T10:04:21+00:00",
     "tags": [
       "kurybos-procesas",
-      "usability"
-    ],
-    "categories": [
-      "it/usability-it"
+      "usability",
+      "it-usability-it"
     ],
     "published": true
   },
@@ -200,10 +172,8 @@
     "tags": [
       "javascript",
       "usability",
-      "uzknisantys-dalykai-internete"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "uzknisantys-dalykai-internete",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -215,9 +185,7 @@
       "html",
       "html5",
       "pavadinimai",
-      "standartai"
-    ],
-    "categories": [
+      "standartai",
       "be-kategorijos"
     ],
     "published": true
@@ -231,10 +199,8 @@
       "html5",
       "html5-mitai",
       "semantinis-tinklas",
-      "standartai"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "standartai",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -242,8 +208,7 @@
     "id": "2009/06/nera-lietuvoje-krizes-nors-tu-ka",
     "title": "Nėra Lietuvoje krizės, nors tu ką",
     "date": "2009-06-29T21:00:54+00:00",
-    "tags": [],
-    "categories": [
+    "tags": [
       "be-kategorijos"
     ],
     "published": true
@@ -253,10 +218,8 @@
     "title": "Atiduodu 50 eurų AdWords",
     "date": "2009-06-16T00:42:01+00:00",
     "tags": [
-      "adwords"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "adwords",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -267,9 +230,7 @@
     "tags": [
       "cenzura",
       "istatymai",
-      "valdzia"
-    ],
-    "categories": [
+      "valdzia",
       "it"
     ],
     "published": true
@@ -280,9 +241,7 @@
     "date": "2009-03-26T21:31:09+00:00",
     "tags": [
       "myliu-opera",
-      "trumpai"
-    ],
-    "categories": [
+      "trumpai",
       "it"
     ],
     "published": true
@@ -294,10 +253,8 @@
     "tags": [
       "analytics",
       "reklama",
-      "statistika"
-    ],
-    "categories": [
-      "it/filosofija"
+      "statistika",
+      "it-filosofija"
     ],
     "published": true
   },
@@ -309,10 +266,8 @@
       "analytics",
       "dizainas",
       "sprendimai",
-      "usability"
-    ],
-    "categories": [
-      "it/filosofija"
+      "usability",
+      "it-filosofija"
     ],
     "published": true
   },
@@ -322,9 +277,7 @@
     "date": "2009-03-11T01:58:56+00:00",
     "tags": [
       "myliu-opera",
-      "trumpai"
-    ],
-    "categories": [
+      "trumpai",
       "it"
     ],
     "published": true
@@ -339,10 +292,8 @@
       "html5",
       "javascript",
       "kodas",
-      "uzknisantys-dalykai-internete"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "uzknisantys-dalykai-internete",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -351,10 +302,8 @@
     "title": "Prieinamos svetainės žmonėms BE negalių",
     "date": "2009-02-17T04:20:30+00:00",
     "tags": [
-      "accessibility"
-    ],
-    "categories": [
-      "it/usability-it"
+      "accessibility",
+      "it-usability-it"
     ],
     "published": true
   },
@@ -364,9 +313,7 @@
     "date": "2009-01-14T23:19:47+00:00",
     "tags": [
       "krize",
-      "nepriimti-per-daug-rimtai"
-    ],
-    "categories": [
+      "nepriimti-per-daug-rimtai",
       "realybe"
     ],
     "published": true
@@ -378,10 +325,8 @@
     "tags": [
       "google",
       "paieska",
-      "url"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "url",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -391,9 +336,7 @@
     "date": "2009-01-07T03:49:39+00:00",
     "tags": [
       "myliu-opera",
-      "trumpai"
-    ],
-    "categories": [
+      "trumpai",
       "it"
     ],
     "published": true
@@ -404,10 +347,8 @@
     "date": "2008-11-30T03:34:41+00:00",
     "tags": [
       "agile",
-      "pavyzdziai"
-    ],
-    "categories": [
-      "it/usability-it"
+      "pavyzdziai",
+      "it-usability-it"
     ],
     "published": true
   },
@@ -418,10 +359,8 @@
     "tags": [
       "ateitis",
       "idejos",
-      "semantinis-tinklas"
-    ],
-    "categories": [
-      "it/filosofija"
+      "semantinis-tinklas",
+      "it-filosofija"
     ],
     "published": true
   },
@@ -432,9 +371,7 @@
     "tags": [
       "aspnet",
       "microsoft",
-      "visual-studio"
-    ],
-    "categories": [
+      "visual-studio",
       "it"
     ],
     "published": true
@@ -445,10 +382,8 @@
     "date": "2008-06-08T23:13:04+00:00",
     "tags": [
       "google",
-      "seo"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "seo",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -457,10 +392,8 @@
     "title": "Semantinio tinklo požymiai",
     "date": "2008-06-03T23:57:32+00:00",
     "tags": [
-      "semantinis-tinklas"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "semantinis-tinklas",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -472,10 +405,8 @@
       "css",
       "eksperimentai",
       "html",
-      "kodas"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "kodas",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -486,9 +417,7 @@
     "tags": [
       "ammado",
       "labdara",
-      "socialiniai-tinklai"
-    ],
-    "categories": [
+      "socialiniai-tinklai",
       "it",
       "realybe"
     ],
@@ -502,10 +431,8 @@
       "australija",
       "laikrodziai",
       "smalsumas",
-      "usability"
-    ],
-    "categories": [
-      "it/filosofija"
+      "usability",
+      "it-filosofija"
     ],
     "published": true
   },
@@ -516,10 +443,8 @@
     "tags": [
       "efektyvumas",
       "nauda",
-      "trumpai"
-    ],
-    "categories": [
-      "it/usability-it"
+      "trumpai",
+      "it-usability-it"
     ],
     "published": true
   },
@@ -528,10 +453,8 @@
     "title": "Kaip įjungti plaukų džiovintuvą?",
     "date": "2008-04-10T15:43:52+00:00",
     "tags": [
-      "mygtukai"
-    ],
-    "categories": [
-      "it/usability-it"
+      "mygtukai",
+      "it-usability-it"
     ],
     "published": true
   },
@@ -541,10 +464,8 @@
     "date": "2008-04-08T15:00:54+00:00",
     "tags": [
       "don-norman",
-      "everyday-things"
-    ],
-    "categories": [
-      "it/usability-it"
+      "everyday-things",
+      "it-usability-it"
     ],
     "published": true
   },
@@ -554,9 +475,7 @@
     "date": "2008-04-02T00:12:18+00:00",
     "tags": [
       "las-vegas",
-      "nepriimti-per-daug-rimtai"
-    ],
-    "categories": [
+      "nepriimti-per-daug-rimtai",
       "realybe"
     ],
     "published": true
@@ -567,10 +486,8 @@
     "date": "2008-03-28T15:11:40+00:00",
     "tags": [
       "pagyrimai",
-      "trumpai"
-    ],
-    "categories": [
-      "it/blogosfera"
+      "trumpai",
+      "it-blogosfera"
     ],
     "published": true
   },
@@ -582,10 +499,8 @@
       "nuorodos",
       "pavadinimai",
       "seo",
-      "url"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "url",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -595,10 +510,8 @@
     "date": "2008-03-25T20:05:50+00:00",
     "tags": [
       "humoras",
-      "knygos"
-    ],
-    "categories": [
-      "realybe/airija"
+      "knygos",
+      "realybe-airija"
     ],
     "published": true
   },
@@ -608,9 +521,7 @@
     "date": "2008-03-20T12:45:55+00:00",
     "tags": [
       "pasirinkimai",
-      "trumpai"
-    ],
-    "categories": [
+      "trumpai",
       "realybe"
     ],
     "published": true
@@ -622,9 +533,7 @@
     "tags": [
       "vista",
       "windows",
-      "xp"
-    ],
-    "categories": [
+      "xp",
       "it"
     ],
     "published": true
@@ -636,9 +545,7 @@
     "tags": [
       "cebit",
       "web-20",
-      "youtube"
-    ],
-    "categories": [
+      "youtube",
       "it"
     ],
     "published": true
@@ -650,10 +557,8 @@
     "tags": [
       "adwords",
       "google",
-      "sem"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "sem",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -662,9 +567,7 @@
     "title": "Ką veikei savaitgalį?",
     "date": "2008-03-03T12:33:38+00:00",
     "tags": [
-      "trumpai"
-    ],
-    "categories": [
+      "trumpai",
       "realybe"
     ],
     "published": true
@@ -676,10 +579,8 @@
     "tags": [
       "broadband",
       "mobilus-internetas",
-      "three"
-    ],
-    "categories": [
-      "realybe/airija",
+      "three",
+      "realybe-airija",
       "it"
     ],
     "published": true
@@ -690,11 +591,9 @@
     "date": "2008-02-12T13:40:51+00:00",
     "tags": [
       "apdovanojimai",
-      "trumpai"
-    ],
-    "categories": [
-      "realybe/airija",
-      "it/blogosfera"
+      "trumpai",
+      "realybe-airija",
+      "it-blogosfera"
     ],
     "published": true
   },
@@ -706,10 +605,8 @@
       "html",
       "html5",
       "paranoja",
-      "standartai"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "standartai",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -720,10 +617,8 @@
     "tags": [
       "lietuviu-kalba",
       "terminai",
-      "usability"
-    ],
-    "categories": [
-      "it/usability-it"
+      "usability",
+      "it-usability-it"
     ],
     "published": true
   },
@@ -734,10 +629,8 @@
     "tags": [
       "pavyzdziai",
       "thawte",
-      "usability"
-    ],
-    "categories": [
-      "it/usability-it"
+      "usability",
+      "it-usability-it"
     ],
     "published": true
   },
@@ -749,10 +642,8 @@
       "html",
       "internet-explorer",
       "microsoft",
-      "standartai"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "standartai",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -763,10 +654,8 @@
     "tags": [
       "feedburner",
       "google",
-      "wordpress"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "wordpress",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -779,10 +668,8 @@
       "informacine-visuomene",
       "mobilus-telefonai",
       "sms",
-      "telefonai"
-    ],
-    "categories": [
-      "it/filosofija"
+      "telefonai",
+      "it-filosofija"
     ],
     "published": true
   },
@@ -793,10 +680,8 @@
     "tags": [
       "java",
       "mysql",
-      "sun"
-    ],
-    "categories": [
-      "it/naujienos"
+      "sun",
+      "it-naujienos"
     ],
     "published": true
   },
@@ -806,10 +691,8 @@
     "date": "2008-01-13T22:16:32+00:00",
     "tags": [
       "steve-krug",
-      "usability"
-    ],
-    "categories": [
-      "it/knygos"
+      "usability",
+      "it-knygos"
     ],
     "published": true
   },
@@ -822,10 +705,8 @@
       "flylal",
       "mokejimai",
       "saugumas",
-      "skrydziai"
-    ],
-    "categories": [
-      "it/privatumas"
+      "skrydziai",
+      "it-privatumas"
     ],
     "published": true
   },
@@ -835,10 +716,8 @@
     "date": "2008-01-05T18:30:45+00:00",
     "tags": [
       "the-inmates-are-running-the-asylum",
-      "usability"
-    ],
-    "categories": [
-      "it/filosofija"
+      "usability",
+      "it-filosofija"
     ],
     "published": true
   },
@@ -849,10 +728,8 @@
     "tags": [
       "samsung",
       "telefonai",
-      "usability"
-    ],
-    "categories": [
-      "it/usability-it"
+      "usability",
+      "it-usability-it"
     ],
     "published": true
   },
@@ -862,9 +739,7 @@
     "date": "2008-01-03T20:12:27+00:00",
     "tags": [
       "sveikinimai",
-      "zaluma"
-    ],
-    "categories": [
+      "zaluma",
       "realybe"
     ],
     "published": true
@@ -877,9 +752,7 @@
       "alkoholis",
       "kisielius",
       "nepriimti-per-daug-rimtai",
-      "receptai"
-    ],
-    "categories": [
+      "receptai",
       "realybe"
     ],
     "published": true
@@ -891,10 +764,8 @@
     "tags": [
       "aviacija",
       "kaledos",
-      "skrydziai"
-    ],
-    "categories": [
-      "realybe/airija"
+      "skrydziai",
+      "realybe-airija"
     ],
     "published": true
   },
@@ -905,10 +776,8 @@
     "tags": [
       "detektyvai",
       "galvosukiai",
-      "vagys"
-    ],
-    "categories": [
-      "realybe/airija"
+      "vagys",
+      "realybe-airija"
     ],
     "published": true
   },
@@ -916,8 +785,7 @@
     "id": "2007/12/kaip-nedirbti",
     "title": "Kaip nedirbti?",
     "date": "2007-12-23T16:04:06+00:00",
-    "tags": [],
-    "categories": [
+    "tags": [
       "realybe"
     ],
     "published": true
@@ -930,10 +798,8 @@
       "paprastumas",
       "scott-jenson",
       "simplicity",
-      "usability"
-    ],
-    "categories": [
-      "it/knygos"
+      "usability",
+      "it-knygos"
     ],
     "published": true
   },
@@ -944,10 +810,8 @@
     "tags": [
       "blogo-pradzia",
       "url",
-      "wordpress"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "wordpress",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -958,10 +822,8 @@
     "tags": [
       "blogo-pradzia",
       "url",
-      "wordpress"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "wordpress",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -972,10 +834,8 @@
     "tags": [
       "rss",
       "trumpai",
-      "wordpress"
-    ],
-    "categories": [
-      "it/blogosfera"
+      "wordpress",
+      "it-blogosfera"
     ],
     "published": true
   },
@@ -987,9 +847,7 @@
       "delfi",
       "paieska",
       "piktai",
-      "seo"
-    ],
-    "categories": [
+      "seo",
       "it"
     ],
     "published": true
@@ -1003,10 +861,8 @@
       "duplicate-content",
       "geekiska-filosofija",
       "seo",
-      "url"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "url",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -1019,10 +875,8 @@
       "geekiska-filosofija",
       "semantinis-tinklas",
       "semantiskas-tinklas",
-      "url"
-    ],
-    "categories": [
-      "it/tinklo-kurimas"
+      "url",
+      "it-tinklo-kurimas"
     ],
     "published": true
   },
@@ -1030,9 +884,8 @@
     "id": "2007/12/labas-pasauli",
     "title": "Labas, pasauli!",
     "date": "2007-12-07T07:31:10+00:00",
-    "tags": [],
-    "categories": [
-      "it/blogosfera"
+    "tags": [
+      "it-blogosfera"
     ],
     "published": true
   }
