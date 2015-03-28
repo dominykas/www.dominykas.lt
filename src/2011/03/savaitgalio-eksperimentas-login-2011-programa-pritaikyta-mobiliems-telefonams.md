@@ -1,6 +1,6 @@
 ---
 published: 2011-03-07T02:45:26+00:00
-tags: css3, html5, javascript, mobilus-tinklas, it-tinklo-kurimas
+tags: css3, html5, javascript, mobilus tinklas, tinklo kūrimas
 ---
 
 # Savaitgalio eksperimentas: Login 2011 programa, pritaikyta mobiliems telefonams

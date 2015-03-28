@@ -1,6 +1,6 @@
 ---
 published: 2008-05-13T14:34:45+00:00
-tags: ammado, labdara, socialiniai-tinklai, it, realybe
+tags: ammado, labdara, socialiniai tinklai, it, realybė
 ---
 
 # Ammado – socialinis tinklas žmonėms, kuriems nenusispjaut

@@ -1,6 +1,6 @@
 ---
 published: 2008-04-30T22:47:40+00:00
-tags: australija, laikrodziai, smalsumas, usability, it-filosofija
+tags: australija, laikrodžiai, smalsumas, usability, geekiška filosofija
 ---
 
 # Mes gyvenam aukštyn kojom

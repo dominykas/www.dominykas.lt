@@ -1,6 +1,6 @@
 ---
 published: 2009-03-23T03:37:47+00:00
-tags: analytics, dizainas, sprendimai, usability, it-filosofija
+tags: analytics, dizainas, sprendimai, usability, geekiška filosofija
 ---
 
 # Kuo, jei ne skaičiais, paremti sprendimus?

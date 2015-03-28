@@ -1,6 +1,6 @@
 ---
 published: 2008-01-25T13:19:52+00:00
-tags: pavyzdziai, thawte, usability, it-usability-it
+tags: pavyzdžiai, thawte, usability
 ---
 
 # Paspausk mygtuką, kurį mes paslėpėm

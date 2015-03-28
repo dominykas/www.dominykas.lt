@@ -1,6 +1,6 @@
 ---
 published: 2012-11-18T17:36:02+00:00
-tags: javascript, it-tinklo-kurimas
+tags: javascript, tinklo kūrimas
 ---
 
 # Ateikit į Vilnius JS susitikimą

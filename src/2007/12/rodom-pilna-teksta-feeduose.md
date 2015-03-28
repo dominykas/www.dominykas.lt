@@ -1,6 +1,6 @@
 ---
 published: 2007-12-12T18:27:10+00:00
-tags: rss, trumpai, wordpress, it-blogosfera
+tags: rss, trumpai, wordpress, blogosfera
 ---
 
 # Rodom pilną tekstą feeduose!

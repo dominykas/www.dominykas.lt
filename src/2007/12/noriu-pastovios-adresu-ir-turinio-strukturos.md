@@ -1,6 +1,6 @@
 ---
 published: 2007-12-10T23:34:36+00:00
-tags: blogo-pradzia, duplicate-content, geekiska-filosofija, seo, url, it-tinklo-kurimas
+tags: blogo pradžia, duplicate content, geekiška filosofija, seo, url, tinklo kūrimas
 ---
 
 # Noriu pastovios adresų ir turinio struktūros

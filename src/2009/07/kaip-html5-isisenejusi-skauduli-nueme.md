@@ -1,6 +1,6 @@
 ---
 published: 2009-07-07T01:13:14+00:00
-tags: html, html5, pavadinimai, standartai, be-kategorijos
+tags: html, html5, pavadinimai, standartai
 ---
 
 # Kaip HTML5 įsisenėjusį skaudulį nuėmė

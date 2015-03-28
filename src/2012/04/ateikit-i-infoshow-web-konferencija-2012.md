@@ -1,6 +1,6 @@
 ---
 published: 2012-04-17T17:54:18+00:00
-tags: geekiska-filosofija, html, javascript, url, usability, it-tinklo-kurimas
+tags: geekiška filosofija, html, javascript, url, usability, tinklo kūrimas
 ---
 
 # Ateikit į InfoShow WEB konferenciją 2012

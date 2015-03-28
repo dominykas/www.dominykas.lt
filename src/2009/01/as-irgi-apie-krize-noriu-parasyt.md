@@ -1,6 +1,6 @@
 ---
 published: 2009-01-14T23:19:47+00:00
-tags: krize, nepriimti-per-daug-rimtai, realybe
+tags: krizė, nepriimti per daug rimtai, realybė
 ---
 
 # Aš irgi apie krizę noriu parašyt

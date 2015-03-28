@@ -1,6 +1,6 @@
 ---
 published: 2009-11-28T23:46:42+00:00
-tags: accessibility, html5, javascript, standartai, it-tinklo-kurimas
+tags: accessibility, html5, javascript, standartai, tinklo kūrimas
 ---
 
 # Užrašai iš FullFrontal 2009

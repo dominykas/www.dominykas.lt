@@ -1,6 +1,6 @@
 ---
 published: 2010-09-08T02:20:07+00:00
-tags: geekiska-filosofija, it-tinklo-kurimas
+tags: geekiška filosofija, tinklo kūrimas
 ---
 
 # Apie prioritetus ir kodo grožį

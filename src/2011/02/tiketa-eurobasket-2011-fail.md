@@ -1,6 +1,6 @@
 ---
 published: 2011-02-07T23:25:24+00:00
-tags: fail, it-usability-it
+tags: fail
 ---
 
 # Tiketa Eurobasket 2011 #fail

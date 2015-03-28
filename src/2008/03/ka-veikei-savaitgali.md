@@ -1,6 +1,6 @@
 ---
 published: 2008-03-03T12:33:38+00:00
-tags: trumpai, realybe
+tags: trumpai, realybė
 ---
 
 # Ką veikei savaitgalį?

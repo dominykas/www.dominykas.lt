@@ -1,6 +1,6 @@
 ---
 published: 2008-01-04T20:43:33+00:00
-tags: samsung, telefonai, usability, it-usability-it
+tags: samsung, telefonai, usability
 ---
 
 # Samsung SGH-D880 DuoS

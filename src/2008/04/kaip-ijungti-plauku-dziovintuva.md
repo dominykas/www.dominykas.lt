@@ -1,6 +1,6 @@
 ---
 published: 2008-04-10T15:43:52+00:00
-tags: mygtukai, it-usability-it
+tags: mygtukai, usability
 ---
 
 # Kaip įjungti plaukų džiovintuvą?

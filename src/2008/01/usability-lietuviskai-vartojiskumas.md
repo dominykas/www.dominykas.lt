@@ -1,6 +1,6 @@
 ---
 published: 2008-01-30T00:59:29+00:00
-tags: lietuviu-kalba, terminai, usability, it-usability-it
+tags: lietuvių kalba, terminai, usability
 ---
 
 # Usability lietuviškai – vartojiškumas?

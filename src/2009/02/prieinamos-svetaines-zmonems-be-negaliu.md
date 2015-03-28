@@ -1,6 +1,6 @@
 ---
 published: 2009-02-17T04:20:30+00:00
-tags: accessibility, it-usability-it
+tags: accessibility, usability
 ---
 
 # Prieinamos svetainės žmonėms BE negalių

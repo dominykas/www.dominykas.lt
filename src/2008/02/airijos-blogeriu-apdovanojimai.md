@@ -1,6 +1,6 @@
 ---
 published: 2008-02-12T13:40:51+00:00
-tags: apdovanojimai, trumpai, realybe-airija, it-blogosfera
+tags: apdovanojimai, trumpai, realybė, airija, blogosfera
 ---
 
 # Airijos blog’erių apdovanojimai

@@ -1,6 +1,6 @@
 ---
 published: 2008-03-11T12:59:03+00:00
-tags: cebit, web-20, youtube, it
+tags: cebit, web 2.0, youtube, it
 ---
 
 # Kuo skiriasi B2B portalas nuo pažinčių svetainės?

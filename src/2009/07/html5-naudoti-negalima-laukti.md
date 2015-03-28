@@ -1,6 +1,6 @@
 ---
 published: 2009-07-05T23:15:33+00:00
-tags: eksperimentai, html5, html5-mitai, semantinis-tinklas, standartai, it-tinklo-kurimas
+tags: eksperimentai, html5, html5 mitai, semantinis tinklas, standartai, tinklo kūrimas
 ---
 
 # HTML5: naudoti negalima laukti

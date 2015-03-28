@@ -1,6 +1,6 @@
 ---
 published: 2008-04-08T15:00:54+00:00
-tags: don-norman, everyday-things, it-usability-it
+tags: don norman, everyday things, usability
 ---
 
 # Normano durys Dublino oro uoste

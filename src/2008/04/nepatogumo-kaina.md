@@ -1,6 +1,6 @@
 ---
 published: 2008-04-14T16:27:26+00:00
-tags: efektyvumas, nauda, trumpai, it-usability-it
+tags: efektyvumas, nauda, trumpai, usability
 ---
 
 # Nepatogumo kaina

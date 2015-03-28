@@ -1,6 +1,6 @@
 ---
 published: 2008-04-02T00:12:18+00:00
-tags: las-vegas, nepriimti-per-daug-rimtai, realybe
+tags: las vegas, nepriimti per daug rimtai, realybė
 ---
 
 # Pizza Expo paroda betono oazėje

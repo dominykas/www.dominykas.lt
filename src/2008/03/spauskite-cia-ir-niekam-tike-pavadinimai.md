@@ -1,6 +1,6 @@
 ---
 published: 2008-03-26T19:32:37+00:00
-tags: nuorodos, pavadinimai, seo, url, it-tinklo-kurimas
+tags: nuorodos, pavadinimai, seo, url, tinklo kūrimas
 ---
 
 # Spauskite čia ir niekam tikę pavadinimai

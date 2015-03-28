@@ -1,6 +1,6 @@
 ---
 published: 2009-10-01T22:29:13+00:00
-tags: nepriimti-per-daug-rimtai, trumpai, it-blogosfera
+tags: nepriimti per daug rimtai, trumpai, blogosfera
 ---
 
 # Prieš kelias savaites daug žmonių

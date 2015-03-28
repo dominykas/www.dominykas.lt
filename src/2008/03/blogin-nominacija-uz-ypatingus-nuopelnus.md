@@ -1,6 +1,6 @@
 ---
 published: 2008-03-28T15:11:40+00:00
-tags: pagyrimai, trumpai, it-blogosfera
+tags: pagyrimai, trumpai, blogosfera
 ---
 
 # BLOGin: nominacija už ypatingus nuopelnus

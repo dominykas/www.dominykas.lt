@@ -1,6 +1,6 @@
 ---
 published: 2009-03-11T01:58:56+00:00
-tags: myliu-opera, trumpai, it
+tags: myliu operą, trumpai, it
 ---
 
 # Kodėl aš myliu Operą (2)

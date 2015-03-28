@@ -1,6 +1,6 @@
 ---
 published: 2007-12-24T19:15:43+00:00
-tags: aviacija, kaledos, skrydziai, realybe-airija
+tags: aviacija, kalėdos, skrydžiai, realybė, airija
 ---
 
 # Skrydžių tvarkaraštis

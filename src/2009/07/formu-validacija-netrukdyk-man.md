@@ -1,6 +1,6 @@
 ---
 published: 2009-07-14T23:30:16+00:00
-tags: javascript, usability, uzknisantys-dalykai-internete, it-tinklo-kurimas
+tags: javascript, usability, užknisantys dalykai internete, tinklo kūrimas
 ---
 
 # Formų validacija: netrukdyk man!

@@ -1,6 +1,6 @@
 ---
 published: 2008-06-03T23:57:32+00:00
-tags: semantinis-tinklas, it-tinklo-kurimas
+tags: semantinis tinklas, tinklo kūrimas
 ---
 
 # Semantinio tinklo požymiai

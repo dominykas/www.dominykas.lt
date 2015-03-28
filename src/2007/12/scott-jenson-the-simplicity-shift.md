@@ -1,6 +1,6 @@
 ---
 published: 2007-12-19T20:48:16+00:00
-tags: paprastumas, scott-jenson, simplicity, usability, it-knygos
+tags: paprastumas, scott jenson, simplicity, usability, knygos
 ---
 
 # Scott Jenson – The Simplicity Shift

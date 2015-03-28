@@ -1,6 +1,6 @@
 ---
 published: 2009-08-19T10:04:21+00:00
-tags: kurybos-procesas, usability, it-usability-it
+tags: kūrybos procesas, usability
 ---
 
 # Eskizų paskirtis

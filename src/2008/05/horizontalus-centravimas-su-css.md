@@ -1,6 +1,6 @@
 ---
 published: 2008-05-27T00:18:12+00:00
-tags: css, eksperimentai, html, kodas, it-tinklo-kurimas
+tags: css, eksperimentai, html, kodas, tinklo kūrimas
 ---
 
 # Horizontalus centravimas

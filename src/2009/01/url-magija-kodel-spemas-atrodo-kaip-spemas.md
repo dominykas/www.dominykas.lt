@@ -1,6 +1,6 @@
 ---
 published: 2009-01-13T01:31:20+00:00
-tags: google, paieska, url, it-tinklo-kurimas
+tags: google, paieška, url, tinklo kūrimas
 ---
 
 # URL magija: kodėl spemas atrodo kaip spemas?

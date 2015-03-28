@@ -1,6 +1,6 @@
 ---
 published: 2009-12-09T08:15:46+00:00
-tags: purvasklaida, zaluma, ziniasklaida, realybe
+tags: purvasklaida, žaluma, žiniasklaida, realybė
 ---
 
 # Kaip “Lietuvos žinios” dezinformaciją skleidė

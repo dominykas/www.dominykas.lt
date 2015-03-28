@@ -1,6 +1,6 @@
 ---
 published: 2007-12-23T16:04:06+00:00
-tags: realybe
+tags: realybė
 ---
 
 # Kaip nedirbti?

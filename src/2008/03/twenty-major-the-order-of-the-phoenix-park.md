@@ -1,6 +1,6 @@
 ---
 published: 2008-03-25T20:05:50+00:00
-tags: humoras, knygos, realybe-airija
+tags: humoras, knygos, realybė, airija
 ---
 
 # Twenty Major – The Order of the Phoenix Park

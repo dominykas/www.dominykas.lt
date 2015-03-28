@@ -1,6 +1,6 @@
 ---
 published: 2008-01-10T20:14:42+00:00
-tags: aviacija, flylal, mokejimai, saugumas, skrydziai, it-privatumas
+tags: aviacija, flylal, mokėjimai, saugumas, skrydžiai, privatumas
 ---
 
 # FlyLAL saugumas, privatumas ir aiškumas (atnaujinta)

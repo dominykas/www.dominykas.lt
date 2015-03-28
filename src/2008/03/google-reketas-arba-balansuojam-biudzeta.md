@@ -1,6 +1,6 @@
 ---
 published: 2008-03-04T13:38:51+00:00
-tags: adwords, google, sem, it-tinklo-kurimas
+tags: adwords, google, sem, tinklo kūrimas
 ---
 
 # Google reketas arba balansuojam biudžetą

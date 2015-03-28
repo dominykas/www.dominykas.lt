@@ -1,6 +1,6 @@
 ---
 published: 2008-01-20T23:34:24+00:00
-tags: feedburner, google, wordpress, it-tinklo-kurimas
+tags: feedburner, google, wordpress, tinklo kūrimas
 ---
 
 # Deginti ar nedeginti?

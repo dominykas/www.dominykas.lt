@@ -1,6 +1,6 @@
 ---
 published: 2008-03-20T12:45:55+00:00
-tags: pasirinkimai, trumpai, realybe
+tags: pasirinkimai, trumpai, realybė
 ---
 
 # CTIA Las Vegas ar BLOGin?

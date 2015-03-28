@@ -1,6 +1,6 @@
 ---
 published: 2007-12-24T18:17:17+00:00
-tags: detektyvai, galvosukiai, vagys, realybe-airija
+tags: detektyvai, galvosūkiai, vagys, realybė, airija
 ---
 
 # Žaidžiam detektyvus

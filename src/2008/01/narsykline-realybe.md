@@ -1,6 +1,6 @@
 ---
 published: 2008-01-24T22:15:50+00:00
-tags: html, internet-explorer, microsoft, standartai, it-tinklo-kurimas
+tags: html, internet explorer, microsoft, standartai, tinklo kūrimas
 ---
 
 # Naršyklinė realybė

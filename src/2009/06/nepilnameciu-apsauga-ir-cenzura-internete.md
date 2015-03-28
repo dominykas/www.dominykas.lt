@@ -1,6 +1,6 @@
 ---
 published: 2009-06-07T18:41:45+00:00
-tags: cenzura, istatymai, valdzia, it
+tags: cenzūra, įstatymai, valdžia, it
 ---
 
 # Nepilnamečių apsauga ir cenzūra internete

@@ -1,6 +1,6 @@
 ---
 published: 2010-03-26T03:19:59+00:00
-tags: html5, javascript, saugumas, it-tinklo-kurimas
+tags: html5, javascript, saugumas, tinklo kūrimas
 ---
 
 # Naudoti svetimus JS failus yra nemandagu ir nesaugu

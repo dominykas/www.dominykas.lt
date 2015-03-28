@@ -1,6 +1,6 @@
 ---
 published: 2008-02-05T21:52:09+00:00
-tags: html, html5, paranoja, standartai, it-tinklo-kurimas
+tags: html, html5, paranoja, standartai, tinklo kūrimas
 ---
 
 # Paranoja: HTML5

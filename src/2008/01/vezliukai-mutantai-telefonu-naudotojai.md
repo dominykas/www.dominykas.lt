@@ -1,6 +1,6 @@
 ---
 published: 2008-01-17T20:09:13+00:00
-tags: evoliucija, informacine-visuomene, mobilus-telefonai, sms, telefonai, it-filosofija
+tags: evoliucija, informacinė visuomenė, mobilūs telefonai, sms, telefonai, geekiška filosofija
 ---
 
 # Vėžliukai – mutantai – telefonų naudotojai

@@ -1,6 +1,6 @@
 ---
 published: 2013-02-04T22:05:08+00:00
-tags: e-valdzia, geekiska-filosofija, paieska, seo, uzknisantys-dalykai-internete, it-tinklo-kurimas
+tags: e-valdžia, geekiška filosofija, paieška, seo, užknisantys dalykai internete, tinklo kūrimas
 ---
 
 # robots.txt mitai ir neteisingas naudojimas

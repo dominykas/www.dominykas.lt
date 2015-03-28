@@ -1,6 +1,6 @@
 ---
 published: 2007-12-07T09:40:03+00:00
-tags: blogo-pradzia, geekiska-filosofija, semantinis-tinklas, semantiskas-tinklas, url, it-tinklo-kurimas
+tags: blogo pradžia, geekiška filosofija, semantinis tinklas, semantiškas tinklas, url, tinklo kūrimas
 ---
 
 # Noriu padorios adresų struktūros

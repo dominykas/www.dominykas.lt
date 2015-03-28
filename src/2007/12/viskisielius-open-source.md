@@ -1,6 +1,6 @@
 ---
 published: 2007-12-26T02:39:55+00:00
-tags: alkoholis, kisielius, nepriimti-per-daug-rimtai, receptai, realybe
+tags: alkoholis, kisielius, nepriimti per daug rimtai, receptai, realybė
 ---
 
 # Viskisielius (open source)

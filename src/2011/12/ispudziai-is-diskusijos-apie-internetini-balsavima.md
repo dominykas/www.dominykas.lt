@@ -1,6 +1,6 @@
 ---
 published: 2011-12-30T17:00:59+00:00
-tags: balsavimas-internetu, ebalsavimas, it
+tags: balsavimas internetu, ebalsavimas, it
 ---
 
 # Įspūdžiai iš diskusijos apie internetinį balsavimą

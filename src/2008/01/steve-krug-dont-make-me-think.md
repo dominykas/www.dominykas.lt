@@ -1,6 +1,6 @@
 ---
 published: 2008-01-13T22:16:32+00:00
-tags: steve-krug, usability, it-knygos
+tags: steve krug, usability, knygos
 ---
 
 # Steve Krug – Don’t Make Me Think

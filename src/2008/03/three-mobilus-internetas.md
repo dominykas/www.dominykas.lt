@@ -1,6 +1,6 @@
 ---
 published: 2008-03-02T18:22:47+00:00
-tags: broadband, mobilus-internetas, three, realybe-airija, it
+tags: broadband, mobilus internetas, three, realybė, airija, it
 ---
 
 # Three mobilus internetas

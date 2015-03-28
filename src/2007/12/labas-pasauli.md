@@ -1,6 +1,6 @@
 ---
 published: 2007-12-07T07:31:10+00:00
-tags: it-blogosfera
+tags: blogosfera
 ---
 
 # Labas, pasauli!

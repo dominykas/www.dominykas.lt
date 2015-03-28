@@ -1,6 +1,6 @@
 ---
 published: 2009-06-16T00:42:01+00:00
-tags: adwords, it-tinklo-kurimas
+tags: adwords, tinklo kūrimas
 ---
 
 # Atiduodu 50 eurų AdWords

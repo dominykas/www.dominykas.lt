@@ -1,6 +1,6 @@
 ---
 published: 2008-11-17T23:59:53+00:00
-tags: ateitis, idejos, semantinis-tinklas, it-filosofija
+tags: ateitis, idėjos, semantinis tinklas, geekiška filosofija
 ---
 
 # Kontrolės inversija socialiniame semantiniame tinkle

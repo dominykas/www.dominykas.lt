@@ -1,6 +1,6 @@
 ---
 published: 2008-01-16T20:04:15+00:00
-tags: java, mysql, sun, it-naujienos
+tags: java, mysql, sun, naujienos
 ---
 
 # Sun Microsystems nusipirko MySQL AB

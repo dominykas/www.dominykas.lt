@@ -1,6 +1,6 @@
 ---
 published: 2010-01-31T21:00:55+00:00
-tags: futurizmas, rastas, svietimas, it-filosofija
+tags: futurizmas, raštas, švietimas, geekiška filosofija
 ---
 
 # Kam reikalingos “rašytinės” raidės?

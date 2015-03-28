@@ -1,6 +1,6 @@
 ---
 published: 2009-06-29T21:00:54+00:00
-tags: be-kategorijos
+tags: krizė
 ---
 
 # Nėra Lietuvoje krizės, nors tu ką

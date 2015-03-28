@@ -1,6 +1,6 @@
 ---
 published: 2009-03-23T22:39:09+00:00
-tags: analytics, reklama, statistika, it-filosofija
+tags: analytics, reklama, statistika, geekiška filosofija
 ---
 
 # Tai vistik – kuri reklama efektyviausia?

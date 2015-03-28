@@ -1,6 +1,6 @@
 ---
 published: 2008-06-08T23:13:04+00:00
-tags: google, seo, it-tinklo-kurimas
+tags: google, seo, tinklo kūrimas
 ---
 
 # SEO: teksto šviežumo įtaka

@@ -1,6 +1,6 @@
 ---
 published: 2009-03-07T21:42:16+00:00
-tags: eksperimentai, html, html5, javascript, kodas, uzknisantys-dalykai-internete, it-tinklo-kurimas
+tags: eksperimentai, html, html5, javascript, kodas, užknisantys dalykai internete, tinklo kūrimas
 ---
 
 # hasFocus ir activeElement už 400 baitų

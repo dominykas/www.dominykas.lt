@@ -1,6 +1,6 @@
 ---
 published: 2007-12-13T17:57:44+00:00
-tags: blogo-pradzia, url, wordpress, it-tinklo-kurimas
+tags: blogo pradžia, url, wordpress, tinklo kūrimas
 ---
 
 # Noriu blog’o adresų struktūros

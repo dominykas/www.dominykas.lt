@@ -1,6 +1,6 @@
 ---
 published: 2008-01-05T18:30:45+00:00
-tags: the-inmates-are-running-the-asylum, usability, it-filosofija
+tags: the inmates are running the asylum, usability, geekiška filosofija
 ---
 
 # Kas kaltas?

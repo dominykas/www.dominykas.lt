@@ -1,6 +1,6 @@
 ---
 published: 2008-08-28T22:24:01+00:00
-tags: aspnet, microsoft, visual-studio, it
+tags: asp.net, microsoft, visual studio, it
 ---
 
 # Labiausiai niekam tikęs Visual Studio fyturas

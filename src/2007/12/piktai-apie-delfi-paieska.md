@@ -1,6 +1,6 @@
 ---
 published: 2007-12-11T18:19:47+00:00
-tags: delfi, paieska, piktai, seo, it
+tags: delfi, paieška, piktai, seo, it
 ---
 
 # Piktai apie Delfi paiešką

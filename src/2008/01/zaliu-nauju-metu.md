@@ -1,6 +1,6 @@
 ---
 published: 2008-01-03T20:12:27+00:00
-tags: sveikinimai, zaluma, realybe
+tags: sveikinimai, žaluma, realybė
 ---
 
 # Žalių Naujų Metų!

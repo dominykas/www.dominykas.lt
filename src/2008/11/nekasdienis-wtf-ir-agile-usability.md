@@ -1,6 +1,6 @@
 ---
 published: 2008-11-30T03:34:41+00:00
-tags: agile, pavyzdziai, it-usability-it
+tags: agile, pavyzdžiai, usability
 ---
 
 # Nekasdienis WTF ir agile usability
