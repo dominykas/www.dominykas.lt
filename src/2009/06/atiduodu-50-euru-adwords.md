@@ -1,3 +1,8 @@
+---
+published: 2009-06-16T00:42:01+00:00
+tags: adwords, it-tinklo-kurimas
+---
+
 # Atiduodu 50 eurų AdWords
 
 <p>Taip jau nutiko, kad gyvenu Airijoje, o Google sugalvojo padaryti fantastišką promo, ir panašu, kad visiems Airijos ir Didžiosios Britanijos Analytics vartotojams padovanojo 100 eurų be įsipareigojimų. 50 jų ketinu panaudoti savo Piktiems Kėslams, o likusiems skelbiu konkursą, nes, na, taip įdomiau, o ir Piktų Kėslų ne tiek ir daug.<br>

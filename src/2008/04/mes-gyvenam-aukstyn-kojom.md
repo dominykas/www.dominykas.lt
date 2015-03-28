@@ -1,3 +1,8 @@
+---
+published: 2008-04-30T22:47:40+00:00
+tags: australija, laikrodziai, smalsumas, usability, it-filosofija
+---
+
 # Mes gyvenam aukštyn kojom
 
 <p>Viena iš usability rekomendacijų yra laikytis kultūrinių nuostatų, kaip pavyzdžiui “į kairę reiškia prieš laikrodžio rodyklę”. Kodėl laikrodžiai sukasi būtent ta kryptimi? Manoma, kad taip yra tik todėl, kad saulė šiauriniame žemės pusrutulyje sukasi ta pačia kryptimi.</p>

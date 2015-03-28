@@ -1,3 +1,8 @@
+---
+published: 2008-04-14T16:27:26+00:00
+tags: efektyvumas, nauda, trumpai, it-usability-it
+---
+
 # Nepatogumo kaina
 
 <p>Šiandien vienoje svetainėje radau tokią (lengvai nuspėjamą) žinutę:</p>

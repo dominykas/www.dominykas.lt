@@ -1,3 +1,8 @@
+---
+published: 2007-12-17T19:10:46+00:00
+tags: blogo-pradzia, url, wordpress, it-tinklo-kurimas
+---
+
 # Noriu savo struktūros WordPress’e
 
 <p><a href="http://code.dominykas.com/php/wordpress/canonizer/">Nustok burną aušint, Dominykai, ir duok <i>source’ą</i></a>.</p>

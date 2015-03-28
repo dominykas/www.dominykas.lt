@@ -1,3 +1,8 @@
+---
+published: 2009-03-07T21:42:16+00:00
+tags: eksperimentai, html, html5, javascript, kodas, uzknisantys-dalykai-internete, it-tinklo-kurimas
+---
+
 # hasFocus ir activeElement už 400 baitų
 
 <p>Vienas labiausiai internete užknisančių dalykų yra tai, kad kai kurios svetainės visiškai manęs negerbdamos paima ir perrašo įvesties laukų turinį tada kai aš jau ten bandau kažką rašyti. Ši situacija kyla iš to, kad nėra paprasto būdo nustatyti ar (ir kuris) HTML elementas yra fokusuotas ar ne. Internet Exploreris jau senokai turi <code>document.activeElement</code>, bet kas iš to, jeigu tai negalioja kitoms naršyklėms. HTML5 specifikacijoje yra standartizuotos abi -<code>element.hasFocus</code> ir <code>document.activeElement</code> galimybės, tačiau ką daryti šiandien? <a href="https://www.dominykas.lt/2009/03/hasfocus-ir-activeelement-uz-400-baitu.html#galutinis-sprendimas-20090307">Tingiu skaityti – duok galutinį sprendimą</a>.</p>

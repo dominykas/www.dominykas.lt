@@ -1,3 +1,8 @@
+---
+published: 2009-03-23T22:39:09+00:00
+tags: analytics, reklama, statistika, it-filosofija
+---
+
 # Tai vistik – kuri reklama efektyviausia?
 
 <p>Na va – prašau. Vakar <a href="https://www.dominykas.lt/2009/03/kuo-jei-ne-skaiciais-paremti-sprendimus.html">parašiau apie skaičius</a>, o šiandien gaunu <a href="http://qq.dreamy.ws/blogV2/2008/07/21/baader-meinhof-fenomenas/">Baader-Meinhof</a>.</p>

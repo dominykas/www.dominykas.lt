@@ -1,3 +1,8 @@
+---
+published: 2010-09-08T02:20:07+00:00
+tags: geekiska-filosofija, it-tinklo-kurimas
+---
+
 # Apie prioritetus ir kodo grožį
 
 <p>Sėdėdamas ir žiūrėdamas eilinę prezentaciją apie Javascript ir <i>accessibility</i> <a href="http://developer.yahoo.net/blogs/theater/">YDN teatre</a> prisiminiau mintį: <em><a href="http://www.sadauskas.lt/index.php/2007/04/09/usability-ir-programuotojai/">programuotojai nemėgsta <i>usability</i>, nes reikia rašyti daug <i>if</i>‘ų</a></em>. Užsimąsčiau apie tai, kad programuotojo darbas susideda iš labai daug balansavimo.<br>

@@ -1,3 +1,8 @@
+---
+published: 2008-05-27T00:18:12+00:00
+tags: css, eksperimentai, html, kodas, it-tinklo-kurimas
+---
+
 # Horizontalus centravimas
 
 <p>Šitas įrašas yra visai ne apie tai, kas būtų jeigu Sabonis žaistų krepšinį gulėdamas ant grindų (tiesa, esu įsitikinęs, kad jis tai darytų puikiai). Ir tikiuosi iš pirmojo sakinio supratote, kad nesusipainiojau ir (beveik) neketinu kartotis <a href="http://www.jakpsatweb.cz/css/css-vertical-center-solution.html">vertikalaus centravimo</a> tema.</p>

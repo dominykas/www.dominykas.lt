@@ -1,3 +1,8 @@
+---
+published: 2009-11-28T23:46:42+00:00
+tags: accessibility, html5, javascript, standartai, it-tinklo-kurimas
+---
+
 # Užrašai iš FullFrontal 2009
 
 <p>Prėjusį penktadienį Brighton’e vyko FullFrontal 2009 JavaScript konferencija, kurioje turėjau progą apsilankyti. Tikrai nenusivyliau!</p>

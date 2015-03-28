@@ -1,3 +1,8 @@
+---
+published: 2007-12-13T17:57:44+00:00
+tags: blogo-pradzia, url, wordpress, it-tinklo-kurimas
+---
+
 # Noriu blog’o adresų struktūros
 
 <p>Apsisprendus, kas yra <a href="https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.html">geras adresas</a> ir kokias <a href="https://www.dominykas.lt/2007/12/noriu-pastovios-adresu-ir-turinio-strukturos.html">papildomas savybes</a> jis privalo turėti, galima kalbėti konkrečiau apie blog’o struktūrą. Kadangi WordPress šiuo metu yra bene populiauriasia bloginimo platforma – modeliuosiu daugiau mažiau pagal jos galimybes. Na galų gale juk ir pats ja naudojuosi. Galbūt laikinai – kol turėsiu laiko paieškoti ar sukurti geresnį sprendimą.</p>

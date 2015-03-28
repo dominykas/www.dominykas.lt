@@ -1,3 +1,8 @@
+---
+published: 2008-03-26T19:32:37+00:00
+tags: nuorodos, pavadinimai, seo, url, it-tinklo-kurimas
+---
+
 # Spauskite čia ir niekam tikę pavadinimai
 
 <p>Kartais, kai labai užknisa dirbti, einu pažaisti su Google – man tai yra tas pats kas sekretorei Solitaire. Mėgstamiausi žaidimo būdai – pasižiūrėti <a href="http://www.google.com/trends/hottrends?sa=X">kas karšta</a> ir atsitiktinės paieškos eilutės.<br>

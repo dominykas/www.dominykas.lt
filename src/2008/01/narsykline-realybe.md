@@ -1,3 +1,8 @@
+---
+published: 2008-01-24T22:15:50+00:00
+tags: html, internet-explorer, microsoft, standartai, it-tinklo-kurimas
+---
+
 # Naršyklinė realybė
 
 <p>Šią savaitė A List Apart paskelbė du <a href="http://www.alistapart.com/articles/beyonddoctype">vienas</a> kitam <a href="http://www.alistapart.com/articles/fromswitchestotargets">prieštaraujančius</a> straipsnius. Čia ne kritika – prieštarą jie sukėlė sąmoningai. Ir ta prieštara išaugo į gana rimtą diskusiją, kurioje <a href="http://www.456bereastreet.com/archive/200801/standards_mode_is_the_new_quirks_mode/">teisių nėra ir nebus</a>. Išskyrus mane.<br>

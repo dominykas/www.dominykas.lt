@@ -1,3 +1,8 @@
+---
+published: 2009-07-07T01:13:14+00:00
+tags: html, html5, pavadinimai, standartai, be-kategorijos
+---
+
 # Kaip HTML5 įsisenėjusį skaudulį nuėmė
 
 <p>Jau kokius du su puse metų vis ruošiausi parašyti įrašą apie <code>h1</code>-<code>h6</code> žymų naudojimą ir jų nepakankamumą. Gerai, kad tingėjau – dabar nebereikia net sukti dėl to galvos.<br>

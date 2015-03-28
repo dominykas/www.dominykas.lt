@@ -1,3 +1,8 @@
+---
+published: 2008-01-13T22:16:32+00:00
+tags: steve-krug, usability, it-knygos
+---
+
 # Steve Krug – Don’t Make Me Think
 
 <p>Šią knygą radau vienos kompanijos, kuriai kažkodėl jaučiu ganėtinai didelę pagarbą, rekomendacijų sąraše. Knyga yra ganėtinai trumpa ir ganėtinai brangi – iš viso mano Kalėdinių pirkinių sąrašo, turbūt šios knygos <i>pinigai už puslapį</i> būtų didžiausi. Iš vienos pusės – turiu abejonių, ar jie to verti, iš kitos pusės turiu pripažinti – <i>tam tikros konsistencijos medžiagos</i> knygoje tikrai nėra malamos, o patarimai yra efektyvūs. Vienintelė bėda – tuos patarimus aš iš esmės jau seniai žinojau, ir kiekvienas, kuris bent šiek tiek turi patirties kuriant interneto svetaines – turėtų juos būti suradęs pats. <em>(<a href="/2008/01/steve-krug-dont-make-me-think.html#ar-verta-20080113">Ar verta skaityti?</a>)</em><br>

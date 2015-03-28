@@ -1,3 +1,8 @@
+---
+published: 2008-01-05T18:30:45+00:00
+tags: the-inmates-are-running-the-asylum, usability, it-filosofija
+---
+
 # Kas kaltas?
 
 <p>Šiuo metu skaitau Alan’o Cooper’io “<a href="http://www.cooper.com/insights/books/#inmates">The Inmates Are Running The Asylum</a>“. Knyga tiek gera, kad kartais norisi verkti. Kartu ji yra ir žiauri, ypač programuotojų atžvilgiu. Nesiginčyju – programuotojams nederėtų kurti interfeisų bei dizainų. Jiems nederėtų ir verslo valdyti. Kiekvienas žmogus turėtų daryti tai ką geriausiai sugeba ir išmano – o kitas sritis užleisti jų profesionalams. Tačiau vistik – kas kaltas, kad pasaulyje šiuo metu yra tiek daug nepatogios programinės įrangos ar šiaip technikos prietaisų?<br>

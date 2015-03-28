@@ -1,3 +1,8 @@
+---
+published: 2008-01-03T20:12:27+00:00
+tags: sveikinimai, zaluma, realybe
+---
+
 # Žalių Naujų Metų!
 
 <p>Dar nevėlu rašyti naujametes rezoliucijas ir sveikinimus? Kaip ten bebūtų, kuriam laikui aprimsiu su “neprofesiniais” ir “neekspertiniais” įrašais – čia paskutinis iš jų ir grįžtam atgal į darbo ritmą.<br>

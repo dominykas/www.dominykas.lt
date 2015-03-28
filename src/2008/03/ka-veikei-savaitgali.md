@@ -1,3 +1,8 @@
+---
+published: 2008-03-03T12:33:38+00:00
+tags: trumpai, realybe
+---
+
 # Ką veikei savaitgalį?
 
 <p>Sekmadienio vakarą vienas draugas pasigyrė, kad perėjo <a href="http://lostpedia.com/wiki/Lost:_Via_Domus">Lost: Via Domus</a>. Lucky you! Atėjau pirmadienį ryte į darbą ir kolegos pirmas klausimas buvo: kaip sekasi žaisti Lost game?</p>

@@ -1,3 +1,8 @@
+---
+published: 2010-01-31T21:00:55+00:00
+tags: futurizmas, rastas, svietimas, it-filosofija
+---
+
 # Kam reikalingos “rašytinės” raidės?
 
 <p>Dienos klausimas – vis tik, kodėl pirmoje klasėje vaikai mokomi tokio beverčio įgūdžio kaip dailyraštis? Šią tingią sekmadienio popietę praleidau klaidžiodamas internetų gūdybėse, kol užkliuvau už šio <a href="http://www.youtube.com/watch?v=jpEnFwiqdx8">“Ar žinote, kad…”</a> video klipuko. Vienas iš faktų jame – geidžiamiausios darbo vietos prieš dešimtmetį tiesiog dar nebuvo išrastos. Tokiu greičiu judančiame pasaulyje, kai tai, ką išmoksti universitete pirmais metais, jau būna pasenę kai baigi, <em>privalomai</em> mokyti dalykų, kurie yra atgyvenę, reiškia elementarų resursų švaistymą ir praktiškai sukelia ekonominį atsilikimą ateityje.<br>

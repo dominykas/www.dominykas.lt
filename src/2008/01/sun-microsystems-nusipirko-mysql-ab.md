@@ -1,3 +1,8 @@
+---
+published: 2008-01-16T20:04:15+00:00
+tags: java, mysql, sun, it-naujienos
+---
+
 # Sun Microsystems nusipirko MySQL AB
 
 <p>Nukrito naujiena iš dangaus. Netgi šokiravo! Ne kaina (1 milijardas JAV dolerių) – bet pati idėja. Sun be abejo daug duoda atviro kodo judėjimui, jau vien Java ką reiškia – lygiai taip pat ir MySQL. Sakyčiau daug šansų progresui (ilgu laikotarpiu)! Ir truputėlį rimtesnė konkurencija Oracle.<br>

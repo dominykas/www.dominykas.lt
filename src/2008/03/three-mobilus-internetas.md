@@ -1,3 +1,8 @@
+---
+published: 2008-03-02T18:22:47+00:00
+tags: broadband, mobilus-internetas, three, realybe-airija, it
+---
+
 # Three mobilus internetas
 
 <p>Taigi, prieš kelias neišlaikė nervai ir sugalvojau, kad vėl noriu namie interneto. Negana to – airių operatorius <a href="http://www.three.ie/">Three</a> pradėjo teikti mobilų internetą su išankstiniu apmokėjimu – kadangi vis negaliu apsispręsti kiek ilgai dar čia gyvensiu, sutarties su niekuo nenorėjau pasirašyti. Reklama: iki 3.6Mbps, €25 per mėnesį ir jokių įsipareigojimų.<br>

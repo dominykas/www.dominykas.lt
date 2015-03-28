@@ -1,3 +1,8 @@
+---
+published: 2009-08-19T10:04:21+00:00
+tags: kurybos-procesas, usability, it-usability-it
+---
+
 # Eskizų paskirtis
 
 <p>Neseniai perskaičiau Bill Buxton knygą <a href="http://www.amazon.com/Sketching-User-Experiences-Interactive-Technologies/dp/0123740371/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1250629470&amp;sr=8-1">“Sketching User Experiences”</a>. Nepaisant to, kad aš jau seniai vertinu prototipų gamybą, kai tai leidžia biudžetas, knyga atvėrė akis, tuo kad prototipų daryti pačioje pradžioje išvis nereikia – užtenka tiesiog eskizų. Būtent tas atskyrimas tarp eskizų ir prototipų ir yra esminis dalykas, kurį iš jos pasiėmiau. Iš tiesų, eskizas kartais gali būti daug vertingesnis negu pats prototipas, dėl savo savybių.<br>

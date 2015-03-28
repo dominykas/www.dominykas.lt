@@ -1,3 +1,8 @@
+---
+published: 2012-04-17T17:54:18+00:00
+tags: geekiska-filosofija, html, javascript, url, usability, it-tinklo-kurimas
+---
+
 # Ateikit į InfoShow WEB konferenciją 2012
 
 <p><img src="https://www.dominykas.lt/uploads/2012/04/41607_292463217490036_926997090_n.jpg" style="margin-left: 1em; margin-bottom: 1em; float: right; border: 0;" alt="InfoShow WEB konferencijos logotipas"><br>

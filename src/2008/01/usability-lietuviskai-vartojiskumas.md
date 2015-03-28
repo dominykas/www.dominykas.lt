@@ -1,3 +1,8 @@
+---
+published: 2008-01-30T00:59:29+00:00
+tags: lietuviu-kalba, terminai, usability, it-usability-it
+---
+
 # Usability lietuviškai – vartojiškumas?
 
 <p>Norėjau šiandien parašyti visai kitą įrašą, gimusį po diskusijos su kolega, kuris didelę gyvenimo dalį dirbo marketingo srityje, tačiau parašęs pirmus du pavadinimo žodžius “Marketingas prieš” sustojau – kaip <i>usability</i> būtų lietuviškai?<br>

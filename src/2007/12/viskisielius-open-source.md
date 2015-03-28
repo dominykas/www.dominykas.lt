@@ -1,3 +1,8 @@
+---
+published: 2007-12-26T02:39:55+00:00
+tags: alkoholis, kisielius, nepriimti-per-daug-rimtai, receptai, realybe
+---
+
 # Viskisielius (open source)
 
 <p>Padariau du atradimus Kalėdų dieną. Iš pradžių galvojau juos užpatentuoti ir paleisti į gamybą, susikrauti milijonus ir išgelbėti su jais Afrikos vaikus, bet kažkaip po to pagalvojau, kad atviras kodas galėtų išgelbėti daugiau.</p>

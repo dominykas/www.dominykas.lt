@@ -1,3 +1,8 @@
+---
+published: 2007-12-19T20:48:16+00:00
+tags: paprastumas, scott-jenson, simplicity, usability, it-knygos
+---
+
 # Scott Jenson – The Simplicity Shift
 
 <p>Kalėdų Šefelis buvo labai geras ir atnešė man kalną įdomių knygų apie <i>usability</i>, programavimą, <i>webą</i>, <i>analyticsus</i>, SEO ir visokius kitokius dalykus, kurių aš net nemoku ištarti. Bet išmoksiu! Kadangi <a href="http://www.amazon.com/">amazonės</a> kažkodėl nusprendė atsiųsti viską per dvi siuntas – pirmoji knyga nebuvo ta, kurią skaityčiau pirmą, bet koks skirtumas – perskaičiau <em>Scott Jenson “The Simplicity Shift: Innovative Design Tactics in a Corporate World”</em> (pavadinimo ilgumas prieštarauja knygos idėjai, bet ką jau čia…)</p>

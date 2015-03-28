@@ -1,3 +1,8 @@
+---
+published: 2009-06-07T18:41:45+00:00
+tags: cenzura, istatymai, valdzia, it
+---
+
 # Nepilnamečių apsauga ir cenzūra internete
 
 <p>Prieš porą dienų perskaičiau gana gąsdinantį įrašą, apie tai, kad <a href="http://atvirasgalas.blog.hardcore.lt/2009/06/turim_istatyma_vaikuciams.html">Lietuvoje jau (beveik) turime cenzūros internete įstatymą</a>. Pirma reakcija buvo, kad nejaugi man dabar reikės šį savaitgalį pradėti organizuoti kažką panašaus į <a href="http://en.wikipedia.org/wiki/Internet_censorship_in_Ireland">Blackout Ireland</a> ar <a href="http://en.wikipedia.org/wiki/New_Zealand_Internet_Blackout">New Zealand Internet Blackout</a>. Tiesa, pastarųjų problemos kyla daugiau iš P2P ir autorinių teisių pažeidimų, tačiau viskas bet kuriuo atveju atsiremia į viena – interneto cenzūrą. Tačiau ar iš tikro viskas yra taip blogai?<br>

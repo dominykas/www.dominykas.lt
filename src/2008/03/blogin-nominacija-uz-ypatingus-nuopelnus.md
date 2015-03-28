@@ -1,3 +1,8 @@
+---
+published: 2008-03-28T15:11:40+00:00
+tags: pagyrimai, trumpai, it-blogosfera
+---
+
 # BLOGin: nominacija už ypatingus nuopelnus
 
 <p>Kadangi vistik teks praleisti šiemetinį BLOGin’ą, tai kol nepamiršau…</p>

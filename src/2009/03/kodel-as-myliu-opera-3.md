@@ -1,3 +1,8 @@
+---
+published: 2009-03-26T21:31:09+00:00
+tags: myliu-opera, trumpai, it
+---
+
 # Kodėl aš myliu Operą (3)
 
 <p>Aš esu įsitikinęs, kad Firefox turi tokį pluginą. O va Opera be jokio plugino turi greituosius nustatymus, kuriuose galima greitai išjungti Javascript, Flash, kukius viename tab’e. Velniškai patogu testuojant <dfn title="tvarkingą veikimo nebuvimą">graceful degradation</dfn> ir <dfn title="progresyvų išplėtimą">progressive enhancement</dfn>.</p>

@@ -1,3 +1,8 @@
+---
+published: 2008-01-17T20:09:13+00:00
+tags: evoliucija, informacine-visuomene, mobilus-telefonai, sms, telefonai, it-filosofija
+---
+
 # Vėžliukai – mutantai – telefonų naudotojai
 
 <p>Ketinau šį įrašą pavadinti visai kitaip, bet po to kai šyryt pamačiau <a href="http://www.yucentrik.ca/en/yu_blog/2008/01/under-my-thumb.html">įrašą Yu Centrik blog’e</a> – persigalvojau. Tiesa, jie į šitą klausimą žvelgia iš <i>usability</i> ir <i>interaction design</i> pusės – apie fizinę nykščio paskirties mutaciją ir apie įrenginių pritaikymą šiai naujai tendencijai. Aš dar tiek nepažengęs – mano mintis kol kas tėra apie socialinę mutaciją. Ir apie tai, kad aš prie jos neprisitaikiau…<br>

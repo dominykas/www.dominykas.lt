@@ -1,3 +1,8 @@
+---
+published: 2008-05-13T14:34:45+00:00
+tags: ammado, labdara, socialiniai-tinklai, it, realybe
+---
+
 # Ammado – socialinis tinklas žmonėms, kuriems nenusispjaut
 
 <p>Web 2.0 aukštumoje – jeigu pažvelgti į Alexa duomenis tai top 10 pamatysime dvi tikras “pažinčių svetaines” (MySpace ir Facebook), bei dar dvi svetaines, kurios iš esmės vistiek yra socialiniai tinklai (Youtube ir Blogger). Wikipedia turbūt taipogi gali būti panaudota tam tikslui – ryšių užmezgimui ir jų palaikymui. Be didžiųjų grandų egzistuoja <a href="http://en.wikipedia.org/wiki/List_of_social_networking_websites">gana nemažai kitų socialinių tinklelių</a> (drugeliams gaudyti), kai kurie iš jų – su gana ribota interesų tematika ir/arba paskirtimi.</p>

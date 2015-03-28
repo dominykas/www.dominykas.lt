@@ -1,3 +1,8 @@
+---
+published: 2008-01-10T20:14:42+00:00
+tags: aviacija, flylal, mokejimai, saugumas, skrydziai, it-privatumas
+---
+
 # FlyLAL saugumas, privatumas ir aiškumas (atnaujinta)
 
 <p>Prieš Naujuosius Metus pirkau bilietus iš <a href="http://www.flylal.com">FlyLAL.com</a> į Lietuvą. Nežinau – gal tada, o gal ir anksčiau prisiregistravau jų svetainėje, bet ne tai svarbu. Šią savaitę teko vėl užsakyti iš ten bilietų – suvedžiau savo vartotojo vardą ir… pamačiau, kad mano kreditinės kortelės numeris išsaugotas.<br>

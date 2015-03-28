@@ -1,3 +1,8 @@
+---
+published: 2009-07-14T23:30:16+00:00
+tags: javascript, usability, uzknisantys-dalykai-internete, it-tinklo-kurimas
+---
+
 # Formų validacija: netrukdyk man!
 
 <p><cite>Alanas Cooperis</cite> savo knygose pastoviai kartoja, kad blogiausias dalykas, kurį galima padaryti vartotojui, tai priversti jį jaustis kvailu. Bene lengviausia šį “tikslą” pasiekti yra validacijoje – kiekvienas bereikalingas klaidos pranešimas ir kiekviena sistema, kuri man trukdo daryti dalykus mano būdu, tiesiog ir verčia mane daužyti galvą į sieną su klausimu “<i>Nu</i>, kodėl šito reikia?” Šiandien aptikau puikų to pavyzdį:</p>

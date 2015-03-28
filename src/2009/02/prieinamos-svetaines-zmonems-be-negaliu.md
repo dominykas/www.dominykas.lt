@@ -1,3 +1,8 @@
+---
+published: 2009-02-17T04:20:30+00:00
+tags: accessibility, it-usability-it
+---
+
 # Prieinamos svetainės žmonėms BE negalių
 
 <p>Prieš porą savaičių WebAIM paskelbė <a href="http://webaim.org/projects/screenreadersurvey/">ekrano “skaityklių” naudotojų apklausos rezultatus</a>. Nepaisant to, kad man ganėtinai keistai skamba kai kurių klausimų, o ypač atsakymų variantų formuluotės, pats <strong>tyrimas… neatskleidė nieko naujo</strong> ar išskirtinio tarp interneto naudojų su negalia.</p>

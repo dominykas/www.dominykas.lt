@@ -1,3 +1,8 @@
+---
+published: 2009-01-13T01:31:20+00:00
+tags: google, paieska, url, it-tinklo-kurimas
+---
+
 # URL magija: kodėl spemas atrodo kaip spemas?
 
 <p>Šiandien didžiąją dalį dienos praleidau visaip laužydamas <a href="http://www.google.com/coop/cse/">Google Custom Search Engine</a>. Viskas būtų labai paprasta – naudojam <a href="http://code.google.com/apis/ajaxsearch/documentation/reference.html#_intro_fonje">AJAX Search API</a>, užkraunam JSONą (kai ateis laikas – <a href="http://www.google.com/coop/docs/cse/resultsxml.html">XML</a>), pagražinam ir išspjaunam viską į šabloną. Tačiau atsirado problema – <strong>paieškos rezultatų puslapis atrodė kaip spemas</strong> – žinot tuos tuščius domeinus, kuriuose nėra nieko išskyrus reklamą?<br>

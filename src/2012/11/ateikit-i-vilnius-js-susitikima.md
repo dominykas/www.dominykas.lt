@@ -1,3 +1,8 @@
+---
+published: 2012-11-18T17:36:02+00:00
+tags: javascript, it-tinklo-kurimas
+---
+
 # Ateikit į Vilnius JS susitikimą
 
 <p><img src="https://www.dominykas.lt/uploads/2012/11/77efc55f3a45a22ba891ba532ec16c77.png" style="margin-left: 1em; margin-bottom: 1em; float: right; border: 0;" alt="Vilnius JS logotipas"><br>

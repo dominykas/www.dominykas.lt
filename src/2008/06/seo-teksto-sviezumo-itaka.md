@@ -1,3 +1,8 @@
+---
+published: 2008-06-08T23:13:04+00:00
+tags: google, seo, it-tinklo-kurimas
+---
+
 # SEO: teksto šviežumo įtaka
 
 <p>Šiandien sprendžiau vieną problemėlę (IE6 su JS keičiant <code>&lt;iframe&gt;.src</code> nieko nevyksta). Be abejo, vietoj to, kad naudotis savo galva, visų pirma išnaršiau Google rezultatus šita tema. Paskutiniu metu vis dažniau pastebiu, kad <strong>Google pateikiami rezultatai mane vis rečiau patenkinta</strong> iš pirmo karto, pirmame puslapyje. Šiuo atveju, turėjau labai stiprią nuojautą, kad man rodomi naujesni rezultatai, o senesni paslepiami.<br>

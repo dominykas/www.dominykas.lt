@@ -1,3 +1,8 @@
+---
+published: 2013-02-04T22:05:08+00:00
+tags: e-valdzia, geekiska-filosofija, paieska, seo, uzknisantys-dalykai-internete, it-tinklo-kurimas
+---
+
 # robots.txt mitai ir neteisingas naudojimas
 
 <p>Anądien <a href="https://plus.google.com/100293756761145273349/posts/BAaQjp2bjns">pliuse išsiliejau</a> apie tai, kad dėl neaiškių priežasčių paieškos [ir kitokiems] robotams pusė Seimo svetainės yra “uždraustas turinys”. To rezultatas labai paprastas – ieškant, pvz., “PVM įstatymas” rezultatuose pirmu numeriu yra nuoroda į būtent tą įstatymą, tačiau nepateikiamas puslapio pavadinimas irba santrauka:</p>

@@ -1,3 +1,8 @@
+---
+published: 2008-01-20T23:34:24+00:00
+tags: feedburner, google, wordpress, it-tinklo-kurimas
+---
+
 # Deginti ar nedeginti?
 
 <p>FeedBurner man visada atrodė lyg standartas, kurį privaloma naudoti kiekvienam blogeriui. Tačiau pagalvojau šiek tiek plačiau ir supratau, kad jis man visiškai nereikalingas. Tau greičiausiai taipogi!</p>

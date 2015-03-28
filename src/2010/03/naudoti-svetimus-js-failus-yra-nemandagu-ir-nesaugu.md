@@ -1,3 +1,8 @@
+---
+published: 2010-03-26T03:19:59+00:00
+tags: html5, javascript, saugumas, it-tinklo-kurimas
+---
+
 # Naudoti svetimus JS failus yra nemandagu ir nesaugu
 
 <p>Vos prieš porą mėnesių garsiai nuskambėjo <a href="http://ajaxian.com/">Ajaxian</a>, kai paėmė ir įdėjo <a href="http://www.techkumar.com/showcase/rolling-coke-pure-css-code/">besisukančios Coca Cola skardinės</a> pavyzdį į <code>iframe</code> tiesiogiai iš <a href="http://www.romancortes.com/blog/pure-css-coke-can/">autoriaus svetainės</a>. Gana panašus atvejis buvo ir su Douglas Crockford <a href="http://www.json.org/js.html">JSON2 biblioteka</a> bent keletoje didokų svetainių (žr. pirmą <a href="http://www.json.org/json2.js">šaltinio</a> eilutę).</p>

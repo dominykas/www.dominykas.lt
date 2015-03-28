@@ -1,3 +1,8 @@
+---
+published: 2007-12-07T09:40:03+00:00
+tags: blogo-pradzia, geekiska-filosofija, semantinis-tinklas, semantiskas-tinklas, url, it-tinklo-kurimas
+---
+
 # Noriu padorios adresų struktūros
 
 <p>Renkantis bet kokią web turinio valdymo sistemą vienas iš pagrindinių klausimų yra jos pritaikomumas SEO. Kaip žinia, gana svarbus to faktorius yra URL optimizacija. Kas yra optimalus URL galima diskutuoti daug, tačiau mano asmeniniai kriterijai yra šie:</p>

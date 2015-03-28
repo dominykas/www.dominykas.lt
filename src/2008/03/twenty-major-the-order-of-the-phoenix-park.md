@@ -1,3 +1,8 @@
+---
+published: 2008-03-25T20:05:50+00:00
+tags: humoras, knygos, realybe-airija
+---
+
 # Twenty Major – The Order of the Phoenix Park
 
 <p>Nusipirkau <a href="http://www.amazon.co.uk/Order-of-the-Phoenix-Park/dp/0340952873">šitą knygą</a>, perskaičiau ir šiek tiek nusivyliau, tad galvojau nieko nerašyti apie ją. <a href="http://twentymajor.net/">Twenty Major</a> man iš esmės patinka, todėl nesinorėjo per daug jo kritikuoti už klystkelius, tačiau perskaitęs <a href="http://twentymajor.net/2008/03/25/i-was-just-thinking/">paskutinį jo blog’o įrašą tarptautine tema</a> ir garsiai nusikvatojęs persigalvojau.<br>

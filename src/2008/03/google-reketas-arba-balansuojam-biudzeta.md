@@ -1,3 +1,8 @@
+---
+published: 2008-03-04T13:38:51+00:00
+tags: adwords, google, sem, it-tinklo-kurimas
+---
+
 # Google reketas arba balansuojam biudžetą
 
 <p>Šiandien savo RSS skaityklėje radau vieną džiugią naujieną, apie tai, kad Microsoft kompanijoje kažkas turi smegenų, įsiklausė į tinklo meistrų bendruomenės balsą ir nusprendė, kad <a href="http://blogs.msdn.com/ie/archive/2008/03/03/microsoft-s-interoperability-principles-and-ie8.aspx">IE8 pagal nutylėjimą taikys standartų režimą</a> (žr. ankstesnį <a href="https://www.dominykas.lt/2008/01/narsykline-realybe.html">įrašą apie tai</a>). Tačiau kitos naujienos buvo ne tokios linksmos ir kas sekė po to mane šiek tiek įžeidė. Ir negana to – jos buvo ne apie MS, o apie Google, kurie šiaip jau turi “geriečių” reputaciją.<br>

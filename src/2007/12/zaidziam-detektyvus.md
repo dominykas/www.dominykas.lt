@@ -1,3 +1,8 @@
+---
+published: 2007-12-24T18:17:17+00:00
+tags: detektyvai, galvosukiai, vagys, realybe-airija
+---
+
 # Žaidžiam detektyvus
 
 <p>Kai buvau jaunas ir gražus, skaičiau daug Agatos Kristi ir Artūro Konano Doilio. Erkiulis Puaro, Šerlokas Holmsas ir netgi Miss Marpl buvo mano didvyriai. Nesmerkit, prašau. Ir štai nuo penktadienio vakaro, ar gal tiksliau šeštadienio ryto, turiu progą pats pabūti vienu iš jų. Jeigu dar turėčiau CSI įrangą ir įvairių teisinių leidimų daryti ką noriu – būtų dar smagiau.</p>

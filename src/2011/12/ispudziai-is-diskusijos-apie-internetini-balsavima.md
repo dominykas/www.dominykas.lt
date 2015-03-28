@@ -1,3 +1,8 @@
+---
+published: 2011-12-30T17:00:59+00:00
+tags: balsavimas-internetu, ebalsavimas, it
+---
+
 # Įspūdžiai iš diskusijos apie internetinį balsavimą
 
 <p>Prieš kiek daugiau nei savaitę teko pasiklausyti keleto prezentacijų ir <a href="http://ebalsavimas.liks.lt/">diskusijos apie internetinio balsavimo technines galimybes</a> – kol dar visiškai neataušo, bandau nurašyti savo reakciją į kai kuriuos teiginius bei pateikti keletą pasiūlymų ir pamąstymų.<br>

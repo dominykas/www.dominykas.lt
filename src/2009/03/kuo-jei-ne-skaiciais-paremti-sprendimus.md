@@ -1,3 +1,8 @@
+---
+published: 2009-03-23T03:37:47+00:00
+tags: analytics, dizainas, sprendimai, usability, it-filosofija
+---
+
 # Kuo, jei ne skaičiais, paremti sprendimus?
 
 <p>Penktadienį, prieš pat prasidedant beer o’clock, bendradarbis parodė vieno iš (dabar jau buvusių) Google dizainerių <a href="http://stopdesign.com/archive/2009/03/20/goodbye-google.html">atsisveikinimo laišką</a>. Jame Douglas Bowman nurodo ir darbo keitimo priežastį – Google priimdama dizaino sprendimus remiasi skaičiais. Pirma visų reakcija į tą įrašą buvo užuojauta – “vargšas menininkas užspaustas gigantiškoje tikslumo mašinoje”. Tačiau šalin jausmus – kuo gi daugiau besiremsi?<br>

@@ -1,3 +1,8 @@
+---
+published: 2008-01-25T13:19:52+00:00
+tags: pavyzdziai, thawte, usability, it-usability-it
+---
+
 # Paspausk mygtuką, kurį mes paslėpėm
 
 <p><img src="https://www.dominykas.lt/uploads/2008/01/site-seal.png" alt="Thawte svetainė - Site Seal konfigūravimas" style="border:1px solid #ccc;float:right;margin-left: 10px;"> Kodėl negalima buvo tiesiog įdėti tos pačios nuorodos ir dešinėje? Kodėl aš turiu perskaityti man visiškai nenaudinga tekstą, ir po to mestis į visiškai kitą svetainės vietą ir dar skrolinti į viršų? Ir po to suprasti, kad <strong>aš jau esu tame puslapyje</strong> į kurį man reikia nueiti!</p>

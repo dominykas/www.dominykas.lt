@@ -1,3 +1,8 @@
+---
+published: 2009-03-11T01:58:56+00:00
+tags: myliu-opera, trumpai, it
+---
+
 # Kodėl aš myliu Operą (2)
 
 <p>Štai dar viena smulkmena. Atrodytų akivaizdus dalykas, bet kitos naršyklės kažkodėl to nedaro. Jeigu aš darau kur nors <i>copy</i>, ir po to darau <i>paste</i> adresų eilutėje, tai visai realu, kad aš greičiausiai ir noriu atidaryti tą adresą! Tiesa, visi man dabar gali aiškinti, kaip patogu mokėti ctrl+c ir ctrl+v, bet kartais taip miela paremti nusvirusią galvą kaire ranka ir naršyti tik naudojantis pele. Tokios situacijose ir prisireikia dešinio pelės klavišo bei “Paste and Go”.</p>

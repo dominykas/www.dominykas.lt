@@ -1,3 +1,8 @@
+---
+published: 2008-02-05T21:52:09+00:00
+tags: html, html5, paranoja, standartai, it-tinklo-kurimas
+---
+
 # Paranoja: HTML5
 
 <p>Vakar pagaliau prisiverčiau atidžiai perskaityti prieš kelias savaites paskelbto HTML5 juodraščio skyrių apie <a href="http://www.w3.org/html/wg/html5/diff/">skirtumus nuo HTML4</a>. Skaičiau ir norėjau verkti. Kažko pastaruoju metu <a href="https://www.dominykas.lt/2008/01/kas-kaltas.html">dažnai taip nutinka</a> skaitant ką nors apie technologijas – matyt ištižėlis pasidariau… Arba tiesiog <a href="http://www.visitmalta.com/">trūksta atostogų</a>.<br>

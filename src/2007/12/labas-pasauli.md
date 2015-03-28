@@ -1,3 +1,8 @@
+---
+published: 2007-12-07T07:31:10+00:00
+tags: it-blogosfera
+---
+
 # Labas, pasauli!
 
 <p>Žinau, kad jau turėjau blog’ą. Žinau, kad netgi dabar <i>contribute’inu</i> penkiuose ar šešiuose, kaip autorius ir dar <i>melejone</i> kaip komentatorius. Bet čia kaip naują programavimo kalbą išmokus – reikia pradėti nuo kažko.</p>

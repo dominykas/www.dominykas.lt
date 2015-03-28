@@ -1,3 +1,8 @@
+---
+published: 2009-12-09T08:15:46+00:00
+tags: purvasklaida, zaluma, ziniasklaida, realybe
+---
+
 # Kaip “Lietuvos žinios” dezinformaciją skleidė
 
 <p>Vakar Delfi pamačiau straipsnį pavadinimu “<a href="http://www.delfi.lt/news/daily/ecology/pasaulinis-atsilimas-mitas-sklaidosi.d?id=26565133">Pasaulinis atšilimas: mitas sklaidosi</a>“. Tikėjausi, kad bus pateikta rimtesnė analizė, apie tai, ką reiškia pastarųjų savaičių nutekėjusių laiškų skandalas. Ką pamačiau iš tikrųjų? Keletą žodžių apie tai ir krūvą atsitiktinių, melagingų, nepatikrintų ir juokingų “faktų”.<br>

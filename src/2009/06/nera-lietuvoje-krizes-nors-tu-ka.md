@@ -1,3 +1,8 @@
+---
+published: 2009-06-29T21:00:54+00:00
+tags: be-kategorijos
+---
+
 # Nėra Lietuvoje krizės, nors tu ką
 
 <p>Rimtai. Arba <a href="https://www.dominykas.lt/2009/06/atiduodu-50-euru-adwords.html">niekam nereik pinigų</a>, arba niekas nežino kaip juos panaudoti, arba tiesiog tingi. Be abejo, mano skaitytojų kiekis nėra kažkoks super didelis, bet vistiek, tyloka, tyloka…</p>

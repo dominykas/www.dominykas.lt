@@ -1,3 +1,8 @@
+---
+published: 2008-04-10T15:43:52+00:00
+tags: mygtukai, it-usability-it
+---
+
 # Kaip įjungti plaukų džiovintuvą?
 
 <p>Praėjusią savaitę teko praleisti lėktuvuose ir viešbučiuose – turėjau progos pastebėti daug naujų dalykų, bei turėjau nelaimės išmokti jais visais naudotis. Vienas iš jų – šis plaukų džiovintuvas:</p>

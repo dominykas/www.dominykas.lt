@@ -1,3 +1,8 @@
+---
+published: 2008-11-30T03:34:41+00:00
+tags: agile, pavyzdziai, it-usability-it
+---
+
 # Nekasdienis WTF ir agile usability
 
 <p>Arba kaip netinkamai apsimesti ekspertu… Tie kas skaito <a href="http://thedailywtf.com/">The Daily WTF</a> reguliariai, turbūt jau beveik automatiškai gali atspėti kuo baigsis eilinė pas juos paskelbta istorija. Nesunku pastebėti, kad gana didelė dalis straipsnių yra apie nekompetentingus ekspertus. Aš kiekvieną dieną turiu stengtis, kad tokiu netapčiau…</p>

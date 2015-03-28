@@ -1,3 +1,8 @@
+---
+published: 2009-01-14T23:19:47+00:00
+tags: krize, nepriimti-per-daug-rimtai, realybe
+---
+
 # Aš irgi apie krizę noriu parašyt
 
 <p><a href="http://www.tamagochi.lt/2009/01/kriziamometras/">Makro šmakro</a> ekonomika – nieko [gero] tie rodikliai nerodo. O štai tikri duomenys, remiantis kaip dažnai žmonės ieško žodžio “krizė”:</p>

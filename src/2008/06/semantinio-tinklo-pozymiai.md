@@ -1,3 +1,8 @@
+---
+published: 2008-06-03T23:57:32+00:00
+tags: semantinis-tinklas, it-tinklo-kurimas
+---
+
 # Semantinio tinklo požymiai
 
 <p>Ruošiausi trumpai pakalbėti semantinio tinklo tema šiemetiniame BLOGin’e – deja, <a href="https://www.dominykas.lt/2008/04/pizza-expo-paroda-betono-oazeje.html">teko pakeisti planus</a>. Tas pasiruošimas jau gerokai daugiau nei tris mėnesius dulka mano užrašų knygoje… Atsiprašau. Kaip ten bebūtų, čia pirmas, įžanginis įrašas apie tai. Kiek leis galimybės – po truputį skaldysiu ir skelbsiu toliau.</p>

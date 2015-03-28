@@ -1,3 +1,8 @@
+---
+published: 2008-03-14T15:37:25+00:00
+tags: vista, windows, xp, it
+---
+
 # Vista ar XP?
 
 <p>Naktim nemiegu ir griebia nervas – nusipirkau naują kompiuterį ir jis atkeliavo su Vista Ultimate. Kiek supratau, <a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9040318">turiu galimybę nemokamai pasikeisti</a> ją į Windows XP Pro. Be abejo, jau įsidiegiau Ubuntu, bet kaip dirbantis su interneto svetainėmis – privalau turėti IE kopiją (ar netgi greičiau – <a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=21EABB90-958F-4B64-B5F1-73D0A413C8EF&amp;displaylang=en">visas jų</a>), taigi galutinai į Linuxą permigruoti negaliu. Ir iš to kyla šlykšti dilema…<br>

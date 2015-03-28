@@ -1,3 +1,8 @@
+---
+published: 2008-04-02T00:12:18+00:00
+tags: las-vegas, nepriimti-per-daug-rimtai, realybe
+---
+
 # Pizza Expo paroda betono oazėje
 
 <p>Nejuokauju. Čia tikrai ne balandžio pirmosios juokas – esu Las Vegase ir lankausi <a href="http://www.pizzaexpo.com/">Pizza Expo</a> parodoje. Joey Tribiani manimi didžiuotųsi. Štai ir nuotrauka kaip įrodymas:</p>

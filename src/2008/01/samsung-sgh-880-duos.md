@@ -1,3 +1,8 @@
+---
+published: 2008-01-04T20:43:33+00:00
+tags: samsung, telefonai, usability, it-usability-it
+---
+
 # Samsung SGH-D880 DuoS
 
 <p>Iš karto po Kalėdų atkeliavo mano dovana sau pačiam – <a href="http://www.samsung.ru/products/phones/duos/sgh-d880/">pirmasis telefonas, iš padoraus gamintojo, kuris palaiko dvi SIM korteles vienu metu</a>. Tik išpakavus, be abejo užplūdo džiaugsmas (na, išleidus 500 eurų, kitaip ir negalėjo būti) ir pirmasis įspūdis buvo tikrai neblogas – didelis ekranas, patogiai besispaudžiantys mygtukai, gražios spalvos ir garsai. Čia iki tol kol nepradėjau naudotis rimtai… Įrašas apie tai, kad <strong>net labai geros <em>techninės</em> idėjos, gali būti tikru pragaru vartotojui</strong> paprastame gyvenime.<br>

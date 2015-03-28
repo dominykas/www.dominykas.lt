@@ -1,3 +1,8 @@
+---
+published: 2009-11-18T09:27:32+00:00
+tags: 106, lanva, piratavimas, vagys, it
+---
+
 # Apie “ne vagystę”
 
 <p>Gyveno kartą bomžas. Biednas buvo, neturėjo pinigų, šalo žiemą lauke.</p>

@@ -1,3 +1,8 @@
+---
+published: 2009-07-05T23:15:33+00:00
+tags: eksperimentai, html5, html5-mitai, semantinis-tinklas, standartai, it-tinklo-kurimas
+---
+
 # HTML5: naudoti negalima laukti
 
 <p>Jau kuris laikas pavydėjau Bruce Lawson, kad jis paėmė ir <a href="http://www.brucelawson.co.uk/2009/redesigning-with-html-5-wai-aria/">sužymėjo savo blog’ą HTML5</a>. Kentėjau, tingėjau ir atidėliojau, kol va pagaliau šį savaitgalį paėmiau ir pasidariau tai pats. Tiesa, ne iki galo ir ne visai taip kaip norėjau, bet hell – HTML5 <del>galima</del> privaloma, bent dalinai, naudoti jau šiandien.</p>

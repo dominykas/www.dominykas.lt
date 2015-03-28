@@ -1,3 +1,8 @@
+---
+published: 2008-08-28T22:24:01+00:00
+tags: aspnet, microsoft, visual-studio, it
+---
+
 # Labiausiai niekam tikęs Visual Studio fyturas
 
 <p>Kad ir kaip aš nemėgčiau tam tikros įmonės, už tai, kad ji griauna Tinklą, turiu pripažinti, kad kai kuriuos dalykus jie sugeba padaryti visai neblogai. Visual Studio 2008 yra beveik neblogas įrankis kai jį prisijaukini (nors man dar iki to toli). Tik va, be abejo, jis nelabai tinka tinklo kūrimui… Ir tai kas parašyta toliau – tik viena iš smulkmenų.<br>

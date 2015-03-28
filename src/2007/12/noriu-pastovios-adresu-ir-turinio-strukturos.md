@@ -1,3 +1,8 @@
+---
+published: 2007-12-10T23:34:36+00:00
+tags: blogo-pradzia, duplicate-content, geekiska-filosofija, seo, url, it-tinklo-kurimas
+---
+
 # Noriu pastovios adresų ir turinio struktūros
 
 <p><a href="https://www.dominykas.lt/2007/12/noriu-padorios-adresu-strukturos.html">Praėjusiame įraše</a> privėliau filosofijos apie URL prasmę iš web skaitytojo pozicijos. Senamadiško, techniško ir <i>well</i>… geekiško web skaitytojo pozicijos – iš esmės tai, ko aš tikiuosi iš adresų, kuriuos “sukuria” kiti. Šiame įraše dar keletas pastabų, kurių nedera pamiršti tinklapio administratoriui.<br>

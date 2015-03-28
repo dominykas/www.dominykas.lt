@@ -1,3 +1,8 @@
+---
+published: 2008-11-17T23:59:53+00:00
+tags: ateitis, idejos, semantinis-tinklas, it-filosofija
+---
+
 # Kontrolės inversija socialiniame semantiniame tinkle
 
 <p>Ilgas laikas nėra rašymas. Statistika: pradėjau šį įrašą prieš gerus keturis mėnesius (ša, žinau, kad kitą pradėjau prieš beveik metus), todėl gavosi kiek per ilgas… Pradžia – ganėtinai techniška ir apie programavimą, bet pats įrašas iš tikro tėra apie idėją ir svajonę. <strong>Kodėl įvairiose svetainėse turiu registruotis aš, o ne svetainės registruojasi pas mane?</strong> <em>Neaušink burnos, man neįdomu – <a href="/2008/11/kontroles-inversija-socialiniame-semantiniame-tinkle.html#20081117-santrauka">duok santrauką</a>.</em></p>

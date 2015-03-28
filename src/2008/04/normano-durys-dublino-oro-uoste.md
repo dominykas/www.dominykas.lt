@@ -1,3 +1,8 @@
+---
+published: 2008-04-08T15:00:54+00:00
+tags: don-norman, everyday-things, it-usability-it
+---
+
 # Normano durys Dublino oro uoste
 
 <p>Pirmas sakinys Donaldo Normano knygoje “<a href="http://www.jnd.org/books.html#426">The Design of Everyday Things</a>” (2002 metų leidimo įžangoje) sako kažką apie surastas “Normano duris”. Be abejo, dar neperskaičius knygos man tas sakinys sukėlė WTF (tikrai ne KPŠ) reakciją. Deja, turiu pripažinti, kad Normano durų pasaulyje tikrai yra per daug…</p>

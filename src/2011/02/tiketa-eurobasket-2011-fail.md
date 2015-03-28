@@ -1,3 +1,8 @@
+---
+published: 2011-02-07T23:25:24+00:00
+tags: fail, it-usability-it
+---
+
 # Tiketa Eurobasket 2011 #fail
 
 <p>Kadangi žinojau, kad Tiketos registracijos patvirtinimui reikia siųsti žinutę lietuvišku trumpuoju numeriu, tai nusprendžiau patikrinti kas bus jeigu a) naudosiuos angliška interneto svetaine, b) registruosiuos su airišku telefono numeriu. Tai dabar, mieli draugai, jūs man paaiškinkit, kokiu formatu man įvesti savo gimimo datą? Ir kaip man užsiregistruoti, jeigu gyvenu Dubline?</p>
